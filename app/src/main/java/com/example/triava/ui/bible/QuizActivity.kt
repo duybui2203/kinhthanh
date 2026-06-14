@@ -36,6 +36,7 @@ class QuizActivity : AppCompatActivity() {
     private var bookId: Int = 1
     private var bookNameVi: String = ""
     private var categoryName: String = "OT"
+    private var chapterNum: Int = -1
     private var alreadyDoneToday: Boolean = false
     
     private var questions: List<Question> = emptyList()
@@ -52,11 +53,14 @@ class QuizActivity : AppCompatActivity() {
         // Extract Intent Parameters
         quizMode = intent.getStringExtra("QUIZ_MODE") ?: "BOOK"
         alreadyDoneToday = intent.getBooleanExtra("ALREADY_DONE_TODAY", false)
+        bookId = intent.getIntExtra("BOOK_ID", 1)
+        bookNameVi = intent.getStringExtra("BOOK_NAME_VI") ?: ""
+        chapterNum = intent.getIntExtra("CHAPTER", -1)
         
         setupQuizMode()
 
         if (questions.isEmpty()) {
-            Toast.makeText(this, "Không có câu hỏi nào cho phần chơi này!", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Không tìm thấy bộ câu hỏi cho phần này!", Toast.LENGTH_LONG).show()
             finish()
             return
         }
@@ -112,10 +116,16 @@ class QuizActivity : AppCompatActivity() {
                 categoryName = intent.getStringExtra("CATEGORY_NAME") ?: "OT"
                 questions = QuizRepository.getQuestionsByCategory(this, categoryName, 10)
             }
-            else -> { // BOOK
-                bookId = intent.getIntExtra("BOOK_ID", 1)
-                bookNameVi = intent.getStringExtra("BOOK_NAME_VI") ?: ""
-                questions = QuizRepository.getQuestionsForBook(this, bookId)
+            else -> { // BOOK or CHAPTER
+                if (chapterNum != -1) {
+                    questions = QuizRepository.getQuestionsForChapter(this, bookId, chapterNum)
+                    // Fallback to full book quiz if chapter specific questions aren't available
+                    if (questions.isEmpty()) {
+                        questions = QuizRepository.getQuestionsForBook(this, bookId)
+                    }
+                } else {
+                    questions = QuizRepository.getQuestionsForBook(this, bookId)
+                }
             }
         }
     }
@@ -125,7 +135,13 @@ class QuizActivity : AppCompatActivity() {
             "DAILY" -> tvQuizTitle.text = "Thử Thách Hàng Ngày"
             "QUICK" -> tvQuizTitle.text = "Chơi Nhanh"
             "CATEGORY" -> tvQuizTitle.text = if (categoryName == "OT") "Luyện Tập: Cựu Ước" else "Luyện Tập: Tân Ước"
-            else -> tvQuizTitle.text = "Bài đọc: $bookNameVi"
+            else -> {
+                if (chapterNum != -1) {
+                    tvQuizTitle.text = "$bookNameVi - Chương $chapterNum"
+                } else {
+                    tvQuizTitle.text = "Bài đọc: $bookNameVi"
+                }
+            }
         }
     }
 
@@ -198,7 +214,6 @@ class QuizActivity : AppCompatActivity() {
                             levelUp = false
                         )
                     } else {
-                        // Reward: 20 coins, 100 XP, and increase/preserve streak
                         handleDailyStreak()
                         dbHelper.addCoins(20)
                         val levelUp = dbHelper.addXp(100)
@@ -216,7 +231,6 @@ class QuizActivity : AppCompatActivity() {
                 }
             }
             "QUICK", "CATEGORY" -> {
-                // Earn 2 coins and 10 XP per correct answer
                 val coinsEarned = score * 2
                 val xpEarned = score * 10
                 
@@ -231,33 +245,59 @@ class QuizActivity : AppCompatActivity() {
                     levelUp = levelUp
                 )
             }
-            else -> { // BOOK
+            else -> { // BOOK or CHAPTER
                 val passed = score >= 7 // 70% to pass
                 if (passed) {
-                    val totalChapters = dbHelper.getChaptersCount(bookId)
-                    val rewardAmount = totalChapters * 10
-                    val claimed = dbHelper.markChapterCompletedAndClaimReward(bookId, 9999, rewardAmount)
-                    
-                    if (claimed) {
-                        val levelUp = dbHelper.addXp(100)
-                        showCustomVictoryDialog(
-                            title = "Hoàn thành sách! 🎉",
-                            message = "Bạn đã trả lời đúng $score/$totalQuestions câu.\nChúc mừng bạn đã chinh phục trọn vẹn sách $bookNameVi!",
-                            coins = rewardAmount,
-                            xp = 100,
-                            levelUp = levelUp
-                        )
+                    if (chapterNum != -1) {
+                        // Mark chapter as completed and get rewards
+                        val claimed = dbHelper.markChapterCompletedAndClaimReward(bookId, chapterNum, 10)
+                        val levelUp = dbHelper.addXp(50)
+                        
+                        if (claimed) {
+                            showCustomVictoryDialog(
+                                title = "Vượt qua chương! 🎉",
+                                message = "Bạn đã trả lời đúng $score/$totalQuestions câu.\nChúc mừng bạn đã hoàn thành Chương $chapterNum của sách $bookNameVi!",
+                                coins = 10,
+                                xp = 50,
+                                levelUp = levelUp
+                            )
+                        } else {
+                            showCustomVictoryDialog(
+                                title = "Hoàn thành ôn tập! 📖",
+                                message = "Bạn đã trả lời đúng $score/$totalQuestions câu.\n(Chương này đã hoàn thành trước đó rồi.)",
+                                coins = 0,
+                                xp = 50,
+                                levelUp = levelUp
+                            )
+                        }
                     } else {
-                        showCustomVictoryDialog(
-                            title = "Hoàn thành sách! 📖",
-                            message = "Bạn đã trả lời đúng $score/$totalQuestions câu.\n(Sách này đã được hoàn thành trước đó rồi.)",
-                            coins = 0,
-                            xp = 0,
-                            levelUp = false
-                        )
+                        // Book quiz
+                        val totalChapters = dbHelper.getChaptersCount(bookId)
+                        val rewardAmount = totalChapters * 10
+                        val claimed = dbHelper.markChapterCompletedAndClaimReward(bookId, 9999, rewardAmount)
+                        
+                        if (claimed) {
+                            val levelUp = dbHelper.addXp(100)
+                            showCustomVictoryDialog(
+                                title = "Hoàn thành sách! 🎉",
+                                message = "Bạn đã trả lời đúng $score/$totalQuestions câu.\nChúc mừng bạn đã chinh phục trọn vẹn sách $bookNameVi!",
+                                coins = rewardAmount,
+                                xp = 100,
+                                levelUp = levelUp
+                            )
+                        } else {
+                            showCustomVictoryDialog(
+                                title = "Hoàn thành sách! 📖",
+                                message = "Bạn đã trả lời đúng $score/$totalQuestions câu.\n(Sách này đã được hoàn thành trước đó rồi.)",
+                                coins = 0,
+                                xp = 0,
+                                levelUp = false
+                            )
+                        }
                     }
                 } else {
-                    showFailureDialog("Bạn trả lời đúng $score/$totalQuestions câu. Cần đúng từ 7 câu trở lên để hoàn thành sách. Hãy đọc lại kỹ và thử sức lại nhé!")
+                    val detailMsg = if (chapterNum != -1) "chương $chapterNum" else "sách $bookNameVi"
+                    showFailureDialog("Bạn trả lời đúng $score/$totalQuestions câu. Cần đúng từ 7 câu trở lên để vượt qua bài kiểm tra $detailMsg. Hãy đọc lại kỹ và thử sức lại nhé!")
                 }
             }
         }
@@ -286,7 +326,6 @@ class QuizActivity : AppCompatActivity() {
                 } else if (diff > 1) {
                     newStreak = 1
                 }
-                // if diff == 0, keep same streak
             } else {
                 val diffYears = calToday.get(Calendar.YEAR) - calLast.get(Calendar.YEAR)
                 if (diffYears == 1 && lastDayOfYear >= 365 && todayDayOfYear == 1) {
@@ -340,7 +379,6 @@ class QuizActivity : AppCompatActivity() {
             layoutXp.visibility = View.GONE
         }
         
-        // Adjust layout margins if only one is shown
         if (coins > 0 && xp <= 0) {
             val params = layoutCoins.layoutParams as android.widget.LinearLayout.LayoutParams
             params.marginEnd = 0

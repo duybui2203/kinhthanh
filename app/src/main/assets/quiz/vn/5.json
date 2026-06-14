@@ -1,0 +1,3576 @@
+{
+  "bookId": 5,
+  "bookName": "Đệ nhị luật",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Bối cảnh địa lý khi ông Mô-sê giảng giải lề luật trong sách Đệ nhị luật là ở đâu?",
+          "options": [
+            "Tại thảo nguyên Mô-áp, bên kia sông Gio-đan",
+            "Dưới chân núi Xi-nai",
+            "Trong Nơi Cực Thánh đền tạm",
+            "Tại hoàng cung nước Ê-đôm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê nhắc lại hành trình từ Hô-rép đến Ca-đê-ba-nê-a thông thường mất bao nhiêu ngày đường?",
+          "options": [
+            "Mười một ngày đường (11 ngày đường)",
+            "Bốn mươi ngày",
+            "Bảy ngày",
+            "Ba mươi ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người được Mô-sê nhắc lại đã đồng hành đi do thám và tin tưởng Chúa được phép vào đất hứa?",
+          "options": [
+            "Ông Ca-lếp con ông Giơ-phun-nê và ông Giô-suê con ông Nun Nun",
+            "Chính ông Mô-sê và A-hác-rôn",
+            "Tư tế Ê-la-da và I-tha-ma",
+            "Mười thám tử báo cáo tiêu cực"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy tắc phán xét Mô-sê dặn các phán quan khi giải quyết tranh chấp dân chúng là gì?",
+          "options": [
+            "Không được thiên vị kẻ lớn người nhỏ, phải nghe người hèn yếu cũng như người quyền thế, vì phán xét thuộc về Thiên Chúa",
+            "Luôn ưu tiên phán quyết lợi ích cho tư tế Lê-vi",
+            "Chỉ giải quyết đơn kiện của người giàu",
+            "Phạt tiền nặng làm quỹ đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vụ tranh chấp quá khó khăn các phán quan không tự giải quyết được phải trình lên cho ai?",
+          "options": [
+            "Phải trình lên cho ông Mô-sê trực tiếp giải quyết giải quyết",
+            "Dùng thẻ thăm U-rim bốc thăm quyết định",
+            "Trình lên cho tư tế thượng tế Ê-la-da",
+            "Bỏ qua không xét xử nữa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa phán thế nào về thế hệ lầm bầm oán trách khi nghe báo cáo của thám tử?",
+          "options": [
+            "Không một ai thuộc thế hệ gian ác này được thấy miền đất tốt đẹp Ta đã thề ban cho tổ phụ",
+            "Họ sẽ được vào đất hứa nếu chịu ăn chay 40 ngày",
+            "Họ bị phạt làm nô dịch cho dân bản địa Ca-na-an",
+            "Họ phải tự cạo trọc đầu chịu tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi dân thất bại cố tình tiến lên núi chiến đấu trái lệnh Chúa bị đánh bại là gì?",
+          "options": [
+            "Khọc-ma (Hormah) bị dân A-mô-ri đuổi đánh như ong đuổi",
+            "Ca-đê-ba-nê-a",
+            "Táp-bê-ra",
+            "Mồ kẻ thèm thuồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en phải ở lại Ca-đê trong hoang địa Xin thời gian bao lâu sau vụ nổi loạn?",
+          "options": [
+            "Một thời gian dài (nhiều ngày tháng dân đóng trại chờ đợi chờ đợi)",
+            "Chỉ ba ngày",
+            "Mười ngày",
+            "Bốn mươi năm trọn vẹn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người được Chúa chỉ định nâng đỡ tinh thần và kế vị Mô-sê dẫn dân chiếm đất hứa?",
+          "options": [
+            "Ông Giô-suê con ông Nun Nun",
+            "Quan tướng Ca-lếp",
+            "Thầy tư tế Phi-nê-ha",
+            "Con trai cả của Mô-sê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê nhắc lại việc ông bổ nhiệm các đầu mục phán quan chia sẻ gánh nặng lãnh đạo dựa trên đức tính gì?",
+          "options": [
+            "Những người khôn ngoan, thông thái và có tiếng tăm tiếng tăm trong các chi tộc",
+            "Những người giàu có súc vật",
+            "Những chiến binh dũng cảm nhất",
+            "Họ hàng thân thuộc của Mô-sê"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Chúa cấm dân Ít-ra-en gây chiến chiếm đoạt đất đai của con cháu Ê-sau (Ê-đôm) cư ngụ tại Sê-i-rơ vì lý do gì?",
+          "options": [
+            "Vì Chúa đã ban núi Sê-i-rơ cho Ê-sau làm sản nghiệp vĩnh viễn vĩnh viễn",
+            "Vì quân đội Ê-đôm quá mạnh họ không đánh nổi",
+            "Vì Ê-sau là đồng minh của Ai Cập",
+            "Vì vùng núi đó không có nguồn nước ngọt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en phải mua thực phẩm và nước uống từ con cháu Ê-sau bằng thứ gì dọc đường?",
+          "options": [
+            "Phải trả bằng tiền bạc (silver)",
+            "Đổi bằng súc vật cừu dê",
+            "Đổi bằng man-na thu lượm",
+            "Đổi bằng trang sức vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quốc gia thứ hai Chúa cấm Ít-ra-en khiêu chiến và chiếm đất là Mô-áp vì đất đó ban cho ai?",
+          "options": [
+            "Ban cho con cháu ông Lót (Lot) làm sản nghiệp (đất A-rơ)",
+            "Ban cho dân Ê-đôm",
+            "Ban cho dân ngoại bang Phi-li-tinh",
+            "Chúa muốn dành riêng đất đó làm sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời gian dân đi từ Ca-đê-ba-nê-a vượt qua thung lũng Dê-rét để thế hệ cũ chết sạch là bao lâu?",
+          "options": [
+            "Ba mươi tám năm (38 năm lang thang phạt)",
+            "Bốn mươi năm",
+            "Hai mươi lăm năm",
+            "Mười ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quốc gia thứ ba Chúa cấm Ít-ra-en gây hấn đánh chiếm là Am-môn vì đất đó ban cho ai?",
+          "options": [
+            "Ban cho con cháu ông Lót (Lot) làm sản nghiệp",
+            "Ban cho dân Ma-đi-an",
+            "Ban cho người Ai Cập lánh nạn",
+            "Ban cho các bộ tộc khổng lồ dòng Rơ-pha-im"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua xứ Hét-bôn bị Chúa trao vào tay Ít-ra-en tiêu diệt mở màn chiến thắng phía đông Gio-đan tên là gì?",
+          "options": [
+            "Vua Xi-hôn (Sihon vương quốc A-mô-ri)",
+            "Vua Ốc",
+            "Vua Ba-lác Mô-áp",
+            "Vua A-rát Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự trừng phạt đối với thành trì của vua Xi-hôn khi Ít-ra-en chiến thắng là gì?",
+          "options": [
+            "Hiến tế tiêu diệt hoàn toàn thành trì, nam phụ lão ấu, chỉ giữ lại gia súc làm chiến lợi phẩm",
+            "Chỉ tịch thu tài sản vàng bạc tha mạng người",
+            "Bắt toàn bộ dân chúng làm nô lệ",
+            "Cho phép họ đầu hàng nộp thuế hàng năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân khổng lồ cổ đại từng ngụ ở đất Mô-áp được gọi là dân gì?",
+          "options": [
+            "Dân Ê-mim (Emim cao lớn như người dòng A-nác)",
+            "Dân Ca-nê",
+            "Dân Ma-đi-an",
+            "Dân Phi-li-tinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dòng sông ranh giới phân chia biên giới phía đông sông Gio-đan nơi dân vượt qua tên là gì?",
+          "options": [
+            "Thung lũng sông A-nôn (Arnon)",
+            "Sông Nin Ai Cập",
+            "Sông Ki-sôn",
+            "Sông Giáp-bốc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa làm gì đối với tâm lòng của vua Xi-hôn nước Hét-bôn khiến ông từ chối cho Ít-ra-en đi qua?",
+          "options": [
+            "Chúa làm cho tâm trí ông ra cứng cỏi, lòng ông ra chai đá để trao ông vào tay Ít-ra-en",
+            "Ông lo sợ bị cướp phá đền thờ thần Ba-al",
+            "Ông liên minh quân sự với vua Ê-đôm chống lại",
+            "Ông bị các tiên tri giả lừa gạt"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Vua xứ Ba-san khổng lồ bị Ít-ra-en đánh bại tại trận Ê-đơ-rê-i tên là gì?",
+          "options": [
+            "Vua Ốc (Og vương quốc Ba-san phía bắc)",
+            "Vua Xi-hôn",
+            "Vua Ba-lác Mô-áp",
+            "Vua A-vi-me-léc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Ốc là người sống sót cuối cùng của bộ tộc khổng lồ nào?",
+          "options": [
+            "Bộ tộc Rơ-pha-im (Rephaim người khổng lồ cổ)",
+            "Dòng dõi người A-nác",
+            "Dân A-ma-lếch",
+            "Dân Phi-li-tinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kích thước chiếc giường bằng sắt của vua Ốc được ghi lại dài và rộng bao nhiêu thước?",
+          "options": [
+            "Dài chín thước và rộng bốn thước (theo thước đo thông thường)",
+            "Dài năm thước rộng hai thước",
+            "Dài mười hai thước rộng sáu thước",
+            "Dài sáu thước rộng ba thước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khu vực sầm uất gồm 60 thành trì kiên cố có tường bao quanh chiếm được ở Ba-san tên là gì?",
+          "options": [
+            "Vùng Ạc-gốp (Argob vương quốc vua Ốc)",
+            "Vùng Ga-la-át",
+            "Thảo nguyên Mô-áp",
+            "Thung lũng Ê-sơ-côn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba chi tộc nhận phần đất sản nghiệp phía đông sông Gio-đan là ai?",
+          "options": [
+            "Chi tộc Ru-bên, Gát và nửa chi tộc Man-na-se",
+            "Chi tộc Giu-đa, Bên-gia-min và chi tộc Lê-vi",
+            "Chi tộc Ép-ra-im, Man-na-se và Si-môn",
+            "Chi tộc Đan, A-sê và Náp-ta-li"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê ra điều kiện gì bắt buộc đối với chiến binh hai chi tộc rưỡi khi nhận đất trước?",
+          "options": [
+            "Họ phải mang vũ khí đi tiên phong vượt sông chiến đấu giải phóng Ca-na-an cùng anh em cho đến cùng",
+            "Họ phải nộp toàn bộ chiến lợi phẩm vàng bạc cho đền tạm",
+            "Họ phải xây dựng đền tạm mới tại đông Gio-đan",
+            "Họ phải đóng thuế thập phân nông sản gấp đôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên mạnh mẽ Mô-sê dặn Giô-suê trước trận chiến đất hứa là gì?",
+          "options": [
+            "Đừng sợ hãi chúng, vì chính ĐỨC CHÚA, Thiên Chúa của các anh, chiến đấu cho các anh",
+            "Hãy chế tạo nhiều chiến xa sắt giống Ai Cập",
+            "Hãy tuyển chọn những chiến binh to khỏe dòng dõi khổng lồ",
+            "Hãy học hỏi chiến thuật quân sự của vua Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê cầu xin Chúa điều gì cho riêng cá nhân ông ở cuối chương 3?",
+          "options": [
+            "Xin Chúa cho con được vượt sông Gio-đan nhìn thấy miền đất tốt tươi bên kia sông",
+            "Xin Chúa cho con sống thêm mười năm nữa",
+            "Xin Chúa cho con trai con được kế vị làm tư tế thượng tế",
+            "Xin Chúa cho chôn cất thi hài con tại Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu trả lời dứt khoát của Chúa đối với lời cầu xin vượt sông của Mô-sê là gì?",
+          "options": [
+            "Đủ rồi! Đừng nói với Ta về việc này nữa. Hãy lên đỉnh núi nhìn đất rồi chuyển quyền cho Giô-suê",
+            "Chúa chấp nhận cho ông vượt sông nhìn rồi về chết",
+            "Chúa cho phép ông hóa trang vượt sông bí mật",
+            "Chúa phạt ông chết ngay lập tức tại chỗ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngọn núi cao phía đông Gio-đan nơi Mô-sê lên quan sát đất hứa tên là gì?",
+          "options": [
+            "Đỉnh Phi-xơ-gah (núi Nê-bô / A-va-rim)",
+            "Núi Xi-nai",
+            "Núi Ho",
+            "Núi Mô-ri-gia"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Lời dặn dò đầu tiên của Mô-sê về việc bảo vệ tính toàn vẹn của lề luật Chúa truyền là gì?",
+          "options": [
+            "Đừng thêm gì vào lời Ta truyền cho các ngươi, cũng đừng bớt gì cả",
+            "Được phép sửa đổi luật cho phù hợp đời sống mới Ca-na-an",
+            "Chỉ tư tế mới có quyền thêm bớt luật",
+            "Hãy viết thêm các luật lệ ngoại bang vào"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh lịch sử nào Mô-sê nhắc lại nơi Chúa tiêu diệt những kẻ thờ tà thần Ba-al để cảnh tỉnh dân?",
+          "options": [
+            "Ba-al-Phê-o (Baal-peor tội dâm dịch phạt 24.000 người chết)",
+            "Táp-bê-ra",
+            "Kib-rốt Hát-ta-a-vah",
+            "Khọc-ma thất bại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Chúa phán dạy từ ngọn lửa bùng cháy tại Hô-rép mà dân không nhìn thấy hình dạng nào là gì?",
+          "options": [
+            "Để dân không tự đúc tượng ngẫu tượng hình dạng con người hay thú vật làm ô uế mình",
+            "Vì Chúa không có quyền lực hiển hiện hình dạng",
+            "Vì ngọn lửa quá nóng che khuất tầm nhìn",
+            "Để tư tế tự vẽ hình ảnh Chúa tùy ý"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu dân phạm tội thờ ngẫu tượng đúc hình tượng ở đất hứa, Chúa cảnh báo hình phạt gì?",
+          "options": [
+            "Dân sẽ bị tiêu diệt nhanh chóng, bị phân tán lưu đày giữa các dân tộc ngoại bang",
+            "Chúa sẽ lấy lại man-na không cho ăn nữa",
+            "Đất đai sẽ bị sạt lở nuốt chửng nhà cửa",
+            "Tất cả con đầu lòng sẽ bị phạt chết dịch bệnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu dân ăn năn thống hối tìm kiếm Chúa hết lòng ở đất khách lưu đày, Người sẽ đối xử thế nào?",
+          "options": [
+            "Người không bỏ rơi, không tiêu diệt và nhớ lại Giao ước Người đã thề với tổ phụ",
+            "Người đòi họ phải nộp phạt tiền vàng chuộc tội",
+            "Họ phải chịu làm nô lệ vĩnh viễn không được về quê",
+            "Chúa bắt họ xây lại Đền Tạm khổng lồ mới tha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Có thế lực thần linh nào trong lịch sử làm được phép lạ đưa cả một dân tộc ra khỏi ách nô lệ như ĐỨC CHÚA không?",
+          "options": [
+            "Không có thần nào làm được việc vĩ đại oai hùng oai nghiêm như ĐỨC CHÚA làm cho Ít-ra-en",
+            "Các thần Ai Cập cũng làm được phép lạ tương tự",
+            "Thần Ba-al của Ca-na-an mạnh mẽ ngang ngửa",
+            "Các pháp sư ngoại giáo có phép thuật lớn tương đương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê chỉ định bao nhiêu thành phố ẩn nấp ở phía đông sông Gio-đan cho hai chi tộc rưỡi?",
+          "options": [
+            "Ba thành phố ẩn nấp ẩn nấp (Bê-xe, Ra-mốt và Gô-lan)",
+            "Sáu thành",
+            "Mười hai thành",
+            "Bốn mươi tám thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành ẩn nấp Bê-xe ở vùng cao nguyên thuộc về chi tộc nào?",
+          "options": [
+            "Chi tộc Ru-bên (Reuben)",
+            "Chi tộc Gát",
+            "Chi tộc Man-na-se",
+            "Chi tộc Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành ẩn nấp Ra-mốt ở xứ Ga-la-át thuộc về chi tộc nào?",
+          "options": [
+            "Chi tộc Gát (Gad)",
+            "Chi tộc Ru-bên",
+            "Chi tộc Man-na-se",
+            "Chi tộc Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành ẩn nấp Gô-lan ở xứ Ba-san thuộc về chi tộc nào?",
+          "options": [
+            "Chi tộc Man-na-se (Manasseh)",
+            "Chi tộc Ru-bên",
+            "Chi tộc Gát",
+            "Chi tộc Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Giao ước Hô-rép (Xi-nai) được thiết lập với đối tượng nào chính yếu theo lời Mô-sê giải thích?",
+          "options": [
+            "Không chỉ với tổ phụ đã chết, mà với chính chúng ta đang sống ở đây hôm nay",
+            "Chỉ với thế hệ cũ đã qua đời trong hoang địa",
+            "Chỉ với Mô-sê và A-hác-rôn tư tế",
+            "Chỉ dành riêng cho thế hệ tương lai vào đất hứa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Điều răn thứ nhất trong Mười Điều Răn khẳng định điều gì về chủ quyền Thiên Chúa?",
+          "options": [
+            "Ngươi không được có thần nào khác đối nghịch trước nhan Ta",
+            "Ngươi được phép thờ thêm thần phụ nếu tôn trọng Chúa",
+            "Chỉ thờ Chúa vào ngày sa-bát thánh",
+            "Chúa thích hình ảnh tượng đúc bò vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Điều răn thứ hai nghiêm cấm hành vi tôn giáo nào?",
+          "options": [
+            "Không được đúc tượng thờ lạy bất kỳ vật gì trên trời, dưới đất hay dưới nước",
+            "Không được ăn thịt súc vật ô uế",
+            "Cấm không được dâng hiến tế súc vật tật nguyền",
+            "Cấm không được mặc y phục pha trộn sợi lanh len"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Điều răn về ngày Sa-bát yêu cầu dân phải làm gì đối với nô lệ và súc vật?",
+          "options": [
+            "Cho phép tôi tớ nam nữ và súc vật được nghỉ ngơi hoàn toàn giống như chính ngươi ngươi",
+            "Chỉ bắt nô lệ làm việc nhẹ nhàng ngày sa-bát",
+            "Nô lệ ngoại bang vẫn phải làm việc cày ruộng",
+            "Chỉ tư tế mới được phép nghỉ việc ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Điều răn thứ năm hứa hẹn phần thưởng gì cho người hiếu kính cha mẹ?",
+          "options": [
+            "Được sống lâu và hạnh phúc tốt đẹp trên miền đất Chúa ban ban",
+            "Được ban thưởng nhiều vàng bạc súc vật",
+            "Được miễn thuế đền tạm vĩnh viễn",
+            "Được phong làm thủ lĩnh chi tộc tương lai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mười Điều Răn được Chúa trực tiếp viết lên vật liệu gì trao cho Mô-sê?",
+          "options": [
+            "Hai bia đá (tablets of stone) khắc luật",
+            "Một cuộn sách bằng giấy da cừu",
+            "Một tấm bảng đồng lớn",
+            "Viết trực tiếp lên nắp xá tội Hòm Bia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao dân chúng kinh hãi van xin Mô-sê làm trung gian nghe lời Chúa nói thay cho họ?",
+          "options": [
+            "Vì tiếng nói oai hùng của Chúa phát ra từ ngọn lửa bùng cháy trên núi làm họ sợ chết chết",
+            "Vì họ không hiểu ngôn ngữ tiếng Chúa phán",
+            "Vì họ phạm tội đúc bò vàng lo sợ Chúa phạt chết",
+            "Vì tư tế A-hác-rôn bảo họ làm vậy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa đánh giá thế nào về lời đề nghị làm trung gian của dân chúng?",
+          "options": [
+            "Họ nói yêu cầu chính đáng; ước gì lòng họ luôn kính sợ Ta và giữ các điều răn để được phúc",
+            "Chúa nổi giận phạt họ tội hèn nhát thiếu tin tưởng",
+            "Chúa bắt buộc họ phải tự lên núi nghe luật trực tiếp",
+            "Chúa rút lại giao ước không ban luật nữa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Điều răn thứ mười cấm lòng ham muốn bất chính đối với tài sản nào của láng giềng?",
+          "options": [
+            "Cấm ham muốn vợ người láng giềng, nhà cửa, ruộng đất, tôi tớ, súc vật hay bất cứ vật gì của họ",
+            "Chỉ cấm ham muốn vàng bạc của họ",
+            "Được phép mua lại ruộng đất nếu họ nghèo khổ túng thiếu",
+            "Chỉ cấm ham muốn tài sản vào ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học cốt lõi của Mười Điều Răn là gì?",
+          "options": [
+            "Thiết lập hiến pháp đạo đức căn bản hướng dẫn mối tương quan kính Chúa yêu người của dân giao ước",
+            "Để thể hiện quyền lực cai trị độc tài của Chúa",
+            "Làm quy tắc giao dịch thương mại hoang địa",
+            "Để phân biệt giai cấp tư tế và thường dân"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Kinh nguyện tuyên xưng đức tin cốt lõi nổi tiếng nhất của Do Thái giáo ở câu 4 tên là gì?",
+          "options": [
+            "Kinh Shơ-ma (Shema Yisrael hỡi Ít-ra-en hãy nghe đây)",
+            "Kinh Mười Điều Răn",
+            "Kinh chúc lành tư tế",
+            "Kinh Vượt Qua tạ ơn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nội dung tuyên xưng đức tin Shơ-ma khẳng định Thiên Chúa thế nào?",
+          "options": [
+            "ĐỨC CHÚA, Thiên Chúa chúng ta, là ĐỨC CHÚA duy nhất",
+            "Đức Chúa ngự trị trên đỉnh núi bốc lửa",
+            "Đức Chúa thích hiến tế súc vật bò tơ",
+            "Đức Chúa là Đấng nghiêm khắc công bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời răn dạy vĩ đại yêu cầu yêu mến Chúa thế nào ở câu 5 là gì?",
+          "options": [
+            "Ngươi phải yêu mến ĐỨC CHÚA, Thiên Chúa của ngươi, hết lòng, hết linh hồn, hết sức lực ngươi",
+            "Phải dâng hiến toàn bộ tài sản vàng bạc cho đền tạm",
+            "Phải dâng hiến súc vật đầu lòng hàng tuần",
+            "Phải vâng lời các bô lão phán quan vô điều kiện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa dặn dân phải ghi nhớ lề luật bằng cách dạy dỗ đối tượng nào hàng ngày?",
+          "options": [
+            "Lặp lại dạy dỗ lề luật cho con cái của ngươi trong nhà, khi đi dọc đường, khi nằm ngủ, thức dậy",
+            "Dạy dỗ cho người ngoại kiều làm thuê",
+            "Chỉ dạy dỗ cho người Lê-vi phục vụ",
+            "Bắt các chiến binh phải học thuộc lòng luật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Do Thái thực hành viết lề luật dán lên khung cửa nhà và cổng thành gọi là gì?",
+          "options": [
+            "Hộp Mezuzah (kinh thư khung cửa)",
+            "Hộp Tefillin đeo trán tay",
+            "Tua áo chỉ xanh",
+            "Bia đá mini"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cảnh báo tránh quên Chúa khi dân đã bước vào Ca-na-an hưởng thụ những gì?",
+          "options": [
+            "Khi ăn no nê, ở nhà tốt đẹp, dùng giếng nước không tự đào và ruộng vườn không tự trồng trồng",
+            "Khi chiến thắng quân thù Mô-áp",
+            "Khi thu thập được nhiều vàng bạc Ai Cập",
+            "Khi tư tế Lê-vi dâng lễ tế chuộc tội thành công"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lệnh Chúa cấm thử thách Chúa được Chúa Giê-su trích dẫn khi chống lại quỷ cám dỗ là gì?",
+          "options": [
+            "Ngươi đừng thử thách ĐỨC CHÚA, Thiên Chúa của ngươi, như đã thử thách tại Mát-xa",
+            "Ngươi phải thờ phượng một mình Ta",
+            "Ngươi cấm không được ăn bánh mì men ngọt",
+            "Ngươi hãy đi chinh phục Ca-na-an ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi con cái hỏi ý nghĩa các chứng từ lề luật Chúa truyền dạy, cha mẹ phải trả lời thế nào?",
+          "options": [
+            "Chúng ta xưa làm nô lệ cho Pha-ra-ôn bên Ai Cập, Chúa đã làm phép lạ đưa chúng ta ra cứu sống chúng ta",
+            "Đây là luật Mô-sê tự nghĩ ra bắt giữ",
+            "Để chúng ta được giàu có hơn người ngoại bang",
+            "Để tránh bị phạt chết dịch bệnh sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Việc giữ các điều răn Chúa truyền mang lại lợi ích gì cho dân giao ước?",
+          "options": [
+            "Để chúng ta được hạnh phúc lâu dài và được sống như ngày hôm nay hôm nay",
+            "Để trở thành dân tộc đi xâm chiếm thế giới",
+            "Để tư tế Lê-vi có việc làm ổn định",
+            "Không có lợi ích gì chỉ là bổn phận bắt buộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phương pháp ghi nhớ đeo kinh thư trên tay và trán của người Do Thái gọi là gì?",
+          "options": [
+            "Hộp Tefillin (Phylacteries kinh hộp đeo tay trán)",
+            "Hộp Mezuzah cửa",
+            "Tua áo góc áo",
+            "Mũ triều thiên tư tế"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Chúa truyền lệnh phải đối xử thế nào với bảy dân tộc Ca-na-an thờ ngẫu tượng mạnh hơn?",
+          "options": [
+            "Hãy hiến tế tiêu diệt hoàn toàn, cấm ký ước hòa bình, cấm thương xót chúng",
+            "Ký hiệp ước liên minh buôn bán biên giới",
+            "Cho phép họ làm nô lệ chăn súc vật",
+            "Cho họ nhập quốc tịch Ít-ra-en tự do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định nghiêm cấm về quan hệ hôn nhân đối với dân bản địa Ca-na-an là gì?",
+          "options": [
+            "Cấm kết hôn với họ (cấm gả con gái hay cưới con gái họ cho con trai mình) tránh dụ dỗ thờ thần giả",
+            "Được phép kết hôn nếu họ chịu phép cắt bì",
+            "Chỉ được cưới vợ ngoại bang không gả con gái",
+            "Chỉ cấm kết hôn với dân Mô-áp còn Ca-na-an được phép"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật phẩm tôn giáo ngẫu tượng ngoại giáo của dân Ca-na-an phải xử lý ra sao?",
+          "options": [
+            "Đập tan bàn thờ, đập nát cột đá thờ, chặt hạ cột gỗ A-sê-ra và đốt cháy các tượng đúc tượng đúc",
+            "Đem bán lấy tiền vàng dâng cúng đền tạm",
+            "Cất giữ trưng bày làm chiến tích quân sự",
+            "Để nguyên không động chạm tôn trọng văn hóa họ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Chúa lại tuyển chọn Ít-ra-en làm dân riêng thánh thiện của Người?",
+          "options": [
+            "Vì Chúa yêu thương họ và trung thành giữ lời thề hứa với các tổ phụ (không phải vì họ đông người)",
+            "Vì họ là dân tộc văn minh tiến bộ nhất",
+            "Vì họ có số lượng người đông nhất thế giới",
+            "Vì họ trung chính ngoan ngoãn vâng lời ngay từ đầu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đức tính trung tín của Thiên Chúa được mô tả thế nào đối với người yêu mến Người?",
+          "options": [
+            "Chúa giữ giao ước và lòng nhân nghĩa đến ngàn thế hệ cho những ai yêu mến vâng phục Người",
+            "Chúa chỉ chúc phúc cho thế hệ thứ nhất",
+            "Chúa sẽ tha thứ dẫu họ thờ thần khác",
+            "Chúa đòi hỏi họ phải nộp nhiều vàng bạc chuộc lỗi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa hứa ban ơn lành sinh học thế nào cho dân vâng phục lề luật?",
+          "options": [
+            "Chúc phúc cho lòng dạ con cái, hoa màu đất đai, bầy súc vật tăng trưởng và cấm tiệt người vô sinh vô sinh",
+            "Ban cho họ sống trường sinh bất tử thể xác",
+            "Cho họ bay lượn che mát cột mây",
+            "Ban cho họ khả năng không cần ăn uống vẫn sống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa hứa giải quyết các chứng bệnh dịch kinh hoàng từng xảy ra ở Ai Cập thế nào cho dân trung tín?",
+          "options": [
+            "Chúa sẽ đẩy lùi mọi bệnh tật nguy hiểm và giáng các dịch bệnh Ai Cập lên kẻ ghét ngươi ghét ngươi",
+            "Họ vẫn bị bệnh nhưng được tư tế chữa trị miễn phí",
+            "Họ không bao giờ bị thương tích chiến đấu",
+            "Chúa cho họ thuốc thần sa mạc chữa bệnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Làm thế nào dân Ít-ra-en vượt qua sự sợ hãi trước các dân tộc bản địa đông đúc kiên cố?",
+          "options": [
+            "Hãy nhớ lại việc oai hùng Chúa làm phạt Pha-ra-on; Chúa sẽ sai ong bắp cày đi trước đuổi thù thù",
+            "Hãy tập trung tuyển quân chiến binh khổng lồ",
+            "Hãy mua vũ khí chiến xa sắt Ai Cập",
+            "Nhờ pháp sư Ba-la-am nguyền rủa họ từ xa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Chúa không tiêu diệt các dân tộc Ca-na-an ngay lập tức mà tiêu diệt từ từ?",
+          "options": [
+            "Để đất đai không bị hoang vu hoang dã làm thú dữ sinh sôi nảy nở hại các ngươi",
+            "Vì quân đội Ít-ra-en chưa đủ lính đóng chiếm",
+            "Vì Chúa muốn thử thách lòng kiên nhẫn chiến đấu của dân",
+            "Vì các dân tộc đó xin khất nợ đầu hàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lượng vàng bạc bọc trên các tượng thần ngoại giáo dân chiếm được phải xử lý thế nào?",
+          "options": [
+            "Cấm tuyệt đối không được ham muốn giữ lại vì đó là của ghê tởm mang lời nguyền rủa rủa",
+            "Được lấy chia đều làm của cải gia đình",
+            "Mang về đúc thành lư hương tư tế dùng",
+            "Dâng nộp toàn bộ làm quỹ đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Mục đích Chúa bắt dân đi vòng lang thang 40 năm hoang địa chịu đói khát là để làm gì?",
+          "options": [
+            "Để thử thách, bắt họ chịu nghèo cực hầu biết lòng họ có giữ điều răn Chúa hay không",
+            "Để họ làm quen thời tiết khí hậu sa mạc",
+            "Để tìm kiếm các mỏ vàng bạc lộ thiên",
+            "Để trừng phạt Mô-sê oán trách nước Mê-ri-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn đức tin nổi tiếng về nguồn sống con người ở câu 3 được Chúa Giê-su trích dẫn là gì?",
+          "options": [
+            "Người ta sống không chỉ nhờ bánh, nhưng nhờ mọi lời phán ra từ miệng ĐỨC CHÚA",
+            "Hãy ăn man-na hàng ngày để khỏe mạnh",
+            "Hãy kính sợ Chúa để được giàu sang ruộng đất",
+            "Không làm việc thì không được ăn bánh mì"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tượng kỳ lạ bảo vệ y phục thể xác của dân suốt 40 năm hoang địa là gì?",
+          "options": [
+            "Áo mặc không sờn rách, chân không sưng phù suốt bốn mươi năm bốn mươi năm lang thang",
+            "Họ có thợ may Ai Cập đi cùng may vá",
+            "Áo tự động dài ra theo tuổi tác",
+            "Chúa cho mưa vải lanh từ trời xuống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa sửa phạt dân Ít-ra-en dựa trên mối quan hệ yêu thương nào?",
+          "options": [
+            "Như người cha sửa phạt con mình, ĐỨC CHÚA sửa phạt anh để dạy dỗ",
+            "Như chủ nô lệ trừng phạt nô lệ trốn trại",
+            "Như phán quan xử phạt kẻ trộm cướp tài sản",
+            "Không có tình thương chỉ có oán phạt nghiêm khắc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả sự trù phú trù phú của đất hứa Ca-na-an gồm những loại thổ sản nào?",
+          "options": [
+            "Đất có khe suối mạch nước, có lúa mì, lúa mạch, nho, vả, lựu, ô-liu và mật ong mật",
+            "Đất có nhiều cát vàng bọc mỏ kim cương",
+            "Đất phủ đầy rừng thông tuyết tùng rậm",
+            "Đất có nhiều mỏ dầu hỏa tự nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chất liệu kim loại có sẵn trong lòng đất Ca-na-an dân có thể khai thác là gì?",
+          "options": [
+            "Đá chứa sắt và đồi núi khai thác đồng đỏ đồng đỏ",
+            "Đất cát chứa nhiều vàng ròng",
+            "Mỏ bạc trắng nguyên chất",
+            "Không có khoáng sản nào nghèo nàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cảnh báo nguy cơ kiêu ngạo tự mãn khi dân xây nhà tốt, ăn no nê giàu có súc vật là gì?",
+          "options": [
+            "Lòng ngươi kiêu ngạo quên Chúa quên Chúa và tự đắc: Sức riêng tôi làm nên nghiệp lớn nầy!",
+            "Dân sẽ tự ý chia đất không bốc thăm",
+            "Dân sẽ đuổi các tư tế Lê-vi đi",
+            "Dân sẽ tự đúc tượng Mô-sê thờ lạy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là Đấng dẫn dân qua hoang địa mênh mông đầy rắn lửa, bọ cạp và hóa nước từ đá rắn?",
+          "options": [
+            "Chính ĐỨC CHÚA, Thiên Chúa của các ngươi của các ngươi bảo vệ",
+            "Nhạc phụ Khô-váp dẫn đường",
+            "Tướng Giô-suê chỉ huy quân đội",
+            "Cây gậy thần của Mô-sê tự dẫn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hậu quả tối hậu nếu dân quên Chúa oán trách thờ thần ngoại bang Ca-na-an là gì?",
+          "options": [
+            "Các ngươi chắc chắn sẽ bị tiêu diệt giống như các dân tộc Chúa đã tiêu diệt trước mặt các ngươi",
+            "Chỉ bị phạt hạn hán cạn nước uống một năm",
+            "Phải nộp toàn bộ tài sản vàng bạc đền tạm chuộc tội",
+            "Bị trục xuất quay lại Ai Cập làm nô lệ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thức ăn thiêng liêng tổ phụ chưa từng biết Chúa nuôi dân suốt hoang địa là gì?",
+          "options": [
+            "Man-na (Manna hạt sương ngọt)",
+            "Chim cút nướng cháy",
+            "Bánh không men nướng cát",
+            "Trái vả ngọt hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Mô-sê khẳng định dân chiếm được đất Ca-na-an có phải vì sự công chính của họ không?",
+          "options": [
+            "Không phải vì sự công chính công chính của họ, vì họ là dân cứng đầu cứng cổ hay phản nghịch",
+            "Có, vì họ là dân tộc thánh thiện nhất thế giới",
+            "Vì họ có đạo đức tốt hơn dân bản địa Ca-na-an",
+            "Vì họ có tư tế Lê-vi thánh hiến dâng lễ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do thực sự Chúa tiêu diệt các dân tộc Ca-na-an nhường đất cho Ít-ra-en là gì?",
+          "options": [
+            "Vì sự gian ác của các dân tộc đó và để Chúa giữ lời thề hứa với các tổ phụ",
+            "Vì họ không biết canh tác trồng trọt ruộng vườn",
+            "Vì họ nghèo khổ không có vàng bạc dâng Chúa",
+            "Vì họ tấn công quân Ít-ra-en trước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê nhắc lại sự kiện lịch sử tội lỗi kinh hoàng nào tại Hô-rép (Xi-nai) làm Chúa nổi giận định diệt dân?",
+          "options": [
+            "Tội đúc tượng thờ bò vàng (golden calf) thờ ngẫu tượng",
+            "Tội nổi loạn của Cô-rê cướp chức tư tế",
+            "Tội lầm bầm đòi ăn thịt nhớ hành tỏi Ai Cập",
+            "Tội ngoại tình thờ thần Ba-al-Phê-o Sít-tim"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động tức giận của Mô-sê khi từ núi đi xuống nhìn thấy tượng bò vàng và dân nhảy múa là gì?",
+          "options": [
+            "Ném vỡ tan hai bia đá luật ghi khắc Mười Điều Răn dưới chân núi",
+            "Rút gươm giết chết A-hác-rôn ngay",
+            "Ông bỏ chạy trốn biệt tích ngoài sa mạc",
+            "Đốt cháy đền tạm đập vỡ bàn thờ đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê đã làm gì để cứu dân chúng khỏi cơn giận thiêu hủy của Chúa sau vụ bò vàng?",
+          "options": [
+            "Phủ phục cầu khẩn van xin Chúa liên tục suốt bốn mươi ngày đêm không ăn không uống",
+            "Dâng tế lễ một trăm con bò đực chuộc tội",
+            "Bắt dân nộp phạt toàn bộ khuyên tai vàng đúc tượng",
+            "Bắt dân tự ném đá chết kẻ khởi xướng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa có nổi giận định tiêu diệt thượng tế A-hác-rôn vì tội đúc bò vàng hộ dân không?",
+          "options": [
+            "Có, Chúa cực kỳ nổi giận định diệt ông, nhưng Mô-sê đã cầu khẩn cầu nguyện cho ông được tha",
+            "Không, Chúa tha thứ ngay vì ông bị dân ép buộc",
+            "Chúa phạt ông bị câm không nói được một tuần",
+            "Chúa trục xuất ông khỏi hàng tư tế ngay lập tức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê đã tiêu hủy tượng bò vàng bằng cách chế biến thế nào?",
+          "options": [
+            "Đốt trong lửa, đập nát giã mịn như tro rồi ném tro vào dòng suối chảy từ núi xuống",
+            "Chôn giấu dưới cát sâu chân núi Xi-nai",
+            "Đem ném xuống Biển Đỏ",
+            "Đem nấu lại làm đĩa chén tư tế phục vụ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các địa danh oán trách nổi tiếng nào được nhắc lại để chứng minh dân hay phản nghịch?",
+          "options": [
+            "Táp-bê-ra, Mát-xa, Kib-rốt Hát-ta-a-vah và Ca-đê-ba-nê-a",
+            "Marah, Ê-lim, núi Xi-nai",
+            "Ê-đôm, Mô-áp, sông Gio-đan",
+            "Hét-bôn, Ba-san, Ê-đơ-rê-i"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai bia đá luật cũ bị vỡ được ghi khắc luật pháp bởi ai?",
+          "options": [
+            "Chính ngón tay Thiên Chúa Thiên Chúa viết ghi khắc luật",
+            "Ông Mô-sê tự khắc theo trí nhớ",
+            "Kiến trúc sư trưởng Bơ-xa-lê-ên khắc",
+            "Tư tế A-hác-rôn chép lại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa của việc nhắc lại lịch sử phản nghịch của dân ở chương 9 là để dạy dỗ thái độ gì?",
+          "options": [
+            "Dạy dỗ lòng khiêm tốn kính sợ Chúa; gạt bỏ sự kiêu ngạo tự mãn về đạo đức cá nhân",
+            "Để làm nhục nhã dân chúng trước các bộ tộc khác",
+            "Để củng cố uy quyền độc tài của Mô-sê",
+            "Để tăng thêm giá trị của hai bia đá luật mới"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Chúa dặn Mô-sê đẽo hai bia đá mới giống hai bia cũ đặt vào chiếc hòm bằng chất liệu gỗ gì?",
+          "options": [
+            "Hòm bằng gỗ keo (acacia wood hòm bia tạm thời)",
+            "Hòm bằng gỗ sồi Ga-la-át",
+            "Hòm bọc vàng ròng Ai Cập",
+            "Hòm bằng gỗ tuyết tùng Li-băng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc nào được Chúa biệt riêng tách ra để phụ trách khiêng vác Hòm Bia Giao Ước và phục vụ Chúa?",
+          "options": [
+            "Chi tộc Lê-vi (tribe of Levi)",
+            "Chi tộc Giu-đa",
+            "Chi tộc Ru-bên",
+            "Chi tộc Ép-ra-im"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đặc quyền về sản nghiệp của chi tộc Lê-vi được khẳng định thế nào ở chương 10?",
+          "options": [
+            "Lê-vi không có phần đất sản nghiệp gia nghiệp; chính Chúa là sản nghiệp của họ",
+            "Họ được hưởng một nửa số vàng chiếm được",
+            "Họ được chia thành phố rộng lớn nhất Ca-na-an",
+            "Họ được làm vua cai trị các chi tộc khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa đòi hỏi dân Ít-ra-en điều gì cốt lõi trong đời sống tôn giáo ở câu 12?",
+          "options": [
+            "Kính sợ Chúa, đi theo đường lối Người, yêu mến, phụng thờ Chúa hết lòng hết dạ",
+            "Dâng hiến toàn bộ súc vật chăn nuôi hàng năm",
+            "Đóng thuế vàng bạc đền tạm đầy đủ",
+            "Đi đánh bại toàn bộ dân ngoại bang sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên mang tính biểu tượng tâm hồn về cắt bì ở câu 16 là gì?",
+          "options": [
+            "Hãy cắt bì tâm hồn (ngực lòng) các ngươi và đừng cứng đầu cứng cổ nữa",
+            "Bắt buộc phải chịu cắt bì thể xác lần hai",
+            "Cắt bì cho cả phụ nữ ngoại bang cư ngụ",
+            "Cấm cắt bì vào ngày sa-bát thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đức tính công chính của Thiên Chúa được mô tả thế nào đối với người yếu thế (cô nhi, góa phụ, ngoại kiều)?",
+          "options": [
+            "Chúa phân xử công minh cho cô nhi quả phụ, yêu thương người ngoại kiều ban bánh áo cho họ",
+            "Chúa chỉ quan tâm đến người giàu có dâng lễ vật",
+            "Chúa bắt ngoại kiều làm nô lệ đền tạm",
+            "Chúa cấm ngoại kiều không được hưởng hoa lợi đất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa đòi hỏi dân Ít-ra-en phải đối xử thế nào với người ngoại kiều?",
+          "options": [
+            "Các ngươi phải yêu thương người ngoại kiều, vì các ngươi từng là ngoại kiều ở Ai Cập",
+            "Bắt họ làm việc nặng nhọc thay thế dân bản địa",
+            "Cấm không cho họ cư ngụ chung doanh trại",
+            "Đóng thuế cao hơn người Ít-ra-en bản địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng tổ phụ Gia-cóp dẫn dòng họ xuống Ai Cập ban đầu được nhắc lại là bao nhiêu người?",
+          "options": [
+            "Bảy mươi người (70 người xuống Ai Cập)",
+            "Một trăm người",
+            "Năm mươi người",
+            "Mười hai người con Gia-cóp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tại Chúa làm cho số lượng dân Ít-ra-en đông đúc sánh ngang hình ảnh nào?",
+          "options": [
+            "Đông đúc như sao trên trời (như sao trên trời bao la)",
+            "Đông như cát bờ biển",
+            "Đông như bầy cào cào sa mạc",
+            "Đông hơn dân số toàn Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai bia đá mới chép luật pháp Mười Điều Răn được cất giữ ở đâu vĩnh viễn?",
+          "options": [
+            "Trong Hòm Bia Giao Ước (Ark of the Covenant)",
+            "Trong túi ngực áo ê-phốt thượng tế",
+            "Trên bàn thờ đồng ngoài sân đền tạm",
+            "Trong lều riêng tư của ông Mô-sê"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Sự trừng phạt lịch sử nào giáng xuống Đa-than và A-vi-ram dòng Ru-bên được nhắc lại ở chương 11?",
+          "options": [
+            "Đất hé miệng nuốt chửng họ cùng gia đình lều trại giữa toàn dân",
+            "Lửa Chúa thiêu chết họ bên bàn thờ hương",
+            "Họ bị rắn độc cắn chết dọc đường",
+            "Họ bị dịch bệnh cùi phong trắng mặt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự khác biệt về nguồn nước nông nghiệp giữa đất Ai Cập và đất hứa Ca-na-an là gì?",
+          "options": [
+            "Ai Cập dùng chân dẫn nước ruộng suối; Ca-na-an uống nước mưa trời sa giáng thấm mát",
+            "Ai Cập có nhiều mưa hơn Ca-na-an",
+            "Ca-na-an dùng giếng nước đắng thanh lọc",
+            "Không có sự khác biệt nông nghiệp nào"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa hứa ban mưa thuận gió hòa thế nào nếu dân trung thành vâng giữ luật pháp?",
+          "options": [
+            "Ban mưa đúng mùa (mưa đầu mùa và mưa cuối mùa) để thu hoạch ngũ cốc nho dầu dầu",
+            "Cho mưa đá tiêu diệt ruộng vườn quân thù",
+            "Cho ngập lụt tưới ruộng hàng tháng",
+            "Không cho mưa nữa bắt dân tự đào giếng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê đặt trước mắt dân lựa chọn tối hậu nào khi vào định cư Ca-na-an?",
+          "options": [
+            "Lời chúc phúc (nếu vâng nghe mệnh lệnh Chúa) và lời nguyền rủa (nếu bất tuân thờ thần giả)",
+            "Chiến đấu giải phóng hay đầu hàng làm nô lệ",
+            "Làm giàu vàng bạc hay sống nghèo khó chăn súc",
+            "Lấy vợ ngoại bang hay ở góa suốt đời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai ngọn núi đại diện công bố lời chúc phúc và chúc dữ nguyền rủa tên là gì?",
+          "options": [
+            "Núi Gơ-ri-dim (Gerizim chúc phúc) và núi Ê-van (Ebal chúc dữ nguyền rủa)",
+            "Núi Xi-nai và núi Khô-rép",
+            "Núi Ho và núi Nê-bô",
+            "Núi Mô-ri-gia và núi Cát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Do Thái thực hành viết lời luật dán lên trán và tay làm dấu nhớ gọi là gì?",
+          "options": [
+            "Hộp Tefillin đeo trán tay (phylacteries)",
+            "Hộp Mezuzah cửa",
+            "Tua áo góc áo",
+            "Mũ tư tế dòng Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Biên giới đất hứa Chúa hứa ban cho dân vươn rộng đến sông lớn nào phía đông?",
+          "options": [
+            "Sông lớn Ơ-phơ-rát (Euphrates)",
+            "Sông Nin Ai Cập",
+            "Sông Gio-đan",
+            "Sông Ki-sôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa hứa gieo sự sợ hãi thế nào lên các dân tộc Ca-na-an khi dân đặt chân đến?",
+          "options": [
+            "Chúa sẽ gieo sự kinh hoàng sợ hãi sợ hãi khắp miền đất các anh đặt chân đến",
+            "Quân địch tự nguyện dâng nộp giang sơn xin hòa",
+            "Cho thiên sứ cầm gươm lửa diệt quân địch trước",
+            "Hạn hán xảy ra làm quân địch suy yếu rã ngũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao việc dạy dỗ con cái lề luật Chúa lại được nhắc lại liên tục ở chương 11?",
+          "options": [
+            "Để gìn giữ đức tin liên tục thế hệ tránh sự đồng hóa hủ tục ngoại giáo Ca-na-an",
+            "Để trẻ em dễ đi thi kiểm tra đền thờ",
+            "Để lưu truyền chữ viết ngôn ngữ Do Thái cổ",
+            "Để trẻ em biết tôn trọng quyền lực cha mẹ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en phải công bố lời chúc phúc chúc dữ trên hai núi khi nào?",
+          "options": [
+            "Ngay khi vượt qua sông Gio-đan đặt chân vào đất hứa định cư",
+            "Sau khi đã xây dựng xong Kinh thành Giê-ru-sa-lem",
+            "Trước trận chiến thắng vua xứ A-rát",
+            "Vào Năm Hân Hoan kế tiếp sau khi chia đất"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Quy định nghiêm ngặt về địa điểm dâng hiến lễ tế tại Ca-na-an là gì?",
+          "options": [
+            "Chỉ được dâng tế lễ tại một Nơi duy nhất duy nhất ĐỨC CHÚA chọn để đặt Danh Người (Đền Thờ trung tâm)",
+            "Được phép dâng lễ tại bất kỳ đồi cao bóng cây nào tùy thích",
+            "Tự xây dựng bàn thờ riêng tại lều gia đình dâng súc vật",
+            "Chỉ dâng lễ tế trên đỉnh núi Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật phẩm cúng tế tà thần ngoại giáo của dân Ca-na-an trên các núi cao phải làm gì?",
+          "options": [
+            "Phải phá hủy hoàn toàn hoàn toàn, cấm bắt chước cách thờ phượng tà thần dâng cho Chúa",
+            "Được phép tận dụng các bàn thờ cũ để tiết kiệm đá",
+            "Đem bán tượng ngẫu tượng đồng sắt lấy tiền vàng",
+            "Giữ lại làm khu bảo tồn văn hóa cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật ăn thịt ở nhà (không phải thịt dâng lễ bàn thờ) quy định thế nào về việc ăn máu?",
+          "options": [
+            "Được phép sát tế ăn thịt tự do sạch dã ngoại, nhưng cấm ăn máu; phải đổ máu xuống đất như đổ nước",
+            "Được phép ăn tiết canh huyết súc vật thoải mái",
+            "Chỉ được ăn thịt luộc cấm ăn thịt nướng có máu",
+            "Phải mang máu về đền tạm dâng cúng chuộc mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng phục vụ tâm linh địa phương nào dân cấm không được bỏ bê đói khổ ở quê nhà?",
+          "options": [
+            "Người Lê-vi Lê-vi (vì họ không có phần sản nghiệp đất đai riêng)",
+            "Người ngoại kiều buôn bán",
+            "Chi tộc Giu-đa hoàng gia",
+            "Thợ thủ công làm đai áo ê-phốt tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ăn thịt hiến tế hòa bình (kỳ an) quy định ai được phép tham gia ăn mừng?",
+          "options": [
+            "Bản thân ngươi, con trai con gái, tôi tớ nam nữ và người Lê-vi ở thành của ngươi ăn mừng vui vẻ",
+            "Chỉ các tư tế nam giới đang dâng lễ ăn",
+            "Chỉ người giàu có đóng góp tiền vàng ăn riêng",
+            "Cấm phụ nữ và trẻ em không được ăn thịt thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Chúa cấm dâng hiến tế súc vật ở mọi nơi tùy ý?",
+          "options": [
+            "Để giữ gìn sự thống nhất đức tin tôn giáo, tránh sự pha tạp hủ tục ngoại giáo thờ thần lăng nhăng",
+            "Vì Chúa lo ngại súc vật tế bị trộm cướp dọc đường",
+            "Để tư tế dễ thu thuế thập phân tập trung",
+            "Vì giao thông Ca-na-an quá hiểm trở khó đi lại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi hiến tế con cái thiêu sống dâng cho tà thần Ca-na-an được Mô-sê lên án thế nào?",
+          "options": [
+            "Đó là điều ghê tởm ghê tởm Chúa ghét tột cùng; họ thiêu cả con trai con gái dâng thần họ",
+            "Là hủ tục văn minh cổ đáng học hỏi",
+            "Chỉ bị phạt tiền đền tạm nếu tự nguyện",
+            "Được phép dâng con nếu gia đình đông con cháu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lượng súc vật tự chết (nghẹt) có được phép ăn thịt không?",
+          "options": [
+            "Cấm tuyệt đối không được ăn vì máu vẫn còn trong thịt; chỉ được bán cho người ngoại quốc",
+            "Được phép ăn nếu nấu chín kỹ",
+            "Chỉ tư tế mới được phép ăn thịt chết ngạt",
+            "Đem thiêu hủy làm tro nước tẩy uế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dòng máu súc vật dâng hiến tế bàn thờ đồng có ý nghĩa gì đối với sự sống con người?",
+          "options": [
+            "Vì sự sống của xác thịt là máu; máu dùng để chuộc mạng mạng trên bàn thờ",
+            "Làm đẹp đá lát bàn thờ",
+            "Để thắp đèn dầu thánh trong lều",
+            "Không có ý nghĩa gì chỉ là chất thải sinh học"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en phải làm gì đối với các mệnh lệnh Mô-sê truyền dạy ở cuối chương 12?",
+          "options": [
+            "Hãy lo tuân giữ giữ trọn vẹn: Đừng thêm gì và đừng bớt gì cả",
+            "Được phép thay đổi luật tùy hoàn cảnh sống",
+            "Nhờ tư tế Lê-vi lược bỏ bớt luật khó giữ",
+            "Chép luật ra giấy da đốt lấy tro uống nhớ lâu"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Nếu một ngôn sứ (tiên tri) giả dụ dỗ thờ thần ngoại bang bằng cách lập điềm báo thành công, phải đối xử thế nào?",
+          "options": [
+            "Cấm nghe theo lời hắn; phải xử tử hình ngôn sứ giả đó vì tội lôi kéo phản loạn chống Chúa",
+            "Tôn vinh hắn làm ngôn sứ thật ban thưởng vàng bạc",
+            "Cho phép hắn lập đền thờ thần ngoại bang riêng",
+            "Bỏ qua cảnh cáo trục xuất hắn ra ngoại quốc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Chúa cho phép ngôn sứ giả thực hiện được điềm báo thành công để thử lòng dân?",
+          "options": [
+            "Để thử lòng các ngươi xem có thật lòng yêu mến Chúa hết lòng hết linh hồn hay không",
+            "Vì Chúa không cản trở phép thuật của ma quỷ",
+            "Để tư tế Lê-vi có cơ hội bắt lỗi xử phạt",
+            "Vì điềm báo đó là sự trùng hợp ngẫu nhiên tự nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu người thân ruột thịt (anh em, con cái, vợ yêu, bạn hữu) dụ dỗ đi thờ thần ngoại bí mật, phải xử lý ra sao?",
+          "options": [
+            "Cấm nể nang dung thứ che giấu; chính tay ngươi phải ném đá ném đá chết kẻ đó đầu tiên trước dân",
+            "Bỏ qua tha thứ vì tình nghĩa gia đình",
+            "Chỉ khuyên can răn đe giữ kín tai tiếng",
+            "Báo cáo cho tư tế bắt đi làm nô dịch đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu nghe tin một thành phố Ít-ra-en nổi loạn bỏ đạo đi thờ thần ngoại bang Ca-na-an, việc điều tra thế nào?",
+          "options": [
+            "Phải điều tra kỹ lưỡng xác thực tin đồn tin đồn có thật sự phạm tội ghê tởm đó không trước khi phạt",
+            "Lập tức đem quân tấn công tiêu diệt ngay không cần hỏi han",
+            "Bỏ qua vì đó là việc nội bộ của thành phố đó",
+            "Đóng cửa biên giới cấm buôn bán giao thương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho thành phố nổi loạn thờ thần ngoại bang sau khi xác thực tội lỗi là gì?",
+          "options": [
+            "Giết hết cư dân súc vật bằng gươm, gom hết của cải thiêu hủy thiêu hủy hoàn toàn biến thành đống hoang tàn vĩnh viễn",
+            "Chỉ tịch thu vàng bạc phạt đóng thuế nặng",
+            "Trục xuất toàn bộ cư dân ra ngoại quốc",
+            "Bắt các thủ lĩnh thành phố nộp phạt bò tơ đền tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Của cải của thành phố bị thiêu hủy có được phép tư tế hay dân chúng giữ lại làm chiến lợi phẩm không?",
+          "options": [
+            "Cấm tuyệt đối không được tơ hào giữ lại bất cứ vật gì bị hiến tế tiêu hủy để Chúa nguôi giận",
+            "Được lấy chia đều làm giàu gia đình",
+            "Dâng nộp làm quỹ vàng bạc đền tạm",
+            "Chến sĩ ra trận được hưởng toàn bộ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cách thức xử tử hình kẻ dụ dỗ thờ thần ngoại bang được quy định là gì?",
+          "options": [
+            "Ném đá chết chết công khai ngoài thành",
+            "Treo cổ trên cây cao",
+            "Thiêu sống trong lửa đỏ",
+            "Chém đầu bằng gươm tuốt trần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do ném đá chết kẻ dụ dỗ thờ thần ngoại bang được ghi lại là gì?",
+          "options": [
+            "Vì hắn tìm cách lôi kéo ngươi xa rời ĐỨC CHÚA, Đấng đưa ngươi ra khỏi Ai Cập ách nô lệ",
+            "Để răn đe kẻ trộm cắp vàng bạc đền tạm",
+            "Để làm sạch môi trường thành phố sạch sẽ",
+            "Để xua đuổi thú dữ sa mạc xâm nhập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tượng sấm ngôn giả được Mô-sê cảnh báo nhằm bảo vệ sự an toàn gì?",
+          "options": [
+            "An toàn đức tin tôn giáo độc thần giao ước; tránh sự lừa dối mê tín dị đoan tà thuật",
+            "An toàn chính trị lãnh đạo của Mô-sê",
+            "An toàn tính mạng của các bô lão phán quan",
+            "Giữ gìn của cải tiền bạc cho dân chúng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người đầu tiên phải ra tay ném đá kẻ dụ dỗ thờ thần ngoại bang là ai?",
+          "options": [
+            "Chính tay người được dụ dỗ dụ dỗ (người chứng kiến trực tiếp tội lỗi)",
+            "Thẩm phán tư tế tối cao",
+            "Đầu mục chỉ huy quân đội",
+            "Mô-sê hoặc Giô-suê chủ trì"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Luật cấm hành hạ thân xác chịu tang cấm dân làm hành động gì?",
+          "options": [
+            "Cấm rạch da thịt và cấm cạo trọc đầu trán chịu tang kẻ chết giống dân ngoại",
+            "Cấm khóc lóc kêu la chịu tang",
+            "Cấm mặc y phục vải thô tro bụi",
+            "Cấm ăn chay đền tội tang chế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Động vật trên cạn thanh sạch được phép ăn thịt phải đáp ứng tiêu chuẩn móng nhai thế nào?",
+          "options": [
+            "Móng chẻ đôi hoàn toàn và nhai lại (như bò, chiên, dê, nai...)",
+            "Có móng vuốt ăn thịt hoang dã",
+            "Móng chẻ đôi nhưng không nhai lại",
+            "Chỉ cần nhai lại dẫu móng tròn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con vật nào sau đây bị cấm ăn vì nhai lại nhưng không có móng chẻ đôi?",
+          "options": [
+            "Lạc đà (camel), thỏ rừng và thỏ đá",
+            "Con bò đực lớn",
+            "Con cừu đực một tuổi",
+            "Con dê rừng hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thủy sản dưới nước thanh sạch được phép ăn phải có đặc điểm gì?",
+          "options": [
+            "Có vây và có vảy (fins and scales)",
+            "Có mai cứng bảo vệ",
+            "Không có xương dăm",
+            "Kích thước lớn hơn lòng bàn tay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Độc tố côn trùng bay cấm ăn được định nghĩa thế nào?",
+          "options": [
+            "Mọi côn trùng bay có cánh bò bốn chân bị coi là ô uế cấm ăn (trừ châu chấu)",
+            "Tất cả các loài ong mật",
+            "Con ruồi và con muỗi sa mạc",
+            "Bươm bướm màu sắc sặc sỡ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân có được phép ăn thịt súc vật tự chết (nghẹt) không?",
+          "options": [
+            "Cấm ăn; chỉ được tặng cho ngoại kiều nghèo ở thành ngươi hoặc bán cho người nước ngoài ngoại quốc",
+            "Được ăn tự do nếu nấu chín kỹ hòa muối",
+            "Tư tế Lê-vi được phép ăn thịt chết ngạt",
+            "Đem thiêu làm tro nước tẩy uế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật nhân đạo cấm nấu nướng thịt súc vật tơ thế nào ở câu 21?",
+          "options": [
+            "Không được nấu dê con (thú tơ) trong sữa của mẹ nó của mẹ nó",
+            "Không được sát tế bò mẹ cùng bò con cùng ngày",
+            "Không được ăn thịt dê con chưa cắt bì bảy ngày",
+            "Phải thiêu hủy toàn bộ dê con tế lễ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thuế thập phân nông sản hàng năm (10% lúa nho dầu) quy định dân phải làm gì tại Nơi Chúa chọn?",
+          "options": [
+            "Mang đến ăn mừng vui vẻ trước nhan Chúa cùng gia đình tôi tớ tôi tớ Lê-vi",
+            "Dâng nộp cất kho đền thờ cấm dân không được ăn",
+            "Đem bán lấy tiền vàng chia nhau tiêu xài tự do",
+            "Đem thiêu hủy hoàn toàn trên bàn thờ đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu đường đi từ nhà đến Nơi Chúa chọn quá xa khó mang theo nông sản cồng kềnh, xử lý ra sao?",
+          "options": [
+            "Quy đổi nông sản ra tiền bạc cầm đi đến Nơi Chúa chọn rồi mua thực phẩm ăn mừng",
+            "Được phép quỵt thuế thập phân năm đó miễn phạt",
+            "Nhờ tư tế Lê-vi đến tận nhà thu hộ",
+            "Bỏ qua không cần đi lễ hành hương nữa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thuế thập phân mỗi ba năm (năm thứ ba) quy định dâng hiến tập trung ở đâu dành cho ai?",
+          "options": [
+            "Trữ tại các thành địa phương dành riêng cho người Lê-vi, ngoại kiều, cô nhi quả phụ nghèo ăn no nê",
+            "Mang nộp toàn bộ vào kho trung tâm đền thờ",
+            "Tư tế thượng tế độc quyền hưởng dùng",
+            "Đóng góp làm ngân sách quốc phòng chuẩn bị chiến tranh"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "Luật Năm Sa-bát xóa nợ quy định chu kỳ bao nhiêu năm thực hiện xóa nợ?",
+          "options": [
+            "Mỗi bảy năm (7 năm trọn vẹn thực hiện tha nợ)",
+            "Mỗi năm mươi năm hân hoan",
+            "Mỗi mười năm",
+            "Mỗi ba năm thuế thập phân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định xóa nợ áp dụng thế nào đối với đồng bào Ít-ra-en và người nước ngoài ngoại quốc?",
+          "options": [
+            "Phải xóa nợ cho đồng bào mình đồng bào mình; nhưng được phép đòi nợ người ngoại quốc",
+            "Phải xóa nợ cho cả người ngoại quốc cư ngụ",
+            "Cấm đòi nợ người ngoại quốc buôn bán",
+            "Chỉ xóa nợ cho người nghèo chi tộc Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa hứa hẹn viễn cảnh kinh tế thế nào cho dân nếu vâng giữ luật tha nợ rộng lượng?",
+          "options": [
+            "Sẽ không có người nghèo khổ nghèo khổ giữa các ngươi và ngươi sẽ cho nhiều nước vay nợ",
+            "Dân sẽ được vàng bạc từ trời rơi xuống",
+            "Mọi người đều hóa giàu có phú ông bằng nhau",
+            "Chúa miễn trừ lao động cày cấy đất đai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cảnh báo thái độ hẹp hòi kiêu ngạo khi Năm Tha Nợ sắp đến gần đối với người vay mượn?",
+          "options": [
+            "Cấm ích kỷ nghĩ: Năm thứ bảy sắp đến rồi cản trở giúp đỡ anh em nghèo nghèo khó mượn đồ",
+            "Được phép từ chối cho mượn nếu thấy rủi ro mất nợ",
+            "Được đòi thế chấp đất đai tài sản giá trị cao",
+            "Chỉ cho mượn nếu tư tế Lê-vi làm chứng bảo lãnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nô lệ Híp-ri (nam hoặc nữ) phục vụ chủ mình trong bao nhiêu năm thì được giải phóng tự do?",
+          "options": [
+            "Sáu năm phục vụ, đến năm thứ bảy được giải phóng tự do tự do",
+            "Phải phục vụ mười năm trọn",
+            "Phục vụ cho đến Năm Hân Hoan 50 năm",
+            "Phải chịu làm nô lệ suốt đời không được giải phóng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định nhân đạo yêu cầu chủ nô lệ phải làm gì khi giải phóng nô lệ Híp-ri?",
+          "options": [
+            "Cấm để họ ra đi tay trắng; phải tặng quà hào phóng từ bầy gia súc, lúa mì và bồn rượu rượu",
+            "Bắt họ đóng tiền chuộc tự do giá năm si-clơ",
+            "Được phép giữ lại vợ con họ làm nô lệ tiếp",
+            "Bắt họ ký giấy cam kết không tranh chấp tài sản"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu nô lệ Híp-ri vì thương chủ thương nhà quyết định tình nguyện làm nô lệ suốt đời, nghi thức thực hiện thế nào?",
+          "options": [
+            "Dẫn đến cánh cửa dùng dùi xỏ lỗ tai xỏ tai lỗ tai vào cánh cửa làm dấu nô lệ suốt đời",
+            "Cạo đầu bôi sơn đỏ lên trán làm dấu",
+            "Cắt bì lại trước mặt tư tế Ê-la-da",
+            "Ký hợp đồng văn bản đóng dấu bô lão"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa lịch sử Chúa nhắc nhở dân rộng lượng giải phóng nô lệ là gì?",
+          "options": [
+            "Hãy nhớ ngươi từng làm nô lệ bên Ai Cập và ĐỨC CHÚA đã cứu chuộc giải phóng ngươi",
+            "Để giảm bớt chi phí nuôi dưỡng nô lệ già yếu",
+            "Để duy trì quân số đăng ký đi lính nghĩa vụ quân sự",
+            "Theo mô hình quản lý nhân sự văn minh Hy Lạp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định súc vật đầu lòng thanh sạch dâng Chúa cấm làm hành động gì?",
+          "options": [
+            "Cấm bắt làm việc cày ruộng và cấm xén lông chiên con đầu lòng đầu lòng dâng hiến",
+            "Cấm ăn thịt súc vật đầu lòng dẫu bị tật nguyền",
+            "Chỉ được dâng súc vật đầu lòng cái không dâng con đực",
+            "Phải nuôi dưỡng chúng vĩnh viễn không được tế lễ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu súc vật đầu lòng bị tật nguyền què mù tì vết lớn thì xử lý ra sao?",
+          "options": [
+            "Cấm dâng bàn thờ Chúa; được phép ăn thịt ở nhà như ăn thịt nai rừng rừng",
+            "Đem chôn sống ngoài doanh trại hoang vu",
+            "Đem bán cho người ngoại quốc lấy tiền vàng",
+            "Tư tế Ê-la-da bắt mang thiêu hủy ngoài hố tro"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "questions": [
+        {
+          "text": "Đại lễ đầu tiên mừng vào tháng A-víp (tháng xuân) kỷ niệm thoát Ai Cập ban đêm là lễ gì?",
+          "options": [
+            "Lễ Vượt Qua và Bánh Không Men (Passover and Unleavened Bread)",
+            "Lễ lều tạm mùa thu hoạch",
+            "Lễ kèn thổi đầu tháng",
+            "Ngày xá tội toàn dân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en phải ăn bánh không men (bánh khổ cực) trong suốt bao nhiêu ngày lễ vượt qua?",
+          "options": [
+            "Bảy ngày (7 ngày ăn bánh không men)",
+            "Ba ngày",
+            "Mười ngày",
+            "Mười bốn ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ Vượt Qua cấm tuyệt đối sát tế con chiên vượt qua ở đâu?",
+          "options": [
+            "Cấm sát tế tại bất kỳ thành nào của ngươi; bắt buộc phải sát tế tại Nơi Chúa chọn đặt Danh Người Nơi Chúa chọn",
+            "Sát tế tại lều riêng tư gia đình",
+            "Sát tế ngoài đồng hoang dã",
+            "Sát tế bên Ai Cập lại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại lễ thứ hai mừng sau bảy tuần kể từ khi tra liềm cắt lúa mì là lễ gì?",
+          "options": [
+            "Lễ các Tuần (Lễ Ngũ Tuần / Festival of Weeks)",
+            "Lễ vượt qua lần hai",
+            "Lễ lều tạm mừng thu hoạch dầu",
+            "Lễ thổi kèn tháng bảy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại lễ thứ ba mừng vào cuối năm thu hoạch kho dầu bồn nho kéo dài tám ngày là lễ gì?",
+          "options": [
+            "Lễ Lều Tạm (Festival of Booths / Tabernacles)",
+            "Lễ ngũ tuần mùa gặt",
+            "Lễ vượt qua mùa xuân",
+            "Lễ trăng non đầu tháng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Có bao nhiêu đại lễ hành hương bắt buộc mọi nam giới Ít-ra-en phải triều yết Chúa tại Nơi Chúa chọn?",
+          "options": [
+            "Ba lần trong năm (Lễ Bánh Không Men, Lễ các Tuần, Lễ Lều Tạm)",
+            "Mỗi tuần vào ngày sa-bát",
+            "Mỗi tháng một lần dịp trăng non",
+            "Chỉ một lần duy nhất vào ngày xá tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Yêu cầu tài chính đối với nam giới hành hương triều yết Chúa là gì?",
+          "options": [
+            "Không được đến tay không trước nhan Chúa; phải dâng cúng tùy thuộc khả năng Chúa ban ban",
+            "Phải nộp cố định năm si-clơ vàng thuế",
+            "Được phép đi tay không nhận quà ban thưởng tư tế",
+            "Cấm mang súc vật theo cồng kềnh hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật bổ nhiệm phán quan trưởng yêu cầu đức tính xét xử thế nào ở các thành trì?",
+          "options": [
+            "Phải phân xử công minh, cấm bẻ cong công lý, cấm thiên vị và cấm nhận hối lộ hối lộ",
+            "Ưu tiên nghe lời người giàu có có thế lực",
+            "Phán quyết có lợi cho người thân họ hàng trước",
+            "Chỉ phạt tiền để tăng ngân sách đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao luật cấm nhận hối lộ lại được nhấn mạnh tột bực đối với thẩm phán?",
+          "options": [
+            "Vì của hối lộ làm mờ mắt người khôn ngoan và bóp méo lời người công chính công chính",
+            "Vì hối lộ làm thất thu thuế thập phân tư tế",
+            "Vì hối lộ làm cho của thánh đền thờ bị ô uế",
+            "Theo quy tắc hành chính công quyền Do Thái cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thần tượng ngẫu tượng bằng cây gỗ cấm trồng bên cạnh bàn thờ của Chúa tên là gì?",
+          "options": [
+            "Cột thờ thần A-sê-ra (Asherah pole cây thần ngoại giáo)",
+            "Tượng bò vàng Ai Cập",
+            "Bàn thờ xông hương ngoại bang",
+            "Hình khắc rắn đồng cúng bái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "questions": [
+        {
+          "text": "Loại súc vật nào dâng làm lễ tế cho Chúa bị coi là ghê tởm tội lỗi cấm dâng?",
+          "options": [
+            "Con bò hay con chiên bị tật nguyền hay có bất kỳ tì vết xấu nào xấu nào",
+            "Súc vật cái tơ hoàn hảo",
+            "Bầy dê rừng hoang dã bắt được sạch",
+            "Chiên con đầu lòng một tuổi béo tốt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho kẻ phạm pháp thờ mặt trời, mặt trăng hay các tinh tú tinh vân ngoại bang là gì?",
+          "options": [
+            "Phải bị ném đá chết ngoài cửa thành công khai",
+            "Bị trục xuất ra ngoài hoang địa vĩnh viễn",
+            "Bị phạt làm nô lệ đền tạm suốt đời",
+            "Nộp phạt một trăm si-clơ bạc chuộc lỗi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu vụ việc kiện cáo tranh chấp máu đền máu quá phức tạp khó xử ở địa phương, xử lý ra sao?",
+          "options": [
+            "Phải đi lên Nơi Chúa chọn trình diện tư tế Lê-vi và thẩm phán tối cao tối cao phán quyết",
+            "Tự dùng vũ lực chiến đấu phân định thắng thua",
+            "Bỏ qua không xét xử nữa để nguyên tranh chấp",
+            "Nhờ phán quan Mô-sê hiện hồn giải đáp luật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ trừng phạt đối với kẻ kiêu ngạo chống lại phán quyết của tòa án tối cao là gì?",
+          "options": [
+            "Kẻ ngạo mạn không nghe lời tư tế hay thẩm phán phải bị xử tử hình tử hình để răn đe",
+            "Chỉ bị phạt roi ba mươi roi cảnh cáo",
+            "Bị phạt nộp tiền gấp đôi giá trị tranh chấp",
+            "Bị cách ly ngoài doanh trại một tháng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi dân đã định cư Ca-na-an đòi lập Vua cai trị, tiêu chuẩn chọn Vua Chúa dặn là gì?",
+          "options": [
+            "Phải chọn người Chúa tuyển chọn, người cùng đồng bào Ít-ra-en (cấm lập người nước ngoài nước ngoài)",
+            "Phải chọn người giàu có nhất chi tộc Giu-đa",
+            "Chọn chiến binh khổng lồ dũng mãnh nhất",
+            "Lập một tư tế Lê-vi làm vua cai trị luôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định cấm Vua tương lai tích lũy phương tiện quân sự nào từ Ai Cập?",
+          "options": [
+            "Cấm nuôi nhiều ngựa (cấm đưa dân lại Ai Cập mua ngựa chiến chiến)",
+            "Cấm đóng nhiều chiến xa bằng đồng đỏ",
+            "Cấm dùng khiên giáp bằng vàng ròng",
+            "Cấm xây dựng pháo đài biên giới kiên cố"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định cấm Vua tương lai kết hôn thế nào để giữ lòng trung thành?",
+          "options": [
+            "Không được lấy nhiều vợ kẻo lòng lệch lạc xa rời Thiên Chúa Chúa",
+            "Bắt buộc cưới công chúa nước láng giềng liên minh",
+            "Chỉ được lấy vợ thuộc chi tộc Lê-vi tư tế",
+            "Cấm lấy vợ góa chồng ly dị"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định cấm Vua tích lũy tài chính thế nào để tránh bóc lột dân?",
+          "options": [
+            "Không được tích lũy quá nhiều vàng bạc tiền của của cải cá nhân",
+            "Cấm thu thuế vàng bạc từ 12 chi tộc",
+            "Chỉ được cất giữ vàng bạc trong kho đền thờ trung tâm",
+            "Cấm buôn bán giao thương nước ngoài lấy lãi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhiệm vụ bắt buộc Vua phải làm hàng ngày để giữ lòng kính sợ Chúa là gì?",
+          "options": [
+            "Tự sao chép một bản Đệ nhị luật ra sách đọc suốt đời để học tập tuân giữ điều răn",
+            "Hàng ngày dâng lễ tế bò tơ toàn thiêu",
+            "Đi tuần tra biên giới đất nước hàng tuần",
+            "Họp đại hội thẩm phán bô lão hàng sáng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Vua phải đọc cuốn sách luật pháp suốt đời ông?",
+          "options": [
+            "Để học kính sợ Chúa giữ luật, lòng không kiêu ngạo tự tôn trên anh em và vương triều bền vững bền vững",
+            "Để ông có tài hùng biện giỏi phán quyết dân",
+            "Để ông làm gương cho hàng tư tế Lê-vi",
+            "Để ông viết sách sự ký triều đại chính xác"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "questions": [
+        {
+          "text": "Lời hứa vĩ đại của Chúa ở câu 15 về việc ban một vị Ngôn Sứ tương lai kế tục Mô-sê là gì?",
+          "options": [
+            "Từ giữa anh em ngươi, ĐỨC CHÚA sẽ cho xuất hiện một ngôn sứ như Ta dâng cho ngươi",
+            "Chúa sẽ cử một sứ thần trời xuống cai trị trực tiếp",
+            "Vua Giô-suê sẽ là tiên tri tối cao vĩnh viễn",
+            "Chúa sẽ tự hiện hình phán luật hàng tuần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cách thức nhận diện một ngôn sứ nhân danh Chúa nói sấm ngôn giả là gì?",
+          "options": [
+            "Lời ngôn sứ đó tuyên nhân danh Chúa mà sự việc không xảy ra, không ứng nghiệm",
+            "Ngôn sứ đó đòi ăn súc vật hiến tế một mình",
+            "Ngôn sứ đó cạo đầu cạo rìa râu chịu tang",
+            "Ngôn sứ đó không biết tiếng Híp-ri cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các hủ tục tà thuật ngoại giáo nào của dân Ca-na-an bị Chúa nghiêm cấm tột bực ở chương 18?",
+          "options": [
+            "Bói toán, chiêm tinh, dùng ma thuật, làm phù thủy, gọi hồn, bói ma quỷ quỷ thần",
+            "Ăn bánh không men mùa xuân",
+            "Dâng thuế thập phân nông sản cho người Lê-vi",
+            "Sát tế bò mẹ bò con khác ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần bổng lộc tư tế dòng Lê-vi được hưởng từ phần súc vật dâng hiến kỳ an của dân gồm những bộ phận nào?",
+          "options": [
+            "Bả vai, hai má và dạ dày súc vật tế lễ",
+            "Lồng ngực và đùi sau bên phải",
+            "Toàn bộ lớp da và đầu chân",
+            "Lòng cật mỡ sa bọc cật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần hoa lợi đầu tiên tư tế được hưởng từ nông sản gặt hái gồm những gì?",
+          "options": [
+            "Ngũ cốc, rượu nho mới, dầu ô-liu mới và lông cừu cắt đợt đầu tiên",
+            "Vàng bạc đền tạm thuế đóng",
+            "Bánh mì dâng tiến bàn vàng",
+            "Trái vả chín đầu mùa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao người Lê-vi không có phần sản nghiệp đất đai được phép chuyển từ thành quê lên phụng vụ đền thờ trung tâm?",
+          "options": [
+            "Vì họ khát khao phục vụ Chúa; họ được hưởng quyền lợi bổng lộc công bằng như anh em",
+            "Vì họ bị người quê nhà xa lánh xua đuổi",
+            "Vì Mô-sê bắt buộc họ phải đi luân phiên",
+            "Vì họ có tài năng ca hát phụng vụ giỏi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho kẻ nhân danh thần ngoại Ca-na-an phát ngôn sấm ngôn là gì?",
+          "options": [
+            "Kẻ ngôn sứ đó phải bị xử tử hình",
+            "Bị phạt roi ba mươi roi răn đe",
+            "Bị phạt nộp mười con chiên đền tội",
+            "Bị trục xuất ra ngoài hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cụm từ Mô-sê khẳng định vị Ngôn Sứ tương lai giống ai?",
+          "options": [
+            "Như Ta (like me giống trung gian Mô-sê)",
+            "Như vua Ai Cập oai quyền",
+            "Như thiên sứ cầm gươm lửa",
+            "Như một chiến binh khổng lồ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội ác dâng con cái thiêu sống đi qua lửa dâng thần Mô-lê được nhắc lại ở chương 18 bị coi là gì?",
+          "options": [
+            "Là điều ghê tởm ghê tởm đối với ĐỨC CHÚA Thiên Chúa của ngươi",
+            "Là hủ tục cần cải cách vệ sinh hơn",
+            "Là tội nhẹ được tha nếu dâng lễ đền tội",
+            "Chỉ cấm đối với con gái còn con trai được phép"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mọi sấm ngôn của vị Ngôn Sứ thật nhân danh Chúa phán ra yêu cầu dân phải làm gì?",
+          "options": [
+            "Các ngươi phải nghe lời vị đó vâng phục vâng phục tuyệt đối",
+            "Phải ghi chép vào bia đá luật mới ngay",
+            "Phải trả tiền công bằng bạc si-clơ thánh điện",
+            "Phải nhờ tư tế Lê-vi thẩm định kiểm tra"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "questions": [
+        {
+          "text": "Số lượng thành ẩn nấp bổ sung thêm ở Ca-na-an phía tây sông Gio-đan là bao nhiêu?",
+          "options": [
+            "Ba thành phố ẩn nấp bổ sung (tổng cộng 6 thành)",
+            "Sáu thành",
+            "Mười hai thành",
+            "Bốn mươi tám thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật cấm dịch chuyển vật giới hạn ranh giới đất đai nhằm bảo vệ quyền lợi gì?",
+          "options": [
+            "Bảo vệ quyền sở hữu đất đai gia nghiệp hợp pháp của người lân cận",
+            "Tránh việc trộm cắp hoa lợi nông sản",
+            "Để tư tế dễ đo đạc thu thuế thập phân",
+            "Theo luật bản đồ quy hoạch Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Yêu cầu tối thiểu về số lượng nhân chứng để kết luận kết tội một người phạm pháp bất kỳ là gì?",
+          "options": [
+            "Phải dựa trên lời khai của hai hoặc ba nhân chứng (2 hoặc 3 nhân chứng)",
+            "Chỉ cần một nhân chứng duy nhất đáng tin",
+            "Phải có mười kỳ mục bô lão làm chứng",
+            "Do tư tế độc quyền phán quyết U-rim"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho kẻ làm chứng dối vu cáo anh em mình phạm tội là gì?",
+          "options": [
+            "Phạt kẻ chứng dối đúng hình phạt hắn dự định gieo cho người bị hại bị hại",
+            "Phạt tiền bạc gấp đôi giá trị vu khống",
+            "Bị phạt roi ba mươi roi cảnh cáo",
+            "Bị trục xuất ra ngoài hoang địa vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy tắc đền bù tư pháp nổi tiếng ở câu 21 để trừng trị kẻ chứng dối và sát nhân là gì?",
+          "options": [
+            "Mạng đền mạng, mắt đền mắt, răng đền răng, tay đền tay, chân đền chân",
+            "Chỉ đền bù bằng tiền vàng si-clơ",
+            "Tha thứ bảy mươi lần bảy chuộc lỗi",
+            "Bắt phạt đi làm nô dịch đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu kẻ cố tình sát nhân giết người rồi bỏ trốn vào thành ẩn nấp, xử lý ra sao?",
+          "options": [
+            "Bô lão thành quê hương bắt dẫn hắn về giao cho người trả thù máu xử tử hình",
+            "Hắn vẫn được bảo vệ an toàn vĩnh viễn bên trong thành",
+            "Hắn được chuộc mạng bằng tiền nộp tư tế",
+            "Hắn phải chịu đi đày sang nước láng giềng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đường xá dẫn đến các thành ẩn nấp phải được bảo quản thế nào?",
+          "options": [
+            "Phải tu sửa dọn dẹp mở đường sạch sẽ thông thoáng dễ chạy chạy",
+            "Cấm không cho ai biết vị trí ngầm ẩn nấp",
+            "Có quân lính đứng gác cẩn mật kiểm tra",
+            "Rào kín bằng rào cây gai chống thú dữ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vô ý đốn củi làm tuột lưỡi rìu văng trúng người bên cạnh chết bị kết tội gì?",
+          "options": [
+            "Tội vô ý ngộ sát ngộ sát; được phép chạy trốn vào thành ẩn nấp sống sót",
+            "Tội mưu sát cố tình phải bị xử tử ngay",
+            "Phải nộp phạt tiền cho gia đình người chết",
+            "Bị phạt roi năm mươi roi răn đe"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích Chúa bắt dân phân chia đất đai thành ẩn nấp rõ ràng là gì?",
+          "options": [
+            "Để tránh việc đổ máu vô tội trong miền đất Chúa ban làm ô uế xứ sở",
+            "Để dễ dàng quản lý trật tự giao thông",
+            "Để trừng phạt gia đình kẻ trả thù máu",
+            "Để chuẩn bị lực lượng quân sự biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho kẻ mưu sát cố tình ghét bỏ rình rập giết người là gì?",
+          "options": [
+            "Hắn phải chết mạng đền mạng; cấm lòng ngươi thương xót hắn",
+            "Hắn được tha nếu chịu cắt bì lại",
+            "Hắn phải nộp phạt một trăm si-clơ vàng",
+            "Hắn bị phạt làm nô lệ suốt đời"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "questions": [
+        {
+          "text": "Lời khuyên đức tin đầu tiên của Mô-sê dặn dân khi ra trận thấy ngựa chiến quân thù đông hơn là gì?",
+          "options": [
+            "Đừng sợ chúng, vì ĐỨC CHÚA, Đấng đưa ngươi ra khỏi Ai Cập, ở cùng ngươi cùng ngươi",
+            "Hãy rút lui phòng thủ thành trì vững chắc",
+            "Hãy mua sắm nhiều chiến xa sắt Ai Cập",
+            "Nhờ tư tế Lê-vi dâng bò tế lễ rút lui"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người có nhiệm vụ đứng ra động viên tinh thần chiến sĩ trước khi ra trận?",
+          "options": [
+            "Vị thầy tư tế đại diện phụng vụ trận chiến chiến",
+            "Đích thân Mô-sê lãnh đạo",
+            "Tướng chỉ huy quân đội Giô-suê",
+            "Thủ lĩnh các chi tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng nam giới nào được phép miễn nghĩa vụ quân sự quay về nhà khi mới xây dựng gia đình?",
+          "options": [
+            "Người mới cất nhà mới chưa khánh thành khánh thành",
+            "Người có con trai đầu lòng mới sinh",
+            "Người có cha mẹ già yếu cần nuôi dưỡng",
+            "Tư tế dòng Lê-vi nói chung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng nam giới nào được miễn đi lính do liên quan nông nghiệp?",
+          "options": [
+            "Người mới trồng vườn nho chưa được hái trái hái trái đầu tiên",
+            "Người mới mua bầy súc vật lớn",
+            "Người mới gieo hạt lúa mạch xuân",
+            "Người làm thuê chăn cừu cho tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng nam giới nào được miễn đi lính do liên quan hôn nhân?",
+          "options": [
+            "Người mới đính hôn chưa cưới vợ (về nhà cưới cưới)",
+            "Người mới ly dị vợ đang cô đơn",
+            "Người có nhiều vợ cần chăm sóc",
+            "Người lấy vợ ngoại bang Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng nam giới nào bị loại ngũ đi lính do tâm lý yếu đuối?",
+          "options": [
+            "Người nhút nhát, sợ hãi sợ hãi (về lều kẻo làm nản lòng anh em)",
+            "Người lùn gù tật nguyền thể xác nhẹ",
+            "Người không biết tiếng Híp-ri cổ",
+            "Người hay lầm bầm oán trách man-na"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật bao vây tấn công một thành phố yêu cầu hành động đầu tiên là gì?",
+          "options": [
+            "Phải đề nghị hòa bình hòa bình (nếu chịu hàng thì bắt làm nô dịch nộp thuế)",
+            "Tấn công bất ngờ ban đêm cướp bóc",
+            "Châm lửa đốt sạch thành trì từ ngoài",
+            "Nhờ tiên tri nguyền rủa thành phố trước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu thành phố từ chối hòa bình chiến đấu chống lại Ít-ra-en, xử lý ra sao khi thắng trận?",
+          "options": [
+            "Giết hết nam giới bằng gươm, chỉ giữ lại phụ nữ trẻ con gia súc làm chiến lợi phẩm",
+            "Tha mạng toàn bộ dân chúng bắt làm nô lệ",
+            "Chỉ tịch thu tài sản vàng bạc trục xuất người",
+            "Đốt sạch thành trì không giữ lại chiến lợi phẩm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định này đối với các thành phố của bảy dân tộc Ca-na-an đất hứa thế nào?",
+          "options": [
+            "Cấm chừa lại một mạng sống nào sống sót; phải tiêu diệt hoàn toàn tránh lây nhiễm thờ thần giả",
+            "Áp dụng luật hòa bình tương tự như thành phố xa xôi",
+            "Cho phép họ đầu hàng làm nô dịch chăn cừu",
+            "Chỉ giết các thủ lĩnh còn dân chúng tha mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật nhân đạo cấm đốn hạ loại cây nào của thành phố khi bao vây dài ngày?",
+          "options": [
+            "Cấm chặt phá cây ăn quả ăn quả (vì cây rừng không phải là người để chiến đấu)",
+            "Cấm chặt cây tuyết tùng làm đai khiên",
+            "Cấm chặt cây ô-liu thắp đèn",
+            "Chặt phá tự do mọi cây cối lấy củi nướng thịt"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "questions": [
+        {
+          "text": "Nếu phát hiện xác người chết ngoài đồng không rõ ai giết hại, việc quy trách nhiệm thuộc về ai?",
+          "options": [
+            "Bô lão và tư tế đo đạc khoảng cách tìm thành phố gần nhất gần nhất chịu trách nhiệm chuộc tội",
+            "Bỏ qua không cần xử lý vì hoang địa rộng",
+            "Trục xuất toàn bộ dân cư vùng đó",
+            "Sung công quỹ đất đai khu vực đó cho đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi lễ chuộc tội mạng người vô tội của thành phố gần nhất yêu cầu sát tế con vật gì?",
+          "options": [
+            "Một con bò cái tơ tơ chưa mang ách cày kéo bẻ cổ bên dòng suối chảy",
+            "Một con dê đực đen lớn thiêu hủy",
+            "Một con chiên con hoàn hảo làm toàn thiêu",
+            "Đôi chim bồ câu non đền tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bô lão thành phố gần nhất phải làm hành động gì trên xác con bò cái tơ chuộc tội?",
+          "options": [
+            "Rửa tay bằng nước suối chảy trên đầu con bò và thề tuyên bố vô tội về vụ đổ máu",
+            "Xức dầu thánh lên sừng bò",
+            "Cắt lông đầu bò dâng hương tế lễ",
+            "Đem nướng thịt bò chia đều cho dân thành ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật cưới phụ nữ tù binh chiến tranh yêu cầu làm những nghi thức vệ sinh nào trước khi cưới?",
+          "options": [
+            "Đưa về nhà, cạo đầu, cắt móng tay chân, mặc y phục chịu tang cha mẹ trong một tháng trọn",
+            "Bắt cô ta chịu phép cắt bì nữ",
+            "Phải nộp phạt tiền chuộc giá mười si-clơ bạc",
+            "Bắt cô ta ăn chay thanh tẩy bảy ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu sau này người chồng ghét bỏ phụ nữ tù binh đã cưới làm vợ, cấm làm hành động gì?",
+          "options": [
+            "Cấm bán cô ta lấy tiền, cấm đối xử như nô lệ vì đã hạ nhục cô; phải cho cô tự do ra đi",
+            "Được phép bán cô sang nước khác lấy vàng",
+            "Được phép bắt cô làm nô dịch suốt đời",
+            "Báo tư tế bắt giam cô vào đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật quyền trưởng nam quy định thế nào nếu cha ghét mẹ của con trai trưởng?",
+          "options": [
+            "Phải chia hai phần sản nghiệp sản nghiệp cho con trưởng nam dẫu là con người vợ bị ghét",
+            "Được tước quyền trưởng nam trao cho con người vợ yêu",
+            "Đất đai con trưởng nam bị sung công quỹ đền thờ",
+            "Tự ý cha chia tài sản tùy thích"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho đứa con ngỗ nghịch, bất trị, sa đọa ăn chơi không nghe lời cha mẹ răn dạy là gì?",
+          "options": [
+            "Cha mẹ dẫn hắn ra cửa thành trình bô lão và dân chúng ném đá chết ném đá chết hắn để răn đe",
+            "Phạt đánh đòn ba mươi roi trước công đoàn",
+            "Trục xuất hắn ra ngoài hoang địa tự sinh tự diệt",
+            "Phạt làm nô lệ cho tư tế Lê-vi trừ nợ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định chôn cất xác phạm nhân bị treo trên cây gỗ là gì?",
+          "options": [
+            "Phải hạ xác xuống chôn cất ngay trong ngày; cấm để qua đêm vì kẻ bị treo là kẻ bị Chúa nguyền rủa nguyền rủa",
+            "Để xác treo bảy ngày cho chim ăn cảnh cáo",
+            "Đem đốt xác thành tro rải ngoài sa mạc",
+            "Cấm không chôn cất vứt xác cho thú dữ ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân đạo của luật chôn cất xác treo trong ngày là gì?",
+          "options": [
+            "Để miền đất Chúa ban cho các ngươi làm sản nghiệp không bị ô uế ô uế",
+            "Tránh mùi hôi thối mất vệ sinh doanh trại",
+            "Thể hiện lòng tôn trọng phạm nhân quá cố",
+            "Tránh việc gia đình nạn nhân cướp xác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi thực hiện nghi thức bẻ cổ bò cái tơ chuộc tội mạng người chết ngoài đồng là ở đâu?",
+          "options": [
+            "Một thung lũng nước chảy quanh năm, chưa từng cày cấy gieo hạt gieo hạt",
+            "Ngoài sân hành lang cạnh bàn thờ đồng đền tạm",
+            "Tại cổng thành phố gần nhất",
+            "Trong rừng sồi Ga-la-át hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "questions": [
+        {
+          "text": "Luật giúp đỡ anh em yêu cầu làm gì khi thấy súc vật (bò, lừa, chiên) của anh em bị lạc dọc đường?",
+          "options": [
+            "Cấm bỏ qua giả vờ không thấy; phải dắt hộ dắt về trả lại cho anh em mình",
+            "Tự ý giữ lại nuôi dưỡng làm của riêng",
+            "Báo cho tư tế Lê-vi đến bắt đem hiến tế",
+            "Đuổi súc vật đi nơi khác lánh tai tiếng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật cải trang quy định thế nào về y phục nam và nữ?",
+          "options": [
+            "Phụ nữ cấm mặc đồ nam, nam giới cấm mặc đồ nữ; đó là điều ghê tởm ghê tởm trước mặt Chúa",
+            "Được phép cải trang khi đi do thám quân thù",
+            "Chỉ cấm mặc đồ khác giới vào ngày sa-bát thánh",
+            "Tự do mặc mặc gì tùy thích theo thời trang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật nhân đạo bảo vệ tổ chim tự nhiên yêu cầu thế nào khi bắt được tổ chim?",
+          "options": [
+            "Được lấy chim non trứng, nhưng cấm tuyệt đối bắt chim mẹ; phải thả chim mẹ bay đi bay đi",
+            "Bắt cả chim mẹ lẫn chim non về nuôi",
+            "Đốt cháy tổ chim tiêu diệt mầm mống bẩn",
+            "Mang cả chim mẹ con dâng lễ tế chuộc tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định xây dựng nhà mới yêu cầu thiết kế lan can (parapet) trên mái bằng để làm gì?",
+          "options": [
+            "Để ngăn ngừa người khác bị ngã rơi ngã rơi khỏi sân thượng gây nợ máu cho nhà ngươi",
+            "Để làm chỗ treo cờ hiệu chi tộc",
+            "Để phơi nông sản hạt lúa mì an toàn",
+            "Để tư tế Lê-vi đứng chúc lành từ xa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật lai tạo nông nghiệp cấm kéo cày chung hai loại động vật nào?",
+          "options": [
+            "Cấm cày chung một con bò với một con lừa lừa",
+            "Cấm dùng bò cái kéo cày chung bò đực",
+            "Cấm dùng ngựa chiến kéo cày ruộng",
+            "Không giới hạn súc vật kéo cày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chất liệu dệt y phục cấm pha trộn kết hợp là gì?",
+          "options": [
+            "Cấm mặc áo dệt bằng hai chất liệu sợi pha trộn: len và sợi lanh lanh",
+            "Cấm pha sợi tơ tằm Ai Cập với chỉ thường",
+            "Cấm mặc áo nhuộm đỏ thắm pha xanh",
+            "Chỉ được mặc áo thêu hoa văn chỉ vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho kẻ ngoại tình giao hợp với phụ nữ đã có chồng là gì?",
+          "options": [
+            "Cả hai kẻ ngoại tình (nam và nữ) đều phải bị xử tử hình xử tử hình",
+            "Chỉ phạt tiền nộp đền bù cho người chồng",
+            "Người nam bị phạt roi còn người nữ bị đuổi đi",
+            "Bị trục xuất ra ngoài hoang địa vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu một trinh nữ đã đính hôn giao hợp với người nam khác ở trong thành mà không kêu cứu, phạt thế nào?",
+          "options": [
+            "Cả hai đều bị dẫn ra cổng thành ném đá chết ném đá chết",
+            "Chỉ người nam bị xử tử hình",
+            "Người nam phải nộp năm mươi si-clơ bạc chuộc",
+            "Được tha nếu hai gia đình đồng ý hủy hôn cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu người nam cưỡng hiếp trinh nữ đã đính hôn ngoài đồng ruộng vắng vẻ, phạt thế nào?",
+          "options": [
+            "Chỉ một mình người nam cưỡng hiếp bị xử tử hình; cô gái vô tội vì cô đã kêu cứu mà ruộng vắng không ai nghe",
+            "Cả hai vẫn bị ném đá chết vì mất trinh",
+            "Người nam phải cưới cô ta làm vợ kế",
+            "Người nam nộp phạt tiền cho tư tế Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ cưỡng hiếp trinh nữ chưa đính hôn bị phạt thế nào về tiền bạc và hôn nhân?",
+          "options": [
+            "Phải nộp năm mươi si-clơ bạc cho cha cô và bắt cưới cô làm vợ, cấm ly dị suốt đời",
+            "Phải chịu xử tử hình ném đá ngay",
+            "Phải nộp mười con chiên đền tội đền tạm",
+            "Chỉ cần trả tiền phạt roi cảnh cáo"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "questions": [
+        {
+          "text": "Những đối tượng bị cấm không được vào hội chúng ĐỨC CHÚA (cả con cháu mười đời) vì tội ác quá khứ là ai?",
+          "options": [
+            "Dân Am-môn và dân Mô-áp Mô-áp (vì không tiếp man-na nước và thuê Ba-la-am nguyền rủa)",
+            "Dân Ê-đôm dòng dõi Ê-sau",
+            "Dân Ma-đi-an chiến bại",
+            "Người ngoại kiều Ai Cập mới nhập cư"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân tộc ngoại bang nào dân cấm không được ghê tởm xa lánh vì họ là anh em huyết thống?",
+          "options": [
+            "Dân Ê-đôm (Edomites anh em Ê-sau) và dân Ai Cập (nơi dân từng cư ngụ)",
+            "Dân Ca-na-an bản địa",
+            "Dân Ma-đi-an",
+            "Dân Phi-li-tinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật vệ sinh doanh trại yêu cầu mỗi chiến binh phải mang theo vật dụng gì khi ra ngoài trại?",
+          "options": [
+            "Một chiếc cuốc nhỏ (peg) để đào đất lấp phân ngoài doanh trại",
+            "Một bình nước thánh đền tạm",
+            "Một cây gậy phép tư tế",
+            "Một đai túi chứa muối trắng khử mùi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do doanh trại quân đội Ít-ra-en phải giữ sạch sẽ tuyệt đối là gì?",
+          "options": [
+            "Vì ĐỨC CHÚA đi lại giữa doanh trại để bảo vệ và trao quân thù cho các anh; trại phải thánh thiện",
+            "Để tránh dịch bệnh lây lan quân sĩ",
+            "Tránh mùi hôi thối thu hút thú dữ sa mạc",
+            "Để làm gương văn minh cho quân thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật bảo vệ nô lệ trốn thoát từ chủ nước ngoài quy định thế nào?",
+          "options": [
+            "Cấm giao nộp họ lại cho chủ cũ; cho phép họ cư ngụ tự do tự do tại bất kỳ thành nào họ thích",
+            "Bắt giam họ giao nộp cho tư tế làm nô dịch đền tạm",
+            "Trục xuất họ quay lại nước cũ ngay",
+            "Phạt tiền vàng bảo lãnh cư trú"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiền kiếm được từ hành vi mại dâm nam nữ đền thờ tà thần có được dâng hiến đền tạm không?",
+          "options": [
+            "Cấm mang tiền công đi điếm hay tiền công khuyển sắc (mại dâm nam) dâng thề hứa; đó là của ghê tởm",
+            "Được phép dâng nếu quy đổi ra si-clơ bạc thánh điện",
+            "Chỉ tư tế Lê-vi mới được phép nhận xài riêng",
+            "Đem sung công quỹ đền thờ cứu trợ góa phụ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định cho vay lấy lãi đối với đồng bào và người nước ngoài thế nào?",
+          "options": [
+            "Cấm cho đồng bào vay lấy lãi tiền bạc lương thực; nhưng được phép lấy lãi người nước ngoài ngoại quốc",
+            "Cấm lấy lãi suất đối với tất cả mọi người kể cả ngoại kiều",
+            "Được lấy lãi suất cao tùy ý đối với đồng bào nghèo",
+            "Chỉ lấy lãi suất vào Năm Hân Hoan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật thề hứa dâng hiến tự nguyện quy định thế nào nếu dân khấn hứa?",
+          "options": [
+            "Đừng chậm trễ thực hiện lời khấn hứa khấn hứa; vì Chúa chắc chắn đòi hỏi và chậm trễ sẽ mắc tội",
+            "Được tự ý hủy bỏ lời khấn nếu quên",
+            "Phải nộp phạt gấp đôi nếu trễ hạn một năm",
+            "Nếu không thề hứa thì tự động mắc tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật ăn nho ruộng láng giềng dọc đường cho phép và cấm hành động gì?",
+          "options": [
+            "Được ăn nho no nê thỏa thích, nhưng cấm bỏ nho vào thúng mang về mang về",
+            "Được phép hái nho mang về nhà cho vợ con",
+            "Bị coi là tội trộm cắp nếu ăn nho chưa trả tiền",
+            "Chỉ được ăn nho rơi rụng đất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật ăn lúa mì ruộng láng giềng dọc đường cho phép và cấm hành động gì?",
+          "options": [
+            "Được bứt bông lúa vò tay ăn, nhưng cấm mang liềm cắt lúa mì láng giềng",
+            "Được dùng liềm cắt một bó nhỏ mang về",
+            "Cấm chạm vào hạt lúa khi chưa được chủ đồng ý",
+            "Phải trả tiền xu đồng cho chủ ruộng"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "questions": [
+        {
+          "text": "Luật ly dị quy định người chồng phải viết vật dụng gì trao tay vợ trước khi đuổi đi?",
+          "options": [
+            "Chứng thư ly thư ly dị ly thư (certificate of divorce) trao tay",
+            "Một lá đơn xin lỗi gia đình vợ",
+            "Một bản cam kết trả lại sính lễ cưới",
+            "Không cần viết gì chỉ cần nói to trước bô lão"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu người phụ nữ bị ly dị lấy chồng sau rồi chồng sau cũng ly dị/chết, chồng đầu tiên cấm làm gì?",
+          "options": [
+            "Cấm cưới lại cô ta làm vợ vì cô đã bị ô uế và sẽ gây tội lỗi ô uế miền đất",
+            "Được phép cưới lại tự do bình thường",
+            "Cưới lại cô ta làm vợ kế phụ",
+            "Phải đóng phạt tiền chuộc cho tư tế Lê-vi mới cưới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định nhân đạo đối với người nam mới cưới vợ trong năm đầu tiên là gì?",
+          "options": [
+            "Miễn nghĩa vụ đi lính đi lính, miễn gánh vác việc công để ở nhà làm vợ vui suốt một năm trọn",
+            "Phải đi cày ruộng đền tạm gấp đôi để nuôi vợ",
+            "Phải chịu phạt roi thử thách lòng chung thủy",
+            "Không được phép đi buôn bán xa quá một tuần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật dụng sinh hoạt căn bản nào cấm giữ làm đồ thế chấp thế nợ?",
+          "options": [
+            "Cối đá và thớt cối xay bột (vì giữ chúng là giữ chính nguồn sống con người)",
+            "Trang sức khuyên tai vàng của phụ nữ",
+            "Y phục phẩm phục tư tế dòng Lê-vi",
+            "Chuồng súc vật chăn nuôi gia đình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho kẻ bắt cóc đồng bào Ít-ra-en làm nô lệ hoặc bán đi là gì?",
+          "options": [
+            "Kẻ bắt cóc đó phải bị xử tử hình xử tử hình",
+            "Phải nộp phạt năm mươi si-clơ bạc chuộc",
+            "Bị phạt roi năm mươi roi răn đe",
+            "Bị trục xuất ra ngoài hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định cấm vào nhà người mắc nợ để tự ý tịch thu đồ thế chấp nhằm mục đích gì?",
+          "options": [
+            "Để tôn trọng danh dự phẩm giá cá nhân người nghèo; phải đứng ngoài đợi họ mang đồ ra ra ngoài",
+            "Để tránh bị người nợ tấn công phòng thủ",
+            "Để tư tế Lê-vi đứng ra làm trung gian thu nợ",
+            "Tránh việc trộm cắp thêm tài sản khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu đồ thế chấp nợ của người nghèo là chiếc áo choàng mặc, quy tắc hoàn trả thế nào?",
+          "options": [
+            "Phải trả lại trước khi mặt trời lặn lặn để họ có áo ấm đắp ngủ ban đêm",
+            "Được giữ cho đến khi họ trả hết nợ",
+            "Đem bán đấu giá thu hồi nợ ngay",
+            "Dâng nộp làm thảm trải nền đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định trả tiền công thợ cho người làm thuê nghèo khổ thế nào?",
+          "options": [
+            "Phải trả tiền công trong ngày trước khi mặt trời lặn lặn vì họ nghèo khổ trông mong tiền lương",
+            "Được trả chậm trong vòng một tuần lễ",
+            "Có thể trả bằng thực phẩm thay tiền công",
+            "Chỉ trả tiền công vào ngày sa-bát thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật tư pháp quy định trách nhiệm hình sự gia đình thế nào ở câu 16?",
+          "options": [
+            "Cha mẹ không phải chết thay con cái, con cái không chết thay cha mẹ; ai phạm tội nấy chết chết",
+            "Cả gia đình phải chịu chết chung nếu có người phản loạn",
+            "Con trưởng nam phải chịu phạt thay cha mẹ quá cố",
+            "Chi tộc phải chịu gánh tội lỗi của cá nhân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần hoa lợi nông sản sót lại ở ruộng, vườn nho, cây ô-liu khi thu hoạch dành cho ai?",
+          "options": [
+            "Dành cho ngoại kiều, cô nhi và quả phụ nghèo mót lấy lấy",
+            "Dành cho tư tế Lê-vi thu gom làm lễ chay",
+            "Chủ ruộng được phép gặt sạch rìa ruộng",
+            "Đem đốt làm tro nước tẩy uế đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "questions": [
+        {
+          "text": "Giới hạn số lượng roi tối đa khi xử phạt đánh đòn phạm nhân để tránh sỉ nhục là bao nhiêu?",
+          "options": [
+            "Bốn mươi roi (40 roi tối đa, cấm đánh quá kẻo anh em bị hạ giá sỉ nhục)",
+            "Ba mươi chín roi",
+            "Năm mươi roi",
+            "Ba mươi roi chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật bảo vệ súc vật lao động cấm hành động gì khi con bò đạp lúa?",
+          "options": [
+            "Không được bịt mõm con bò đang đạp lúa đạp lúa (để nó được ăn hạt lúa rụng)",
+            "Cấm dùng roi đánh bò khi cày ruộng",
+            "Cấm dùng lừa kéo cày chung bò",
+            "Phải cho bò nghỉ ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật hôn nhân thế tộc (Le-vi-ra-te) quy định thế nào nếu chồng qua đời chưa có con trai?",
+          "options": [
+            "Anh em trai của chồng phải cưới chị/em dâu góa để nối dõi tông đường nối tông đường cho người chết",
+            "Người vợ góa được tự do kết hôn với người ngoài chi tộc",
+            "Người vợ góa phải ở góa suốt đời thờ chồng",
+            "Đất đai tài sản người chết thuộc về đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi thức nhục nhã người vợ góa thực hiện nếu người anh em chồng từ chối cưới cô?",
+          "options": [
+            "Cởi giày của hắn, nhổ nước bọt vào mặt hắn mặt hắn trước bô lão và đặt tên nhà là 'Nhà kẻ cởi giày'",
+            "Cạo đầu hắn trọc bôi tro đen mặt",
+            "Báo phán quan bắt hắn nộp phạt mười si-clơ vàng",
+            "Trục xuất hắn ra ngoài hoang địa biệt xứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu phụ nữ can thiệp đánh nhau nắm bộ phận nhạy cảm đàn ông, phạt thế nào?",
+          "options": [
+            "Phải chặt bàn tay cô ta cấm lòng ngươi thương xót",
+            "Phạt nộp năm mươi si-clơ bạc chuộc",
+            "Bị ném đá chết ngoài cửa thành",
+            "Bị phạt roi ba mươi roi trước dân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định thương mại yêu cầu gì về quả cân và đấu đong lường?",
+          "options": [
+            "Phải có quả cân đúng, đấu đúng lường đúng công bình công bình cấm hai lòng cân đấu khác nhau",
+            "Được dùng quả cân lớn khi mua và nhỏ khi bán lấy lời",
+            "Chỉ dùng si-clơ bạc thánh điện đo lường vàng bạc",
+            "Do tư tế Lê-vi tự ý định đoạt giá cân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa lệnh phải tiêu diệt sạch trí nhớ của dân tộc tàn ác nào dưới gầm trời khi vào Ca-na-an?",
+          "options": [
+            "Dân A-ma-lếch (Amalekites kẻ đánh bọc hậu người yếu mệt khi ra khỏi Ai Cập)",
+            "Dân Mô-áp",
+            "Dân Ê-đôm",
+            "Dân Ai Cập cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao tội ác của dân A-ma-lếch lại bị Chúa thề tiêu diệt vĩnh viễn?",
+          "options": [
+            "Vì họ tấn công tàn nhẫn những người đi sau mệt mỏi yếu ớt yếu ớt của Ít-ra-en và không kính sợ Chúa",
+            "Vì họ cướp Hòm Bia Giao Ước của dân",
+            "Vì họ đúc tượng bò vàng dọa dẫm dân",
+            "Vì họ cự tuyệt cho Mô-sê đi đường hòa bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên gọi ngôi nhà của người từ chối thực hiện luật hôn nhân thế tộc là gì?",
+          "options": [
+            "Nhà kẻ cởi giày (House of the Unsandaled)",
+            "Nhà người phản loạn",
+            "Nhà không có con trai",
+            "Nhà ô uế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Việc cởi giày của người anh em chồng mang ý nghĩa pháp lý gì thời cổ đại?",
+          "options": [
+            "Từ bỏ quyền sở hữu và nghĩa vụ đối với sản nghiệp gia đình người quá cố",
+            "Biểu thị sự nghèo túng không có tiền mua dép",
+            "Chuẩn bị đi làm nô dịch đền tạm",
+            "Chịu tang chế cho người anh em đã chết"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "questions": [
+        {
+          "text": "Nghi thức dâng hoa lợi đầu mùa thu hoạch yêu cầu dâng cúng vật gì và ở đâu?",
+          "options": [
+            "Đặt hoa quả đầu mùa vào giỏ mang đến dâng cho tư tế tại Nơi Chúa chọn",
+            "Dâng tế lễ bò tơ tại lều riêng",
+            "Mang hoa quả dâng cho bô lão cổng thành",
+            "Đốt thiêu hoàn toàn hoa quả ngoài trại hố tro"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời tuyên xưng đức tin lịch sử bắt đầu nghi thức dâng đầu mùa nhắc lại tổ phụ là ai?",
+          "options": [
+            "Tổ phụ con là người A-ram phiêu bạt phiêu bạt (du mục Jacob xuống Ai Cập)",
+            "Tổ phụ con là vua xứ Ai Cập cổ",
+            "Tổ phụ Mô-sê tôi trung của Chúa",
+            "Tổ phụ A-hác-rôn thượng tế dòng Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en cam kết thuộc về Chúa làm dân riêng oai nghiêm thì Chúa hứa ban gì cho họ?",
+          "options": [
+            "Đặt các ngươi vượt trên mọi dân tộc về danh tiếng, oai phong, vinh quang vinh quang dân thánh",
+            "Ban cho họ vương quốc giàu có súc vật vàng bạc nhất thế giới",
+            "Cho họ thống trị toàn bộ lục địa châu Phi",
+            "Miễn trừ hoàn toàn việc chiến đấu Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thuế thập phân năm thứ ba (Năm thập phân) quy định dâng hiến cho những ai?",
+          "options": [
+            "Người Lê-vi, ngoại kiều, cô nhi và quả phụ quả phụ địa phương ăn no nê",
+            "Mang nộp toàn bộ vào kho vàng đền tạm trung tâm",
+            "Thượng tế Ê-la-da độc quyền hưởng dùng",
+            "Chiến sĩ quân đội ra trận làm lương thực"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu khẩn của dân sau khi hoàn tất thuế thập phân năm thứ ba hướng về đâu?",
+          "options": [
+            "Từ ngự sở thánh ở trên trời xin Chúa nhìn xuống chúc lành chúc lành cho dân và đất đai",
+            "Cầu xin Mô-sê ban phước lành",
+            "Cầu xin Hòm Bia Giao Ước phát sáng",
+            "Xin Chúa cho phép chôn cất Mô-sê tại đất hứa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Miền đất Chúa ban hứa hẹn tuôn chảy hai dòng sản vật thiêng liêng nào?",
+          "options": [
+            "Sữa và mật (land flowing with milk and honey)",
+            "Nước ngọt và rượu nho",
+            "Dầu ô-liu và mật ong",
+            "Vàng và bạc ròng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bổn phận vâng lời Chúa đòi hỏi dân phải tuân giữ các mệnh lệnh thế nào?",
+          "options": [
+            "Hãy lo tuân giữ giữ hết lòng hết dạ trọn vẹn",
+            "Được phép chọn giữ những luật dễ bỏ luật khó",
+            "Nhờ tư tế giải bớt luật hàng năm",
+            "Chép luật ra giấy da đốt lấy tro uống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mối quan hệ cam kết song phương giữa Chúa và Ít-ra-en được thiết lập gọi là gì?",
+          "options": [
+            "Giao ước cam kết đức tin (Chúa làm Thiên Chúa của dân, dân làm dân riêng của Chúa)",
+            "Hiệp ước liên minh quân sự",
+            "Hợp đồng kinh tế thương mại Ca-na-an",
+            "Hiến pháp chính trị hoàng gia Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi thức dâng giỏ hoa quả đầu mùa biểu thị thái độ gì của dân?",
+          "options": [
+            "Lòng biết ơn sâu xa đối với miền đất hứa Chúa đã ban ban đúng lời thề tổ phụ",
+            "Bổn phận đóng thuế bắt buộc cho tư tế",
+            "Sự giàu sang sung túc của chủ ruộng",
+            "Sự chuộc lỗi cho tội thờ bò vàng quá khứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người trực tiếp nhận giỏ hoa quả đầu mùa từ tay người dâng đặt trước bàn thờ Chúa?",
+          "options": [
+            "Vị tư tế đang trực lễ đền thờ",
+            "Đích thân Mô-sê",
+            "Bô lão trưởng tộc chi tộc",
+            "Thẩm phán tối cao Giô-suê"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "questions": [
+        {
+          "text": "Dân phải dựng các tảng đá lớn viết toàn bộ luật pháp bôi vôi trên ngọn núi nào ngay sau khi vượt sông?",
+          "options": [
+            "Núi Ê-van (Mount Ebal nơi viết luật dựng bàn thờ đá)",
+            "Núi Gơ-ri-dim",
+            "Núi Xi-nai",
+            "Núi Nê-bô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định xây dựng bàn thờ bằng đá trên núi Ê-van cấm dùng công cụ gì đẽo gọt?",
+          "options": [
+            "Cấm dùng công cụ bằng sắt sắt chạm đẽo đá (đá nguyên khối tự nhiên)",
+            "Cấm dùng gỗ keo làm khung bàn thờ",
+            "Cấm dùng vôi quét trắng đá bàn thờ",
+            "Cấm châm lửa đốt bàn thờ bằng dầu hỏa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Có bao nhiêu chi tộc đứng trên núi Gơ-ri-dim để công bố lời chúc phúc?",
+          "options": [
+            "Sáu chi tộc (Sê-môn, Lê-vi, Giu-đa, Y-xa-kha, Giô-sép, Bên-gia-min)",
+            "Mười hai chi tộc",
+            "Ba chi tộc",
+            "Chín chi tộc rưỡi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Có bao nhiêu chi tộc đứng trên núi Ê-van để công bố lời nguyền rủa chúc dữ?",
+          "options": [
+            "Sáu chi tộc (Ru-bên, Gát, A-sê, Dơ-vu-lun, Đan, Náp-ta-li)",
+            "Mười hai chi tộc",
+            "Bốn chi tộc",
+            "Không có chi tộc nào đứng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai có nhiệm vụ đọc to các lời nguyền rủa rủa sả đối với các tội ác bí mật?",
+          "options": [
+            "Các tư tế dòng Lê-vi Lê-vi đọc to trước toàn dân",
+            "Đích thân ông Mô-sê đọc",
+            "Thẩm phán Giô-suê",
+            "Thủ lĩnh 12 chi tộc đồng thanh đọc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của toàn thể dân chúng sau mỗi lời nguyền rủa tư tế đọc là gì?",
+          "options": [
+            "Đồng thanh nói: A-men! (Amen ý nghĩa xin được như vậy)",
+            "Họ giữ im lặng tang chế",
+            "Họ khóc lóc sợ hãi bỏ chạy",
+            "Họ dâng lễ tế chiên đền tội ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời nguyền rủa thứ hai trong danh sách lên án tội ác nào gia đình?",
+          "options": [
+            "Đáng nguyền rủa thay kẻ khinh dể cha mẹ mình cha mẹ mình",
+            "Kẻ đúc tượng bò vàng thờ lạy",
+            "Kẻ dịch chuyển ranh giới đất láng giềng",
+            "Kẻ loạn luân với chị em ruột"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời nguyền rủa thứ tư lên án tội ác tàn nhẫn nào đối với người mù?",
+          "options": [
+            "Đáng nguyền rủa thay kẻ làm cho người mù lạc đường lạc đường",
+            "Kẻ nguyền rủa người điếc câm",
+            "Kẻ không giúp đỡ người khuyết tật nghèo",
+            "Kẻ bắt người mù đi lính chiến đấu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời nguyền rủa cuối cùng (thứ mười hai) đúc kết nội dung gì?",
+          "options": [
+            "Đáng nguyền rủa thay kẻ không giữ vững các lời luật pháp này để thi hành",
+            "Kẻ thờ hình tượng mặt trời mặt trăng",
+            "Kẻ ăn máu huyết súc vật",
+            "Kẻ không nộp thuế thập phân năm thứ ba"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao bàn thờ đá trên núi Ê-van lại cấm dùng công cụ sắt đẽo gọt?",
+          "options": [
+            "Vì công cụ sắt chạm vào làm ô uế ô uế đá thánh hiến tự nhiên của Chúa",
+            "Vì sắt thép thời đó quá hiếm và đắt",
+            "Để tránh tiếng ồn ào khi xây dựng bàn thờ",
+            "Theo quy tắc nghệ thuật điêu khắc Do Thái cổ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "questions": [
+        {
+          "text": "Lời hứa chúc phúc oai hùng nếu dân vâng lời Chúa được ví thế nào về vị thế lãnh đạo?",
+          "options": [
+            "Chúa làm cho các anh làm đầu, chứ không làm đuôi, luôn ở trên, không ở dưới dưới",
+            "Ban cho dân vương quốc thống trị toàn thế giới vĩnh viễn",
+            "Họ không bao giờ phải làm việc đồng áng cực nhọc",
+            "Chúa cho họ bay lượn che mát cột mây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúc phúc nông nghiệp hứa hẹn điều gì về bồn chứa bọc và lò nướng bánh?",
+          "options": [
+            "Chúc phúc cho giỏ trái cây và thùng nhào bột nhào bột của ngươi",
+            "Chúc phúc cho chiến xa vàng cướp được",
+            "Ban cho bồn dầu mới luôn tràn trề",
+            "Không có sâu bọ phá hoại mùa màng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa chúc phúc về mặt quốc phòng an ninh được mô tả thế nào?",
+          "options": [
+            "Quân thù đi một đường tấn công các ngươi nhưng sẽ chạy trốn bảy đường bảy đường trước mặt ngươi",
+            "Thành lũy tự phát sáng chói lọi xua đuổi địch",
+            "Chúa cho thiên sứ cầm gươm lửa diệt địch trước",
+            "Quân địch tự nguyện dâng nộp giang sơn xin hàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngược lại, lời nguyền rủa chúc dữ đầu tiên về kinh tế nông nghiệp khi bất tuân là gì?",
+          "options": [
+            "Nguyền rủa giỏ trái cây và thùng nhào bột nhào bột của ngươi mất mùa",
+            "Hạn hán cạn nước uống ba ngày",
+            "Côn trùng bay phá hoại sạch rễ cây ăn quả",
+            "Mưa đá tàn phá toàn bộ lều trại súc vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời nguyền rủa chúc dữ về tâm thần và sức khỏe khi nổi loạn là gì?",
+          "options": [
+            "Chúa sẽ phạt ngươi điên cuồng, mù lòa và hoảng loạn hoảng loạn tâm thần",
+            "Bị dịch bệnh cùi phong trắng mặt ngay lập tức",
+            "Bị mù mắt không thấy đường đi",
+            "Bị ngất xỉu hôn mê ba ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thảm cảnh kinh hoàng tột độ nào được tiên báo xảy ra khi thành phố bị bao vây đói kém tột cùng?",
+          "options": [
+            "Các ngươi sẽ ăn thịt chính con trai con gái mình mình sinh ra vì đói kém bấn loạn",
+            "Dân phải ăn cỏ khô sa mạc thay cơm",
+            "Phải mua bánh đắt đỏ từ Ai Cập",
+            "Dân phải cướp giật bánh dâng tiến đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cảnh tượng lưu đày tản mát chúc dữ tiên báo số phận dân Ít-ra-en thế nào?",
+          "options": [
+            "Ngươi sẽ bị phân tán tản mát giữa mọi dân tộc từ đầu này đến đầu kia trái đất",
+            "Bị bắt quay lại Ai Cập làm nô dịch vĩnh viễn",
+            "Quân đội tự động giải tán đầu hàng làm nô lệ",
+            "Họ tự đánh nhau tranh giành của cải sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại đất lưu đày, cuộc sống của người Ít-ra-en được mô tả thế nào ở cuối chương 28?",
+          "options": [
+            "Lòng ngươi luôn phấp phỏng lo âu lo âu sợ hãi đêm ngày, mạng sống treo đầu sợi tóc",
+            "Họ sẽ được tôn vinh làm quan chức lớn ngoại quốc",
+            "Họ sẽ giàu có buôn bán lấy lãi cao",
+            "Họ quên tiếng Híp-ri cổ hoàn toàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa ví trời và đất Ca-na-an thế nào khi nguyền rủa dân bất tuân hạn hán?",
+          "options": [
+            "Trời trên đầu ngươi sẽ hóa đồng và đất dưới chân ngươi hóa sắt sắt",
+            "Trời tối đen như mực đất nứt nẻ",
+            "Trời mưa lửa đất phun lưu huỳnh",
+            "Trời cạn nước đất hóa đầm lầy máu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa giáo dục của chương 28 đối với dân Ít-ra-en lịch sử là gì?",
+          "options": [
+            "Cảnh tỉnh dân tuyệt đối về hậu quả đạo đức của việc trung thành hay phản bội Giao ước với Chúa",
+            "Để dọa dẫm các bộ tộc thù ngoại bang e dè",
+            "Để củng cố uy quyền cai trị của tư tế Lê-vi",
+            "Lập cẩm nang y khoa phòng dịch hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "questions": [
+        {
+          "text": "Mô-sê nhắc lại phép lạ bảo vệ thể xác suốt 40 năm hoang địa liên quan y phục giày dép là gì?",
+          "options": [
+            "Áo mặc không sờn rách, giày đi không mòn gót mòn gót chân suốt bốn mươi năm",
+            "Có thợ may Ai Cập đi cùng vá víu",
+            "Áo tự dài ra theo tuổi tác dân",
+            "Chúa cho mưa vải lanh từ trời xuống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thức ăn uống thiêng liêng Chúa nhắc dân kiêng cữ hoang địa để nhận biết Người là gì?",
+          "options": [
+            "Các ngươi không ăn bánh mì hạt ruộng, không uống rượu nho thức uống có men",
+            "Chỉ kiêng ăn thịt súc vật ô uế",
+            "Chỉ được uống nước suối ngọt núi Khô-rép",
+            "Cấm ăn man-na vào ngày sa-bát thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cảnh báo về kẻ kiêu ngạo tự mãn dẫu đi theo lòng chai đá tự nhủ thế nào?",
+          "options": [
+            "Tôi sẽ được an lành dẫu đi theo lòng chai đá của mình (Đất khô ruộng ướt tiêu vong)",
+            "Tôi sẽ đóng thuế thập phân bù đắp lỗi lầm",
+            "Tôi sẽ cúng bò tơ chuộc tội sau",
+            "Tôi có Mô-sê bảo lãnh không lo phạt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa đe dọa sẽ phạt miền đất hứa phản bội thế nào giống các thành phố tội lỗi cổ?",
+          "options": [
+            "Đất đầy diêm sinh, muối, cháy sém không gieo trồng được giống thảm cảnh Xơ-đôm và Gô-mô-ra",
+            "Đất bị động đất nuốt chửng hoàn toàn",
+            "Đất biến thành đầm lầy nước đắng vĩnh viễn",
+            "Đất bị sa mạc cát vàng phủ kín"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu nói nổi tiếng ở câu 29 phân biệt điều bí ẩn của Chúa và điều hiển minh của dân là gì?",
+          "options": [
+            "Những điều bí ẩn thuộc về Chúa; những điều hiển minh thuộc về chúng ta và con cháu vĩnh viễn để thi hành luật",
+            "Mọi bí mật vũ trụ Chúa đã giải thích hết cho Mô-sê",
+            "Cấm tìm hiểu các bí ẩn thiên nhiên",
+            "Chỉ tư tế Lê-vi mới được biết điều bí ẩn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích lập giao ước Mô-áp với thế hệ mới là để làm gì?",
+          "options": [
+            "Để thiết lập các ngươi làm dân riêng của Người và Người làm Thiên Chúa các ngươi đúng lời thề tổ phụ",
+            "Để chuẩn bị tuyển mộ chiến binh đi đánh Giê-ri-khô",
+            "Để thay thế hoàn toàn giao ước Xi-nai cũ bị vỡ",
+            "Để Vua tương lai có cơ sở pháp lý trị nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê nhắc lại phép lạ chiến thắng hai vua nào phía đông sông Gio-đan để khích lệ thế hệ mới?",
+          "options": [
+            "Vua Xi-hôn nước Hét-bôn và Vua Ốc xứ Ba-san",
+            "Vua xứ A-rát và Vua Ai Cập",
+            "Vua Ba-lác Mô-áp và các vua Ma-đi-an",
+            "Vua Giê-ri-khô và Vua Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi các thế hệ tương lai nhìn thấy miền đất bị tàn phá diêm sinh muối, họ sẽ hỏi câu hỏi gì?",
+          "options": [
+            "Tại sao Chúa lại nổi cơn thịnh nộ kinh khủng phạt miền đất nầy thế này?",
+            "Ai là người đã phá hủy thành trì kiên cố nầy?",
+            "Có phải quân đội ngoại bang tàn phá không?",
+            "Tại sao dân không tự đào kênh tưới tiêu ruộng?"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu trả lời cho câu hỏi tại sao đất hứa bị tàn phá diêm sinh muối là gì?",
+          "options": [
+            "Vì họ đã bỏ Giao ước của ĐỨC CHÚA và đi thờ các thần ngoại bang xa lạ",
+            "Vì khí hậu sa mạc biến đổi toàn cầu",
+            "Vì Mô-sê qua đời không có người cầu nguyện xin tha",
+            "Vì đất đai bạc màu tự nhiên sau nhiều năm trồng trọt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tác dụng của việc đọc Bài Ca Mô-sê hàng năm đối với dân là gì?",
+          "options": [
+            "Làm chứng nhân cảnh báo chống lại dân khi họ phản bội giao ước Chúa",
+            "Để dân ca hát vui vẻ dịp lễ vượt qua",
+            "Để học thuộc lòng lịch sử hoang địa Do Thái",
+            "Để xua đuổi các linh hồn tà thần ngoại giáo"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "questions": [
+        {
+          "text": "Chúa hứa khôi phục đưa dân lưu đày tản mát trở về quê hương khi họ đáp ứng điều kiện nào?",
+          "options": [
+            "Khi họ ăn năn thống hối, quay về với Chúa vâng nghe tiếng Người hết lòng hết dạ",
+            "Khi họ gom đủ vàng bạc dâng cúng xây lại đền thờ",
+            "Khi họ đánh thắng toàn bộ các nước cai trị họ",
+            "Khi thế hệ con cháu chịu cắt bì thể xác lần ba"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khái niệm cắt bì thiêng liêng Chúa hứa làm cho dân sau khi trở về là gì?",
+          "options": [
+            "Chúa sẽ cắt bì tâm hồn (ngực lòng) ngươi và dòng dõi để ngươi yêu mến Chúa hết lòng linh hồn",
+            "Bắt buộc cắt bì thể xác cho cả ngoại kiều cư ngụ",
+            "Cắt bì tâm hồn chỉ áp dụng đối với tư tế Lê-vi",
+            "Chúa xóa bỏ hoàn toàn luật cắt bì cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mệnh lệnh điều răn Chúa truyền dạy dân được khẳng định có khó giữ hay quá xa vời không?",
+          "options": [
+            "Mệnh lệnh nầy không quá vượt sức anh, cũng không ở quá xa vời vượt quá khả năng",
+            "Luật quá khó cấm dân thường không tự giữ nổi",
+            "Luật chỉ dành riêng cho thiên sứ trời cao giữ",
+            "Luật cần phải nhờ pháp sư giải mã hàng năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị trí thực sự của lời Chúa dạy được Mô-sê khẳng định ở câu 14 là ở đâu?",
+          "options": [
+            "Lời ở rất gần anh, ngay trong miệng và trong lòng anh để anh thi hành",
+            "Lời được giấu kín trong Nơi Cực Thánh Hòm Bia",
+            "Lời ngự trị trên đỉnh núi bốc lửa Xi-nai",
+            "Lời ghi khắc trên các tảng đá lớn núi Ê-van"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời kêu gọi quyết định lựa chọn tối hậu Mô-sê đặt trước mắt dân ở câu 19 là gì?",
+          "options": [
+            "Ta đặt trước mặt anh sự sống và cái chết, chúc phúc và nguyền rủa. Hãy chọn sự sống chọn sự sống để anh và dòng dõi được sống",
+            "Hãy lập Giô-suê làm vua cai trị ngay",
+            "Hãy dâng hiến súc vật bò tơ chuộc tội",
+            "Hãy quay lại Ai Cập xin hòa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Làm thế nào để 'chọn sự sống' theo lời khuyên của Mô-sê ở câu 20?",
+          "options": [
+            "Yêu mến ĐỨC CHÚA, nghe tiếng Người và gắn bó với Người; vì đó là nguồn sống của anh",
+            "Tích lũy nhiều vàng bạc súc vật Ca-na-an",
+            "Xây dựng thành trì kiên cố phòng thủ biên giới",
+            "Nhờ tư tế Lê-vi dâng lễ tế toàn thiêu hàng tuần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa hứa khôi phục đưa dân trở về dẫu họ bị đày đến tận phương trời nào?",
+          "options": [
+            "Dẫu các ngươi bị đày đến tận phương trời xa thẳm nhất thẳm nhất Chúa vẫn thu họp đưa về",
+            "Chỉ đưa về những người giàu có có thế lực",
+            "Chỉ cứu những người Lê-vi phụng vụ đền thờ",
+            "Họ tự đi bộ về Chúa không cản trở"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học lớn nhất của chương 30 là gì?",
+          "options": [
+            "Niềm hy vọng khôi phục tối hậu và lòng thương xót vô biên của Chúa vượt trên sự phán xét tội lỗi",
+            "Sự đe dọa trừng phạt vĩnh viễn không tha thứ",
+            "Quy tắc hành chính hồi hương dân di cư",
+            "Chuẩn bị lễ khánh thành đền thờ Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lòng dạ của dân sau khi được Chúa khôi phục trở về quê hương được hứa hẹn điều gì?",
+          "options": [
+            "Chúa làm cho họ được thịnh vượng, đông đúc hơn cả tổ phụ tổ phụ xưa",
+            "Họ sẽ không bao giờ phạm tội nữa vĩnh viễn",
+            "Họ được làm chủ toàn bộ của cải dân ngoại Ca-na-an",
+            "Họ được phép kết hôn tự do với mọi dân tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cuốn sách luật pháp được Mô-sê khẳng định vị trí tôn nghiêm thế nào đối với dân?",
+          "options": [
+            "Là cẩm nang nguồn sống hướng dẫn đức tin đạo đức hàng ngày cho dân giao ước",
+            "Là sách lịch sử để tham khảo khi rảnh rỗi",
+            "Chỉ dùng trong các nghi lễ phụng vụ đền thờ tư tế",
+            "Mô-sê tự viết giữ riêng cấm dân đọc"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "questions": [
+        {
+          "text": "Mô-sê từ biệt dân chúng khi ông bao nhiêu tuổi?",
+          "options": [
+            "Một trăm hai mươi tuổi (120 tuổi)",
+            "Một trăm tuổi",
+            "Tám mươi tuổi",
+            "Một trăm năm mươi tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khích lệ tinh thần Mô-sê dặn dân chúng và Giô-suê trước khi ra trận là gì?",
+          "options": [
+            "Hãy mạnh bạo và can đảm lên! Đừng sợ hãi, vì Chúa đi cùng anh, Người không bỏ rơi anh rơi anh",
+            "Hãy chế tạo thật nhiều vũ khí gươm giáo sắt",
+            "Nhờ bô lão kỳ mục dâng lễ bò tơ tạ tội",
+            "Hãy cử thám tử đi do thám Giê-ri-khô lần hai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê chép luật pháp ra sách rồi trao cho ai cất giữ bảo vệ?",
+          "options": [
+            "Trao cho các tư tế con cháu Lê-vi Lê-vi khiêng vác Hòm Bia và các bô lão",
+            "Trao riêng cho tướng Giô-suê cất giữ",
+            "Chôn giấu dưới cát sâu núi Nê-bô",
+            "Cất trong lều riêng của gia đình ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê lệnh đọc công khai cuốn sách luật pháp cho toàn dân vào dịp lễ nào và chu kỳ mấy năm?",
+          "options": [
+            "Mỗi bảy năm một lần vào dịp Lễ Lều Tạm năm sa-bát đất nghỉ sa-bát đất nghỉ",
+            "Hàng năm vào đêm lễ vượt qua mùa xuân",
+            "Mỗi năm mươi năm hân hoan giải phóng",
+            "Mỗi tuần vào ngày sa-bát tại đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa hiện ra trong hình dạng nào tại Lều Hội Ngộ khi Mô-sê và Giô-suê trình diện?",
+          "options": [
+            "Cột mây (pillar of cloud) đậu nơi lối vào lều",
+            "Cột lửa ngút trời cháy rực ban đêm",
+            "Ngọn lửa bốc cháy từ bụi cây gai",
+            "Một luồng sáng chói lọi phát ra tiếng sấm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa báo trước cho Mô-sê biết dân sẽ làm hành động phản bội nào sau khi ông qua đời?",
+          "options": [
+            "Dân sẽ nổi loạn đi thờ các thần ngoại Ca-na-an và phá vỡ giao ước Ta đã lập lập",
+            "Dân sẽ giết chết Giô-suê cướp Hòm Bia",
+            "Dân sẽ quay lại Ai Cập làm nô lệ tự nguyện",
+            "Dân sẽ bỏ bê không nộp thuế thập phân Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa bảo Mô-sê viết vật dụng gì để làm chứng chống lại dân khi họ phản bội tương lai?",
+          "options": [
+            "Viết chép một Bài Ca (Bài ca Mô-sê) dạy cho dân thuộc lòng",
+            "Khắc mười hai lời nguyền rủa lên cột đá",
+            "Đúc một con bò vàng khác cảnh cáo",
+            "Viết thư ly dị gửi cho toàn dân Ít-ra-en"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cuốn sách luật pháp sau khi hoàn chép được đặt ở vị trí nào của Hòm Bia Giao Ước?",
+          "options": [
+            "Đặt bên cạnh Hòm Bia Giao Ước (beside the Ark) làm chứng nhân",
+            "Đặt bên trong Hòm Bia chung với bia đá",
+            "Đặt trên nắp xá tội giữa hai Kê-ru-bim",
+            "Đặt dưới chân bàn thờ xông hương thơm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người trực tiếp nhận chức lãnh đạo kế vị Mô-sê do chính Chúa phong chức chúc lành?",
+          "options": [
+            "Ông Giô-suê con ông Nun Nun",
+            "Tư tế Ê-la-da",
+            "Quan tướng Ca-lếp",
+            "Con trai cả Mô-sê Ghẹt-sôm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê khẳng định thái độ của dân thế nào dẫu ông còn sống bên cạnh họ?",
+          "options": [
+            "Khi tôi còn sống hôm nay các người đã phản nghịch Chúa phương chi sau khi tôi chết chết!",
+            "Họ rất ngoan ngoãn vâng lời tôi suốt hoang địa",
+            "Họ kính sợ Chúa hết lòng hết linh hồn",
+            "Họ luôn đóng góp đầy đủ vàng bạc đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "questions": [
+        {
+          "text": "Bài ca Mô-sê kêu gọi đối tượng tự nhiên vĩ đại nào lắng nghe lời ông giảng dạy?",
+          "options": [
+            "Trời và đất đất (Hỡi trời hãy nghe tôi nói, hỡi đất hãy lắng nghe...)",
+            "Bầy súc vật hoang dã sa mạc",
+            "Cột mây ban ngày cột lửa ban đêm",
+            "Nguồn suối ngọt Mê-ri-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh thiên nhiên so sánh lời giảng dạy của Mô-sê sa giáng là gì?",
+          "options": [
+            "Sa giáng như mưa bóng, nhỏ giọt như sương sa sương sa trên cỏ non",
+            "Mạnh mẽ như bão cát sa mạc",
+            "Nóng cháy như lửa thiêu bàn thờ đồng",
+            "Vang dội như tiếng sấm sét núi Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê ca ngợi Thiên Chúa là Đấng Bảo Vệ vững chắc bằng danh hiệu nào?",
+          "options": [
+            "Đá Tảng (The Rock) công chính vĩnh cửu công việc Người hoàn hảo",
+            "Vua các vua tối cao trị nước",
+            "Người chăn chiên nhân lành dẫn dắt",
+            "Đấng ban man-na trời nuôi dưỡng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bài ca chỉ trích dân Ít-ra-en phản bội quên Chúa dẫu được Chúa nuôi no nê béo mập thế nào?",
+          "options": [
+            "Dân Giê-su-run béo mập, đá gót phản nghịch bỏ rơi Thiên Chúa Đấng tạo dựng mình",
+            "Dân Do Thái nghèo khổ đói khát đi thờ bò vàng",
+            "Dân tộc Ca-na-an xâm nhập cướp bóc đền tạm",
+            "Tư tế Lê-vi lười biếng dâng hiến súc vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en phạm tội thờ tà thần ngoại bang tột bực dâng tế súc vật cho đối tượng ma quỷ nào?",
+          "options": [
+            "Dâng tế lễ cho các quỷ thần phi thần thần linh mới lạ tổ phụ chưa biết",
+            "Dâng con thiêu sống cho thần Mô-lê Mô-báp",
+            "Thờ lạy tượng rắn đồng Mô-sê đúc",
+            "Cúng bái thần mặt trời Ai Cập cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa nổi giận phán xét phạt dân bằng cách giấu kín điều gì khỏi họ?",
+          "options": [
+            "Ta sẽ lánh mặt đi (giấu nét mặt Ta) xem kết cục họ ra sao thế hệ phản nghịch phản nghịch",
+            "Ta lấy lại toàn bộ đất đai Ca-na-an không ban nữa",
+            "Ta cho hạn hán cạn sạch nguồn nước sông Gio-đan",
+            "Ta bắt họ làm nô lệ Ai Cập vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bài ca khẳng định ai là Đấng độc quyền ban sự sống, cái chết, gây thương tích và chữa lành?",
+          "options": [
+            "Chính Ta, một mình Ta là Chúa, cấm có thần nào khác; Ta làm cho chết sống, đánh phạt chữa lành",
+            "Nhờ tư tế Lê-vi dâng súc vật chuộc mạng sống",
+            "Do số phận tự nhiên quyết định sinh tử con người",
+            "Bùa phép pháp sư Ba-la-am có quyền năng tương đương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa dặn Mô-sê đi lên núi nào để nhìn đất hứa Ca-na-an và chuẩn bị qua đời tại đó?",
+          "options": [
+            "Núi Nê-bô (Mount Nebo thuộc dãy A-va-rim)",
+            "Núi Xi-nai",
+            "Núi Ho",
+            "Núi Mô-ri-gia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê qua đời ở độ tuổi bao nhiêu và có được phép bước chân vào Ca-na-an không?",
+          "options": [
+            "Một trăm hai mươi tuổi; cấm không được bước chân vào chỉ được nhìn từ xa",
+            "Một trăm tuổi; được vào Ca-na-an ở ba ngày rồi chết",
+            "Tám mươi tuổi; chết trước khi dân vượt Gio-đan",
+            "Trường sinh bất tử hóa thành thiên sứ trời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người đồng hành phụ tá thân cận cùng Mô-sê chép dạy bài ca này cho dân là ai?",
+          "options": [
+            "Ông Giô-suê con ông Nun Nun (Hô-sê)",
+            "Tư tế Ê-la-da",
+            "Quan tướng Ca-lếp",
+            "Bô lão trưởng tộc chi tộc Ru-bên"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "questions": [
+        {
+          "text": "Lời chúc phúc cuối cùng của Mô-sê dành cho mười hai chi tộc trước khi từ trần được ví như ai?",
+          "options": [
+            "Như lời chúc lành của người cha gia đình người cha trước khi lâm chung",
+            "Như sắc chỉ hoàng gia Ai Cập ban phát",
+            "Như sấm ngôn nguyền rủa kẻ thù của pháp sư",
+            "Như luật pháp hành chính phân chia đất đai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc tư tế Lê-vi được Mô-sê chúc lành ban tặng vật dụng thánh nào để dò hỏi ý Chúa?",
+          "options": [
+            "Thú-mim và U-rim (Thummim and Urim thẻ thăm tư tế thánh)",
+            "Bàn thờ hương vàng ròng",
+            "Cây gậy nở hoa hạnh nhân",
+            "Lư hương bằng đồng đập mỏng bọc bàn thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhiệm vụ thiêng liêng Mô-sê chúc lành cho người Lê-vi phụ trách giảng dạy là gì?",
+          "options": [
+            "Giảng dạy phán quyết luật pháp cho Gia-cóp và dâng hương tế lễ trên bàn thờ Chúa",
+            "Đi chiến đấu tiên phong giải phóng đất Ca-na-an",
+            "Thu thuế vàng bạc đền tạm từ 12 chi tộc",
+            "Chăn nuôi bầy gia súc đầu lòng của toàn dân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc nào được Mô-sê chúc lành ví như sư tử con vồ mồi từ xứ Ba-san nhảy ra?",
+          "options": [
+            "Chi tộc Đan (Dan like a lion's whelp)",
+            "Chi tộc Giu-đa",
+            "Chi tộc Bên-gia-min",
+            "Chi tộc Gát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc nào được Mô-sê chúc phúc ví như sư tử cái nằm dưỡng sức oai hùng?",
+          "options": [
+            "Chi tộc Gát (Gad)",
+            "Chi tộc Ru-bên",
+            "Chi tộc Si-môn",
+            "Chi tộc Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê ca ngợi Chúa ngự oai nghiêm trên mây xanh bảo vệ Ít-ra-en bằng tên gọi thiêng liêng nào của dân?",
+          "options": [
+            "Giê-su-run (Jeshurun nghĩa là dân chính trực yêu dấu)",
+            "Ít-ra-en chiến thắng",
+            "Gia-cóp trung tín",
+            "Con cái dòng dõi Áp-ra-ham"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hạnh phúc tối hậu của Ít-ra-en được Mô-sê ca ngợi ở câu 29 là gì?",
+          "options": [
+            "Hạnh phúc thay anh hỡi Ít-ra-en! Ai được như anh, dân được ĐỨC CHÚA cứu độ cứu độ",
+            "Được sở hữu nhiều mỏ vàng bạc Ca-na-an nhất",
+            "Được miễn trừ hoàn toàn khỏi bệnh tật chết chóc",
+            "Được thống trị toàn bộ thế giới vương triều"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc Bên-gia-min được chúc phúc có vị thế địa lý thế nào bên cạnh Chúa?",
+          "options": [
+            "Người được Chúa yêu thương ở an lành bên cạnh Người; Chúa che chở họ suốt ngày",
+            "Định cư tại vùng đất xa xôi biên giới",
+            "Sở hữu bờ biển Địa Trung Hải rộng lớn",
+            "Được quyền thừa kế chức thượng tế dòng Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai chi tộc dòng Giô-sép (Ép-ra-im và Man-na-se) được chúc phúc nhận món quà thiên nhiên nào quý giá?",
+          "options": [
+            "Những thổ sản quý nhất của trời, sương sa, mưa ngọt, quả ngon núi đồi cổ thụ cổ thụ",
+            "Mỏ đồng đỏ núi đá Ba-san",
+            "Nguồn suối ngọt phun từ đá cát nóng",
+            "Quyền lực chính trị làm vua vương triều"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê chúc cho chi tộc Ru-bên thế nào về dân số sinh tồn?",
+          "options": [
+            "Ước gì Ru-bên sống chứ không chết chết, dẫu dân số chi tộc ít ỏi",
+            "Chúc cho Ru-bên có quân đội mạnh nhất đi lính",
+            "Chúc cho Ru-bên giàu có súc vật chăn nuôi",
+            "Cầu xin cho Ru-bên được chức tư tế thay Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "questions": [
+        {
+          "text": "Mô-sê lên đỉnh núi nào từ thảo nguyên Mô-áp để ngắm nhìn toàn cảnh đất hứa Ca-na-an?",
+          "options": [
+            "Núi Nê-bô (Mount Nebo đỉnh núi Phi-xơ-gah)",
+            "Núi Xi-nai",
+            "Núi Ho",
+            "Núi Mô-ri-gia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa chỉ cho Mô-sê thấy toàn bộ lãnh thổ đất hứa vươn rộng đến sông biển nào?",
+          "options": [
+            "Từ đất Ga-la-át đến Đan, toàn bộ đất Náp-ta-li, Ép-ra-im, Giu-đa đến Biển Lớn Lớn",
+            "Từ Ai Cập đến Ba-by-lon",
+            "Từ sa mạc Sahara đến Địa Trung Hải",
+            "Chỉ nhìn thấy thung lũng Giê-ri-khô thành cây chà là"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê tôi trung của Chúa qua đời tại miền đất nào?",
+          "options": [
+            "Qua đời tại đất Mô-áp (Moab) đúng lời phán của Chúa",
+            "Qua đời bên trong đất hứa Ca-na-an",
+            "Qua đời tại Ai Cập hoàng cung",
+            "Qua đời trên đỉnh núi Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người trực tiếp chôn cất thi hài Mô-sê tại thung lũng đất Mô-áp?",
+          "options": [
+            "Chính ĐỨC CHÚA chôn cất ông; cho đến nay không ai biết mộ ông ở đâu ở đâu",
+            "Tướng Giô-suê và tư tế Ê-la-da chôn cất",
+            "Bà vợ Xíp-pô-ra mang xác về Ma-đi-an chôn",
+            "Toàn thể dân chúng ném đá xây mộ lớn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê qua đời ở tuổi bao nhiêu, tình trạng sức khỏe thể xác của ông thế nào khi mất?",
+          "options": [
+            "Một trăm hai mươi tuổi; mắt không mờ, sức không giảm không giảm sút",
+            "Một trăm tuổi; bị liệt giường đau ốm dài ngày",
+            "Tám mươi tuổi; bị mù mắt tai điếc hoàn toàn",
+            "Một trăm năm mươi tuổi; cơ thể ốm yếu khô héo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Toàn thể dân Ít-ra-en khóc tang Mô-sê tại thảo nguyên Mô-áp trong bao nhiêu ngày?",
+          "options": [
+            "Ba mươi ngày (30 ngày khóc tang)",
+            "Bảy ngày",
+            "Mười ngày",
+            "Bốn mươi ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người được đầy thần khí khôn ngoan lên lãnh đạo dân Ít-ra-en thay thế Mô-sê?",
+          "options": [
+            "Ông Giô-suê (Joshua) con ông Nun Nun vì Mô-sê đã đặt tay trên ông",
+            "Thủ lĩnh Ca-lếp",
+            "Tư tế thượng tế Ê-la-da",
+            "Con trai Mô-sê Ghẹt-sôm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en có vâng nghe lời lãnh đạo của Giô-suê như đã vâng nghe Mô-sê không?",
+          "options": [
+            "Có, dân vâng lời ông và làm đúng mọi mệnh lệnh Chúa truyền cho Mô-sê",
+            "Họ nổi loạn tẩy chay chức lãnh đạo của ông",
+            "Chỉ có chi tộc Ép-ra-im vâng phục ông",
+            "Họ đòi lập tư tế Ê-la-da làm vua thay thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đặc điểm độc đáo vô song của Mô-sê so với các ngôn sứ tiên tri sau này trong Ít-ra-en là gì?",
+          "options": [
+            "Không ngôn sứ nào sánh bằng ông; người được Chúa nói chuyện mặt đối mặt mặt đối mặt thân tình",
+            "Ông là người duy nhất làm phép lạ hóa bánh ăn",
+            "Ông có khả năng bay lượn trên không trung",
+            "Ông chép nhiều sách sử ký nhất thế giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các phép lạ oai hùng oai nghiêm Mô-sê làm trước mắt toàn Ít-ra-en được thực hiện ở đâu Ai Cập?",
+          "options": [
+            "Trước mắt Pha-ra-ôn, quần thần và trên toàn đất nước Ai Cập Ai Cập",
+            "Bên trong các kim tự tháp lớn Ai Cập",
+            "Chỉ thực hiện bí mật ngoài sa mạc hoang dã",
+            "Thực hiện tại đền thờ thần mặt trời Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

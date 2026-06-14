@@ -1,0 +1,5256 @@
+{
+  "bookId": 1,
+  "bookName": "Sáng Thế",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Thiên Chúa tạo dựng trời đất ở thời điểm nào?",
+          "options": [
+            "Lúc khởi đầu",
+            "Sau khi có ánh sáng",
+            "Từ thuở đời đời",
+            "Khi tạo dựng con người"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vào ngày thứ nhất, sau khi tạo ra ánh sáng, Thiên Chúa gọi ánh sáng là gì?",
+          "options": [
+            "Lửa",
+            "Ngày",
+            "Vầng sáng",
+            "Hào quang"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Thiên Chúa gọi vòm ngăn cách nước phía dưới và nước phía trên là gì?",
+          "options": [
+            "Đất",
+            "Mây",
+            "Trời",
+            "Không khí"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": "Vào ngày thứ ba, Thiên Chúa tụ họp nước lại một nơi và gọi chỗ khô cạn là gì?",
+          "options": [
+            "Đồng cỏ",
+            "Sa mạc",
+            "Đất",
+            "Thung lũng"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": "Vào ngày thứ tư, Thiên Chúa làm ra hai vầng sáng lớn để làm gì?",
+          "options": [
+            "Để soi sáng mặt đất",
+            "Để cai trị ngày và cai trị đêm",
+            "Để tạo ra bốn mùa",
+            "Để làm đẹp vũ trụ"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Sinh vật biển và loài chim muông được tạo dựng vào ngày thứ mấy?",
+          "options": [
+            "Ngày thứ tư",
+            "Ngày thứ năm",
+            "Ngày thứ sáu",
+            "Ngày thứ bảy"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Thiên Chúa đã tạo dựng con người theo hình ảnh nào?",
+          "options": [
+            "Hình ảnh các thiên thần",
+            "Hình ảnh muông thú",
+            "Hình ảnh Thiên Chúa",
+            "Hình ảnh bụi đất"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": "Thiên Chúa chúc phúc cho con người và ban mệnh lệnh gì đầu tiên?",
+          "options": [
+            "Hãy đặt tên cho các loài vật",
+            "Hãy giữ vườn Ê-đen",
+            "Hãy sinh sôi nảy nở thật nhiều cho đầy mặt đất",
+            "Hãy thờ phượng Thiên Chúa"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": "Thiên Chúa ban cho con người thức ăn là gì vào lúc khởi đầu?",
+          "options": [
+            "Mọi thứ cỏ mang hạt giống và mọi thứ cây có quả mang hạt giống",
+            "Thịt các loài thú rừng",
+            "Trái cây trong vườn Ê-đen trừ cây biết thiện ác",
+            "Các loài cá biển và chim trời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi hoàn thành mọi công trình sáng tạo vào ngày thứ sáu, Thiên Chúa thấy thế nào?",
+          "options": [
+            "Tốt đẹp",
+            "Rất tốt đẹp",
+            "Bình thường",
+            "Hoàn hảo"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Vào ngày thứ bảy, Thiên Chúa làm gì sau khi hoàn thành công trình sáng tạo?",
+          "options": [
+            "Tạo thêm con người",
+            "Nghỉ ngơi và thánh hóa ngày đó",
+            "Trồng vườn Ê-đen",
+            "Phán xét muôn loài"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "ĐỨC CHÚA là Thiên Chúa lấy gì để nặn ra con người (A-đam)?",
+          "options": [
+            "Bụi đất",
+            "Sét",
+            "Xương sườn",
+            "Hơi thở"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa làm gì để con người (A-đam) trở nên một sinh vật sống?",
+          "options": [
+            "Chạm tay vào ông",
+            "Thổi sinh khí vào lỗ mũi ông",
+            "Phán một lời",
+            "Đặt ông vào vườn Ê-đen"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "ĐỨC CHÚA trồng một mảnh vườn ở đâu về phía đông để đặt con người vào?",
+          "options": [
+            "Ê-đen",
+            "Xi-nai",
+            "Ca-na-an",
+            "Ha-ran"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai cây đặc biệt nào được trồng ở giữa vườn Ê-đen?",
+          "options": [
+            "Cây trường sinh và Cây biết điều thiện điều ác",
+            "Cây sự sống và Cây chà là",
+            "Cây biết điều thiện điều ác và cây ô-liu",
+            "Cây sung và cây vả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con sông chảy ra từ Ê-đen chia làm mấy nhánh?",
+          "options": [
+            "Hai nhánh",
+            "Ba nhánh",
+            "Bốn nhánh",
+            "Năm nhánh"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": "Thiên Chúa cấm con người ăn trái của cây nào trong vườn?",
+          "options": [
+            "Cây trường sinh",
+            "Cây biết điều thiện điều ác",
+            "Mọi cây trong vườn",
+            "Cây vả"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Thiên Chúa phán: 'Con người ở một mình thì...'?",
+          "options": [
+            "Rất tốt",
+            "Không tốt",
+            "Bình thường",
+            "Sẽ cô đơn"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Để tạo ra một trợ tá tương xứng cho con người, Thiên Chúa đã lấy gì từ ông lúc đang ngủ say?",
+          "options": [
+            "Trái tim ông",
+            "Một chiếc xương sườn",
+            "Một phần thịt của ông",
+            "Hơi thở của ông"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Khi nhìn thấy người đàn bà được Thiên Chúa dẫn đến, A-đam đã nói gì?",
+          "options": [
+            "Đây là xương bởi xương tôi, thịt bởi thịt tôi",
+            "Bà là người giúp đỡ tôi",
+            "Bà thật là đẹp đẽ",
+            "Tên bà sẽ là Ê-va"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Con vật nào xảo quyệt nhất trong mọi giống vật ngoài đồng mà Thiên Chúa làm ra?",
+          "options": [
+            "Sư tử",
+            "Con rắn",
+            "Chó sói",
+            "Đại bàng"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Con rắn đã nói dối người đàn bà thế nào về việc ăn trái cây cấm?",
+          "options": [
+            "Các người sẽ không chết đâu",
+            "Thiên Chúa sẽ không biết đâu",
+            "Trái cây đó rất độc",
+            "Ăn vào sẽ được bất tử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người đàn bà thấy trái cây cấm thế nào nên đã hái ăn và đưa cho chồng?",
+          "options": [
+            "Ăn ngon, trông đẹp mắt và đáng quý vì làm cho tinh khôn",
+            "Trông rất kỳ lạ",
+            "Có mùi thơm ngào ngạt",
+            "Phát ra ánh sáng lấp lánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi ăn trái cấm, mắt hai người mở ra và họ nhận biết điều gì đầu tiên?",
+          "options": [
+            "Họ biết làm việc",
+            "Họ thấy mình trần truồng",
+            "Họ nghe thấy tiếng sấm",
+            "Họ biết bay"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Hai ông bà đã dùng lá gì kết lại làm khố che thân?",
+          "options": [
+            "Lá nho",
+            "Lá vả",
+            "Lá chuối",
+            "Lá cọ"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Khi nghe thấy tiếng ĐỨC CHÚA đi dạo trong vườn lúc gió hiu hiu thổi, hai ông bà đã làm gì?",
+          "options": [
+            "Chạy đến chào Người",
+            "Trốn vào giữa bụi cây trong vườn",
+            "Quỳ xuống cầu nguyện",
+            "Bỏ chạy ra khỏi vườn"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Khi bị Thiên Chúa hỏi, người đàn ông đã đổ lỗi cho ai?",
+          "options": [
+            "Con rắn",
+            "Người đàn bà mà Chúa đặt bên cạnh tôi",
+            "Chính mình",
+            "Cây biết thiện ác"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Hình phạt Thiên Chúa dành cho con rắn là gì?",
+          "options": [
+            "Phải bò bằng bụng và ăn bụi đất suốt đời",
+            "Bị đuổi khỏi vườn Ê-đen",
+            "Không được nói nữa",
+            "Phải sống trong hang tối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người đàn ông đặt tên cho vợ là Ê-va vì bà là gì?",
+          "options": [
+            "Mẹ của chúng sinh",
+            "Người đẹp nhất",
+            "Trợ tá của ông",
+            "Xương thịt của ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Để ngăn con người hái trái cây trường sinh sau khi sa ngã, Thiên Chúa đã đặt gì ở phía đông vườn Ê-đen?",
+          "options": [
+            "Một bức tường thành vững chắc",
+            "Các thần hộ giá với lưỡi gươm chói lọi múa may",
+            "Một vực sâu không đáy",
+            "Một vòng lửa lớn"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Hai người con trai đầu tiên của A-đam và Ê-va tên là gì?",
+          "options": [
+            "Ca-in và A-ben",
+            "I-xa-ác và Gia-cóp",
+            "Sết và Ê-nót",
+            "Nô-ê và Sêm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ca-in làm nghề gì và A-ben làm nghề gì?",
+          "options": [
+            "Ca-in làm ruộng, A-ben chăn chiên",
+            "Ca-in chăn chiên, A-ben làm ruộng",
+            "Ca-in thợ rèn, A-ben thợ gốm",
+            "Cả hai đều làm ruộng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ vật của ai được ĐỨC CHÚA đoái nhìn nhận?",
+          "options": [
+            "Lễ vật của Ca-in",
+            "Lễ vật của A-ben",
+            "Lễ vật của cả hai người",
+            "Không nhận lễ vật của ai"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Ca-in đã có thái độ gì khi lễ vật của mình không được nhận?",
+          "options": [
+            "Buồn rầu và cúi mặt xuống",
+            "Giận dữ và bỏ đi",
+            "Xin lỗi Thiên Chúa",
+            "Khóc lóc thảm thiết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ca-in đã làm gì với em mình là A-ben khi hai người ở ngoài đồng?",
+          "options": [
+            "Tranh cãi kịch liệt",
+            "Chia đôi đất đai",
+            "Xông vào giết em",
+            "Hòa giải với em"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": "Khi ĐỨC CHÚA hỏi: 'A-ben em ngươi đâu rồi?', Ca-in đã trả lời thế nào?",
+          "options": [
+            "Tôi không biết. Tôi là người giữ em tôi sao?",
+            "Em tôi đang ở ngoài đồng",
+            "Tôi đã giết nó rồi",
+            "Nó đi chăn chiên chưa về"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt Thiên Chúa dành cho Ca-in sau khi giết em là gì?",
+          "options": [
+            "Bị đất nguyền rủa, phải lang thang phiêu bạt trên mặt đất",
+            "Phải chết ngay lập tức",
+            "Phải làm nô lệ cho cha mẹ",
+            "Bị mù hai mắt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa làm gì để bảo vệ Ca-in khỏi bị người khác giết khi gặp ông?",
+          "options": [
+            "Cho các thiên thần đi theo",
+            "Đặt một dấu trên người Ca-in",
+            "Cho ông một cây gươm thần",
+            "Làm cho ông trở nên vô hình"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Ca-in đi ra khỏi nhan sắc ĐỨC CHÚA và cư ngụ ở miền đất nào?",
+          "options": [
+            "Miền đất Nốt, về phía đông Ê-đen",
+            "Miền sa mạc Xi-nai",
+            "Vùng đất Ca-na-an",
+            "Vùng đất Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người con trai thứ ba được A-đam và Ê-va sinh ra thế chỗ cho A-ben tên là gì?",
+          "options": [
+            "Ê-nót",
+            "Sết",
+            "La-méc",
+            "Ha-ran"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "A-đam sống được bao nhiêu tuổi rồi qua đời?",
+          "options": [
+            "830 tuổi",
+            "930 tuổi",
+            "950 tuổi",
+            "990 tuổi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Ai là người đi đi lại lại với Thiên Chúa và biến mất vì Thiên Chúa đã đem ông đi?",
+          "options": [
+            "Sết",
+            "Hê-nóc (Enoch)",
+            "La-méc",
+            "Mê-thu-sa-la"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Người sống lâu nhất được ghi nhận trong Kinh Thánh tên là gì và bao nhiêu tuổi?",
+          "options": [
+            "A-đam (930 tuổi)",
+            "Mê-thu-sa-la (969 tuổi)",
+            "Nô-ê (950 tuổi)",
+            "La-méc (777 tuổi)"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Cha của Nô-ê tên là gì?",
+          "options": [
+            "La-méc",
+            "Hê-nóc",
+            "Ma-ha-la-lê-el",
+            "Ê-nót"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao La-méc lại đặt tên cho con trai mình là Nô-ê (Noah)?",
+          "options": [
+            "Vì ông hy vọng đứa trẻ sẽ đem lại niềm an ủi trong công việc nhọc nhằn",
+            "Vì đứa trẻ sinh ra lúc trời mưa",
+            "Vì đứa trẻ rất khôi ngô",
+            "Vì Thiên Chúa đặt tên như vậy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nô-ê sinh được ba người con trai tên là gì?",
+          "options": [
+            "Sêm, Kham và Gia-phét",
+            "Ca-in, A-ben và Sết",
+            "Áp-ra-ham, Na-kho và Ha-ran",
+            "Ê-sau và Gia-cóp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia phả chương 5 dẫn dòng dõi từ A-đam đến ai?",
+          "options": [
+            "Mô-sê",
+            "Nô-ê",
+            "Áp-ra-ham",
+            "Đa-vít"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Sết sinh ra con trai đầu lòng tên là gì?",
+          "options": [
+            "Ê-nót",
+            "Kê-nan",
+            "La-méc",
+            "Hê-nóc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hê-nóc bao nhiêu tuổi khi được Thiên Chúa đem đi?",
+          "options": [
+            "365 tuổi",
+            "500 tuổi",
+            "969 tuổi",
+            "120 tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nô-ê bao nhiêu tuổi khi ông sinh Sêm, Kham và Gia-phét?",
+          "options": [
+            "100 tuổi",
+            "300 tuổi",
+            "500 tuổi",
+            "600 tuổi"
+          ],
+          "correctAnswerIndex": 2
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Khi loài người gia tăng trên mặt đất, ĐỨC CHÚA giới hạn tuổi thọ tối đa của con người là bao nhiêu năm?",
+          "options": [
+            "100 năm",
+            "120 năm",
+            "150 năm",
+            "200 năm"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Những người khổng lồ xuất hiện trên mặt đất thời bấy giờ được gọi là gì?",
+          "options": [
+            "Nê-phi-lim",
+            "Gô-li-át",
+            "An-a-kim",
+            "Phi-li-tinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA thấy lòng người chỉ hướng về điều xấu suốt ngày nên Người đã có cảm xúc gì?",
+          "options": [
+            "Hối hận vì đã làm ra con người và đau lòng",
+            "Giận dữ lôi đình",
+            "Thờ ơ không quan tâm",
+            "Muốn lập tức hủy diệt ngay vũ trụ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người duy nhất đẹp lòng ĐỨC CHÚA giữa thế hệ của ông?",
+          "options": [
+            "Hê-nóc",
+            "Nô-ê",
+            "Sết",
+            "La-méc"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Kinh Thánh mô tả Nô-ê là người thế nào?",
+          "options": [
+            "Người công chính, hoàn hảo và đi đi lại lại với Thiên Chúa",
+            "Người giàu có nhất vùng",
+            "Người thợ đóng tàu giỏi nhất",
+            "Người khôn ngoan nhất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa bảo Nô-ê đóng tàu bằng loại gỗ nào?",
+          "options": [
+            "Gỗ bách (gỗ go-phe)",
+            "Gỗ ô-liu",
+            "Gỗ tuyết tùng",
+            "Gỗ sồi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa bảo Nô-ê trét tàu bằng chất gì cả trong lẫn ngoài?",
+          "options": [
+            "Nhựa đường (hắc ín)",
+            "Keo dán",
+            "Đất sét",
+            "Dầu ô-liu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tàu của Nô-ê được thiết kế có mấy tầng?",
+          "options": [
+            "Một tầng",
+            "Hai tầng",
+            "Ba tầng",
+            "Bốn tầng"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": "Thiên Chúa báo trước sẽ dùng hình thức nào để tiêu diệt mọi xác phập dưới gầm trời?",
+          "options": [
+            "Mưa lửa từ trời",
+            "Trận lụt lớn (đại hồng thủy)",
+            "Nạn dịch hạch",
+            "Động đất dữ dội"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Để bảo tồn giống, Thiên Chúa bảo Nô-ê đưa bao nhiêu con vật mỗi loài vào tàu?",
+          "options": [
+            "Mỗi loài một đôi (một đực một cái)",
+            "Mỗi loài bảy đôi",
+            "Tất cả các loài vật ngoài đồng",
+            "Chỉ các loài vật thanh sạch"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Nô-ê bao nhiêu tuổi khi trận lụt lớn xảy ra trên mặt đất?",
+          "options": [
+            "500 tuổi",
+            "600 tuổi",
+            "700 tuổi",
+            "950 tuổi"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Mưa đổ xuống đất liên tục trong bao nhiêu ngày đêm?",
+          "options": [
+            "7 ngày đêm",
+            "40 ngày đêm",
+            "150 ngày đêm",
+            "365 ngày đêm"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Ai đã đóng cửa tàu lại sau khi gia đình Nô-ê và muôn thú đã vào trong tàu?",
+          "options": [
+            "Chính Nô-ê",
+            "ĐỨC CHÚA",
+            "Ba con trai Nô-ê",
+            "Một thiên thần"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Nguồn nước nào đã phun ra để gây nên đại hồng thủy?",
+          "options": [
+            "Mọi mạch nước của vực sâu đại dương và các cống ngắt trên trời mở tung",
+            "Chỉ từ những đám mây mưa",
+            "Từ các con sông lớn dâng lên",
+            "Nước biển tràn vào đất liền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nước dâng cao hơn các ngọn núi cao nhất bao nhiêu khuỷu tay (thước)?",
+          "options": [
+            "10 khuỷu tay",
+            "15 khuỷu tay",
+            "20 khuỷu tay",
+            "50 khuỷu tay"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Những ai sống sót sau trận đại hồng thủy?",
+          "options": [
+            "Chỉ những người và vật ở trong tàu với Nô-ê",
+            "Gia đình Nô-ê và một số người lánh nạn trên núi cao",
+            "Tất cả các sinh vật sống dưới nước",
+            "Nô-ê và vợ ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nước lụt duy trì thế dâng cao cuồn cuộn trên mặt đất trong bao nhiêu ngày?",
+          "options": [
+            "40 ngày",
+            "100 ngày",
+            "150 ngày",
+            "300 ngày"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "text": "Vợ và các con dâu của Nô-ê có vào tàu không?",
+          "options": [
+            "Có, tổng cộng có 8 người trong gia đình Nô-ê vào tàu",
+            "Không, chỉ có nam giới vào tàu",
+            "Chỉ có vợ Nô-ê vào tàu",
+            "Chỉ có các con trai vào tàu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa bảo Nô-ê đưa các loài vật thanh sạch vào tàu với số lượng bao nhiêu?",
+          "options": [
+            "Mỗi thứ bảy đôi (bảy con đực và bảy con cái)",
+            "Chỉ một đôi duy nhất",
+            "Mỗi thứ ba con",
+            "Mỗi thứ mười con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trận đại hồng thủy bắt đầu vào ngày nào của cuộc đời Nô-ê?",
+          "options": [
+            "Ngày 17 tháng 2 năm Nô-ê 600 tuổi",
+            "Ngày 1 tháng 1 năm Nô-ê 600 tuổi",
+            "Ngày 17 tháng 7 năm Nô-ê 500 tuổi",
+            "Ngày 10 tháng 10 năm Nô-ê 600 tuổi"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Thiên Chúa làm gì để nước lụt bắt đầu rút đi?",
+          "options": [
+            "Cho một luồng gió thổi qua trái đất",
+            "Làm cho mặt trời chiếu sáng rực rỡ",
+            "Phán bảo đất hút hết nước",
+            "Mở các mạch đất sâu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tàu Nô-ê đậu lại trên ngọn núi nào khi nước rút bớt?",
+          "options": [
+            "Núi Xi-nai",
+            "Núi A-ra-rát",
+            "Núi Ca-rê-mên",
+            "Núi Các-mên"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Con chim đầu tiên Nô-ê thả ra từ cửa sổ tàu là con gì?",
+          "options": [
+            "Con chim bồ câu",
+            "Con quạ",
+            "Con chim sẻ",
+            "Con đại bàng"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Lần thứ hai thả chim bồ câu, nó bay về mang theo vật gì ở mỏ?",
+          "options": [
+            "Một hạt lúa mì",
+            "Một lá ô-liu tươi",
+            "Một cành vả",
+            "Một sợi cỏ"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Lần thứ ba thả chim bồ câu đi, chuyện gì xảy ra?",
+          "options": [
+            "Nó quay về ngay lập tức",
+            "Nó không trở lại với ông nữa",
+            "Nó mang về một cành nho",
+            "Nó bị chết đuối"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "text": "Khi mặt đất đã khô ráo hoàn toàn, Thiên Chúa bảo Nô-ê làm gì?",
+          "options": [
+            "Hãy ra khỏi tàu cùng với vợ, các con, các con dâu và mọi loài thú",
+            "Hãy cúng tế ngay lập tức",
+            "Hãy xây dựng nhà cửa mới trên núi",
+            "Hãy tiếp tục ở lại tàu thêm 7 ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Việc đầu tiên Nô-ê làm sau khi ra khỏi tàu là gì?",
+          "options": [
+            "Dựng một bàn thờ để dâng lễ vật lên ĐỨC CHÚA",
+            "Trồng một vườn nho",
+            "Xây nhà",
+            "Chia đất cho các con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi ngửi mùi thơm của lễ vật Nô-ê dâng, ĐỨC CHÚA đã tự nhủ điều gì?",
+          "options": [
+            "Ta sẽ không bao giờ nguyền rủa đất đai vì con người nữa",
+            "Ta sẽ tiêu diệt con người một lần nữa",
+            "Ta sẽ ban mưa thuận gió hòa mãi mãi",
+            "Ta sẽ đưa Nô-ê lên trời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA phán rằng bao lâu đất này còn tồn tại thì điều gì sẽ không bao giờ ngưng nghỉ?",
+          "options": [
+            "Gieo gặt, lạnh nóng, hè đông, ngày đêm",
+            "Chiến tranh và hòa bình",
+            "Sự sinh sản của muôn loài",
+            "Lễ tế trên bàn thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nước lụt hoàn toàn khô ráo vào ngày nào?",
+          "options": [
+            "Ngày mồng một tháng giêng năm Nô-ê 601 tuổi",
+            "Ngày 27 tháng 2 năm Nô-ê 601 tuổi",
+            "Ngày 17 tháng 7 năm Nô-ê 600 tuổi",
+            "Ngày mồng một tháng mười năm Nô-ê 600 tuổi"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Thiên Chúa ban cho Nô-ê và các con ông chỉ thị gì giống như thuở tạo dựng?",
+          "options": [
+            "Hãy sinh sôi nảy nở thật nhiều cho đầy mặt đất",
+            "Hãy làm chủ muôn loài cầm thú",
+            "Hãy ăn chay cầu nguyện",
+            "Hãy xây dựng đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kể từ sau hồng thủy, Thiên Chúa cho phép con người ăn thêm thức ăn gì?",
+          "options": [
+            "Mọi sinh vật di động và có sự sống (thịt động vật)",
+            "Chỉ các loài cá thanh sạch",
+            "Trái cây trong rừng",
+            "Bánh mì không men"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa cấm con người ăn thịt kèm theo điều gì?",
+          "options": [
+            "Máu của nó, vì máu là sự sống",
+            "Mỡ của nó",
+            "Da của nó",
+            "Khi thịt chưa được nấu chín"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa lập Giao ước với Nô-ê và dòng dõi ông hứa điều gì?",
+          "options": [
+            "Nước hồng thủy sẽ không bao giờ tiêu diệt mọi xác phập nữa",
+            "Con người sẽ sống thọ như trước",
+            "Đất đai sẽ tự động sinh hoa trái",
+            "Mọi người sẽ nói chung một ngôn ngữ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dấu chỉ của Giao ước giữa Thiên Chúa và vạn vật là gì?",
+          "options": [
+            "Cây cầu vồng xuất hiện trên mây",
+            "Cột lửa ban đêm",
+            "Bàn thờ bằng đá",
+            "Ásáng mặt trời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người con trai nào của Nô-ê là cha của Ca-na-an?",
+          "options": [
+            "Kham",
+            "Sêm",
+            "Gia-phét",
+            "Không ai cả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghề nghiệp đầu tiên Nô-ê làm sau trận lụt là gì?",
+          "options": [
+            "Làm ruộng và trồng nho",
+            "Chăn cừu",
+            "Thợ mộc",
+            "Thợ rèn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người đã nhìn thấy cha mình (Nô-ê) trần truồng khi say rượu và đi kể cho các anh em?",
+          "options": [
+            "Kham",
+            "Sêm",
+            "Gia-phét",
+            "Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sêm và Gia-phét đã làm gì khi biết cha mình trần truồng trong lều?",
+          "options": [
+            "Lấy áo khoác đi giật lùi vào che thân thể cho cha",
+            "Chế giễu cha",
+            "Bỏ đi không quan tâm",
+            "Đắp chăn cho cha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nô-ê sống thêm được bao nhiêu năm sau trận lụt lớn?",
+          "options": [
+            "350 năm",
+            "450 năm",
+            "500 năm",
+            "150 năm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Chương 10 của sách Sáng Thế còn được gọi là gì trong nghiên cứu Kinh Thánh?",
+          "options": [
+            "Bảng danh sách các dân tộc",
+            "Bản đồ thế giới cổ đại",
+            "Lịch sử loài người",
+            "Gia phả Chúa Giê-su"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là thợ săn dũng mãnh trước nhan ĐỨC CHÚA và là người xây dựng vương quốc Ba-by-lon đầu tiên?",
+          "options": [
+            "Nim-rốt (Nimrod)",
+            "Ca-na-an",
+            "Mích-ra-im",
+            "Át-sua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nim-rốt là con của Cút (Cush), thuộc dòng dõi của người con trai nào của Nô-ê?",
+          "options": [
+            "Kham",
+            "Sêm",
+            "Gia-phét",
+            "Không thuộc ai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố nổi tiếng nào sau này được xây dựng bởi dòng dõi của Kham và Sêm?",
+          "options": [
+            "Ni-ni-vê và Ba-by-lon",
+            "Giê-ru-sa-lem",
+            "Rô-ma",
+            "A-thên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Từ ba người con trai của Nô-ê, chuyện gì xảy ra với cư dân trên mặt đất?",
+          "options": [
+            "Họ phân tán đi khắp các nước sau trận lụt",
+            "Họ sống chung tại một thành phố",
+            "Họ bị tiêu diệt hết lần nữa",
+            "Họ di cư sang Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dòng dõi của Gia-phét chủ yếu phân tán đi đâu?",
+          "options": [
+            "Các vùng hải đảo của các dân tộc",
+            "Sa mạc Ả-rập",
+            "Đất Ai Cập",
+            "Vùng lưỡng hà"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dòng dõi Sêm sinh ra Ê-ber, người được coi là tổ tiên của dân tộc nào?",
+          "options": [
+            "Dân Híp-ri (Hebrew)",
+            "Dân Ca-na-an",
+            "Dân Phi-li-tinh",
+            "Dân Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là con trai của Kham, người bị Nô-ê rủa sả phải làm nô lệ cho các anh em mình?",
+          "options": [
+            "Ca-na-an",
+            "Cút",
+            "Mích-ra-im",
+            "Pút"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con trai của Ê-ber tên là Pe-leg có nghĩa là gì, liên quan đến sự kiện xảy ra thời ông?",
+          "options": [
+            "Ví thời ông đất đai bị chia cắt",
+            "Vì thời ông có động đất lớn",
+            "Vì ông là thợ săn",
+            "Vì ông sinh ra khi nước rút"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dòng dõi của các con trai Nô-ê được phân chia theo những yếu tố nào?",
+          "options": [
+            "Theo đất đai, ngôn ngữ, gia tộc và dân tộc của họ",
+            "Theo nghề nghiệp",
+            "Theo tôn giáo",
+            "Theo chiều cao"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Lúc khởi đầu xây tháp Ba-bên, cư dân toàn cõi đất nói ngôn ngữ gì?",
+          "options": [
+            "Nói cùng một ngôn ngữ và dùng cùng một từ ngữ",
+            "Nói tiếng Híp-ri",
+            "Nói nhiều ngôn ngữ khác nhau",
+            "Chưa biết nói chuyện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cư dân đã dùng vật liệu gì để xây dựng thành và tháp Ba-bên?",
+          "options": [
+            "Gạch nung thay đá và nhựa đường thay hồ",
+            "Đá đẽo và vôi",
+            "Bùn trộn rơm và gỗ",
+            "Đất sét và cát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích của họ khi xây dựng tháp cao chọc trời là gì?",
+          "options": [
+            "Để làm cho danh mình được lẫy lừng và khỏi bị phân tán",
+            "Để đến gần Thiên Chúa hơn",
+            "Để tránh nạn lụt lội",
+            "Để làm nơi thờ lạy các thần linh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA đã làm gì để ngăn cản việc họ xây dựng thành và tháp Ba-bên?",
+          "options": [
+            "Làm cho ngôn ngữ của họ lộn xộn để họ không hiểu nhau nữa",
+            "Cho sét đánh sập tháp",
+            "Cho động đất lớn xảy ra",
+            "Thu hồi mọi vật liệu xây dựng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Từ tháp Ba-bên, ĐỨC CHÚA đã làm gì với loài người?",
+          "options": [
+            "Phân tán họ đi khắp nơi trên mặt đất",
+            "Tiêu diệt họ bằng lửa",
+            "Giam giữ họ trong thành",
+            "Biến họ thành nô lệ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dòng dõi của Sêm ở chương 11 dẫn thẳng đến ai?",
+          "options": [
+            "Áp-ram (Áp-ra-ham)",
+            "Mô-sê",
+            "Nô-ê",
+            "Lót"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cha của Áp-ram tên là gì?",
+          "options": [
+            "Te-ra",
+            "Na-kho",
+            "Ha-ran",
+            "Ê-ber"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vợ của Áp-ram tên là gì và bà có đặc điểm gì nổi bật lúc bấy giờ?",
+          "options": [
+            "Sa-rai, bà là người hiếm muộn và không có con",
+            "Xa-ra, bà sinh được hai con trai",
+            "Ha-gar, bà là người Ai Cập",
+            "Rê-bê-ca, bà rất xinh đẹp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia đình Te-ra đã rời bỏ xứ nào để đi đến đất Ca-na-an?",
+          "options": [
+            "U-rơ trong xứ Can-đê",
+            "Ba-by-lon",
+            "Ai Cập",
+            "Ha-ran"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia đình Te-ra dừng lại định cư ở đâu trước khi ông qua đời?",
+          "options": [
+            "Ha-ran",
+            "Xơ-đôm",
+            "Bê-ten",
+            "Kê-bron"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "ĐỨC CHÚA phán với Áp-ram: 'Hãy rời bỏ xứ sở... để đi tới đất...'?",
+          "options": [
+            "Ta sẽ chỉ cho ngươi",
+            "Ca-na-an",
+            "Ai Cập",
+            "U-rơ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ram bao nhiêu tuổi khi ông rời bỏ Ha-ran theo lời ĐỨC CHÚA gọi?",
+          "options": [
+            "75 tuổi",
+            "85 tuổi",
+            "99 tuổi",
+            "100 tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người cháu đi cùng với Áp-ram và Sa-rai?",
+          "options": [
+            "Lót",
+            "Ê-sau",
+            "Ích-ma-ên",
+            "Sết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi đầu tiên Áp-ram dựng bàn thờ kính ĐỨC CHÚA tại đất Ca-na-an là nơi nào?",
+          "options": [
+            "Nơi thánh Si-khem, tại cây sồi Mô-rê",
+            "Bê-ten",
+            "Kê-bron",
+            "Giê-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Áp-ram lại phải xuống Ai Cập một thời gian?",
+          "options": [
+            "Vì trong xứ Ca-na-an có nạn đói hoành hành dữ dội",
+            "Vì muốn buôn bán",
+            "Vì trốn tránh chiến tranh",
+            "Vì Thiên Chúa bảo đi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi đến gần Ai Cập, Áp-ram bảo vợ mình (Sa-rai) nói thế nào với người Ai Cập?",
+          "options": [
+            "Hãy nói bà là em gái tôi",
+            "Hãy nói bà là người hầu của tôi",
+            "Hãy nói bà là chị tôi",
+            "Hãy nói bà là vợ tôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Áp-ram lại bảo vợ nói dối mình là em gái?",
+          "options": [
+            "Vì bà quá xinh đẹp, sợ người ta giết ông để cướp bà",
+            "Vì phong tục Ai Cập",
+            "Vì sợ người Ai Cập bắt làm nô lệ",
+            "Để được nhận quà cáp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai đã đưa bà Sa-rai vào cung điện của mình khi nghe thuộc hạ ca tụng nhan sắc bà?",
+          "options": [
+            "Pha-ra-ôn (vua Ai Cập)",
+            "Vua A-vi-me-léc",
+            "Vua thành Xơ-đôm",
+            "Tể tướng Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA đã làm gì để phạt Pha-ra-ôn vì đã lấy vợ của Áp-ram?",
+          "options": [
+            "Giáng những tai ương khủng khiếp xuống Pha-ra-ôn và hoàng tộc",
+            "Làm cho hoàng cung bị cháy",
+            "Làm cho Pha-ra-ôn bị mù",
+            "Lấy đi mọi của cải của Pha-ra-ôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi phát hiện sự thật Sa-rai là vợ Áp-ram, Pha-ra-ôn đã làm gì?",
+          "options": [
+            "Trả Sa-rai lại và trục xuất Áp-ram cùng tất cả tài sản ra khỏi Ai Cập",
+            "Giết Áp-ram và giữ Sa-rai lại",
+            "Phạt tiền Áp-ram",
+            "Bắt Áp-ram làm nô lệ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Áp-ram rời Ai Cập đi lên miền nào cùng với vợ và tất cả của cải?",
+          "options": [
+            "Miền Ne-ghep",
+            "Miền Ai Cập",
+            "Miền Ha-ran",
+            "Miền Si-nai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tài sản của Áp-ram và Lót lúc này ra sao?",
+          "options": [
+            "Rất nhiều súc vật, vàng và bạc",
+            "Hết sạch sau nạn đói",
+            "Rất ít ỏi",
+            "Chỉ toàn lạc đà"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao đất đai không đủ chỗ cho Áp-ram và Lót cùng ở chung?",
+          "options": [
+            "Vì đàn vật của họ quá lớn",
+            "Vì xảy ra tranh chấp với dân bản địa",
+            "Vì đất đai cằn cỗi",
+            "Vì có chiến tranh cướp bóc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chuyện gì đã xảy ra giữa những người chăn súc vật của Áp-ram và Lót?",
+          "options": [
+            "Họ xảy ra tranh chấp cãi cọ với nhau",
+            "Họ hợp tác chia sẻ đồng cỏ",
+            "Họ đánh nhau chết người",
+            "Họ đổi súc vật cho nhau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ram đã đề nghị giải pháp gì với Lót để tránh tranh chấp?",
+          "options": [
+            "Hãy chia tay nhau, nếu Lót đi bên trái thì Áp-ram đi bên phải và ngược lại",
+            "Lót phải dọn đi nơi khác ngay lập tức",
+            "Họ sẽ gộp chung đàn vật lại làm một",
+            "Áp-ram sẽ lấy hết đất tốt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lót ngước mắt nhìn và chọn vùng đất nào vì thấy có nhiều nước và màu mỡ như vườn của ĐỨC CHÚA?",
+          "options": [
+            "Toàn bộ vùng đồng bằng sông Gio-đan, về phía đông",
+            "Vùng núi Ca-na-an",
+            "Vùng hoang địa Ne-ghep",
+            "Đất Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lót đã dựng lều gần thành phố tội lỗi nào?",
+          "options": [
+            "Xơ-đôm (Sodom)",
+            "Bê-ten",
+            "Kê-bron",
+            "Gie-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kinh Thánh mô tả người dân thành Xơ-đôm như thế nào?",
+          "options": [
+            "Gian ác và phạm tội rất nặng chống lại ĐỨC CHÚA",
+            "Rất mến khách",
+            "Thờ phượng Thiên Chúa chân thật",
+            "Rất nghèo khổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi Lót chia tay đi, ĐỨC CHÚA hứa ban đất đai Áp-ram đang nhìn thấy cho ai?",
+          "options": [
+            "Cho chính Áp-ram và dòng dõi ông mãi mãi",
+            "Cho dân bản địa",
+            "Cho Lót",
+            "Cho người Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ram di chuyển lều và đến định cư gần cây sồi nào tại Kê-bron?",
+          "options": [
+            "Cây sồi Mam-rê",
+            "Cây sồi Mô-rê",
+            "Cây sồi Si-khem",
+            "Cây ô-liu"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Trận chiến giữa các vua chúa ở thung lũng Xi-đim liên quan đến bao nhiêu vua chống lại nhau?",
+          "options": [
+            "Bốn vua chống năm vua",
+            "Năm vua chống năm vua",
+            "Ba vua chống bốn vua",
+            "Chín vua chống một vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi phe chiến thắng cướp phá Xơ-đôm và Gô-mô-ra, họ đã bắt đi người bà con nào của Áp-ram?",
+          "options": [
+            "Lót và toàn bộ gia tài của ông",
+            "Sa-rai",
+            "Te-ra",
+            "Ích-ma-ên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi nghe tin người cháu bị bắt, Áp-ram đã huy động bao nhiêu gia nhân tinh nhuệ sinh ra tại nhà ông?",
+          "options": [
+            "318 người",
+            "100 người",
+            "500 người",
+            "1000 người"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ram đã truy đuổi quân địch đến tận nơi nào ở phía bắc?",
+          "options": [
+            "Đan",
+            "Ha-ran",
+            "Đa-mác",
+            "U-rơ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kết quả cuộc giải cứu của Áp-ram thế nào?",
+          "options": [
+            "Đánh bại quân địch, lấy lại toàn bộ tài sản, giải cứu Lót và những người khác",
+            "Thất bại và bị thương",
+            "Thương lượng chuộc lại Lót bằng vàng",
+            "Chỉ cứu được một mình Lót"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là vua thành Sa-lem và là tư tế của Thiên Chúa Tối Cao đã ra đón Áp-ram?",
+          "options": [
+            "Men-ki-xê-đê (Melchizedek)",
+            "Vua A-vi-me-léc",
+            "Vua thành Xơ-đôm",
+            "Kê-đo-la-ô-mê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Men-ki-xê-đê đã mang lễ vật gì ra để tiếp đón và chúc phúc cho Áp-ram?",
+          "options": [
+            "Bánh và rượu",
+            "Chiên con và dầu",
+            "Vàng và bạc",
+            "Trái cây đầu mùa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ram đã dâng cho tư tế Men-ki-xê-đê phần nào từ những chiến lợi phẩm?",
+          "options": [
+            "Một phần mười tất cả chiến lợi phẩm",
+            "Một nửa chiến lợi phẩm",
+            "Toàn bộ tài sản",
+            "Một con chiên béo tốt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Xơ-đôm đề nghị Áp-ram lấy tài sản cướp lại được và chỉ cần trả lại người, Áp-ram trả lời thế nào?",
+          "options": [
+            "Tôi giơ tay thề trước ĐỨC CHÚA sẽ không lấy một sợi chỉ hay một sợi quai dép nào của ngài",
+            "Tôi đồng ý lấy hết tài sản",
+            "Tôi sẽ chia đôi tài sản cho ngài",
+            "Tôi sẽ bán lại người cho ngài"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ram chỉ đồng ý nhận lại phần nào cho thuộc cấp?",
+          "options": [
+            "Phần thức ăn các gia nhân đã dùng và phần của những người cùng đi chiến đấu",
+            "Toàn bộ số vàng bạc cướp được",
+            "Không nhận bất cứ thứ gì cho bất cứ ai",
+            "Nhận súc vật để làm tế lễ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "ĐỨC CHÚA hiện ra với Áp-ram trong một thị kiến và phán gì để trấn an ông?",
+          "options": [
+            "Hỡi Áp-ram, đừng sợ, Ta là tấm khiên chở che ngươi; phần thưởng của ngươi sẽ rất lớn",
+            "Ngươi hãy xây cho Ta một đền thờ",
+            "Hãy chuẩn bị đi chiến đấu",
+            "Hãy dời đi xứ khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ram lo ngại điều gì vì ông chưa có con cái?",
+          "options": [
+            "Một người tôi tớ sinh tại Đa-mác tên là Ê-li-e-de sẽ thừa kế gia tài của ông",
+            "Ông sẽ bị chết trẻ",
+            "Người ta sẽ cướp đất đai của ông",
+            "Thiên Chúa sẽ quên lời hứa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa đưa Áp-ram ra ngoài trời và phán ông hãy đếm cái gì để ví dụ về dòng dõi của ông?",
+          "options": [
+            "Các ngôi sao trên trời",
+            "Cát bãi biển",
+            "Lá trên cây",
+            "Đàn vật ngoài đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của Áp-ram trước lời hứa của ĐỨC CHÚA là gì?",
+          "options": [
+            "Ông tin ĐỨC CHÚA, và nhờ thế ông được coi là người công chính",
+            "Ông nghi ngờ và xin một dấu lạ",
+            "Ông cười thầm trong lòng",
+            "Ông không quan tâm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi lập giao ước, Thiên Chúa bảo Áp-ram chuẩn bị các con vật nào?",
+          "options": [
+            "Một con bò cái ba tuổi, một con dê cái ba tuổi, một con cừu đực ba tuổi, một con chim gáy và một con bồ câu non",
+            "Một con chiên con hoàn hảo",
+            "Mười con bê đực",
+            "Hai con chim câu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ram đã làm gì với các con vật tế lễ (trừ chim) để lập giao ước?",
+          "options": [
+            "Xẻ đôi chúng ra và đặt nửa này đối diện với nửa kia",
+            "Thiêu rụi chúng trên bàn thờ",
+            "Thả chúng chạy vào rừng",
+            "Chôn chúng xuống đất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi mặt trời lặn, một giấc ngủ sâu ập xuống trên Áp-ram cùng với điều gì?",
+          "options": [
+            "Một nỗi tối tăm dày đặc và kinh hoàng",
+            "Tiếng hát của thiên thần",
+            "Ánh sáng chói lòa",
+            "Một giấc mơ êm đềm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa báo trước dòng dõi Áp-ram sẽ làm kiều dân bị bắt làm nô lệ và bị áp bức ở ngoại bang trong bao nhiêu năm?",
+          "options": [
+            "Bốn trăm năm (400 năm)",
+            "Một trăm năm",
+            "Bảy mươi năm",
+            "Bốn mươi năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật gì cháy sáng đã đi qua giữa các con vật bị cắt đôi khi trời đã tối mịt?",
+          "options": [
+            "Một lò nghi ngút khói và một ngọn đuốc cháy sáng",
+            "Một thiên thần cầm gươm lửa",
+            "Một cột lửa lớn",
+            "Một luồng sét"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa lập giao ước ban đất đai cho dòng dõi Áp-ram từ con sông nào đến con sông nào?",
+          "options": [
+            "Từ sông Ai Cập đến sông lớn Êu-phơ-rát",
+            "Từ sông Gio-đan đến sông Nin",
+            "Từ sông Ti-gơ-rơ đến sông Nin",
+            "Từ sa mạc đến biển Đỏ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "questions": [
+        {
+          "text": "Người nữ tỳ Ai Cập của Sa-rai tên là gì?",
+          "options": [
+            "Ha-gar",
+            "Rê-bê-ca",
+            "Ra-khen",
+            "Lê-a"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sa-rai đã đề nghị Áp-ram làm gì vì bà không sinh được con?",
+          "options": [
+            "Hãy đến với người nữ tỳ Ha-gar của bà để hy vọng có con nhờ nàng",
+            "Hãy lấy thêm vợ thứ hai",
+            "Hãy cầu nguyện xin Chúa",
+            "Hãy nhận con nuôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi biết mình có thai, thái độ của Ha-gar đối với bà chủ Sa-rai ra sao?",
+          "options": [
+            "Nàng khinh dể bà chủ",
+            "Nàng hết lòng tôn trọng",
+            "Nàng lo sợ bị phạt",
+            "Nàng xin lỗi bà chủ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sa-rai đối xử với Ha-gar thế nào sau khi bị khinh dể khiến Ha-gar phải bỏ trốn?",
+          "options": [
+            "Sa-rai hành hạ nàng khiến nàng phải trốn đi",
+            "Sa-rai đuổi nàng đi ngay lập tức",
+            "Sa-rai bán nàng cho người khác",
+            "Sa-rai giam giữ nàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sứ thần của ĐỨC CHÚA đã gặp Ha-gar ở đâu khi nàng bỏ trốn?",
+          "options": [
+            "Bên một suối nước trong hoang địa, trên đường đi Su-rơ",
+            "Tại Ai Cập",
+            "Trong hang đá",
+            "Tại Kê-bron"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sứ thần khuyên Ha-gar làm gì khi gặp nàng?",
+          "options": [
+            "Hãy trở về với bà chủ của ngươi và chịu khuất phục dưới tay bà ấy",
+            "Hãy trốn thẳng về Ai Cập",
+            "Hãy ở lại hoang địa này",
+            "Hãy đến xin lỗi Áp-ram"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sứ thần bảo Ha-gar đặt tên cho con trai sắp sinh là gì vì ĐỨC CHÚA đã nghe thấu nỗi khổ của nàng?",
+          "options": [
+            "Ích-ma-ên (Ishmael)",
+            "I-xa-ác (Isaac)",
+            "Ê-sau",
+            "Gia-cóp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên 'Ích-ma-ên' có nghĩa là gì?",
+          "options": [
+            "Thiên Chúa nghe thấy",
+            "Thiên Chúa ở cùng",
+            "Đứa trẻ hoang dã",
+            "Tiếng cười"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sứ thần tiên tri Ích-ma-ên lớn lên sẽ là người thế nào?",
+          "options": [
+            "Nó sẽ như một con lừa hoang, tay nó chống mọi người và tay mọi người chống lại nó",
+            "Nó sẽ trở thành một vị tư tế vĩ đại",
+            "Nó sẽ làm vua xứ Ai Cập",
+            "Nó sẽ là người nhu mì hiền lành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ram bao nhiêu tuổi khi Ha-gar sinh Ích-ma-ên cho ông?",
+          "options": [
+            "Tám mươi sáu tuổi (86 tuổi)",
+            "Bảy mươi lăm tuổi",
+            "Chín mươi chín tuổi",
+            "Một trăm tuổi"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "questions": [
+        {
+          "text": "Áp-ram bao nhiêu tuổi khi ĐỨC CHÚA hiện ra và lập giao ước đổi tên ông?",
+          "options": [
+            "Chín mươi chín tuổi (99 tuổi)",
+            "Một trăm tuổi",
+            "Tám mươi sáu tuổi",
+            "Bảy mươi lăm tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA đổi tên Áp-ram (Abram) thành tên gì?",
+          "options": [
+            "Áp-ra-ham (Abraham)",
+            "I-xa-ác",
+            "Ít-ra-en",
+            "Áp-ba"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa của tên mới 'Áp-ra-ham' là gì?",
+          "options": [
+            "Cha của vô số dân tộc",
+            "Người công chính",
+            "Được Thiên Chúa chọn",
+            "Người chăn chiên vĩ đại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dấu chỉ giao ước bằng thể xác mà Áp-ra-ham và mọi nam giới trong dòng dõi phải thực hiện là gì?",
+          "options": [
+            "Phép cắt bì (cắt bao quy đầu)",
+            "Rửa tội bằng nước",
+            "Xức dầu thánh",
+            "Đeo vòng tay bằng đá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mọi bé trai sinh ra trong nhà hoặc mua bằng tiền phải chịu cắt bì vào ngày thứ mấy sau sinh?",
+          "options": [
+            "Ngày thứ tám (8 ngày tuổi)",
+            "Ngày thứ bảy",
+            "Ngày thứ mười hai",
+            "Ngày thứ bốn mươi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa đổi tên Sa-rai (Sarai) thành tên gì?",
+          "options": [
+            "Xa-ra (Sarah)",
+            "Rê-bê-ca",
+            "Ra-khen",
+            "Ê-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi nghe Thiên Chúa hứa ban cho Xa-ra một người con trai ở tuổi già, Áp-ra-ham đã làm gì?",
+          "options": [
+            "Sấp mặt xuống đất và cười thầm trong lòng vì tuổi tác hai người",
+            "Khóc lóc van xin",
+            "Quỳ lạy tạ ơn ngay lập tức",
+            "Nghi ngờ và tranh cãi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa bảo Áp-ra-ham đặt tên cho con trai sắp sinh của Xa-ra là gì?",
+          "options": [
+            "I-xa-ác (Isaac)",
+            "Ích-ma-ên",
+            "Gia-cóp",
+            "Sết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên 'I-xa-ác' có nghĩa là gì?",
+          "options": [
+            "Tiếng cười (hay Người cười)",
+            "Món quà của Chúa",
+            "Sự an ủi",
+            "Đứa con của lời hứa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi nghe phán truyền, Áp-ra-ham đã làm gì ngay trong ngày hôm đó?",
+          "options": [
+            "Cắt bì cho chính mình, cho Ích-ma-ên và toàn bộ nam giới trong nhà",
+            "Dựng bàn thờ mới",
+            "Đi tìm Lót",
+            "Tổ chức tiệc ăn mừng"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "questions": [
+        {
+          "text": "ĐỨC CHÚA hiện ra với Áp-ra-ham tại cụm cây sồi nào khi ông đang ngồi ở cửa lều lúc nóng nực?",
+          "options": [
+            "Cụm sồi Mam-rê",
+            "Cụm sồi Mô-rê",
+            "Cụm sồi Si-khem",
+            "Núi Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham ngước mắt lên nhìn và thấy bao nhiêu người đứng trước mặt ông?",
+          "options": [
+            "Ba người",
+            "Hai người",
+            "Một người",
+            "Mười người"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham đã thể hiện sự hiếu khách thế nào đối với các vị khách?",
+          "options": [
+            "Chạy ra đón, sấp mình xuống đất, mời họ rửa chân nghỉ ngơi và chuẩn bị bữa ăn thịnh soạn",
+            "Chỉ đứng chào hỏi xã giao",
+            "Mời họ đi tiếp",
+            "Hỏi xem họ là ai rồi mới cho vào"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bữa ăn Áp-ra-ham chuẩn bị cho các vị khách gồm những gì?",
+          "options": [
+            "Bánh bột lọc tinh chế, một con bê non béo tốt, sữa chua và sữa tươi",
+            "Bánh mì và rượu nho",
+            "Chiên con nướng và mật ong",
+            "Cháo đậu đỏ và trái cây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị khách phán điều gì về việc sinh con của bà Xa-ra?",
+          "options": [
+            "Vào độ này sang năm tôi sẽ trở lại và Xa-ra sẽ có một con trai",
+            "Xa-ra sẽ sinh con ngay trong tháng sau",
+            "Xa-ra đã quá già không thể sinh con",
+            "Áp-ra-ham phải lấy vợ khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Xa-ra đã làm gì khi nghe lời hứa đó từ phía sau cửa lều?",
+          "options": [
+            "Cười thầm trong lòng vì tự nghĩ mình đã già tàn cỗi",
+            "Khóc nức nở",
+            "Chạy ra tạ ơn",
+            "Tranh cãi với vị khách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA đã phán câu nào nổi tiếng để sửa dạy sự thiếu tin tưởng của Xa-ra?",
+          "options": [
+            "Có điều gì kỳ diệu mà ĐỨC CHÚA không làm nổi chăng?",
+            "Hỡi Xa-ra, sao ngươi lại cười?",
+            "Lòng tin của ngươi ở đâu?",
+            "Ta là Đấng Toàn Năng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cho Áp-ra-ham biết Người chuẩn bị đi xuống xem xét và trừng phạt thành phố nào?",
+          "options": [
+            "Xơ-đôm và Gô-mô-ra",
+            "Ba-by-lon",
+            "U-rơ",
+            "Ghê-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham đã tiến lại gần ĐỨC CHÚA và thực hiện hành động gì nổi tiếng cho thành Xơ-đôm?",
+          "options": [
+            "Mặc cả, cầu xin Chúa tha thứ cho thành nếu tìm thấy số người công chính tối thiểu",
+            "Xin Chúa tiêu diệt ngay quân ác ôn",
+            "Xin đưa Lót ra trước rồi hãy phạt",
+            "Cầu xin Chúa cho mưa lửa xuống thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số người công chính tối thiểu cuối cùng Áp-ra-ham mặc cả với Chúa để giữ cho thành không bị diệt là bao nhiêu?",
+          "options": [
+            "Mười người (10 người)",
+            "Năm mươi người",
+            "Ba mươi người",
+            "Năm người"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "questions": [
+        {
+          "text": "Có bao nhiêu sứ thần (thiên thần) đến Xơ-đôm vào buổi chiều khi Lót đang ngồi ở cửa thành?",
+          "options": [
+            "Hai sứ thần",
+            "Ba sứ thần",
+            "Một sứ thần",
+            "Bốn sứ thần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lót đã đối xử với hai vị khách thế nào khi họ mới đến?",
+          "options": [
+            "Mời họ vào nhà mình nghỉ qua đêm, rửa chân và làm tiệc bánh không men cho họ ăn",
+            "Không tiếp đón",
+            "Bảo họ ra quảng trường ngủ",
+            "Báo cho dân thành biết có khách lạ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đám đông dân thành Xơ-đôm đã bao vây nhà Lót và đòi hỏi điều gì gian ác?",
+          "options": [
+            "Đòi Lót đưa hai vị khách ra ngoài để chúng cưỡng bức",
+            "Đòi Lót đóng thuế",
+            "Đòi đuổi hai vị khách ra khỏi thành",
+            "Đòi cướp của cải của Lót"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lót đã đề nghị giải pháp gì để bảo vệ hai vị khách nhưng đám đông từ chối?",
+          "options": [
+            "Đưa hai đứa con gái chưa biết mùi đời của mình ra cho chúng làm gì tùy ý",
+            "Đưa hết vàng bạc của cải",
+            "Tự nguyện chịu đòn thay khách",
+            "Mời chúng vào ăn tiệc chung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai vị khách đã cứu Lót và trừng phạt đám đông dân thành đứng ngoài cửa thế nào?",
+          "options": [
+            "Kéo Lót vào nhà, đóng cửa lại và làm cho đám đông ngoài cửa bị mù mắt",
+            "Gọi sấm sét đánh chết chúng",
+            "Mở cửa xông ra đánh nhau với chúng",
+            "Làm cho đất nứt ra nuốt chửng chúng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai vị sứ thần bảo Lót đưa gia đình chạy trốn và dặn dò điều cấm kỵ gì?",
+          "options": [
+            "Hãy trốn đi để cứu mạng sống, đừng ngoảnh mặt lại phía sau",
+            "Đừng mang theo bất cứ thứ gì",
+            "Phải chạy trốn thật nhanh lên núi cao",
+            "Không được nói chuyện với ai dọc đường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vợ của Lót đã phạm phải sai lầm gì khi đang chạy trốn và bị biến thành cột muối?",
+          "options": [
+            "Bà ngoảnh mặt lại phía sau để nhìn thành phố",
+            "Bà dừng lại nghỉ chân",
+            "Bà than khóc tiếc của cải",
+            "Bà không chịu chạy lên núi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa trừng phạt hủy diệt hai thành Xơ-đôm và Gô-mô-ra bằng cách nào?",
+          "options": [
+            "Mưa diêm sinh và lửa từ trời đổ xuống",
+            "Gây ra trận lũ lụt lớn",
+            "Cho động đất nuốt chửng thành phố",
+            "Cho quân thù đến đốt phá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lót và hai con gái đã trú ngụ ở đâu sau khi rời khỏi thành Xo-a?",
+          "options": [
+            "Trong một hang đá trên núi",
+            "Trong thành phố Ghê-ra",
+            "Trở về lều của Áp-ra-ham",
+            "Tại hoang địa Ne-ghep"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai đứa con gái của Lót đã sinh con bằng cách nào khi nghĩ rằng không còn người đàn ông nào trên đất?",
+          "options": [
+            "Chuốc rượu cho cha say rồi nằm với cha",
+            "Lấy người dân xứ Ca-na-an",
+            "Lấy những người tôi tớ",
+            "Cầu xin Chúa ban con"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "questions": [
+        {
+          "text": "Áp-ra-ham di chuyển từ cụm sồi Mam-rê đến vùng đất nào và cư ngụ giữa Ca-đê và Su-rơ?",
+          "options": [
+            "Vùng Ghê-ra (Gerar)",
+            "Vùng Ne-ghep",
+            "Đất Ai Cập",
+            "Vùng Kê-bron"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham tiếp tục nói dối điều gì về vợ mình (Xa-ra) với người dân ở Ghê-ra?",
+          "options": [
+            "Bà ấy là em gái tôi",
+            "Bà ấy là chị tôi",
+            "Bà ấy là tôi tớ tôi",
+            "Bà ấy là vợ tôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là vua Ghê-ra đã sai người đến bắt bà Xa-ra vào cung?",
+          "options": [
+            "A-vi-me-léc",
+            "Pha-ra-ôn",
+            "Men-ki-xê-đê",
+            "Kê-đo-la-ô-mê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa đã cảnh báo vua A-vi-me-léc trong một giấc mơ ban đêm như thế nào?",
+          "options": [
+            "Ngươi sắp phải chết vì người đàn bà ngươi đã bắt, bởi vì bà ấy có chồng rồi",
+            "Hãy giữ người đàn bà đó làm hoàng hậu",
+            "Ngươi sẽ có nhiều của cải",
+            "Hãy đuổi Áp-ra-ham đi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao vua A-vi-me-léc không bị Thiên Chúa trừng phạt vì đã bắt bà Xa-ra?",
+          "options": [
+            "Vì ông làm với lòng thanh sạch, chưa chạm đến bà và Thiên Chúa đã ngăn cản ông phạm tội",
+            "Vì ông đã trả lại bà ngay trước khi ngủ",
+            "Vì ông cúng tế nhiều lễ vật",
+            "Vì Áp-ra-ham xin tha cho ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa bảo A-vi-me-léc trả vợ lại cho Áp-ra-ham và giới thiệu Áp-ra-ham là ai để cầu nguyện cho vua sống?",
+          "options": [
+            "Một ngôn sứ (tiên tri)",
+            "Một tư tế",
+            "Một vị vua vĩ đại",
+            "Một chiến sĩ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua A-vi-me-léc đã trách móc Áp-ra-ham thế nào?",
+          "options": [
+            "Tại sao ngài lại làm thế? Ngài đã đưa tội lớn xuống trên vương quốc của tôi",
+            "Tại sao ngài lại đến đất nước tôi?",
+            "Tại sao ngài không dâng lễ vật cho tôi?",
+            "Tại sao ngài không chịu đi nơi khác?"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Áp-ra-ham đưa ra để bào chữa cho việc nói dối Sa-rai là em gái là gì?",
+          "options": [
+            "Tôi tự nghĩ ở nơi này không có lòng kính sợ Thiên Chúa, họ sẽ giết tôi để cướp vợ tôi",
+            "Vì Sa-rai thực sự không phải là vợ tôi",
+            "Vì tôi muốn nhận quà của vua",
+            "Vì Thiên Chúa bảo tôi làm vậy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự thật về quan hệ huyết thống giữa Áp-ra-ham và Xa-ra là gì theo lời ông kể?",
+          "options": [
+            "Bà thực sự là em cùng cha khác mẹ với tôi, sau đó mới thành vợ tôi",
+            "Bà là em gái ruột của tôi",
+            "Hai người hoàn toàn không có huyết thống",
+            "Bà là cháu họ của tôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi trả lại Xa-ra, vua A-vi-me-léc đã tặng thêm cho Áp-ra-ham những gì?",
+          "options": [
+            "Chiên, bò, tôi trai tôi tớ, một ngàn đồng bạc và cho phép ông cư ngụ bất cứ nơi nào trong xứ",
+            "Chỉ trả lại người không có của cải gì thêm",
+            "Một đoàn lạc đà lớn",
+            "Một thành trì mới"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "questions": [
+        {
+          "text": "Bà Xa-ra đã hạ sinh cho ông Áp-ra-ham một người con trai đặt tên là gì?",
+          "options": [
+            "I-xa-ác (Isaac)",
+            "Ích-ma-ên",
+            "Gia-cóp",
+            "Ê-sau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham bao nhiêu tuổi khi con trai I-xa-ác của ông chào đời?",
+          "options": [
+            "Một trăm tuổi (100 tuổi)",
+            "Chín mươi chín tuổi",
+            "Tám mươi sáu tuổi",
+            "Bảy mươi lăm tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Xa-ra yêu cầu Áp-ra-ham làm gì với mẹ con Ha-gar khi thấy Ích-ma-ên đùa giỡn với con mình?",
+          "options": [
+            "Hãy tống khứ người nữ tỳ này và con của nó đi",
+            "Hãy phạt đòn họ",
+            "Hãy bắt họ làm việc nặng nhọc hơn",
+            "Hãy cho họ một chỗ ở riêng ngoài đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa đã bảo Áp-ra-ham thế nào trước sự đau lòng của ông về Ích-ma-ên?",
+          "options": [
+            "Cứ nghe theo lời của Xa-ra, vì chính từ I-xa-ác mới có một dòng dõi mang tên ngươi",
+            "Hãy giữ họ lại",
+            "Hãy đuổi Xa-ra đi",
+            "Hãy đi cùng mẹ con Ha-gar"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham đã đưa cho mẹ con Ha-gar những gì khi tiễn họ đi vào buổi sáng?",
+          "options": [
+            "Bánh mì và một bầu nước",
+            "Một đàn súc vật nhỏ",
+            "Mười đồng bạc",
+            "Một con lạc đà đầy của cải"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ha-gar và con trai đã đi lang thang trong hoang địa nào?",
+          "options": [
+            "Hoang địa Bê-e-se-va",
+            "Hoang địa Si-nai",
+            "Hoang địa Giu-đê",
+            "Hoang địa Su-rơ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi nước trong bầu đã cạn, Ha-gar đã làm gì vì không đành lòng nhìn con chết khát?",
+          "options": [
+            "Đặt con dưới một bụi cây rồi đi ra xa khoảng một tầm tên bắn để ngồi khóc",
+            "Bỏ con lại chạy về Ai Cập",
+            "Cố đào đất tìm nước",
+            "Đi tìm người giúp đỡ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa cứu giúp mẹ con Ha-gar trong hoang địa bằng cách nào?",
+          "options": [
+            "Thiên Chúa mở mắt cho bà thấy một giếng nước gần đó",
+            "Cho trời mưa lớn đổ xuống",
+            "Cho một thiên thần mang nước đến cho họ",
+            "Cho một đoàn lữ hành đi qua cứu giúp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên địa danh 'Bê-e-se-va' nơi Áp-ra-ham và A-vi-me-léc lập giao ước có nghĩa là gì?",
+          "options": [
+            "Giếng Thề (hoặc Giếng của bảy con cừu cái)",
+            "Nguồn nước ngọt",
+            "Đất bằng phẳng",
+            "Nơi hòa bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ích-ma-ên lớn lên trong hoang địa Pha-ran và làm nghề gì?",
+          "options": [
+            "Thợ bắn cung",
+            "Chăn súc vật",
+            "Thợ rèn",
+            "Thợ gốm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "questions": [
+        {
+          "text": "Thiên Chúa đã thử thách Áp-ra-ham bằng cách yêu cầu ông dâng tế lễ người con nào?",
+          "options": [
+            "Đứa con duy nhất yêu dấu của ngươi là I-xa-ác",
+            "Con trai lớn Ích-ma-ên",
+            "Một con chiên đực béo tốt nhất",
+            "Chính mạng sống của ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa chỉ định ngọn núi hiến tế nằm ở vùng đất nào?",
+          "options": [
+            "Vùng Mô-ri-gia (Moriah)",
+            "Vùng Xi-nai",
+            "Vùng Ca-rê-mên",
+            "Vùng Bê-then"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi hai cha con đi lên núi, I-xa-ác hỏi cha: 'Lửa và củi đây, còn chiên sát tế đâu?', Áp-ra-ham trả lời sao?",
+          "options": [
+            "Thiên Chúa sẽ liệu con chiên sát tế, con ạ",
+            "Chính con là con chiên tế lễ",
+            "Chúa sẽ sai một thiên thần đem chiên đến",
+            "Chúng ta sẽ tìm thấy chiên trên núi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai đã gọi Áp-ra-ham từ trời xuống ngay lúc ông giơ dao chuẩn bị sát tế con mình?",
+          "options": [
+            "Sứ thần của ĐỨC CHÚA",
+            "Chính tiếng phán của Thiên Chúa",
+            "Bà Xa-ra",
+            "Không ai cả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sứ thần nói gì để khẳng định đức tin của Áp-ra-ham đã đạt yêu cầu?",
+          "options": [
+            "Đừng tra tay trên đứa trẻ... Bây giờ Ta biết ngươi kính sợ Thiên Chúa, vì đã không tiếc đứa con duy nhất của ngươi",
+            "Ngươi hãy dừng lại và về nhà đi",
+            "Đức tin của ngươi thật là vĩ đại",
+            "Hãy sát tế con chiên đằng kia thay thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham ngước mắt nhìn và thấy con vật gì bị mắc sừng trong bụi cây để dùng làm lễ tế thay thế?",
+          "options": [
+            "Một con cừu đực",
+            "Một con bê đực",
+            "Một con dê đực",
+            "Một con bồ câu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham đặt tên cho nơi đó là 'Gia-vê Di-rê' có nghĩa là gì?",
+          "options": [
+            "Trên núi ĐỨC CHÚA sẽ liệu (hoặc ĐỨC CHÚA sẽ chuẩn bị)",
+            "Nơi thử thách đức tin",
+            "Thiên Chúa vĩ đại",
+            "Bàn thờ thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa thề hứa ban cho dòng dõi Áp-ra-ham đông đúc như cái gì?",
+          "options": [
+            "Như sao trên trời, như cát bãi biển",
+            "Như cỏ ngoài đồng",
+            "Như lá rừng",
+            "Như muông thú trên đất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người anh em của Áp-ra-ham ở quê nhà được nhắc đến ở cuối chương khi sinh hạ Rê-bê-ca?",
+          "options": [
+            "Na-kho",
+            "Ha-ran",
+            "Te-ra",
+            "Lót"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là cha của nàng Rê-bê-ca (Rebekah) được giới thiệu ở cuối chương?",
+          "options": [
+            "Bơ-thu-ên",
+            "La-ban",
+            "Na-kho",
+            "Kem-u-ên"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "questions": [
+        {
+          "text": "Bà Xa-ra hưởng thọ bao nhiêu tuổi trước khi qua đời?",
+          "options": [
+            "Một trăm hai mươi bảy tuổi (127 tuổi)",
+            "Một trăm tuổi",
+            "Một trăm mười tuổi",
+            "Chín mươi chín tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Xa-ra qua đời tại thành phố nào của đất Ca-na-an?",
+          "options": [
+            "Ki-ri-át A-rơ-ba (tức Kê-bron)",
+            "Bê-e-se-va",
+            "Si-khem",
+            "Bê-then"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham đã thương lượng với dân tộc nào tại Kê-bron để mua đất chôn cất vợ?",
+          "options": [
+            "Con cái ông Khết (người Hết/Hittites)",
+            "Người Ca-na-an",
+            "Người Phi-li-tinh",
+            "Người Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là chủ sở hữu thửa đất có hang đá Mác-pê-la mà Áp-ra-ham muốn mua?",
+          "options": [
+            "E-phơ-rôn, con của Xô-khar",
+            "Bơ-thu-ên",
+            "La-ban",
+            "A-vi-me-léc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham muốn mua hang đá nào ở cuối thửa ruộng của E-phơ-rôn để làm mộ?",
+          "options": [
+            "Hang đá Mác-pê-la",
+            "Hang đá Ca-đê",
+            "Hang đá Adullam",
+            "Hang đá Bethlehem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "E-phơ-rôn đề nghị tặng không thửa ruộng và hang đá trước mặt mọi người, Áp-ra-ham đã phản ứng thế nào?",
+          "options": [
+            "Ông từ chối nhận quà tặng và khăng khăng đòi trả đúng giá trị bằng bạc",
+            "Ông vui vẻ nhận quà tặng",
+            "Ông bỏ đi không mua nữa",
+            "Ông đổi bằng súc vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giá thửa ruộng và hang đá được E-phơ-rôn đưa ra là bao nhiêu đồng bạc?",
+          "options": [
+            "Bốn trăm đồng bạc trọng lượng thương mại (400 đồng bạc)",
+            "Ba mươi đồng bạc",
+            "Một trăm đồng bạc",
+            "Năm mươi đồng bạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham đã cân bạc thanh toán cho E-phơ-rôn thế nào?",
+          "options": [
+            "Cân đủ số bạc trước mặt con cái ông Khết theo đúng giá trị lưu hành",
+            "Trả bằng vàng",
+            "Trả góp làm nhiều đợt",
+            "Trả bằng đàn chiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hang đá Mác-pê-la nằm đối diện với địa danh nào?",
+          "options": [
+            "Mam-rê (tức Kê-bron)",
+            "Bê-e-se-va",
+            "Gio-đan",
+            "Bê-then"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người được chôn cất đầu tiên trong hang đá Mác-pê-la?",
+          "options": [
+            "Bà Xa-ra",
+            "Ông Áp-ra-ham",
+            "Ông I-xa-ác",
+            "Bà Rê-bê-ca"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "questions": [
+        {
+          "text": "Áp-ra-ham đã giao nhiệm vụ gì quan trọng cho người quản gia già cai quản gia sản của ông?",
+          "options": [
+            "Trở về quê hương họ hàng tìm một người vợ cho con trai I-xa-ác",
+            "Tìm đất định cư mới",
+            "Bán bớt đàn súc vật",
+            "Xây dựng bàn thờ mới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham cấm người quản gia không được cưới vợ cho I-xa-ác từ con cái của dân tộc nào?",
+          "options": [
+            "Dân Ca-na-an bản địa nơi ông đang ở",
+            "Dân Ai Cập",
+            "Dân Híp-ri",
+            "Dân Phê-rê-dit"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-ra-ham dặn người quản gia tuyệt đối không được làm điều gì đối với I-xa-ác nếu cô gái không chịu đi theo?",
+          "options": [
+            "Không được đưa I-xa-ác trở lại quê cũ định cư bên kia sông",
+            "Không được cưới vợ cho con nữa",
+            "Không được chia gia sản cho con",
+            "Phải đón cô gái bằng vũ lực"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người quản gia dừng chân bên một giếng nước ở thành phố nào của xứ A-ram Na-ha-ra-im?",
+          "options": [
+            "Thành phố của Na-kho",
+            "Thành phố Ha-ran",
+            "Thành phố U-rơ",
+            "Thành phố Bê-e-se-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người quản gia đã cầu xin ĐỨC CHÚA một dấu hiệu gì để nhận biết người thiếu nữ được chọn cho I-xa-ác?",
+          "options": [
+            "Cô gái đồng ý cho ông uống nước và chủ động múc nước cho cả đoàn lạc đà mười con uống no",
+            "Cô gái xinh đẹp nhất thành",
+            "Cô gái mang tặng ông bánh ngọt",
+            "Cô gái chào hỏi ông trước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người thiếu nữ xuất hiện đầu tiên, rất xinh đẹp và thực hiện đúng như lời cầu nguyện của ông tên là gì?",
+          "options": [
+            "Rê-bê-ca (Rebekah)",
+            "Ra-khên",
+            "Lê-a",
+            "Ha-gar"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người quản gia đã tặng Rê-bê-ca những món quà gì ngay sau khi nàng cho lạc đà uống xong?",
+          "options": [
+            "Một khoen mũi bằng vàng và hai vòng tay bằng vàng",
+            "Một chuỗi ngọc trai",
+            "Bốn trăm đồng bạc",
+            "Một chiếc áo choàng thêu hoa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người anh trai của Rê-bê-ca chạy ra giếng đón người quản gia khi thấy vàng trên người em gái tên là gì?",
+          "options": [
+            "La-ban",
+            "Bơ-thu-ên",
+            "Na-kho",
+            "Ê-sau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi nghe kể sự tình, gia đình Bơ-thu-ên và La-ban đã quyết định thế nào?",
+          "options": [
+            "Việc này do ĐỨC CHÚA định đoạt, chúng tôi không thể nói ngược nói xuôi. Rê-bê-ca đây, hãy đưa nàng đi",
+            "Họ bắt nộp thêm súc vật mới cho cưới",
+            "Họ giữ người quản gia lại làm nô lệ",
+            "Họ từ chối vì chênh lệch khoảng cách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "I-xa-ác đang ở miền nào khi ông đi dạo ngoài đồng vào lúc chiều tà và gặp đoàn lạc đà đưa Rê-bê-ca về?",
+          "options": [
+            "Vùng Ne-ghep, gần giếng Lơ-khai Ro-i",
+            "Vùng Kê-bron",
+            "Vùng Bê-e-se-va",
+            "Vùng Mô-ri-gia"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "questions": [
+        {
+          "text": "Áp-ra-ham qua đời ở độ tuổi bao nhiêu?",
+          "options": [
+            "Một trăm bảy mươi lăm tuổi (175 tuổi)",
+            "Một trăm hai mươi bảy tuổi",
+            "Một trăm tám mươi tuổi",
+            "Một trăm năm mươi tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai đã chôn cất Áp-ra-ham trong hang đá Mác-pê-la bên cạnh bà Xa-ra?",
+          "options": [
+            "Hai con trai ông là I-xa-ác và Ích-ma-ên",
+            "Người quản gia già Ê-li-ê-de",
+            "Dân tộc Khết bản địa",
+            "Chỉ một mình I-xa-ác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "I-xa-ác kết hôn với Rê-bê-ca năm ông bao nhiêu tuổi?",
+          "options": [
+            "Bốn mươi tuổi (40 tuổi)",
+            "Ba mươi tuổi",
+            "Năm mươi tuổi",
+            "Sáu mươi tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "I-xa-ác đã làm gì vì vợ ông bị hiếm muộn?",
+          "options": [
+            "Khẩn cầu ĐỨC CHÚA cho vợ mình, và ĐỨC CHÚA đã nhận lời ông",
+            "Lấy thêm vợ lẽ",
+            "Nhận Ích-ma-ên làm con thừa kế",
+            "Đi tìm thầy lang bốc thuốc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Có hiện tượng gì đặc biệt xảy ra trong bụng bà Rê-bê-ca khi mang thai đôi?",
+          "options": [
+            "Các đứa con đụng nhau chan chát trong bụng mẹ",
+            "Bà nằm mơ thấy cây thang",
+            "Bà không hề thấy mệt mỏi",
+            "Một đứa biến mất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai đứa con trai sinh đôi của I-xa-ác và Rê-bê-ca tên là gì?",
+          "options": [
+            "Ê-sau và Gia-cóp",
+            "Ca-in và A-ben",
+            "Ích-ma-ên và I-xa-ác",
+            "Phê-rét và Tê-rách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đứa con sinh ra trước, đỏ hồng và đầy lông lá như chiếc áo tơi được đặt tên là gì?",
+          "options": [
+            "Ê-sau (Esau)",
+            "Gia-cóp (Jacob)",
+            "Ít-ra-en",
+            "Nim-rốt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đứa con sinh ra sau, tay nắm gót chân anh mình được đặt tên là gì?",
+          "options": [
+            "Gia-cóp (Jacob)",
+            "Ê-sau",
+            "Giô-sép",
+            "Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-sau làm nghề gì và Gia-cóp có lối sống như thế nào?",
+          "options": [
+            "Ê-sau thợ săn lão luyện ngoài đồng, Gia-cóp người trầm lặng thích ở lều",
+            "Ê-sau làm ruộng, Gia-cóp chăn súc vật",
+            "Ê-sau thợ rèn, Gia-cóp thợ gốm",
+            "Cả hai đều đi săn bắn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-sau đã bán quyền trưởng nam của mình cho Gia-cóp để đổi lấy thứ gì?",
+          "options": [
+            "Bánh mì và một bát cháo đậu đỏ",
+            "Mười con chiên béo tốt",
+            "Một số tiền bạc lớn",
+            "Một bộ quần áo mới"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "questions": [
+        {
+          "text": "Có nạn đói xảy ra trong xứ, I-xa-ác di chuyển đến vùng nào nơi vua A-vi-me-léc của người Phi-li-tinh ở?",
+          "options": [
+            "Ghê-ra (Gerar)",
+            "Ai Cập",
+            "Bê-e-se-va",
+            "Bê-then"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA hiện ra dặn I-xa-ác không được đi xuống đâu lánh nạn?",
+          "options": [
+            "Không được đi xuống Ai Cập",
+            "Không được ở Ghê-ra",
+            "Không được lên núi",
+            "Không được quay về Ha-ran"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "I-xa-ác tiếp tục nói dối điều gì với người xứ Ghê-ra về vợ mình (Rê-bê-ca)?",
+          "options": [
+            "Nàng là em gái tôi",
+            "Nàng là chị tôi",
+            "Nàng là tôi tớ tôi",
+            "Nàng là con gái tôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai đã nhìn qua cửa sổ thấy I-xa-ác đang âu yếm vợ và phát hiện ra sự thật?",
+          "options": [
+            "Vua A-vi-me-léc",
+            "Người tôi tớ Ghê-ra",
+            "Ê-sau",
+            "Người chăn súc vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi phát hiện sự thật, vua A-vi-me-léc ra sắc chỉ gì để bảo vệ vợ chồng I-xa-ác?",
+          "options": [
+            "Ai đụng đến người đàn ông này hay vợ ông ta thì sẽ bị xử tử",
+            "Trục xuất họ ngay lập tức",
+            "Bắt phạt tiền họ",
+            "Bắt Rê-bê-ca nộp vào hoàng cung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "I-xa-ác gieo mầm trong xứ đó và năm ấy thu hoạch được bao nhiêu lần nhờ ĐỨC CHÚA chúc phúc?",
+          "options": [
+            "Gấp một trăm lần (100 lần)",
+            "Gấp mười lần",
+            "Gấp hai mươi lần",
+            "Gấp năm mươi lần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao người Phi-li-tinh lại ghen tị với I-xa-ác?",
+          "options": [
+            "Vì ông trở nên quá giàu có, đàn súc vật lớn và tôi tớ đông đảo",
+            "Vì ông cưới được vợ đẹp",
+            "Vì ông thắng trận",
+            "Vì ông chiếm hết các giếng nước cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người Phi-li-tinh đã làm gì với những cái giếng thời Áp-ra-ham đào?",
+          "options": [
+            "Lấy đất lấp kín các giếng đó lại",
+            "Bỏ độc vào nước giếng",
+            "Bán lại giếng cho I-xa-ác",
+            "Đặt người canh gác không cho dùng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau nhiều tranh chấp giếng, I-xa-ác đào được giếng không bị ai tranh giành và đặt tên là gì?",
+          "options": [
+            "Rơ-khô-vốt (nghĩa là Rộng rãi)",
+            "Ê-xéc (Tranh chấp)",
+            "Xít-nah (Thù nghịch)",
+            "Bê-e-se-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-sau cưới hai người vợ thuộc dân tộc nào gây nhiều cay đắng cho cha mẹ ông?",
+          "options": [
+            "Con cái người Khết (Hittites)",
+            "Người Ai Cập",
+            "Dân Híp-ri",
+            "Người Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "questions": [
+        {
+          "text": "Khi I-xa-ác đã già yếu và mắt bị mù lòa, ông bảo Ê-sau làm gì trước khi chúc phúc?",
+          "options": [
+            "Xách cung tên đi săn thú rừng làm món thịt nướng ngon ngọt cho ông",
+            "Đi tìm họ hàng về",
+            "Đào thêm một cái giếng",
+            "Bàn giao lại quyền trưởng nam cho em"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người nghe lén câu chuyện và lập kế hoạch giúp Gia-cóp chiếm lời chúc phúc?",
+          "options": [
+            "Mẹ của ông, bà Rê-bê-ca",
+            "Người quản gia già",
+            "Chính Gia-cóp tự nghĩ ra",
+            "Một người tôi tớ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Rê-bê-ca bảo Gia-cóp bắt con vật gì ở bầy súc vật về làm món thịt nướng?",
+          "options": [
+            "Hai con dê con béo tốt",
+            "Một con chiên non",
+            "Một con bê đực",
+            "Một con chim bồ câu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp lo ngại điều gì vì da ông trơn láng còn da anh Ê-sau lại đầy lông lá?",
+          "options": [
+            "Sợ cha sờ nắn phát hiện ra sẽ đưa lời nguyền rủa thay vì lời chúc phúc",
+            "Sợ bị anh Ê-sau đánh",
+            "Sợ mẹ bị vạ lây",
+            "Sợ thịt dê không ngon bằng thú rừng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Rê-bê-ca đã dùng mẹo gì để che giấu làn da trơn láng của Gia-cóp?",
+          "options": [
+            "Lấy da dê con quấn vào cổ tay và phần trơn láng ở cổ ông",
+            "Bôi bùn lên người ông",
+            "Cho ông mặc áo giáp sắt",
+            "Trát nhựa cây lên da ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp mặc quần áo của ai để mang mùi hương đồng nội đến cho người cha già?",
+          "options": [
+            "Bộ quần áo quý nhất của anh Ê-sau",
+            "Bộ đồ của cha I-xa-ác",
+            "Áo thô của người chăn chiên",
+            "Áo choàng của mẹ Rê-bê-ca"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi sờ nắn Gia-cóp, ông I-xa-ác đã nhận xét câu nào nổi tiếng?",
+          "options": [
+            "Giọng nói thì là giọng Gia-cóp, nhưng đôi tay lại là tay Ê-sau",
+            "Đây đúng là Ê-sau con ta rồi",
+            "Mùi hương này không phải của Ê-sau",
+            "Hãy đi săn lại chiên cho ta"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nội dung lời chúc phúc tối cao của I-xa-ác dành cho Gia-cóp gồm những gì?",
+          "options": [
+            "Đất đai màu mỡ mọc nhiều lúa mì rượu mới, làm chủ các anh em và các dân tộc phải sụp lạy",
+            "Cho ông thừa kế toàn bộ vàng bạc",
+            "Hứa cho ông sống lâu trăm tuổi",
+            "Ban cho ông sức mạnh vô địch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-sau phản ứng thế nào khi biết Gia-cóp đã lừa dối cha lấy mất lời chúc phúc?",
+          "options": [
+            "Khóc lớn thảm thiết, xin cha một lời chúc phúc khác và căm ghét thề sẽ giết Gia-cóp",
+            "Đuổi Gia-cóp ra khỏi nhà ngay lập tức",
+            "Chấp nhận số phận",
+            "Đòi chia đôi đất đai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Rê-bê-ca khuyên Gia-cóp trốn đi đâu lánh nạn cho đến khi cơn giận của anh nguôi đi?",
+          "options": [
+            "Trốn sang nhà cậu La-ban ở Ha-ran",
+            "Trốn xuống đất Ai Cập",
+            "Đi lang thang trong hoang địa Ne-ghep",
+            "Đến trú ngụ với người chăn súc vật Ghê-ra"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "questions": [
+        {
+          "text": "Trước khi tiễn biệt, I-xa-ác cấm Gia-cóp lấy vợ thuộc dân tộc nào?",
+          "options": [
+            "Con cái người Ca-na-an bản địa",
+            "Dân Ai Cập",
+            "Dân Híp-ri",
+            "Người Phê-rê-dit"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "I-xa-ác bảo Gia-cóp đi đến vùng Pát-đan A-ram, nhà của ai để tìm vợ?",
+          "options": [
+            "Nhà cậu La-ban, anh của mẹ Rê-bê-ca",
+            "Nhà ông nội Áp-ra-ham",
+            "Nhà chú Ích-ma-ên",
+            "Nhà Bơ-thu-ên ở Ghê-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp rời Bê-e-se-va để đi về hướng nào?",
+          "options": [
+            "Đi về phía Ha-ran",
+            "Đi về hướng Ai Cập",
+            "Đi về hướng biển Đỏ",
+            "Đi về vùng Kê-bron"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi mặt trời lặn dọc đường, Gia-cóp dừng chân qua đêm và dùng vật gì làm gối nằm?",
+          "options": [
+            "Một hòn đá tại nơi đó",
+            "Một bao tải rơm",
+            "Áo choàng của ông",
+            "Cành cây khô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp nằm mơ thấy hình ảnh đặc biệt nào bắc từ đất lên tận trời?",
+          "options": [
+            "Một cây thang (cầu thang)",
+            "Một đám mây lớn",
+            "Một cột khói nghi ngút",
+            "Một dải lụa phát sáng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp thấy những ai đang đi lên đi xuống trên cây thang đó?",
+          "options": [
+            "Các sứ thần (thiên thần) của Thiên Chúa",
+            "Các linh hồn tổ tiên",
+            "Đoàn chiên trắng",
+            "Chính ông và anh Ê-sau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA đứng trên đỉnh thang hứa gì với Gia-cóp?",
+          "options": [
+            "Ta sẽ ban đất này cho ngươi, dòng dõi ngươi sẽ đông như bụi trên đất, và Ta sẽ ở cùng bảo vệ ngươi",
+            "Ngươi hãy quay về hòa giải với anh ngươi",
+            "Hãy dâng lễ tế bằng hòn đá này",
+            "Ngươi sẽ làm vua nước Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi tỉnh giấc, Gia-cóp cảm thấy thế nào và nói câu gì?",
+          "options": [
+            "Ông sợ hãi và nói: Nơi này thật đáng sợ! Đây là nhà của Thiên Chúa, đây là cửa trời",
+            "Ông vui mừng ca hát tạ ơn",
+            "Ông nghi ngờ đó là giấc mơ hoang đường",
+            "Ông lập tức chạy đi tìm La-ban"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp lấy hòn đá gối đầu dựng lên làm cột đá và đổ chất gì lên để thánh hóa?",
+          "options": [
+            "Đổ dầu lên đầu cột đá",
+            "Đổ nước lã",
+            "Đổ máu súc vật",
+            "Trét bùn lên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đặt tên cho địa danh đó là gì (trước kia tên là Lu-dơ)?",
+          "options": [
+            "Bê-then (Bethel - Nhà Thiên Chúa)",
+            "Bê-e-se-va",
+            "Si-khem",
+            "Kê-bron"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "questions": [
+        {
+          "text": "Gia-cóp gặp người con gái nào của cậu La-ban đi chăn chiên bên giếng nước ở xứ phía đông?",
+          "options": [
+            "Ra-khên (Rachel)",
+            "Lê-a",
+            "Rê-bê-ca",
+            "Sa-rai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đã làm gì giúp Ra-khên khi nhìn thấy nàng cùng đàn chiên bên giếng nước?",
+          "options": [
+            "Lăn hòn đá đậy miệng giếng ra và múc nước cho đàn chiên của nàng uống",
+            "Chỉ đứng nhìn nàng múc nước",
+            "Chạy trốn vì xấu hổ",
+            "Tranh giành giếng nước với nàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai con gái của La-ban tên là gì và có đặc điểm diện mạo ra sao?",
+          "options": [
+            "Chị cả Lê-a mắt lờ đờ, em thứ Ra-khên duyên dáng xinh đẹp",
+            "Chị cả Lê-a xinh đẹp, em Ra-khên mắt lờ đờ",
+            "Cả hai đều rất xinh đẹp giống nhau",
+            "Cả hai đều hiếm muộn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp thỏa thuận làm việc cho La-ban trong bao nhiêu năm để được cưới Ra-khên?",
+          "options": [
+            "Bảy năm (7 năm)",
+            "Mười năm",
+            "Ba năm",
+            "Mười bốn năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp thấy bảy năm làm việc trôi qua thế nào vì tình yêu dành cho Ra-khên?",
+          "options": [
+            "Chỉ như vài ngày",
+            "Rất dài đằng đẵng và mệt mỏi",
+            "Bình thường không có cảm xúc",
+            "Nhiều lần muốn bỏ cuộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "La-ban đã dùng mẹo gì để lừa Gia-cóp trong đêm tân hôn?",
+          "options": [
+            "Đưa cô chị cả Lê-a vào phòng thay vì Ra-khên",
+            "Không cho làm đám cưới",
+            "Đuổi Gia-cóp đi không trả công",
+            "Bắt Gia-cóp uống rượu say rồi cướp đàn chiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do La-ban đưa ra để giải thích cho việc đánh tráo cô chị là gì?",
+          "options": [
+            "Lệ xứ này không được gả em trước chị cả",
+            "Lê-a yêu Gia-cóp hơn",
+            "Ra-khên chưa muốn lấy chồng",
+            "Ông muốn giữ Ra-khên lại trong nhà"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "La-ban yêu cầu Gia-cóp làm gì để được cưới tiếp Ra-khên ngay sau tuần lễ cưới của Lê-a?",
+          "options": [
+            "Phải làm việc thêm cho ông bảy năm nữa",
+            "Phải trả thêm bốn trăm đồng bạc",
+            "Phải dọn ra ở riêng ngay",
+            "Phải đi chăn lạc đà cho ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người con trai đầu lòng của Gia-cóp với bà Lê-a tên là gì?",
+          "options": [
+            "Ru-bên (Reuben)",
+            "Si-môn",
+            "Lê-vi",
+            "Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Lê-a sinh liên tiếp bốn người con trai đầu tiên đặt tên lần lượt là gì?",
+          "options": [
+            "Ru-bên, Si-môn, Lê-vi, Giu-đa",
+            "Sêm, Kham, Gia-phét, Ca-na-an",
+            "Giô-sép, Bên-gia-min, Đan, Náp-ta-li",
+            "Ê-sau, Gia-cóp, Ích-ma-ên, I-xa-ác"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "questions": [
+        {
+          "text": "Bà Ra-khên đã đề nghị Gia-cóp làm gì vì thấy mình hiếm muộn còn chị Lê-a sinh nhiều con?",
+          "options": [
+            "Hãy đến với người nữ tỳ Binh-ha của bà để bà có con nhờ nàng",
+            "Hãy ly hôn với bà",
+            "Hãy cầu xin Chúa cất nỗi hổ nhục cho bà",
+            "Hãy đưa bà về nhà cha mẹ đẻ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai người con trai do nữ tỳ Binh-ha của Ra-khên sinh ra đặt tên là gì?",
+          "options": [
+            "Đan và Náp-ta-li",
+            "Gát và A-sê",
+            "Ru-bên và Si-môn",
+            "Giô-sép và Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai người con trai do nữ tỳ Din-pa của Lê-a sinh ra đặt tên là gì?",
+          "options": [
+            "Gát và A-sê",
+            "Đan và Náp-ta-li",
+            "Lê-vi và Giu-đa",
+            "I-xa-khar và Dơ-vu-lun"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đứa con trai đầu lòng do chính Ra-khên mang thai và sinh ra đặt tên là gì?",
+          "options": [
+            "Giô-sép (Joseph)",
+            "Bên-gia-min",
+            "Đan",
+            "Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên 'Giô-sép' có ý nghĩa gì đối với lời ước của Ra-khên?",
+          "options": [
+            "Xin Thiên Chúa thêm cho tôi một đứa con trai khác",
+            "Thiên Chúa cất nỗi hổ nhục cho tôi",
+            "Món quà quý giá",
+            "Niềm vui sướng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp xin La-ban cho phép ông đưa gia đình quay về quê hương sau khi sinh người con nào?",
+          "options": [
+            "Giô-sép",
+            "Ru-bên",
+            "Giu-đa",
+            "Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thỏa thuận chia bầy gia súc giữa Gia-cóp và La-ban là gì để làm tiền công cho ông?",
+          "options": [
+            "Tất cả những con chiên, dê có đốm, có khoang hoặc sọc sẽ thuộc về Gia-cóp",
+            "La-ban chia cho Gia-cóp một nửa bầy gia súc trắng",
+            "Gia-cóp lấy toàn bộ gia súc sinh ra trong năm sau",
+            "Gia-cóp chỉ nhận tiền bạc không nhận gia súc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "La-ban đã làm gì ngay ngày hôm đó để gian lận ngăn cản gia súc đốm sinh sản?",
+          "options": [
+            "Tách tất cả những con đực có sọc, có đốm đưa cho các con trai ông chăn dắt cách xa ba ngày đường",
+            "Bán hết những con đốm đi",
+            "Không cho Gia-cóp chăn gia súc nữa",
+            "Giết hết những con có sọc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mẹo nào được Gia-cóp sử dụng bên máng nước uống để làm gia súc phối giống sinh ra con sọc và đốm?",
+          "options": [
+            "Lấy những cành cây dương, hạnh và sồi tươi bóc vỏ để lộ những sọc trắng đặt trước bầy gia súc",
+            "Cho chúng ăn loại cỏ đặc biệt",
+            "Cầu nguyện xin Chúa làm phép lạ",
+            "Phối giống nhân tạo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp chỉ đặt cành cây bóc vỏ trước những con vật nào để có bầy gia súc khỏe mạnh thuộc về mình?",
+          "options": [
+            "Những con vật khỏe mạnh mập mạp",
+            "Những con vật gầy yếu",
+            "Chỉ những con dê cái",
+            "Tất cả mọi con vật không phân biệt"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "questions": [
+        {
+          "text": "Tại sao Gia-cóp quyết định đưa gia đình và bầy gia súc rời nhà La-ban quay về quê hương?",
+          "options": [
+            "Vì thái độ của La-ban và các con trai ông không còn tốt với Gia-cóp như trước và ĐỨC CHÚA bảo ông quay về",
+            "Vì nạn đói xảy ra ở Ha-ran",
+            "Vì La-ban đuổi ông đi",
+            "Vì ông muốn sang Ai Cập sinh sống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "La-ban đang đi đâu khi Gia-cóp bí mật dọn đi không báo cho ông biết?",
+          "options": [
+            "Đi xén lông cừu",
+            "Đi buôn bán ở Ai Cập",
+            "Đi thăm họ hàng",
+            "Đi săn bắn ngoài đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Ra-khên đã lấy trộm vật gì quý giá của cha mình trước khi đi?",
+          "options": [
+            "Các gia thần (tượng thần gia đình) của cha nàng",
+            "Một túi tiền vàng",
+            "Một con cừu đầu đàn",
+            "Bản khế ước đất đai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "La-ban đã đuổi theo và bắt kịp đoàn người của Gia-cóp tại miền núi nào?",
+          "options": [
+            "Miền núi Gi-lê-át (Gilead)",
+            "Miền núi Xi-nai",
+            "Núi A-ra-rát",
+            "Miền núi Kê-bron"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa đã cảnh báo La-ban thế nào trong một giấc mơ ban đêm trước khi ông gặp Gia-cóp?",
+          "options": [
+            "Hãy giữ mình đừng nói gì với Gia-cóp, dù tốt dù xấu",
+            "Hãy dùng vũ lực bắt Gia-cóp quay lại",
+            "Hãy đòi lại toàn bộ đàn chiên đốm",
+            "Hãy giết chết Gia-cóp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao La-ban lục soát khắp các lều nhưng không tìm thấy tượng thần gia đình?",
+          "options": [
+            "Vì Ra-khên giấu chúng dưới bành lạc đà và ngồi lên đó, lấy cớ đang có kinh nguyệt để không đứng dậy",
+            "Vì Gia-cóp đã chôn chúng dưới đất",
+            "Vì người tôi tớ đã mang giấu ngoài rừng",
+            "Vì La-ban quên không khám lều Ra-khên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mối quan hệ của Gia-cóp và La-ban kết thúc thế nào tại núi Gi-lê-át?",
+          "options": [
+            "Họ lập một đống đá và cột đá làm ranh giới giao ước hòa bình không xâm phạm lẫn nhau",
+            "Họ xảy ra tranh đấu cướp lại tài sản",
+            "La-ban bắt các con gái quay về cùng ông",
+            "Gia-cóp đồng ý chia lại một nửa bầy gia súc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên địa danh đống đá giao ước được đặt tên là gì?",
+          "options": [
+            "Ga-lê-ét (hoặc Mít-pa)",
+            "Bê-then",
+            "Bê-e-se-va",
+            "Si-khem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp gọi tên các sứ thần của Thiên Chúa gặp ông dọc đường là gì?",
+          "options": [
+            "Ma-ha-na-gim (nghĩa là Hai trại)",
+            "Bê-then",
+            "Ê-xéc",
+            "Phơ-nu-ên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "La-ban đã làm gì trước khi từ biệt các con cháu vào sáng hôm sau?",
+          "options": [
+            "Hôn các con các cháu, chúc phúc cho họ rồi quay về xứ mình",
+            "Đòi một số tiền chuộc",
+            "Nguyền rủa họ",
+            "Tặng thêm cho họ lạc đà"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "questions": [
+        {
+          "text": "Gia-cóp sai sứ giả đi trước đến gặp ai tại đất Sê-i-rơ để báo tin ông trở về?",
+          "options": [
+            "Anh của ông là Ê-sau",
+            "Vua A-vi-me-léc",
+            "Cậu La-ban",
+            "Những người chăn chiên Kê-bron"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các sứ giả trở về báo tin Ê-sau đang đi đón Gia-cóp cùng bao nhiêu người khiến ông vô cùng kinh hãi?",
+          "options": [
+            "Bốn trăm người (400 người)",
+            "Một trăm người",
+            "Mười người",
+            "Một ngàn người"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đã làm gì để bảo vệ tài sản và người đi cùng trước nguy cơ bị Ê-sau tấn công?",
+          "options": [
+            "Chia đoàn người và đàn súc vật làm hai trại để phòng hờ trại này bị đánh thì trại kia trốn thoát",
+            "Chuẩn bị binh khí chiến đấu",
+            "Bỏ trốn quay lại nhà La-ban",
+            "Cho tất cả phụ nữ đi lên núi trốn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp gửi quà tặng đi trước cho anh Ê-sau bằng cách nào?",
+          "options": [
+            "Chia súc vật thành từng đàn nhỏ giao cho các tôi tớ đi cách nhau một khoảng để dâng lên Ê-sau",
+            "Gửi tiền vàng qua sứ giả",
+            "Mang đến dâng trực tiếp khi gặp mặt",
+            "Gửi qua cậu La-ban"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đưa gia đình vượt qua con suối nào trước khi ở lại một mình?",
+          "options": [
+            "Suối Gia-bốc (Jabbok)",
+            "Sông Gio-đan",
+            "Suối Ki-xôn",
+            "Sông Nin"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chuyện gì xảy ra với Gia-cóp khi ông ở lại một mình bên kia suối ban đêm?",
+          "options": [
+            "Có một người vật lộn với ông cho đến lúc rạng đông",
+            "Ông bị thú dữ tấn công",
+            "Các thiên thần hiện xuống nói chuyện với ông",
+            "Ông nằm mơ thấy cây thang lần nữa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người lạ mặt đã làm gì khi thấy không thắng nổi Gia-cóp trong cuộc vật lộn?",
+          "options": [
+            "Đập vào khớp xương hông làm khớp háng của Gia-cóp bị trật",
+            "Làm cho Gia-cóp bị mù",
+            "Bỏ chạy trốn đi",
+            "Chúc phúc trực tiếp không cần điều kiện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp nói gì khi người lạ mặt bảo buông ra vì trời đã sáng?",
+          "options": [
+            "Tôi sẽ không buông ngài ra nếu ngài không chúc phúc cho tôi",
+            "Ngài là ai tôi không buông",
+            "Hãy tha mạng cho tôi",
+            "Tôi muốn thắng ngài trước đã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người lạ mặt đã đổi tên Gia-cóp thành tên gì vì ông đã đấu với Thiên Chúa và người ta mà đã thắng?",
+          "options": [
+            "Ít-ra-en (Israel)",
+            "Áp-ra-ham",
+            "Mô-sê",
+            "Giô-sép"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đặt tên cho nơi đó là Phơ-nu-ên (Peniel) vì lý do gì?",
+          "options": [
+            "Vì tôi đã thấy Thiên Chúa mặt đối mặt mà mạng tôi vẫn được an toàn",
+            "Vì nơi đây tôi bị thương ở háng",
+            "Vì nơi đây tôi gặp các thiên thần",
+            "Vì nơi đây tôi cầu nguyện"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "questions": [
+        {
+          "text": "Khi nhìn thấy Ê-sau đi tới cùng 400 người, Gia-cóp đã thực hiện hành động gì để bày tỏ lòng tôn kính kính sợ?",
+          "options": [
+            "Đi lên phía trước và sụp lạy sát đất bảy lần cho đến khi tới gần anh",
+            "Đứng yên đợi anh đến",
+            "Trốn đằng sau đoàn người",
+            "Sai các tôi tớ xông ra che chở"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-sau đã phản ứng thế nào khi gặp lại người em Gia-cóp?",
+          "options": [
+            "Chạy ra đón, ôm cổ em, hôn em và cả hai cùng khóc",
+            "Giận dữ mắng nhiếc em",
+            "Đòi lại của cải quyền trưởng nam",
+            "Lờ đi không thèm nói chuyện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-sau từ chối nhận quà tặng súc vật lớn của Gia-cóp vì tự thấy mình đã có nhiều, Gia-cóp đã nài nỉ thế nào?",
+          "options": [
+            "Xin anh nhận lấy lễ vật vì em thấy mặt anh như thấy mặt Thiên Chúa và anh đã thương em",
+            "Xin anh lấy để bù đắp lỗi lầm xưa",
+            "Nếu anh không lấy em sẽ không vào xứ",
+            "Đây là của cải của cha chia cho"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp xin Ê-sau đi trước dẫn đường thế nào?",
+          "options": [
+            "Xin anh cứ đi trước, em sẽ đi thong thả theo nhịp bước của bầy súc vật và trẻ nhỏ",
+            "Cùng đi song hành với Ê-sau",
+            "Từ chối không đi theo Ê-sau",
+            "Đề nghị Ê-sau đi hướng khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-sau quay trở lại miền đất nào sau cuộc hòa giải?",
+          "options": [
+            "Miền Sê-i-rơ (Seir)",
+            "Vùng Ca-na-an",
+            "Thành Si-khem",
+            "Đất Ha-ran"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đi tới vùng Xu-cốt và làm gì tại đó khiến nơi này có tên là Xu-cốt (nghĩa là Lều)?",
+          "options": [
+            "Xây nhà cho mình và dựng lều cho bầy súc vật",
+            "Dựng bàn thờ đá",
+            "Đào một cái giếng mới",
+            "Tổ chức tiệc ăn mừng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đến đóng lều trước thành phố nào của đất Ca-na-an sau khi rời Pát-đan A-ram?",
+          "options": [
+            "Thành Si-khem (Shechem)",
+            "Thành Bê-then",
+            "Thành Kê-bron",
+            "Thành Bê-e-se-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đã mua thửa đất đặt lều của ai và với giá bao nhiêu?",
+          "options": [
+            "Mua của con cái ông Kha-mo với giá một trăm đồng bạc",
+            "Mua của người Khết với giá bốn trăm đồng bạc",
+            "Mua của Ê-sau bằng súc vật",
+            "Được vua thành tặng không"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp dựng một bàn thờ tại thửa đất mua và đặt tên là gì?",
+          "options": [
+            "El-Elohe-Israel (Thiên Chúa là Thiên Chúa của Israel)",
+            "Bê-then",
+            "Phơ-nu-ên",
+            "Bê-e-se-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ của Ê-sau đối với Gia-cóp trong cuộc gặp gỡ thể hiện điều gì?",
+          "options": [
+            "Sự hòa giải chân thành và tình anh em ruột thịt xóa bỏ thù hận cũ",
+            "Sự giả tạo để kiếm chút của cải",
+            "Sự sợ hãi sức mạnh của Gia-cóp",
+            "Sự thờ ơ không quan tâm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "questions": [
+        {
+          "text": "Người con gái duy nhất của Gia-cóp với bà Lê-a tên là gì?",
+          "options": [
+            "Đi-na (Dinah)",
+            "Rê-bê-ca",
+            "Ra-khên",
+            "Ta-ma"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người đã bắt giữ và hãm hiếp Đi-na khi nàng đi chơi xem con gái trong xứ?",
+          "options": [
+            "Si-khem, con của chúa xứ Kha-mo",
+            "Vua A-vi-me-léc",
+            "Ê-sau",
+            "Một người chăn súc vật bản địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kha-mo và con trai Si-khem đến đề nghị kết hôn và kết thông gia với nhà Gia-cóp thế nào?",
+          "options": [
+            "Si-khem rất yêu Đi-na và sẵn sàng nộp bất cứ giá cưới nào gia đình yêu cầu",
+            "Họ đòi cướp Đi-na làm nô lệ",
+            "Họ đe dọa chiến tranh nếu từ chối",
+            "Họ xin lỗi và đền tiền vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các con trai của Gia-cóp đã dùng mưu kế phỉnh gạt gì để trả thù dân thành Si-khem?",
+          "options": [
+            "Yêu cầu tất cả đàn ông trong thành phải chịu cắt bì thì mới gả con gái và kết thông gia",
+            "Yêu cầu dân thành nộp hết vũ khí",
+            "Yêu cầu chia một nửa đất đai",
+            "Đòi bắt vua Kha-mo làm con tin"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân thành Si-khem có đồng ý với điều kiện cắt bì của nhà Gia-cóp không?",
+          "options": [
+            "Có, vì Si-khem quá yêu Đi-na và Kha-mo thuyết phục dân thành rằng bầy súc vật nhà Gia-cóp sẽ thuộc về họ",
+            "Không, họ từ chối và chuẩn bị chiến đấu",
+            "Chỉ có hoàng tộc chịu cắt bì",
+            "Họ trục xuất gia đình Gia-cóp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai người con trai nào của Gia-cóp đã cầm gươm xông vào thành tàn sát mọi nam giới để trả thù cho em gái?",
+          "options": [
+            "Si-môn và Lê-vi (hai anh ruột của Đi-na)",
+            "Ru-bên và Giu-đa",
+            "Giô-sép và Bên-gia-min",
+            "Đan và Náp-ta-li"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động tàn sát diễn ra vào thời điểm nào thuận lợi nhất?",
+          "options": [
+            "Vào ngày thứ ba khi vết cắt bì của đàn ông trong thành đang đau nhức nhất",
+            "Vào ban đêm lúc trời mưa lớn",
+            "Khi dân thành đang uống rượu say",
+            "Khi dân thành đang đi làm ruộng ngoài đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi giết đàn ông trong thành, các con trai Gia-cóp đã làm gì tiếp theo?",
+          "options": [
+            "Cướp phá thành phố, bắt phụ nữ trẻ con làm nô lệ và lấy hết bầy súc vật tài sản",
+            "Bỏ trốn ngay lập tức",
+            "Chôn cất người chết",
+            "Xin lỗi cha đẻ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đã trách mắng Si-môn và Lê-vi thế nào vì sợ dân bản địa liên minh tiêu diệt?",
+          "options": [
+            "Các con đã làm hại cha, làm cho cha bị ô uế trước mắt dân bản địa. Họ sẽ liên minh giết cha con ta",
+            "Các con làm rất tốt",
+            "Hãy chia của cải cướp được cho cha",
+            "Hãy chuẩn bị chiến tranh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai người con trai Si-môn và Lê-vi đã trả lời cha thế nào để bào chữa cho hành động của mình?",
+          "options": [
+            "Người ta có thể đối xử với em gái chúng con như một con điếm sao?",
+            "Chúng con không sợ chết",
+            "Thiên Chúa bảo chúng con làm vậy",
+            "Chúng con muốn lấy của cải trong thành"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "questions": [
+        {
+          "text": "Thiên Chúa bảo Gia-cóp di chuyển đi đâu để định cư và dựng bàn thờ tại nơi ông gặp Người khi trốn anh Ê-sau?",
+          "options": [
+            "Bê-then (Bethel)",
+            "Kê-bron",
+            "Bê-e-se-va",
+            "Si-khem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp yêu cầu gia đình làm gì trước khi lên đường tới Bê-then?",
+          "options": [
+            "Vứt bỏ các thần ngoại bang đang giữ, tẩy uế mình và thay quần áo sạch",
+            "Chuẩn bị binh khí phòng thủ",
+            "Bán hết gia súc đốm",
+            "Lập tế lễ bằng dê con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đã chôn tất cả các tượng thần ngoại bang và khuyên tai của gia đình dưới gốc cây nào tại Si-khem?",
+          "options": [
+            "Dưới gốc cây sồi gần Si-khem",
+            "Dưới gốc cây ô-liu",
+            "Dưới gốc cây vả",
+            "Dưới gốc cây hạnh nhân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao dân các thành xung quanh không đuổi theo tấn công gia đình Gia-cóp khi họ di chuyển?",
+          "options": [
+            "Vì một nỗi kinh hoàng của Thiên Chúa bao phủ trên các thành xung quanh đó",
+            "Vì Gia-cóp có quân lính hộ tống",
+            "Vì họ không biết Gia-cóp đi đâu",
+            "Vì họ bận làm lễ tang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là vú nuôi của bà Rê-bê-ca qua đời và được chôn dưới cây sồi khóc lóc tại Bê-then?",
+          "options": [
+            "Đê-vô-ra (Deborah)",
+            "Binh-ha",
+            "Din-pa",
+            "Ta-ma"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Ra-khên qua đời khi sinh người con trai thứ hai tên là gì ở đâu dọc đường?",
+          "options": [
+            "Bên-gia-min, trên đường đi Ép-ra-tha (tức Bê-lem)",
+            "Giô-sép, tại Ha-ran",
+            "Ru-bên, tại Bê-then",
+            "Đi-na, tại Si-khem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ra-khên đặt tên cho con là Ben-ô-ni (Con của nỗi khổ tôi), nhưng cha Gia-cóp đổi tên thành gì?",
+          "options": [
+            "Bên-gia-min (Benjamin - Con của tay phải)",
+            "Giô-sép",
+            "Giu-đa",
+            "Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp đã dựng vật gì trên mộ bà Ra-khên để đánh dấu?",
+          "options": [
+            "Một bia đá (cột đá đánh dấu mộ)",
+            "Một đống đá lớn",
+            "Một ngôi nhà nhỏ",
+            "Trồng một cây sồi mới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp có tổng cộng bao nhiêu người con trai làm đầu các chi tộc Ít-ra-en?",
+          "options": [
+            "Mười hai người con trai (12 người)",
+            "Mười người con trai",
+            "Bảy người con trai",
+            "Mười bốn người con trai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ông I-xa-ác hưởng thọ bao nhiêu tuổi trước khi qua đời tại Kê-bron và được hai con chôn cất?",
+          "options": [
+            "Một trăm tám mươi tuổi (180 tuổi)",
+            "Một trăm bảy mươi lăm tuổi",
+            "Một trăm hai mươi bảy tuổi",
+            "Chín mươi chín tuổi"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "questions": [
+        {
+          "text": "Chương 36 tập trung vào dòng dõi của ai?",
+          "options": [
+            "Ê-sau (tức là Ê-đôm)",
+            "Gia-cóp",
+            "Ích-ma-ên",
+            "I-xa-ác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-sau dời gia đình sang miền núi nào định cư xa Gia-cóp vì đàn vật hai bên quá lớn?",
+          "options": [
+            "Miền núi Sê-i-rơ (Seir)",
+            "Miền núi Mô-ri-gia",
+            "Vùng Ai Cập",
+            "Vùng hoang địa Ne-ghep"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-sau là tổ tiên của dân tộc nào?",
+          "options": [
+            "Dân Ê-đôm (Edomites)",
+            "Dân Ca-na-an",
+            "Dân Phi-li-tinh",
+            "Dân Híp-ri"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba người vợ chính của Ê-sau sinh ra các con thuộc các bộ tộc ở Sê-i-rơ tên là gì?",
+          "options": [
+            "A-đa, O-ho-li-va-ma, Bát-mát",
+            "Sa-rai, Ha-gar, Cơ-tu-ra",
+            "Rê-bê-ca, Ra-khên, Lê-a",
+            "Đi-na, Ta-ma, Binh-ha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là con trai trưởng của Ê-sau sinh ra với bà A-đa?",
+          "options": [
+            "Ê-li-phát (Eliphaz)",
+            "Rơ-u-ên",
+            "Giê-út",
+            "Cô-rắc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là con trai của Ê-li-phát được nhắc đến nổi tiếng là một tộc trưởng xứ Tê-man?",
+          "options": [
+            "Tê-man",
+            "Ô-mar",
+            "Khô-ri",
+            "A-ma-lếch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Xứ sở Ê-đôm có đặc điểm chính trị gì trước khi có vua cai trị con cái Ít-ra-en?",
+          "options": [
+            "Có các vua cai trị kế tiếp nhau tại đất Ê-đôm",
+            "Sống theo bộ tộc không có vua",
+            "Chịu sự cai trị của Ai Cập",
+            "Do các tư tế dẫn dắt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các vị vua xứ Ê-đôm được chọn theo hình thức nào?",
+          "options": [
+            "Kế vị không theo cha truyền con nối mà do các thủ lĩnh thay thế nhau khi vua cũ qua đời",
+            "Cha truyền con nối trị vì mãi mãi",
+            "Do vua Ai Cập bổ nhiệm",
+            "Do dân chúng bầu chọn dân chủ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là tổ tiên ban đầu của vùng đất Sê-i-rơ trước khi Ê-sau đến định cư và đồng hóa?",
+          "options": [
+            "Người Khô-ri (Horites - con cháu ông Sê-i-rơ)",
+            "Người Khết",
+            "Người Ca-na-an",
+            "Người Phi-li-tinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích chính của gia phả chương 36 trong Kinh Thánh là gì?",
+          "options": [
+            "Ghi nhận sự phát triển của dòng dõi Ê-sau thành một quốc gia lân bang lớn của Ít-ra-en",
+            "Chứng minh Ê-sau nghèo khổ hơn Gia-cóp",
+            "Ghi lại cuộc đời các tư tế Ê-đôm",
+            "Kể lại các cuộc chiến tranh"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "questions": [
+        {
+          "text": "Người con trai nào của Gia-cóp được ông yêu thương nhất trong các con trai vì sinh ra lúc tuổi già?",
+          "options": [
+            "Giô-sép (Joseph)",
+            "Bên-gia-min",
+            "Ru-bên",
+            "Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món quà đặc biệt nào Gia-cóp tặng riêng cho Giô-sép khiến các anh ghen ghét?",
+          "options": [
+            "Một chiếc áo dài có tay nhiều màu sắc",
+            "Một cây gậy bằng vàng",
+            "Một đàn chiên trắng",
+            "Một chiếc nhẫn ngọc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giấc mơ thứ nhất của Giô-sép kể cho các anh nghe có nội dung gì?",
+          "options": [
+            "Các bó lúa của các anh vây quanh và sụp lạy bó lúa đứng thẳng của ông",
+            "Mặt trời mặt trăng sụp lạy ông",
+            "Mười một ngôi sao biến mất",
+            "Đoàn chiên của các anh hóa thành sói"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giấc mơ thứ hai của Giô-sép có thêm chi tiết nào sụp lạy ông?",
+          "options": [
+            "Mặt trời, mặt trăng và mười một ngôi sao sụp lạy ông",
+            "Các thiên thần",
+            "Muông thú ngoài đồng",
+            "Cha mẹ ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các anh Giô-sép đi chăn chiên của cha ở đâu và cha sai Giô-sép đi thăm các anh?",
+          "options": [
+            "Tại Si-khem (sau đó di chuyển đến Đô-than)",
+            "Tại Kê-bron",
+            "Tại Bê-e-se-va",
+            "Tại Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi thấy Giô-sép đi từ xa đến, các anh đã mưu tính làm gì với ông?",
+          "options": [
+            "Gặp tên chuyên mơ mộng rồi! Hãy giết nó đi rồi quăng xuống một cái giếng cạn",
+            "Chạy ra đón chào em",
+            "Cướp chiếc áo nhiều màu",
+            "Bắt em làm việc chăn chiên thay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người anh cả nào đã tìm cách cứu Giô-sép khỏi bị giết bằng cách khuyên đừng đổ máu mà chỉ quăng xuống giếng?",
+          "options": [
+            "Ru-bên (Reuben)",
+            "Si-môn",
+            "Lê-vi",
+            "Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai đã đề xuất bán Giô-sép cho thương buôn Ích-ma-ên thay vì để ông chết đói dưới giếng cạn?",
+          "options": [
+            "Giu-đa (Judah)",
+            "Si-môn",
+            "Đan",
+            "Gát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các anh đã bán Giô-sép cho thương buôn với giá bao nhiêu đồng bạc?",
+          "options": [
+            "Hai mươi đồng bạc (20 đồng bạc)",
+            "Ba mươi đồng bạc",
+            "Mười đồng bạc",
+            "Một trăm đồng bạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Để lừa dối người cha Gia-cóp về cái chết của Giô-sép, các anh đã làm gì với chiếc áo nhiều màu?",
+          "options": [
+            "Nhúng chiếc áo vào máu con dê đực mới sát tế rồi mang về cho cha nhận diện",
+            "Đem đốt chiếc áo đi",
+            "Bán chiếc áo lấy tiền chia nhau",
+            "Giấu chiếc áo trong lều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "questions": [
+        {
+          "text": "Ai là người con trai của Gia-cóp đã đi xuống sống gần một người A-đun-lam tên là Khi-ra?",
+          "options": [
+            "Giu-đa (Judah)",
+            "Ru-bên",
+            "Giô-sép",
+            "Si-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người con dâu trưởng góa bụa của Giu-đa tên là gì?",
+          "options": [
+            "Ta-ma (Tamar)",
+            "Rê-bê-ca",
+            "Ra-khên",
+            "Đi-na"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao hai con trai lớn của Giu-đa là Er và Ô-nan đều bị chết yểu?",
+          "options": [
+            "Vì họ làm điều dữ trước mắt ĐỨC CHÚA và bị Người phạt chết",
+            "Vì chiến tranh",
+            "Vì bệnh dịch hạch",
+            "Vì tai nạn săn bắn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giu-đa đã khuyên con dâu Ta-ma làm gì sau cái chết của con trai thứ hai?",
+          "options": [
+            "Hãy ở góa tại nhà cha nàng cho đến khi con út Sê-la của ông lớn lên",
+            "Hãy đi lấy chồng khác ngay",
+            "Hãy làm nô tỳ trong nhà ông",
+            "Hãy đi sang Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Ta-ma nhận ra bố chồng Giu-đa không gả con út Sê-la cho mình như đã hứa?",
+          "options": [
+            "Vì Sê-la đã lớn nhưng ông vẫn giữ nàng ở góa, sợ con út cũng bị chết như các anh",
+            "Vì Sê-la đã cưới vợ khác",
+            "Vì Giu-đa đuổi nàng đi",
+            "Vì nàng không muốn lấy Sê-la"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Ta-ma đã dùng mưu kế gì để có con nối dõi từ dòng họ nhà chồng?",
+          "options": [
+            "Cải trang thành kỹ nữ điếm đứng bên đường lừa Giu-đa vào nằm với mình khi ông đi xén lông cừu",
+            "Đi cầu khấn đền thờ",
+            "Lấy một người chăn chiên bản địa",
+            "Xin nhận con nuôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật thế chấp nào Ta-ma yêu cầu Giu-đa để lại trước khi nằm với ông vì ông chưa mang dê con đến trả?",
+          "options": [
+            "Ấn tín, sợi dây đeo ấn tín và cây gậy trong tay ông",
+            "Túi tiền vàng của ông",
+            "Nhẫn đeo tay và áo choàng",
+            "Hai con chiên đực"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi nghe tin con dâu Ta-ma có thai do làm điếm, Giu-đa đã ra lệnh phạt bà thế nào?",
+          "options": [
+            "Hãy lôi nó ra đem thiêu sống",
+            "Hãy trục xuất nó khỏi xứ",
+            "Hãy phạt đòn nó trăm roi",
+            "Hãy bắt nó làm nô lệ suốt đời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ta-ma đã gửi vật gì cho Giu-đa để chứng minh ai là cha của đứa trẻ trong bụng?",
+          "options": [
+            "Gửi ấn tín, dây đeo và cây gậy của chính Giu-đa",
+            "Gửi bức thư thú tội",
+            "Gửi tiền vàng ông đã trả",
+            "Gửi con dê con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Ta-ma hạ sinh hai con trai sinh đôi tên là gì, trong đó có người thuộc gia phả Chúa Giê-su?",
+          "options": [
+            "Phê-rét (Perez) và Tê-rách (Zerah)",
+            "Ê-sau và Gia-cóp",
+            "Ca-in và A-ben",
+            "Sêm và Kham"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "questions": [
+        {
+          "text": "Khi bị bán sang Ai Cập, Giô-sép làm nô lệ trong nhà quan nào?",
+          "options": [
+            "Pô-ti-phar, chỉ huy thị vệ của Pha-ra-ôn",
+            "Quan ngự chuyển",
+            "Tể tướng Ai Cập",
+            "Vua A-vi-me-léc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Giô-sép làm việc gì cũng thành công và được chủ hết lòng tin cậy trao quản lý toàn bộ gia sản?",
+          "options": [
+            "Vì ĐỨC CHÚA ở với ông và làm cho mọi việc tay ông làm đều được thành công",
+            "Vì ông học giỏi võ nghệ",
+            "Vì ông biết tiếng Ai Cập từ nhỏ",
+            "Vì ông có nhiều tiền bạc giúp chủ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngoại hình của Giô-sép được Kinh Thánh mô tả thế nào?",
+          "options": [
+            "Duyên dáng và có khuôn mặt đẹp trai",
+            "Rất cao lớn khổng lồ",
+            "Bình thường không có gì nổi bật",
+            "Đầy lông lá như Ê-sau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người liên tục quyến rũ Giô-sép nằm chung nhưng bị ông từ chối?",
+          "options": [
+            "Vợ của quan Pô-ti-phar",
+            "Con gái của Pô-ti-phar",
+            "Nữ tỳ Ai Cập",
+            "Công chúa Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép đã cự tuyệt lời quyến rũ bằng câu nói nổi tiếng nào thể hiện lòng trung nghĩa?",
+          "options": [
+            "Làm sao tôi có thể phạm một tội lớn như thế chống lại Thiên Chúa?",
+            "Tôi không thích bà",
+            "Nếu chồng bà biết sẽ giết tôi",
+            "Tôi chỉ là một nô lệ trơn láng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vợ Pô-ti-phar đã làm gì khi kéo áo Giô-sép đòi nằm chung và ông bỏ chạy ra ngoài thoát thân?",
+          "options": [
+            "Bà giữ lại chiếc áo choàng của ông trong tay bà",
+            "Bà đuổi theo đánh ông",
+            "Bà khóc lóc van xin",
+            "Bà gọi lính bắt ông ngay lập tức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà ta đã dùng chiếc áo choàng vu khống Giô-sép điều gì với gia nhân và chồng bà?",
+          "options": [
+            "Tên nô lệ Híp-ri này vào phòng toan cưỡng bức tôi, nhưng tôi la lớn nên hắn trốn đi để lại áo",
+            "Tên nô lệ này ăn cắp vàng bạc",
+            "Hắn đã đánh tôi bị thương",
+            "Hắn muốn đầu độc chồng tôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của Pô-ti-phar khi nghe vợ kể câu chuyện vu khống là gì?",
+          "options": [
+            "Nổi cơn lôi đình, bắt Giô-sép và tống ông vào nhà tù nơi giam giữ tù nhân của nhà vua",
+            "Xử tử Giô-sép ngay lập tức",
+            "Bắt phạt đòn roi rồi tha thứ",
+            "Nghi ngờ lời vợ nói và điều tra lại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong tù, ĐỨC CHÚA đối xử với Giô-sép thế nào?",
+          "options": [
+            "ĐỨC CHÚA vẫn ở với ông, tỏ lòng nhân nghĩa và cho ông được cảm tình của viên quản ngục",
+            "Chúa làm phép lạ cho ngục sập để ông trốn",
+            "Chúa thử thách làm ông bị bệnh nặng",
+            "Chúa sai thiên thần đến giải cứu ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Viên quản ngục đã giao cho Giô-sép trách nhiệm gì trong tù?",
+          "options": [
+            "Cai quản toàn bộ tù nhân và quản lý mọi việc diễn ra trong nhà tù",
+            "Làm việc dọn dẹp vệ sinh ngục",
+            "Làm lính canh cửa ngục",
+            "Không giao việc gì bắt ông chịu cực hình"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "questions": [
+        {
+          "text": "Hai viên quan nào của Pha-ra-ôn phạm lỗi bị tống vào tù nơi Giô-sép đang bị giam?",
+          "options": [
+            "Quan ngự chuyển (dâng rượu) và quan ngự bánh",
+            "Quan tể tướng và quan võ",
+            "Quan coi kho vàng và quan chăn lạc đà",
+            "Hai người lính canh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai giao nhiệm vụ cho Giô-sép hầu hạ phục vụ hai viên quan này trong tù?",
+          "options": [
+            "Quan chỉ huy thị vệ (Pô-ti-phar)",
+            "Viên quản ngục",
+            "Chính Pha-ra-ôn",
+            "Họ tự phục vụ nhau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vào cùng một đêm, chuyện gì đặc biệt xảy ra với hai viên quan trong tù?",
+          "options": [
+            "Mỗi người đều thấy một giấc mơ mang ý nghĩa riêng và sáng ra nét mặt họ rất âu sầu",
+            "Họ xảy ra tranh chấp đánh nhau",
+            "Họ được lệnh ân xá của vua",
+            "Họ bị bệnh nặng gần chết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép nói gì khi họ bảo không có ai giải mộng cho họ?",
+          "options": [
+            "Việc giải mộng há chẳng phải là của Thiên Chúa sao? Xin quý chức cứ kể cho tôi nghe",
+            "Tôi biết giải mộng đây, hãy đưa tiền vàng cho tôi",
+            "Giấc mơ chỉ là điều hoang đường",
+            "Hãy đợi quan quản ngục đến giải"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giấc mơ của quan ngự chuyển thấy gì?",
+          "options": [
+            "Một cây nho trước mặt có ba cành, nảy lộc nở hoa chín quả; ông ép nước nho vào chén dâng vua",
+            "Ba giỏ bánh trên đầu bị chim ăn",
+            "Mười một ngôi sao sụp lạy",
+            "Bảy con bò gầy ăn bảy con bò béo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép giải mộng cho quan ngự chuyển thế nào?",
+          "options": [
+            "Ba cành nho là ba ngày. Trong ba ngày nữa Pha-ra-ôn sẽ phục chức cho ông tiếp tục dâng rượu",
+            "Ông sẽ bị xử tử trong ba ngày nữa",
+            "Ông phải làm việc khổ sai suốt đời",
+            "Ông sẽ trở thành tể tướng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép dặn quan ngự chuyển điều gì khi ông được phục chức?",
+          "options": [
+            "Hãy nhớ đến tôi và xin Pha-ra-ôn giải oan đưa tôi ra khỏi nhà tù này",
+            "Hãy gửi tiền vàng vào tù cho tôi",
+            "Đừng kể cho ai biết tôi giải mộng",
+            "Hãy mang thức ăn ngon vào cho tôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giấc mơ của quan ngự bánh thấy gì?",
+          "options": [
+            "Có ba giỏ bánh huê dạng trên đầu, giỏ trên cùng đầy bánh ngọt cho vua nhưng chim bay đến ăn sạch",
+            "Một cây nho có ba cành chín quả",
+            "Bảy bông lúa lép nuốt bông lúa hạt chắc",
+            "Sông Nin dâng nước ngập thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép giải mộng cho quan ngự bánh thế nào?",
+          "options": [
+            "Ba giỏ bánh là ba ngày. Trong ba ngày nữa Pha-ra-ôn sẽ chặt đầu ông và treo xác lên cây cho chim rỉa thịt",
+            "Ông sẽ được phục chức giống quan ngự chuyển",
+            "Ông sẽ bị đày sang xứ khác",
+            "Ông sẽ làm đầu bếp trưởng của hoàng cung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chuyện gì xảy ra vào ngày thứ ba, nhân dịp sinh nhật Pha-ra-ôn?",
+          "options": [
+            "Mọi việc diễn ra đúng như Giô-sép giải: quan ngự chuyển phục chức, quan ngự bánh bị treo cổ; nhưng quan ngự chuyển quên bẵng Giô-sép",
+            "Cả hai viên quan đều được phục chức",
+            "Cả hai viên quan đều bị xử tử",
+            "Giô-sép được thả tự do"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "questions": [
+        {
+          "text": "Pha-ra-ôn nằm mơ thấy giấc mộng thứ nhất về các con vật gì bên sông Nin?",
+          "options": [
+            "Bảy con bò mập mạp đẹp đẽ bị bảy con bò xấu xí gầy trơ xương nuốt chửng",
+            "Bảy con chiên con trắng muốt",
+            "Bảy con sư tử tranh đấu nhau",
+            "Bảy con lạc đà chở đầy thóc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giấc mộng thứ hai của Pha-ra-ôn thấy hình ảnh gì?",
+          "options": [
+            "Bảy bông lúa lép, cháy sém nuốt chửng bảy bông lúa hạt chắc và mẩy",
+            "Bảy cành nho chín mọng",
+            "Bảy giỏ bánh ngọt trên đầu",
+            "Cây thang bắc từ đất lên trời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai đã tiến cử Giô-sép giải mộng cho Pha-ra-ôn sau khi các thuật sĩ Ai Cập thất bại?",
+          "options": [
+            "Quan ngự chuyển (sau hai năm quên lãng)",
+            "Quan ngự bánh",
+            "Vợ của quan Pô-ti-phar",
+            "Viên quản ngục"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép giải thích ý nghĩa hai giấc mơ của Pha-ra-ôn là gì?",
+          "options": [
+            "Sẽ có bảy năm cực kỳ sung túc trên toàn Ai Cập, tiếp theo là bảy năm đói kém kinh khủng",
+            "Ai Cập sắp bị nước sông Nin nhấn chìm",
+            "Vua sắp bị các lân bang tấn công",
+            "Hoàng tộc sắp sinh được bảy hoàng tử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép khuyên Pha-ra-ôn làm gì để chuẩn bị đối phó với nạn đói kém sắp tới?",
+          "options": [
+            "Tìm một người khôn ngoan đặt lên cai quản xứ và thu trữ một phần năm hoa lợi trong bảy năm được mùa",
+            "Đóng cửa biên giới",
+            "Tế lễ các vị thần Ai Cập",
+            "Phát tiền vàng cho dân chúng trốn sang xứ khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Pha-ra-ôn đã phong Giô-sép làm chức vụ gì sau khi nghe ông giải mộng?",
+          "options": [
+            "Tể tướng cai quản toàn cõi Ai Cập, chỉ dưới quyền một mình Pha-ra-ôn",
+            "Quan ngự chuyển trưởng",
+            "Tướng chỉ huy quân đội thị vệ",
+            "Quan cai quản các nhà tù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép bao nhiêu tuổi khi ông đứng trước mặt Pha-ra-ôn nhận chức tể tướng?",
+          "options": [
+            "Ba mươi tuổi (30 tuổi)",
+            "Hai mươi tuổi",
+            "Bốn mươi tuổi",
+            "Chín mươi chín tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Pha-ra-ôn đã ban tặng Giô-sép người vợ tên là gì, con gái của tư tế thành Ôn?",
+          "options": [
+            "Át-en-nát (Asenath)",
+            "Rê-bê-ca",
+            "Ra-khên",
+            "Ta-ma"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai con trai của Giô-sép sinh ra trong những năm được mùa đặt tên là gì?",
+          "options": [
+            "Man-na-se và Ép-ra-im",
+            "Ê-sau và Gia-cóp",
+            "Sêm và Kham",
+            "Ru-bên và Si-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên 'Man-na-se' có ý nghĩa gì đối với Giô-sép?",
+          "options": [
+            "Thiên Chúa đã làm cho tôi quên đi mọi nỗi khổ cực và cả nhà cha tôi",
+            "Thiên Chúa làm cho tôi sinh sôi nảy nở",
+            "Tiếng cười",
+            "Món quà của vua"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "questions": [
+        {
+          "text": "Tại sao Gia-cóp sai mười người con trai lớn đi xuống Ai Cập?",
+          "options": [
+            "Để mua lúa mì vì nạn đói hoành hành dữ dội khắp nơi",
+            "Để tìm kiếm Giô-sép",
+            "Để dâng lễ vật cho Pha-ra-ôn",
+            "Để xin đất định cư"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người con trai nào Gia-cóp giữ lại nhà không cho đi cùng các anh vì sợ tai nạn?",
+          "options": [
+            "Bên-gia-min (em ruột cùng mẹ với Giô-sép)",
+            "Ru-bên",
+            "Giu-đa",
+            "Giô-sép"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi gặp Giô-sép để mua lúa mì, thái độ của các anh ra sao?",
+          "options": [
+            "Họ sấp mặt xuống đất lạy ông (nhưng hoàn toàn không nhận ra ông)",
+            "Họ nhận ra ông ngay lập tức và xin tha lỗi",
+            "Họ tranh cãi đòi giảm giá lúa",
+            "Họ bỏ chạy vì sợ hãi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép nhận ra các anh và đã giả vờ cáo buộc họ tội gì?",
+          "options": [
+            "Các người là những kẻ do thám, đến đây để xem những chỗ yếu của xứ này",
+            "Các người đến để cướp của",
+            "Các người là những kẻ giết người",
+            "Các người mang tiền giả đến mua lúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép yêu cầu điều kiện gì để chứng minh lời nói thật rằng họ chỉ là anh em một nhà đi mua lúa?",
+          "options": [
+            "Phải đưa người em út Bên-gia-min sang Ai Cập yến kiến ông",
+            "Phải nộp thêm gấp đôi số tiền",
+            "Phải ở lại làm nô lệ suốt đời",
+            "Phải dâng nộp cha đẻ sang đây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép đã giữ người anh nào lại làm con tin trong ngục khi thả những người khác về mang lúa?",
+          "options": [
+            "Si-môn (Simeon)",
+            "Ru-bên",
+            "Lê-vi",
+            "Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi đối mặt với khó khăn, các anh tự trách mình về việc gì trong quá khứ?",
+          "options": [
+            "Họ tự hối hận vì tội ác xưa đã nhẫn tâm bán em Giô-sép khi em van xin lòng thương xót",
+            "Họ trách cha đã giữ Bên-gia-min",
+            "Họ trách Si-môn đã tàn sát dân Si-khem",
+            "Họ trách nhau mang ít tiền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép đã có phản ứng gì khi nghe các anh trò chuyện tự trách bằng tiếng Híp-ri mà họ tưởng ông không hiểu?",
+          "options": [
+            "Ông lánh mặt họ và khóc, sau đó mới quay lại nói chuyện",
+            "Ông giận dữ mắng mỏ họ",
+            "Ông lập tức tiết lộ danh tính",
+            "Ông ra lệnh đánh đòn họ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép đã dặn các tôi tớ làm gì vào bao lúa của các anh trước khi họ về?",
+          "options": [
+            "Bỏ lại tiền mua lúa của mỗi người vào miệng bao của họ cùng với lúa mì và lương thực dọc đường",
+            "Bỏ độc vào bao lúa",
+            "Lấy bớt một nửa số lúa mì",
+            "Bỏ chiếc chén bạc vào"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp phản ứng thế nào khi nghe kể sự việc và thấy tiền nằm trong bao lúa?",
+          "options": [
+            "Ông đau buồn thốt lên: Các con làm cha mất con: Giô-sép mất, Si-môn mất, nay lại muốn bắt cả Bên-gia-min!",
+            "Ông vui mừng đi Ai Cập ngay",
+            "Ông mắng các con gian lận tiền bạc",
+            "Ông bảo các con mang trả lại tiền cho quan tể tướng"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "questions": [
+        {
+          "text": "Ai là người con trai đứng ra bảo đảm tính mạng Bên-gia-min trước cha Gia-cóp để ông đồng ý cho đi?",
+          "options": [
+            "Giu-đa (Judah)",
+            "Ru-bên",
+            "Lê-vi",
+            "Si-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp bảo các con mang theo vật gì làm quà tặng cho vị tể tướng Ai Cập?",
+          "options": [
+            "Một ít đặc sản của xứ: nhũ hương, mật ong, hương liệu, nhựa thơm, hạt dẻ và hạnh nhân cùng số tiền gấp đôi",
+            "Toàn bộ vàng bạc của cải",
+            "Súc vật để tế lễ",
+            "Chiếc áo nhiều màu của Giô-sép"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi thấy các anh đưa Bên-gia-min đến, Giô-sép dặn quản gia làm gì?",
+          "options": [
+            "Đưa họ vào nhà riêng của ông, sát tế súc vật làm bữa tiệc trưa đón tiếp họ",
+            "Bắt giam họ vào ngục ngay lập tức",
+            "Tịch thu hết súc vật và lúa mì của họ",
+            "Báo tin cho Pha-ra-ôn biết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao các anh lại lo sợ khi bị đưa vào nhà riêng của Giô-sép?",
+          "options": [
+            "Sợ vì vụ số tiền bị bỏ lại trong bao lần trước, sợ bị bắt làm nô lệ và tịch thu lừa của họ",
+            "Sợ bị đầu độc",
+            "Sợ bị ép buộc làm việc khổ sai",
+            "Sợ tể tướng phát hiện Bên-gia-min không phải là gián điệp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người quản gia đã trấn an các anh thế nào về số tiền trong bao?",
+          "options": [
+            "Bình an cho quý ông, đừng sợ. Thiên Chúa của quý ông đã bỏ kho tàng vào bao. Tiền của quý ông đã đến tay tôi",
+            "Các ông phải nộp lại số tiền đó cho tôi",
+            "Chính tôi đã lấy trộm tiền bỏ vào bao",
+            "Đừng nói chuyện đó với tể tướng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi Giô-sép về nhà trưa hôm đó, các anh đã dâng quà tặng và làm gì?",
+          "options": [
+            "Sụp lạy sát đất trước mặt ông",
+            "Chạy đến ôm hôn ông",
+            "Trình bày gia phả gia tộc",
+            "Đòi thả Si-môn ra trước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu hỏi đầu tiên Giô-sép dành cho các anh là gì?",
+          "options": [
+            "Người cha già của các ông có khỏe mạnh không? Cụ còn sống chứ?",
+            "Các ông mang bao nhiêu tiền?",
+            "Bên-gia-min có phải là gián điệp không?",
+            "Các ông đã bán Giô-sép ở đâu?"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cảm xúc của Giô-sép thế nào khi nhìn thấy người em ruột Bên-gia-min?",
+          "options": [
+            "Lòng ông rung động mãnh liệt, ông vội vã đi tìm nơi để khóc và lánh vào phòng trong khóc nức nở",
+            "Ông rất dửng dưng lạnh nhạt",
+            "Ông giận dữ mắng Bên-gia-min",
+            "Ông lập tức nhận em trước mặt mọi người"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi dọn tiệc, Giô-sép đã sắp xếp vị trí ngồi của các anh thế nào khiến họ kinh ngạc?",
+          "options": [
+            "Sắp xếp ngồi đối diện ông theo đúng thứ tự tuổi tác từ lớn đến nhỏ",
+            "Sắp xếp theo thứ tự ngẫu nhiên",
+            "Chia làm ba bàn riêng biệt",
+            "Không cho họ ngồi chung bàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần ăn của Bên-gia-min được Giô-sép ưu ái gửi đến nhiều gấp bao nhiêu lần so với các anh?",
+          "options": [
+            "Gấp năm lần (5 lần)",
+            "Gấp đôi",
+            "Gấp ba lần",
+            "Bằng nhau"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "questions": [
+        {
+          "text": "Giô-sép đã sử dụng mưu kế gì để thử lòng các anh trước khi cho họ đi lần thứ hai?",
+          "options": [
+            "Bỏ chiếc chén bạc riêng của ông vào miệng bao của người em út Bên-gia-min cùng với tiền mua lúa",
+            "Cáo buộc Bên-gia-min lấy cắp vàng của hoàng cung",
+            "Giữ Bên-gia-min lại làm con tin thay Si-môn",
+            "Đầu độc rượu của họ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi đoàn người vừa ra khỏi thành chưa xa, Giô-sép sai ai đuổi theo chất vấn?",
+          "options": [
+            "Người quản gia nhà ông",
+            "Đoàn lính thị vệ Ai Cập",
+            "Chính ông đi cùng lính",
+            "Vua A-vi-me-léc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các anh tự tin vào sự trong sạch của mình nên đã thề hứa thế nào nếu tìm thấy chén bạc?",
+          "options": [
+            "Người bị tìm thấy chén bạc sẽ phải chết, và những người còn lại sẽ làm nô lệ cho ngài",
+            "Chúng tôi sẽ bồi thường gấp mười lần",
+            "Chúng tôi sẽ chịu phạt tù một năm",
+            "Chúng tôi sẽ nộp cha già làm nô lệ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chén bạc được tìm thấy trong bao của ai?",
+          "options": [
+            "Bên-gia-min",
+            "Ru-bên",
+            "Giu-đa",
+            "Si-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của các anh khi thấy chén bạc trong bao của Bên-gia-min là gì?",
+          "options": [
+            "Họ xé áo mình, chất đồ lại lên lừa và quay trở lại thành phố",
+            "Họ bỏ mặc Bên-gia-min tự chịu tội",
+            "Họ cãi vã với người quản gia",
+            "Họ bỏ trốn lên núi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi đối mặt với Giô-sép tại nhà ông, các anh đã làm hành động gì?",
+          "options": [
+            "Sấp mình xuống đất trước mặt ông",
+            "Tranh luận biện minh cho Bên-gia-min",
+            "Cầu xin Pha-ra-ôn tha tội",
+            "Đe dọa dùng vũ lực giải thoát em"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép phán quyết hình phạt thế nào đối với Bên-gia-min?",
+          "options": [
+            "Người bị tìm thấy chén bạc trong tay sẽ làm nô lệ cho ta, còn các ông cứ bình an trở về với cha các ông",
+            "Tất cả các ông đều phải chết",
+            "Tất cả các ông phải làm nô lệ",
+            "Bắt phạt tiền rồi tha cho về"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người đã tiến lại gần Giô-sép và dâng lên lời khẩn cầu tha thiết dài nhất Kinh Thánh?",
+          "options": [
+            "Giu-đa (Judah)",
+            "Ru-bên",
+            "Si-môn",
+            "Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giu-đa giải thích cho Giô-sép điều gì về cuộc đời của cha già Gia-cóp nếu Bên-gia-min không trở về?",
+          "options": [
+            "Mạng sống của cha tôi gắn liền với đứa trẻ này, cụ sẽ chết vì đau buồn khi thấy con không về",
+            "Cha tôi sẽ sang Ai Cập đòi người",
+            "Cha tôi sẽ nguyền rủa chúng tôi",
+            "Cha tôi sẽ lập người con khác làm trưởng nam"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giu-đa xin đề xuất giải pháp thế chỗ nào để bảo vệ Bên-gia-min?",
+          "options": [
+            "Xin cho tôi được ở lại làm nô lệ cho ngài thay thế cho đứa trẻ, để nó được đi về với các anh",
+            "Xin nộp hết tài sản súc vật để chuộc em",
+            "Xin bắt Ru-bên làm nô lệ thay",
+            "Xin tống giam tôi vào tù thay em"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "questions": [
+        {
+          "text": "Giô-sép đã có hành động gì trước khi công bố danh tính cho các anh?",
+          "options": [
+            "Ra lệnh cho mọi người Ai Cập ra khỏi phòng, rồi khóc lớn đến nỗi người Ai Cập nghe thấy",
+            "Ra lệnh cho lính bắt giam họ",
+            "Mời họ uống rượu say",
+            "Dẫn họ đến gặp Pha-ra-ôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép nói câu gì đầu tiên khi nhận anh em?",
+          "options": [
+            "Tôi là Giô-sép đây! Cha tôi còn sống không?",
+            "Các anh có sợ tôi trả thù không?",
+            "Tôi là tể tướng Ai Cập đây!",
+            "Bên-gia-min đâu rồi?"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của các anh khi nghe Giô-sép công bố danh tính ra sao?",
+          "options": [
+            "Họ bàng hoàng kinh sợ đến nỗi không thể trả lời ông được một lời",
+            "Họ vui mừng chạy lại ôm ông",
+            "Họ quỳ xuống xin lỗi ngay lập tức",
+            "Họ nghi ngờ không tin ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép đã trấn an các anh thế nào về việc họ bán ông sang Ai Cập xưa kia?",
+          "options": [
+            "Đừng buồn, đừng tự oán trách... chính Thiên Chúa đã sai tôi đi trước các anh để bảo tồn sự sống",
+            "Tôi sẽ tha thứ cho các anh nếu các anh nộp tiền",
+            "Các anh đã phạm tội ác cực nặng và đáng phạt",
+            "ĐỨC CHÚA sẽ phán xét tội của các anh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép tiên báo nạn đói kém trong xứ sẽ còn kéo dài thêm bao nhiêu năm nữa?",
+          "options": [
+            "Năm năm nữa (5 năm)",
+            "Hai năm",
+            "Bảy năm",
+            "Mười năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép nhắn gửi các anh nhanh chóng về đón cha Gia-cóp và sang định cư ở vùng đất nào của Ai Cập?",
+          "options": [
+            "Vùng đất Gô-sen (Goshen)",
+            "Vùng thành Ôn",
+            "Kinh đô Ai Cập",
+            "Vùng sa mạc Ghê-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép đã ôm cổ người em ruột nào khóc nức nở đầu tiên?",
+          "options": [
+            "Bên-gia-min",
+            "Ru-bên",
+            "Giu-đa",
+            "Si-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Pha-ra-ôn phản ứng thế nào khi nghe tin các anh em của Giô-sép đã đến Ai Cập?",
+          "options": [
+            "Pha-ra-ôn và quần thần rất vui mừng, ban xe cộ và lương thực tốt nhất để đón cha ông sang",
+            "Pha-ra-ôn nghi ngờ trục xuất họ",
+            "Pha-ra-ôn bắt họ đóng thuế nặng",
+            "Pha-ra-ôn cấm họ cư ngụ gần hoàng cung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép dặn dò các anh điều gì khi tiễn họ lên đường về Ca-na-an?",
+          "options": [
+            "Đọc đường quý anh đừng cãi cọ cọ tranh chấp nhau nhé!",
+            "Hãy mang nhiều súc vật sang đây",
+            "Đừng kể sự thật cho cha biết",
+            "Hãy đi thật nhanh đừng dừng chân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của ông Gia-cóp khi nghe tin Giô-sép còn sống và làm tể tướng Ai Cập là gì?",
+          "options": [
+            "Lòng ông chết lặng vì ông không tin họ, nhưng khi thấy xe cộ Giô-sép gửi về, tinh thần ông hồi sinh",
+            "Ông vui mừng lên đường ngay lập tức không nghi ngờ",
+            "Ông ngất đi và qua đời luôn",
+            "Ông mắng các con nói dối"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "questions": [
+        {
+          "text": "Gia-cóp dâng hy lễ lên Thiên Chúa của cha ông là I-xa-ác tại địa danh nào trước khi rời xứ?",
+          "options": [
+            "Bê-e-se-va (Beer-sheba)",
+            "Bê-then",
+            "Kê-bron",
+            "Si-khem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa nói gì với Gia-cóp trong các thị kiến ban đêm tại Bê-e-se-va?",
+          "options": [
+            "Đừng sợ đi xuống Ai Cập, vì ở đó Ta sẽ làm cho ngươi thành một dân tộc lớn",
+            "Ngươi hãy ở lại Ca-na-an",
+            "Ngươi sẽ qua đời tại Ai Cập và không được chôn ở quê nhà",
+            "Hãy mang theo toàn bộ tượng thần ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tổng số người trong gia đình Gia-cóp đi xuống Ai Cập (không kể các con dâu) là bao nhiêu người?",
+          "options": [
+            "Bảy mươi người (70 người)",
+            "Năm mươi người",
+            "Một trăm người",
+            "Ba mươi người"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp cử người con trai nào đi trước để dẫn đường cho ông đến vùng đất Gô-sen?",
+          "options": [
+            "Giu-đa (Judah)",
+            "Ru-bên",
+            "Giô-sép",
+            "Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cuộc gặp gỡ giữa Gia-cóp và Giô-sép tại Gô-sen diễn ra thế nào?",
+          "options": [
+            "Giô-sép thắng xe đi đón cha, ôm cổ cha khóc nức nở hồi lâu",
+            "Họ chào nhau trang trọng trước mặt lính",
+            "Gia-cóp quỳ sụp xuống lạy con",
+            "Họ tổ chức đại tiệc mừng ngay trên xe"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp nói gì với Giô-sép sau khi được gặp mặt con trai còn sống?",
+          "options": [
+            "Bây giờ cha chết được rồi, sau khi đã thấy mặt con và biết con còn sống",
+            "Hãy cho cha gặp Pha-ra-ôn",
+            "Cha muốn quay về Ca-na-an",
+            "Hãy chia của cải cho các anh con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghề nghiệp truyền thống của gia đình Gia-cóp được giới thiệu với Pha-ra-ôn là gì?",
+          "options": [
+            "Nghề chăn súc vật nuôi chiên bò",
+            "Nghề làm ruộng",
+            "Nghề buôn bán thương nhân",
+            "Nghề thợ rèn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Giô-sép dặn gia đình khai thật nghề chăn súc vật để được ở riêng tại đất Gô-sen?",
+          "options": [
+            "Vì đối với người Ai Cập, mọi người chăn chiên đều là một điều ghê tởm ghê gớm",
+            "Vì đất Gô-sen có nhiều cỏ tốt nhất",
+            "Vì vua Pha-ra-ôn muốn họ chăn súc vật cho vua",
+            "Vì họ không biết làm nghề khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vùng đất Gô-sen có đặc điểm địa lý thuận lợi nào cho gia đình Gia-cóp?",
+          "options": [
+            "Đồng cỏ màu mỡ thích hợp cho chăn nuôi và cách biệt với khu dân cư Ai Cập",
+            "Gần sông Nin dễ trồng trọt",
+            "Nằm ở trung tâm thủ đô Ai Cập",
+            "Nằm sát biên giới để dễ trốn thoát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người con út của bà Ra-khên đi cùng Gia-cóp sang Ai Cập?",
+          "options": [
+            "Bên-gia-min",
+            "Giô-sép",
+            "Ép-ra-im",
+            "Man-na-se"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "questions": [
+        {
+          "text": "Giô-sép dẫn bao nhiêu người anh em vào yết kiến Pha-ra-ôn đầu tiên?",
+          "options": [
+            "Năm người anh em (5 người)",
+            "Mười người",
+            "Ba người",
+            "Tất cả các anh em"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Pha-ra-ôn đồng ý cho gia đình Gia-cóp định cư ở vùng đất tốt nào của Ai Cập?",
+          "options": [
+            "Vùng đất Ráp-mê-sê (trong xứ Gô-sen)",
+            "Vùng Memphis",
+            "Vùng Ôn",
+            "Vùng Ghê-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp bao nhiêu tuổi khi ông đứng trước mặt Pha-ra-ôn và chúc phúc cho vua?",
+          "options": [
+            "Một trăm ba mươi tuổi (130 tuổi)",
+            "Một trăm tuổi",
+            "Một trăm bốn mươi bảy tuổi",
+            "Chín mươi tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp nhận xét thế nào về cuộc đời lữ hành của mình trước mặt Pha-ra-ôn?",
+          "options": [
+            "Những ngày tháng đời tôi thật ngắn ngủi và gian truân, không bằng những ngày lữ hành của cha ông tôi",
+            "Tôi đã sống một cuộc đời rất hạnh phúc bình an",
+            "Tôi đã tích lũy được vô số vàng bạc",
+            "Tôi sẽ làm vua xứ này"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi nạn đói gay gắt và dân chúng hết tiền mua lúa, Giô-sép thu hồi vật gì của người Ai Cập để đổi lúa mì?",
+          "options": [
+            "Toàn bộ bầy súc vật của họ (ngựa, chiên, bò, lừa)",
+            "Mọi đồ trang sức bằng vàng",
+            "Con cái họ làm nô lệ",
+            "Quần áo quý của họ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi súc vật cũng hết, người dân Ai Cập đã tự đề xuất bán thứ gì cho Pha-ra-ôn để có lúa ăn giống?",
+          "options": [
+            "Bán chính thân xác họ làm nô lệ và bán toàn bộ đất đai của họ cho Pha-ra-ôn",
+            "Bán nhà cửa của họ",
+            "Bán bí mật quốc gia",
+            "Bán con cái làm nô tỳ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đất đai của tầng lớp nào ở Ai Cập không bị Giô-sép thu mua vì họ có phần trợ cấp lương thực riêng từ vua?",
+          "options": [
+            "Đất đai của các tư tế Ai Cập",
+            "Đất đai của các quan võ",
+            "Đất đai của hoàng tộc",
+            "Đất đai của thương nhân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép lập luật lệ đất đai nào ở Ai Cập lưu truyền mãi sau này về thuế nộp cho vua?",
+          "options": [
+            "Nộp một phần năm hoa lợi (20%) cho Pha-ra-ôn, còn bốn phần thuộc về người cày cấy",
+            "Nộp một nửa hoa lợi",
+            "Nộp toàn bộ hoa lợi",
+            "Người dân không phải nộp thuế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp sống ở đất Ai Cập bao nhiêu năm trước khi qua đời?",
+          "options": [
+            "Mười bảy năm (17 năm)",
+            "Mười năm",
+            "Ba mươi năm",
+            "Năm mươi năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp bắt Giô-sép thề bằng cách đặt tay dưới đùi ông hứa điều gì khi ông chết?",
+          "options": [
+            "Không được chôn cất ông ở đất Ai Cập mà phải mang xác về chôn trong phần mộ tổ tiên ở Ca-na-an",
+            "Phải xây lăng mộ lớn ở Ai Cập",
+            "Phải nhường chức tể tướng cho các anh",
+            "Phải dâng tế lễ chiên cho ông tại Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "questions": [
+        {
+          "text": "Khi nghe tin cha già yếu lâm bệnh nặng, Giô-sép mang hai con trai nào đến thăm cha?",
+          "options": [
+            "Man-na-se và Ép-ra-im",
+            "Giô-sép và Bên-gia-min",
+            "Gershom và Eliezer",
+            "Ru-bên và Si-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp tuyên bố nhận hai con trai Man-na-se và Ép-ra-im của Giô-sép thế nào?",
+          "options": [
+            "Chúng sẽ thuộc về cha giống như Ru-bên và Si-môn vậy",
+            "Chúng sẽ làm nô tỳ cho các con khác của cha",
+            "Chúng không được chia phần gia sản Ca-na-an",
+            "Chúng sẽ cai quản Ai Cập thay con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp nhắc đến cái chết của người vợ yêu dấu nào ở đất Ca-na-an dọc đường Ép-ra-tha?",
+          "options": [
+            "Bà Ra-khên (Rachel)",
+            "Bà Lê-a",
+            "Bà Rê-bê-ca",
+            "Bà Xa-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp chúc phúc cho hai con Giô-sép bằng cách đặt tay có gì đặc biệt?",
+          "options": [
+            "Chéo hai tay: tay phải đặt lên đầu đứa em Ép-ra-im, tay trái đặt lên đầu đứa anh Man-na-se",
+            "Đặt hai tay lên đầu con lớn Man-na-se trước",
+            "Chỉ đặt một tay lên đầu Ép-ra-im",
+            "Không đặt tay chúc phúc mà chỉ cầu nguyện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép có phản ứng thế nào khi thấy cha đặt tay phải lên đầu đứa em Ép-ra-im?",
+          "options": [
+            "Ông không hài lòng, toan nhấc tay cha đặt lại lên đầu đứa lớn Man-na-se và nhắc cha",
+            "Ông vui mừng chấp nhận",
+            "Ông giận dữ bỏ đi",
+            "Ông khóc lóc van xin cha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp trả lời thế nào trước lời nhắc nhở của Giô-sép về đứa con trưởng?",
+          "options": [
+            "Cha biết, con ạ, cha biết... Đứa anh cũng sẽ thành một dân lớn, nhưng đứa em sẽ lớn hơn đứa anh",
+            "Cha bị mù nên đặt lầm",
+            "Hãy để nguyên tay cha như vậy không được hỏi",
+            "Man-na-se không xứng đáng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chúc phúc của Gia-cóp đặt tên ai lên trước trong câu chúc lưu truyền ở Ít-ra-en?",
+          "options": [
+            "Xin Thiên Chúa làm cho ngươi giống như Ép-ra-im và Man-na-se (đặt Ép-ra-im trước Man-na-se)",
+            "Đặt Man-na-se trước Ép-ra-im",
+            "Chỉ chúc phúc cho Ép-ra-im",
+            "Đặt tên Giô-sép lên trước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp tiên báo điều gì cho Giô-sép về tương lai của dòng dõi ông?",
+          "options": [
+            "Thiên Chúa sẽ ở cùng các con và đưa các con trở về đất tổ tiên",
+            "Các con sẽ mãi mãi ở lại Ai Cập",
+            "Các con sẽ bị người Ai Cập tiêu diệt",
+            "Giô-sép sẽ làm vua Ai Cập trị vì"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp tặng thêm cho Giô-sép phần đất nào vượt trội hơn các anh em của ông?",
+          "options": [
+            "Một sườn núi (vùng đất Si-khem) mà ông đã dùng gươm và cung chiếm từ tay người A-mô-ri",
+            "Thửa ruộng hang đá Mác-pê-la",
+            "Toàn bộ vùng hoang địa Ne-ghep",
+            "Không tặng thêm phần đất nào"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đặc điểm đức tin của Gia-cóp thể hiện qua việc chúc phúc chéo tay là gì?",
+          "options": [
+            "Sự dẫn dắt thần khí tiên tri vượt trên quy tắc loài người của Thiên Chúa",
+            "Sự nhầm lẫn do tuổi già mù lòa",
+            "Sự ưu ái cá nhân không công bằng",
+            "Sự trả thù cho quá khứ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "questions": [
+        {
+          "text": "Gia-cóp gọi các con trai lại xung quanh giường để làm gì trước khi chết?",
+          "options": [
+            "Để báo cho các con biết những gì sẽ xảy đến với các con trong tương lai và chúc phúc",
+            "Để chia vàng bạc tài sản",
+            "Để phân chia đàn súc vật",
+            "Để dặn dò cách trốn khỏi Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người con trưởng Ru-bên bị mất đặc quyền ưu tiên vì phạm phải lỗi lầm gì?",
+          "options": [
+            "Đã leo lên giường của cha mà làm nhục giường cha (nằm với hầu thiếp Binh-ha của cha)",
+            "Đã bán em Giô-sép sang Ai Cập",
+            "Đã giết dân thành Si-khem",
+            "Không chịu đi mua lúa mì"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Si-môn và Lê-vi bị Gia-cóp quở trách và tiên báo dòng dõi sẽ bị phân tán vì tính khí gì?",
+          "options": [
+            "Tính khí hung bạo giận dữ tàn sát người vô tội (vụ thành Si-khem)",
+            "Tính khí lười biếng chăn chiên",
+            "Sự ghen tị với Giô-sép",
+            "Sự gian lận tiền bạc mua lúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người con trai nào được Gia-cóp chúc phúc sẽ giữ vương trượng quyền cai trị và các anh em phải sụp lạy?",
+          "options": [
+            "Giu-đa (Judah)",
+            "Giô-sép",
+            "Si-môn",
+            "Ru-bên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh con vật nào được ví dụ cho chi tộc Giu-đa trong lời chúc phúc của cha?",
+          "options": [
+            "Sư tử con",
+            "Lừa hoang",
+            "Con rắn bên đường",
+            "Con nai thả lỏng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chúc phúc dành cho Giô-sép ví ông như hình ảnh đẹp đẽ nào?",
+          "options": [
+            "Cây tơ non trồng bên suối nước, cành lá vươn vượt bức tường",
+            "Sư tử dũng mãnh",
+            "Con lừa gánh nặng",
+            "Con sói xé mồi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia-cóp dặn kỹ các con phải chôn cất ông ở đâu tại Ca-na-an?",
+          "options": [
+            "Trong hang đá Mác-pê-la ở thửa ruộng của E-phơ-rôn người Khết",
+            "Tại Bê-then dưới gốc cây sồi",
+            "Tại vùng đất Si-khem ông đã mua",
+            "Tại Bê-e-se-va bên giếng thề"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những ai đã được chôn cất trước đó trong hang đá Mác-pê-la theo lời Gia-cóp kể?",
+          "options": [
+            "Áp-ra-ham, Xa-ra, I-xa-ác, Rê-bê-ca và Lê-a",
+            "Chỉ có Áp-ra-ham và Xa-ra",
+            "Chỉ có I-xa-ác và Rê-bê-ca",
+            "Ra-khên và Lê-a"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi dặn dò xong các con, Gia-cóp đã làm gì?",
+          "options": [
+            "Thu chân lại trên giường, tắt thở và được quy tụ về với tổ tiên",
+            "Ông ngủ thiếp đi và sáng hôm sau mới chết",
+            "Ông chúc phúc thêm cho các con dâu",
+            "Ông trao ấn tín tể tướng cho Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc nào sau này nắm giữ vương quyền cai trị dòng tộc Ít-ra-en theo lời tiên tri chương 49?",
+          "options": [
+            "Chi tộc Giu-đa (vương triều Đa-vít)",
+            "Chi tộc Giô-sép",
+            "Chi tộc Lê-vi",
+            "Chi tộc Ru-bên"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "questions": [
+        {
+          "text": "Giô-sép đã ra lệnh cho các thầy thuốc làm gì với thi hài của cha Gia-cóp?",
+          "options": [
+            "Ướp xác cha theo tục lệ Ai Cập trong bốn mươi ngày",
+            "Chôn cất ngay tại Ai Cập",
+            "Hỏa táng thi hài cha",
+            "Đưa thi hài cha thả xuống sông Nin"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cả nước Ai Cập đã để tang khóc thương ông Gia-cóp trong bao nhiêu ngày?",
+          "options": [
+            "Bảy mươi ngày (70 ngày)",
+            "Bốn mươi ngày",
+            "Ba mươi ngày",
+            "Bảy ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đoàn đưa linh cữu Gia-cóp về Ca-na-an chôn cất gồm những ai?",
+          "options": [
+            "Tất cả gia đình Gia-cóp, các quan chức của Pha-ra-ôn và các bô lão xứ Ai Cập cùng kỵ binh xa mã cực kỳ đông đảo",
+            "Chỉ có mười hai con trai Gia-cóp",
+            "Giô-sép và lính thị vệ",
+            "Chỉ có người chăn súc vật Gô-sen"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Họ đã tổ chức nghi lễ khóc tang trọng thể cho Gia-cóp trong bảy ngày tại sân đập lúa nào bên kia sông Gio-đan?",
+          "options": [
+            "Sân đập lúa A-tát (Atad)",
+            "Sân đập lúa Si-khem",
+            "Sân đập lúa Kê-bron",
+            "Sân đập lúa Bê-then"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các anh Giô-sép lo sợ điều gì sau khi cha qua đời?",
+          "options": [
+            "Sợ Giô-sép vẫn oán hận và nay sẽ báo thù tội ác xưa họ làm hại ông",
+            "Sợ bị vua Pha-ra-ôn đuổi về Ca-na-an",
+            "Sợ dân Ca-na-an tấn công cướp súc vật",
+            "Sợ Bên-gia-min tranh giành quyền thừa kế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các anh đã sai người đến nói với Giô-sép lời trăn trối giả định nào của cha Gia-cóp?",
+          "options": [
+            "Cha dặn con hãy tha thứ tội lỗi và lỗi lầm của các anh con đã làm hại con",
+            "Cha dặn con hãy chia đều đất đai cho các anh",
+            "Cha dặn con phải ở lại Ai Cập",
+            "Cha dặn con hãy nhường ngôi tể tướng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép đã phản ứng thế nào khi nghe các anh nói và sụp lạy xin làm nô lệ cho ông?",
+          "options": [
+            "Ông khóc và nói: Đừng sợ! Tôi có thay thế Thiên Chúa được đâu?",
+            "Ông nổi giận bắt giam họ",
+            "Ông đồng ý nhận họ làm nô lệ",
+            "Ông bắt phạt tiền vàng họ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu nói đức tin nổi tiếng nào của Giô-sép khẳng định chương trình cứu độ của Thiên Chúa vượt trên tội lỗi loài người?",
+          "options": [
+            "Các anh đã định mưu hại tôi, nhưng Thiên Chúa đã chuyển thành điều tốt... để cứu sống một dân đông đảo",
+            "Thiên Chúa sẽ trừng phạt các anh",
+            "Mọi sự đã qua hãy quên đi",
+            "Tôi sẽ nuôi nấng con cái các anh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-sép hưởng thọ bao nhiêu tuổi trước khi qua đời tại Ai Cập?",
+          "options": [
+            "Một trăm mười tuổi (110 tuổi)",
+            "Một trăm tuổi",
+            "Một trăm ba mươi tuổi",
+            "Một trăm bốn mươi bảy tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời trăn trối cuối cùng của Giô-sép bắt con cái Ít-ra-en thề hứa điều gì khi Thiên Chúa viếng thăm đưa họ ra khỏi Ai Cập?",
+          "options": [
+            "Quý vị phải mang xương tôi từ đây đi theo quý vị về đất hứa",
+            "Phải chôn tôi bên cạnh cha Gia-cóp ngay lập tức",
+            "Phải xây đền thờ kính Chúa ở Ai Cập",
+            "Phải bảo tồn dòng dõi của tôi làm quan"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

@@ -392,44 +392,52 @@ class ReaderActivity : AppCompatActivity() {
         btnFooterNext.isEnabled = hasNext
         btnFooterNext.alpha = if (hasNext) 1.0f else 0.4f
         
-        // Show Quiz button ONLY on the last chapter
+        // Show Quiz button on EVERY chapter
         val btnTakeQuiz = findViewById<android.widget.Button>(R.id.btn_take_quiz)
-        if (!hasNext) {
-            btnTakeQuiz.visibility = View.VISIBLE
-        } else {
-            btnTakeQuiz.visibility = View.GONE
-        }
+        btnTakeQuiz.visibility = View.VISIBLE
+        btnTakeQuiz.text = "Làm Quiz Chương $currentChapter"
     }
 
     private fun showQuizDialog() {
-        val questions = com.example.triava.data.repository.QuizRepository.getQuestionsForBook(this, bookId)
+        val questions = com.example.triava.data.repository.QuizRepository.getQuestionsForChapter(this, bookId, currentChapter)
         
         if (questions.isNotEmpty()) {
             val intent = Intent(this, QuizActivity::class.java).apply {
+                putExtra("QUIZ_MODE", "BOOK")
                 putExtra("BOOK_ID", bookId)
                 putExtra("BOOK_NAME_VI", bookNameVi)
+                putExtra("CHAPTER", currentChapter)
             }
             startActivity(intent)
-            finish() // Close reader since they finished the book
         } else {
-            // For books without a quiz yet, grant reward directly
-            val totalChapters = dbHelper.getChaptersCount(bookId)
-            val rewardAmount = totalChapters * 10
-            
-            val dialog = androidx.appcompat.app.AlertDialog.Builder(this)
-                .setTitle("Hoàn thành sách! 📖")
-                .setMessage("Bạn đã hoàn thành sách $bookNameVi!\n(Bài kiểm tra cho sách này đang được cập nhật, bạn được nhận thưởng trực tiếp: $rewardAmount 🪙)")
-                .setPositiveButton("Nhận Thưởng!") { _, _ ->
-                    val claimed = dbHelper.markChapterCompletedAndClaimReward(bookId, 9999, rewardAmount)
-                    if (claimed) {
-                        showVictoryDialog(rewardAmount, autoPlay = false)
-                    } else {
-                        Toast.makeText(this, "Bạn đã nhận phần thưởng cho sách này rồi!", Toast.LENGTH_SHORT).show()
-                    }
+            val bookQuestions = com.example.triava.data.repository.QuizRepository.getQuestionsForBook(this, bookId)
+            if (bookQuestions.isNotEmpty()) {
+                val intent = Intent(this, QuizActivity::class.java).apply {
+                    putExtra("QUIZ_MODE", "BOOK")
+                    putExtra("BOOK_ID", bookId)
+                    putExtra("BOOK_NAME_VI", bookNameVi)
                 }
-                .setCancelable(false)
-                .create()
-            dialog.show()
+                startActivity(intent)
+            } else {
+                // For books without a quiz yet, grant reward directly
+                val totalChapters = dbHelper.getChaptersCount(bookId)
+                val rewardAmount = totalChapters * 10
+                
+                val dialog = androidx.appcompat.app.AlertDialog.Builder(this)
+                    .setTitle("Hoàn thành sách! 📖")
+                    .setMessage("Bạn đã hoàn thành sách $bookNameVi!\n(Bài kiểm tra cho sách này đang được cập nhật, bạn được nhận thưởng trực tiếp: $rewardAmount 🪙)")
+                    .setPositiveButton("Nhận Thưởng!") { _, _ ->
+                        val claimed = dbHelper.markChapterCompletedAndClaimReward(bookId, 9999, rewardAmount)
+                        if (claimed) {
+                            showVictoryDialog(rewardAmount, autoPlay = false)
+                        } else {
+                            Toast.makeText(this, "Bạn đã nhận phần thưởng cho sách này rồi!", Toast.LENGTH_SHORT).show()
+                        }
+                    }
+                    .setCancelable(false)
+                    .create()
+                dialog.show()
+            }
         }
     }
 

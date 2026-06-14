@@ -1,0 +1,1581 @@
+{
+  "bookId": 21,
+  "bookName": "2 Ma-ca-bê",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Bức thư thứ nhất gửi người Do Thái ở Ai Cập kêu gọi họ giữ đại lễ nào?",
+          "options": [
+            "Lễ Lều Tạm tháng Kít-lêu (Hanukkah lễ Cung Hiến Đền Thờ)",
+            "Đại lễ Vượt Qua long trọng dâng chiên con",
+            "Lễ Ngũ Tuần mừng mùa gặt lúa mạch rực rỡ",
+            "Lễ Phổ-rịm Purim mừng giải thoát diệt chủng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chất lỏng đặc (naphtha) Nê-hê-mi-a bôi lên củi bùng cháy khi ánh mặt trời chiếu vào gọi là gì?",
+          "options": [
+            "Nước phép lửa thánh (Naphtha hay Nước đặc)",
+            "Dầu ô-liu tinh khiết đền thờ thánh Chúa",
+            "Mật cá sông Tigris chữa lành mắt mù lòa",
+            "Rượu nho đậm đặc dùng tế lễ đền thờ Ba-tư"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư tế Do Thái đã khôi phục lại lửa thánh đền thờ dâng tế lễ chép câu 18 là ai?",
+          "options": [
+            "Nê-hê-mi-a (Nehemiah)",
+            "Thượng tế Joakim lo việc đạo đền thờ Giê",
+            "Ét-ra nhà thông luật dòng Aaron thượng tế",
+            "Mát-ta-thi-a tư tế khởi nghĩa tại Modin"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số ngày dâng tế lễ ngọn lửa thánh cháy rực rỡ khi mặt trời lên chép câu 22?",
+          "options": [
+            "Khi mặt trời chiếu vào, ngọn lửa bùng lên bùng lên rực rỡ thiêu cháy tế vật",
+            "Ngọn lửa bốc cháy suốt bảy ngày chẵn",
+            "Không bốc cháy củi gỗ bị mục nát hoàn toàn",
+            "Dội lửa sấm sét dội từ trời thiêu cháy giặc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu nguyện của các tư tế Do Thái khi dâng tế lễ lửa thánh câu 24-29 tôn vinh ai?",
+          "options": [
+            "Lạy Chúa, Chúa là Thiên Chúa duy nhất, công chính, uy nghiêm và nhân hậu",
+            "Tôn vinh hoàng đế Cyrus giải phóng Do Thái",
+            "Tôn vinh kỵ binh chiến xa sắt oai hùng Ba-tư",
+            "Chúc tụng hoàng hậu Esther xinh đẹp cứu mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi cất giấu ngọn lửa thánh đền thờ khi xưa Do Thái bị đày sang Ba-tư câu 19?",
+          "options": [
+            "Dưới một chiếc giếng cạn giếng cạn cấm có nước, cất giấu an toàn bí mật",
+            "Trong hang đá lăng mộ dòng họ Aaron cổ xưa",
+            "Giấu trong Hòm Bia Giao Ước đặt đền thánh",
+            "Ném xuống sông Gio-đan trôi mất tích giấu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Ba-tư phản ứng thế nào khi nghe tin về phép lạ lửa thánh Nehemiah câu 34?",
+          "options": [
+            "Xây bức tường bao quanh khu giếng giếng làm nơi thánh, dâng của cải ban tặng",
+            "Nổi giận ra lệnh chém đầu toàn bộ tư tế",
+            "Cướp sạch vàng bạc mang về bọc cung điện vua",
+            "Không tin cậy đuổi Nehemiah ra ngoài hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người dịch từ ngọn lửa thánh Nehemiah gọi là 'Nép-tha-ra' chép câu 36?",
+          "options": [
+            "Nép-tha-ra (Nephthar nghĩa là Thanh Tẩy, nhiều người gọi là Nép-tha)",
+            "Mật cá sông Tigris bôi trơn vách đá đền",
+            "Khiên vàng Sa-lô-môn đúc thay khiên đồng",
+            "Không có tên gọi gọi là nước giếng thông thường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh quốc gia nơi người Do Thái nhận bức thư từ Giu-đê chép đầu chương 1?",
+          "options": [
+            "Nước Ai Cập Ai Cập (Egypt Do Thái định cư ở đó)",
+            "Đế quốc Ba-tư hoàng gia Cyrus giải phóng",
+            "Vương quốc Hy Lạp Syria biên giới phía bắc",
+            "Đất nước Sparta vương quốc Hy Lạp anh em Do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa phép lạ ngọn lửa thánh đền thờ được khôi phục chương 1 chứng minh?",
+          "options": [
+            "Sự xác nhận nhận Chúa chấp nhận việc thờ phượng đền thờ mới; sự tiếp nối giao ước thánh của tổ tiên",
+            "Do Thái có số lượng tư tế dâng tế giỏi nhất",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa",
+            "Sức mạnh tôn giáo tuyệt đối của Nehemiah"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Tiên tri được Chúa chỉ bảo giấu Hòm Bia, Lều Tạm và Bàn thờ dâng hương là?",
+          "options": [
+            "Tiên tri Giê-rê-mi-a (Jeremiah)",
+            "Tiên tri Ê-li-a dội lửa thiêu cháy giặc Ba-al",
+            "Tiên tri Ê-lê-a-da dũng sĩ tử đạo oai hùng",
+            "Tiên tri Ê-dê-ki-ên thấy thung lũng xương khô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa điểm ngọn núi nơi Jeremiah giấu các vật thánh đền thờ câu 4 chép là?",
+          "options": [
+            "Núi Nê-bô (Mount Nebo nơi Mô-sê ngắm đất hứa)",
+            "Núi Si-nai hoang vu ban lề luật Chúa xưa",
+            "Núi Các-mên nơi dọi lửa bốc cháy tế đàn",
+            "Núi thánh Si-on đền thánh Giê-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Jeremiah nói với những người đi theo định đánh dấu lối vào hang đá câu 7?",
+          "options": [
+            "Nơi nầy sẽ ẩn giấu ẩn giấu cho đến khi Chúa quy tụ dân tụ họp thương xót",
+            "Hãy dọn bánh rượu nho ăn mừng vui vẻ ngay",
+            "Treo khiên vàng làm dấu chỉ vương quyền Do",
+            "Không nói gì chỉ khóc lóc bỏ đi hoang mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật thánh Jeremiah giấu trong hang đá trên núi Nebo chép câu 5 là?",
+          "options": [
+            "Lều Tạm, Hòm Bia Giao Ước Giao Ước và Bàn thờ dâng hương",
+            "Mười ta-lăng bạc ký gửi nhà Gabael xứ Media",
+            "Các sách Luật Pháp Mô-sê bị xé rách rách",
+            "Con bò vàng bằng đồng thau đúc sẵn thờ cúng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tác giả cuốn sách viết tóm lược lịch sử 5 cuốn sách về Maccabees chép câu 23 là ai?",
+          "options": [
+            "Gia-xôn người Ky-rê-nê (Jason of Cyrene)",
+            "Thầy tế lễ thượng tế Joakim lo việc đền thánh",
+            "Ét-ra nhà thông luật dòng tư tế Aaron cổ",
+            "Nê-hê-mi-a quan trấn thủ vương triều Ba-tư"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do tác giả viết tóm lược bộ sách lịch sử Maccabees câu 25-28 chép?",
+          "options": [
+            "Để người đọc dễ nhớ dễ nhớ, dễ hiểu, mang lại lợi ích tinh thần cho mọi người",
+            "Để tranh công chiến thắng với các anh em Maccabees",
+            "Để nộp một vạn si-clơ vàng xin làm quan triều",
+            "Không có lý do tự tác giả thích viết sử ký"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cuốn sách chép việc xây dựng thư viện thu thập sách các vua tiên tri câu 13?",
+          "options": [
+            "Nê-hê-mi-a thu thập thư viện thư viện sách lịch sử các vua, tiên tri, thánh vịnh",
+            "Mô-sê viết sách Luật Pháp ở hoang mạc xưa",
+            "Haman viết sắc lệnh tàn sát Do Thái Ba-tư",
+            "Không có thư viện nào chỉ truyền miệng sử ký"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ dâng hiến đền thờ Sa-lô-môn dâng tế lễ chép câu 10 là gì?",
+          "options": [
+            "Lửa từ trời dội xuống dội xuống tiêu diệt các tế vật toàn thiêu dâng hiến",
+            "Vàng ròng bọc vách đền thờ phát sáng lung linh",
+            "Kỵ binh chiến xa sắt hộ tống vua Sa-lô-môn",
+            "Không có phép lạ đền thờ bị cháy rụi hoàn toàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu xin cuối cùng của tác giả xin Chúa ban cho đền thờ câu 18 chép?",
+          "options": [
+            "Xin Chúa quy tụ quy tụ chúng tôi từ khắp nơi dưới gầm trời về nơi thánh",
+            "Chúc các con có kỵ binh xe chiến oai hùng Ba",
+            "Chúc các con giàu sang bọc vàng ròng cung điện",
+            "Không cầu xin gì đi thẳng vào đền thờ dâng lễ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Jeremiah ẩn giấu Hòm Bia Giao Ước chương 2 dạy gì?",
+          "options": [
+            "Sự bảo toàn toàn vật thánh thiêng liêng chờ thời kỳ cứu độ phục hưng vĩ đại của Chúa; đức tin lịch sử",
+            "Do Thái có số lượng tiên tri giỏi nhất nước",
+            "Sự nhút nhát hèn hạ của Jeremiah trốn tránh giặc",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Thượng tế thánh thiện oai tín được vương quốc Syria kính trọng ở đền thờ là?",
+          "options": [
+            "Thượng tế Ô-ni-a III (Onias III)",
+            "Thượng tế phản đạo Alcimus hại dân Do Thái xưa",
+            "Thầy tế lễ thượng tế Joakim lo việc đền thánh",
+            "Thượng tế Ê-li-a-síp đền thờ Nê-hê-mi-a cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quan đại thần vua Syria cử đi cướp tiền đền thờ quỹ mồ côi góa phụ là?",
+          "options": [
+            "Hê-li-ô-đô-rô (Heliodorus)",
+            "Haman tể tướng độc ác muốn diệt Do Thái Ba",
+            "Tướng Gorgias chỉ huy quân đánh úp ban đêm",
+            "Thái giám Bagoas quản lý phòng rượu Ba-tư"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt kinh hoàng Heliodorus phải chịu khi xông vào cướp tiền đền thờ câu 24-26?",
+          "options": [
+            "Một kỵ sĩ ngựa ngựa oai hùng và hai thanh niên quật roi liên tục liệt nửa người ngất xỉu",
+            "Bị chém đầu ngay lập tức trước mặt các tư tế",
+            "Bị phong cùi trắng trán cách ly biệt lập phòng",
+            "Bị voi chiến giẫm nát thi thể ngoài sân đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai dâng tế lễ cầu khẩn xin Chúa cứu sống Heliodorus đang hấp hối câu 31-33?",
+          "options": [
+            "Thượng tế Ô-ni-a III (Onias III dâng tế lễ chuộc tội)",
+            "Thầy tế lễ thượng tế Joakim lo việc đền thánh",
+            "Tộc trưởng Uzziah cùng kỳ mục thành Bethulia",
+            "Không ai dâng tế tự Heliodorus tỉnh dậy khỏe"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời làm chứng dũng cảm của Heliodorus sau khi được cứu sống câu 36-39?",
+          "options": [
+            "Tuyên bố Thiên Chúa Do Thái Do Thái ngự trị đền thờ, bảo vệ nơi nầy, ai phạm sẽ chết",
+            "Tuyên bố vua Syria mạnh nhất thế giới cấm sợ ai",
+            "Tuyên bố Do Thái đã cướp khiên vàng cung điện",
+            "Chúc các tư tế bị phong cùi trắng trán sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ phản bội đền thờ mách vua Syria đền thờ chứa đầy bạc vàng câu 4 là?",
+          "options": [
+            "Si-môn (Simon thuộc chi tộc Bilgah quản lý đền thờ)",
+            "Haman tể tướng người Agagite kiêu ngạo Ba",
+            "Achior thủ lĩnh người Am-môn bị trói xích",
+            "Bagoas quan thái giám quản lý phòng rượu vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trạng thái đau buồn khóc lóc của toàn dân Giê-ru-sa-lem khi đền sắp bị cướp câu 14-21?",
+          "options": [
+            "Phụ nữ phụ nữ mặc áo sô khóc lóc phố, tư tế phủ phục tế đàn kêu cầu Chúa giữ tiền quỹ",
+            "Mở tiệc liên hoan vui vẻ cấm lo lắng gì",
+            "Chạy đi tìm kiếm kỵ binh xe chiến chiến đấu ngay",
+            "Không phản ứng gì đứng xem im lặng ngạc nhiên nhìn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khẩn cầu của các tư tế dâng lên Đấng ban luật giữ tiền quỹ câu 15?",
+          "options": [
+            "Kêu cầu Đấng ban luật giữ tiền quỹ quỹ được an toàn cho người ký gửi",
+            "Xin ban kỵ binh xe chiến Ba-tư cứu đền thờ",
+            "Xin dội sấm sét thiêu cháy sạch Heliodorus",
+            "Không cầu xin gì tự tin sức mạnh nghĩa quân bảo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả con ngựa chiến oai hùng của vị kỵ sĩ thiên thần câu 25 chép?",
+          "options": [
+            "Trang sức lộng lộng lẫy, phi chân trước đạp thẳng vào Heliodorus rùng rợn",
+            "Con la hoàng gia oai vệ vương triều Syria thù",
+            "Con lạc đà thồ mười ta-lăng bạc nặng trĩu",
+            "Không cưỡi ngựa đi bộ xông vào đánh đuổi giặc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa biến cố Heliodorus bị đánh phạt cứu đền thờ chương 3 chép?",
+          "options": [
+            "Quyền năng uy uy phong tối thượng của Chúa bảo vệ đền thánh; sự can thiệp siêu nhiên cứu giúp đức tin",
+            "Do Thái có số lượng tư tế dâng tế giỏi nhất",
+            "Sự nhút nhát hèn hạ của lính Syria bỏ chạy trốn",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Kẻ phản đạo dùng tiền mua chức thượng tế lập võ đường Hy Lạp ép Do Thái Hy Lạp hóa là?",
+          "options": [
+            "Gia-xôn (Jason em trai thượng tế Onias III)",
+            "Mê-nê-la-ô (Menelaus cướp chức thượng tế sau)",
+            "Thượng tế phản đạo Alcimus hại dân Do Do Thái",
+            "Thầy tế lễ thượng tế Joakim lo đền thờ thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ cướp chức thượng tế của Jason bằng cách đút lót nhiều tiền hơn cho vua là?",
+          "options": [
+            "Mê-nê-la-ô (Menelaus)",
+            "Gia-xôn (Jason em trai thượng tế Onias III)",
+            "Alcimus thượng tế phản đạo hại dân Do Thái xưa",
+            "Thượng tế Ê-li-a-síp đền thờ Nê-hê-mi-a cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị thượng tế thánh thiện Onias III bị Menelaus thuê người sát hại dã man ở thành nào?",
+          "options": [
+            "Thành Đát-nê (Daphne gần Antioch)",
+            "Thành Mô-đin quê hương lăng mộ nghĩa quân",
+            "Giê-ru-sa-lem thủ đô mới hoàng gia vương",
+            "Bết-xua pháo lũy biên giới phía nam Do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trào lưu ngoại giáo Hy Lạp hóa Jason đưa vào Giê-ru-sa-lem câu 12-14 chép?",
+          "options": [
+            "Lập võ đường võ đường Hy Lạp dưới bóng lũy, bắt thanh niên đội mũ ngoại giáo tập luyện",
+            "Đắp tượng con bò vàng thờ tại đền thánh Chúa",
+            "Nộp một vạn si-clơ vàng chuộc lỗi vua Syria",
+            "Bọc vàng ròng cung điện vương triều Ba-tư cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự phản ứng của dân thành Giê-ru-sa-lem và vua đối với cái chết Onias III câu 35-38?",
+          "options": [
+            "Toàn dân oán oán giận, đức vua Antiochus đau buồn khóc thương ra lệnh chém kẻ giết Onias",
+            "Ăn mừng liên hoan vui vẻ cấm lo lắng gì",
+            "Chém đầu Achior dâng sính lễ tạ tội vua Ba",
+            "Không khóc thương lặng lẽ đi trốn sa mạc hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên kẻ ám sát sát hại Onias III theo lệnh Menelaus thuê câu 34 là?",
+          "options": [
+            "An-đơ-rô-ni-cô (Andronicus quan đại thần bị chém đầu)",
+            "Bagoas quan thái giám tiệc rượu riêng tư vua",
+            "Hegai thái giám hầu hạ hoàng hậu Esther xưa",
+            "Memukan quan cố vấn đề xuất phế Vashti cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số tiền vàng Menelaus đút lót cướp chức thượng tế câu 24 chép?",
+          "options": [
+            "Nhiều hơn ba ba trăm ta-lăng bạc ta-lăng bạc so với số tiền của Jason đút lót",
+            "Mười ta-lăng vàng nhỏ bé đền tạm cũ hoang",
+            "Một vạn si-clơ đồng thau cũ rách nát thau",
+            "Không đút lót dùng vũ lực cướp chức thượng tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ của các tư tế Do Thái đối với tế đàn khi võ đường Hy Lạp mở câu 14?",
+          "options": [
+            "Coi khinh coi khinh tế đàn, bỏ bê dâng tế lễ, chạy đi tham gia cuộc đấu võ",
+            "Đắp tượng con bò vàng đặt đền thờ tạ tội Do",
+            "Nhận mười ta-lăng bạc ký gửi nhà Gabael xứ",
+            "Chúc đức vua Ahasuerus thăng quan tiến chức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự việc cướp bóc đền thánh do Lisimakhô em Menelaus làm gây bạo loạn câu 39-42?",
+          "options": [
+            "Lisimakhô cướp cướp của đền thánh bị dân chúng nổi giận dùng củi đá đánh chết bên kho bạc",
+            "Gửi kỵ binh chiến xa Ba-tư hộ tống vua chạy",
+            "Đút lót một vạn si-clơ vàng xin tha mạng sống",
+            "Không cướp của chỉ tịch thu lương thực ngoài"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Hy Lạp hóa và sát hại thượng tế Onias III chương 4 chép?",
+          "options": [
+            "Sự suy đồi đồi tôn giáo từ bên trong; lòng tham quyền lực phản đạo dẫn đến thảm kịch dân tộc Do Thái",
+            "Do Thái có số lượng tư tế phản đạo nhiều nhất",
+            "Sự nhút nhát hèn hại của Jason trốn chạy nhục nhã",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Hiện tượng điềm lạ rùng rợn xuất hiện trên bầu trời Giê-ru-sa-lem suốt 40 ngày câu 2-3 là?",
+          "options": [
+            "Kỵ sĩ mặc mặc áo vàng cầm gươm chiến đấu rượt đuổi nhau trên bầu trời",
+            "Ngọn lửa thánh bốc cháy trên mây đen che khuất",
+            "Sấm sét dội xuống thiêu cháy sạch tường thành",
+            "Không có điềm gì bầu trời trong xanh rực nắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng dân lành Giê-ru-sa-lem bị tàn sát dã man khi Antiochus chiếm thành câu 14 là?",
+          "options": [
+            "Tám mươi ngàn (80.000) người bị giết và số lượng tương đương bị bán làm nô",
+            "Bảy mươi người chẵn",
+            "Mười tư tế Lê-vi đền thờ thánh Giê-ru",
+            "Một trăm người bộ binh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ phản đạo Menelaus đã dẫn Antiochus vào nơi chí thánh đền thờ làm gì câu 15?",
+          "options": [
+            "Dẫn vua vào nơi chí thánh cướp chén thánh chén thánh vàng dâng cúng ngoại thần",
+            "Đúc tượng con bò vàng đặt đền thờ tạ tội",
+            "Nhận mười ta-lăng bạc ký gửi nhà Gabael xứ",
+            "Không dẫn đi tôn trọng nơi chí thánh đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ thị tàn nhẫn Antiochus giao cho Apollonius quan chỉ huy quân đội câu 24-25?",
+          "options": [
+            "Tàn sát nam giới giới ngày Sabát Sabát, bán phụ nữ trẻ con làm nô dịch",
+            "Cho kỵ binh chiến xa Ba-tư diễu hành oai",
+            "Xây cung điện bọc vàng ròng rực rỡ lấp lánh",
+            "Cho chém đầu Menelaus vì cướp đền thờ thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mát-ta-thi-a (Maccabees) cùng 10 người khác trốn lánh nạn ở đâu câu 27?",
+          "options": [
+            "Trốn vào hoang hoang dã núi núi non ăn cỏ lánh mình cấm để ô uế",
+            "Trốn vào đền thờ đóng chặt cửa thành quyết tử",
+            "Trốn sang Ai Cập cổ đại dọc sông Nile lánh",
+            "Không trốn ở lại cổng thành Susa ăn xin sống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tin đồn sai sự thật khiến Jason đem quân chiếm lại Giê-ru-sa-lem câu 5?",
+          "options": [
+            "Tin đồn vua An-ti-ô-khô đã băng hà đã băng hà tại xứ Ai Cập",
+            "Tin đồn kỵ binh Ba-tư đánh bại quân Syria",
+            "Tin đồn đền thờ chứa đầy khiên vàng Sa-lô",
+            "Không có tin đồn tự ý Jason nổi loạn cướp thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cái chết nhục nhã của Jason ngoại bang chép câu 9-10?",
+          "options": [
+            "Chết cô độc cô độc ở xứ ngoại bang, cấm được khóc thương, cấm được chôn mộ tổ",
+            "Chết trận chém đầu kinh thành Nineveh kiêu ngạo",
+            "Bị phong cùi trắng cách ly phòng biệt lập",
+            "Không chết nhục nhã sống an nhàn giàu sang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Antiochus chiếm đóng Giê-ru-sa-lem để lại những ai làm quan trấn thủ câu 22?",
+          "options": [
+            "Để lại Phi-líp (Philip người Phrygian tàn ác) và Andronicus quan trấn",
+            "Để lại Menelaus và Jason hai thượng tế phản",
+            "Để lại Bagoas thái giám hầu hạ tiệc rượu",
+            "Không để lại ai tự dân cai quản thành phố"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Chúa để mặc đền thờ thánh bị ô uế tàn phá câu 17-20 chép?",
+          "options": [
+            "Vì tội lỗi dân thành chọc giận Chúa chốc lát; Chúa chọn dân trước khi chọn đền thờ",
+            "Vì Chúa thích khiên vàng Sa-lô-môn hơn đền thánh",
+            "Vì kỵ binh chiến xa sắt Do Thái quá yếu kém",
+            "Không có lý do tự đền thờ chịu họa kiếp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa biến cố bách hại tàn bạo và điềm lạ bầu trời chương 5 chép?",
+          "options": [
+            "Lời cảnh báo báo về thảm họa tâm linh; sự thanh luyện đức tin Do Thái trước bách hại khốc liệt",
+            "Do Do Thái có số lượng kỵ sĩ dũng cảm nhất",
+            "Sự nhút nhát hèn hạ của lính Do Thái trốn chạy",
+            "Sự lỗi thời của giao ước đền tạm hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Cụ già luật sĩ 90 tuổi dũng cảm chịu chết thà tử đạo cấm ăn thịt lợn ô uế là?",
+          "options": [
+            "Cụ Ê-lê-a-da (Eleazar luật sĩ 90 tuổi đức hạnh)",
+            "Tư tế Mattathias khởi nghĩa Modin vĩ đại",
+            "Thầy tế lễ thượng tế Joakim lo đền thờ thánh",
+            "Thượng tế Onias III bị sát hại dã man xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên dụ dỗ của bạn hữu khuyên cụ Eleazar làm để giữ mạng sống câu 21-22 là?",
+          "options": [
+            "Giả vờ ăn thịt sạch giả thịt lợn vua dâng để lừa dối thoát chết",
+            "Hãy đắp tượng con bò vàng thờ cúng xin tha mạng",
+            "Nộp một vạn si-clơ vàng chuộc lỗi vua Syria",
+            "Trốn chạy sang Ai Cập hoang dã lánh nạn cùi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khước từ quả cảm cụ Eleazar cự tuyệt giả vờ lừa dối câu 24-25?",
+          "options": [
+            "Giả vờ ở tuổi 90 sẽ làm gương xấu gương xấu cho thanh niên nghĩ ta phản đạo",
+            "Tôi đồng ý vâng lệnh vua ăn thịt lợn cúng",
+            "Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng",
+            "Không trả lời im lặng quỳ lạy thần ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên đền thờ Giê-ru-sa-lem bị đổi tên ép thờ thần Hy Lạp câu 2 là?",
+          "options": [
+            "Đền thờ thần Dớt Ô-lim-pi-ô (Zeus Olympios)",
+            "Đền thờ thần Dionysus thần rượu nho ngoại giáo",
+            "Đền thờ thần Dagon bị thiêu cháy sạch xưa",
+            "Đền thờ con bò vàng đặt Bê-then Đan tà thần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả cảnh tượng ô uế đền thờ dưới thời Hy Lạp hóa câu 4-5?",
+          "options": [
+            "Chứa đầy sự trác trác táng táng ngoại bang dâm ô, dâng tế vật cấm sạch trên bàn thờ",
+            "Bọc vàng ròng cung điện vương triều Ba-tư",
+            "Không có ô uế đền thờ được giữ gìn thanh khiết",
+            "Chỉ chứa đầy khiên đồng Rô-vô-am đúc thay thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai bà mẹ bị trừng phạt thế nào vì đã cắt bì cho con câu 10?",
+          "options": [
+            "Bị dẫn đi diễu phố phố, xô xuống từ tường thành thành chết cùng hài nhi đeo cổ",
+            "Bị phong cùi trắng trán cách ly biệt lập phòng",
+            "Phạt nộp một vạn si-clơ vàng chuộc mạng sống",
+            "Đày sang sa mạc hoang dã cùi cách ly biệt lập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích cụ Eleazar muốn để lại cho thế hệ trẻ Do Thái câu 28?",
+          "options": [
+            "Một tấm gương gương cao đẹp chết dũng cảm vì lề luật thánh đức tin",
+            "Cách rèn gươm giáo vũ khí chiến đấu oai",
+            "Kho tàng vàng bạc chôn cất nghĩa trang cũ",
+            "Không để lại gì chỉ muốn sống thọ thêm tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Eleazar nói trước khi tắt thở dưới đòn roi tra tấn câu 30?",
+          "options": [
+            "Chúa biết tôi chịu đau đớn đau đớn xác thịt nhưng lòng vui mừng kính sợ Ngài",
+            "Tôi rất hận vì cấm giả vờ ăn thịt lợn để sống",
+            "Chúc quân Syria bị phong cùi trắng trán sa",
+            "Không nói gì chỉ rên rỉ đau đớn rồi chết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên của tác giả dành cho người đọc sách khi thấy bách hại câu 12-16?",
+          "options": [
+            "Đừng nản chí nản chí, hình phạt của Chúa là để sửa phạt yêu thương cấm phải tiêu diệt",
+            "Hãy nổi loạn cầm gươm giết sạch kẻ ngoại giáo",
+            "Hãy trốn chạy sang Ai Cập lánh nạn cùi trắng",
+            "Không có lời khuyên khuyên tự do đọc sách sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa cái chết tử đạo anh dũng của cụ Eleazar chương 6 chép?",
+          "options": [
+            "Tấm gương trung trung nghĩa nghĩa bảo vệ đức tin lề luật; sự chiến thắng tâm linh cao quý nhất của linh hồn",
+            "Do Thái có số lượng người thọ 90 tuổi nhiều",
+            "Sự nhút nhát hèn hạ của lính Syria đánh cụ già",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Câu chuyện tử đạo bi hùng chảo dầu nóng của nhóm người Do Thái nào chương 7 là?",
+          "options": [
+            "Bảy anh em trai em trai và người mẹ dũng cảm tử đạo",
+            "Tư tế Mattathias và năm con trai khởi nghĩa",
+            "Thầy tế lễ thượng tế Joakim cùng gia tộc Lê",
+            "Cụ Eleazar cùng học trò luật sĩ đền thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời người mẹ dũng cảm khuyên bảo các con chịu chết oai hùng dùng ngôn ngữ nào?",
+          "options": [
+            "Dùng tiếng mẹ đẻ mẹ đẻ (tiếng Do Thái cổ ngôn ngữ tổ tiên)",
+            "Dùng tiếng Hy Lạp để thách thức vua Antiochus",
+            "Dùng tiếng Ba-tư cổ đại hoàng gia oai vệ",
+            "Dùng tiếng Ai Cập cổ đại dọc sông Nile thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Niềm hy vọng lớn lao các anh em tuyên xưng trước chảo dầu tra tấn là gì?",
+          "options": [
+            "Niềm tin vào sự sống sự sống lại lại ngày sau Chúa sẽ ban lại thân xác họ",
+            "Niềm tin kỵ binh xe chiến Do Thái sẽ báo thù",
+            "Hy vọng vua Syria sẽ hối hận tha mạng sống",
+            "Không hy vọng gì chấp nhận số phận đen tối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời thách thức anh em thứ hai nói với Antiochus trước khi chịu chết câu 9?",
+          "options": [
+            "Vua vũ trụ sẽ cho chúng tôi sống lại sống lại vĩnh cửu vì chúng tôi chết luật Ngài",
+            "Nhà vua sẽ bị phong cùi trắng trán sa mạc",
+            "Hãy nộp một vạn si-clơ vàng xin làm nô dịch",
+            "Chúc nhà vua thăng quan tiến chức Ba-tư oai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động dã man vua Antiochus áp dụng tra tấn anh em đầu tiên câu 3-5?",
+          "options": [
+            "Cắt lưỡi, lột lột da đầu đầu, chặt tay chân dọi chảo dầu nóng trước mặt mẹ anh em",
+            "Trói xích chân tay ném xuống sông Gio-đan trôi",
+            "Bôi mật cá lên mặt cho voi giẫm nát thi thể",
+            "Không tra tấn chém đầu ngay lập tức cổng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên người mẹ nói với con út chịu chết cấm nghe dụ dỗ làm giàu vua câu 27-29?",
+          "options": [
+            "Con ơi, đừng sợ sợ tên đao phủ nầy, hãy xứng đáng với các anh con chịu chết",
+            "Con hãy nghe vua làm quan giàu sang cứu mạng mẹ",
+            "Hãy đút lót mười ta-lăng bạc xin vua tha tội",
+            "Không khuyên gì khuyên con bỏ chạy trốn lánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời tuyên bố của người con út thách thức vua Syria trước khi chết câu 30?",
+          "options": [
+            "Tôi cấm vâng vâng lệnh vua, chỉ vâng luật Thiên Chúa ban qua Mô-sê!",
+            "Tôi đồng ý vâng lệnh vua ăn thịt lợn cúng",
+            "Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng",
+            "Không nói gì chỉ khóc lóc van xin vua tha mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người mẹ chịu chết tử đạo vào thời điểm nào chép câu 41?",
+          "options": [
+            "Chịu chết sau sau cùng cùng sau khi chứng kiến bảy con tử đạo anh dũng",
+            "Bị giết đầu tiên làm gương răn đe các con",
+            "Trốn thoát chạy sang xứ Ai Cập lánh nạn cùi",
+            "Không bị giết vua tha cho về nhà sống thọ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự khẳng định của người mẹ về nguồn gốc tạo dựng con người câu 22-23?",
+          "options": [
+            "Thiên Chúa tạo dựng dựng trời đất từ hư cấm, chính Ngài sẽ ban lại thần khí sự sống",
+            "Con người tự sinh ra cấm cần Chúa tạo dựng",
+            "Con người do kỵ binh Ba-tư sinh ra oai vệ",
+            "Không phát biểu gì chỉ lo đứng khóc lóc tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học cao cả nhất trận tử đạo bảy anh em chương 7 dạy gì?",
+          "options": [
+            "Tuyên ngôn đức đức tin sự sống lại resurrection; chiến thắng tuyệt đối của linh hồn trung thành lề luật Chúa",
+            "Do Thái có số lượng anh hùng chịu chảo dầu",
+            "Sự dã man của luật chiến tranh Hy Lạp thù",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Số lượng dũng sĩ ban đầu Judas Maccabeus tập hợp trong bí mật để chiến đấu du kích câu 1?",
+          "options": [
+            "Sáu ngàn (6.000) chiến sĩ quả cảm chiến đấu du kích",
+            "Mười ngàn chiến sĩ tuyển chọn Bên-gia-min",
+            "Năm mươi vạn người",
+            "Một trăm người bộ binh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng quân Syria mang theo các thương gia buôn nô lệ để bán Do Thái bị Judas đánh bại là?",
+          "options": [
+            "Ni-ca-no (Nicanor trốn thoát nhục nhã về Antioch)",
+            "Tướng Bacchides chỉ huy quân đội Syria bình",
+            "Tướng Gorgias chỉ huy quân đánh úp ban đêm",
+            "Thái giám Bagoas quản lý phòng rượu Ba-tư"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng quân thù bị nghĩa quân Judas chém chết trong trận chiến oai hùng câu 24?",
+          "options": [
+            "Hơn chín ngàn (9.000) quân thù bị chém chết chết tại trận",
+            "Ba ngàn dũng sĩ tuyển chọn Galilee",
+            "Năm vạn người bộ binh",
+            "Mười tư tế Lê-vi đền thờ thánh Giê-ru"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên Nicanor nói với các thương gia buôn nô lệ trước trận chiến chép câu 11?",
+          "options": [
+            "Hứa bán chín mươi mươi người Do Thái lấy một ta-lăng bạc nô lệ",
+            "Hứa ban khiên vàng bọc cung điện Ba-tư",
+            "Chúc họ bị phong cùi trắng trán sa mạc",
+            "Không hứa gì bắt họ tự đi ra chiến trường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cuốn sách Judas dùng để đọc khích lệ tinh thần nghĩa quân trước trận câu 23 chép?",
+          "options": [
+            "Đọc Sách Thánh Sách Thánh Do Thái và ban khẩu hiệu: Sự trợ giúp của Thiên Chúa!",
+            "Đọc sách sử ký biên niên triều đình Ba-tư",
+            "Đọc sách Luật Pháp Mô-sê nhận ở núi Sinai",
+            "Không đọc sách chỉ thổi tù và xuất kích chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng quân được Judas giao chỉ huy một trong bốn sư đoàn Do Thái câu 22?",
+          "options": [
+            "Si-môn, Giô-xép (Joseph) và Giô-na-than (Jonathan)",
+            "Apollonius, Seron và Philip quan tổng quản",
+            "Bagoas, Holofernes và Achior thủ lĩnh Am-môn",
+            "Không chia sư đoàn tự Judas chỉ huy toàn quân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến lợi phẩm Do Thái thu được sau khi đánh tan quân Nicanor câu 27?",
+          "options": [
+            "Thu gom vũ vũ khí quân thù và cướp bạc vàng từ các thương gia",
+            "Đắp tượng con bò vàng đặt đền thờ tạ tội Do",
+            "Nhận mười ta-lăng bạc ký gửi nhà Gabael xứ",
+            "Không thu gì đốt cháy sạch toàn bộ trại lính"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thú nhận nhục nhã của Nicanor khi trốn thoát về Antioch câu 36 chép?",
+          "options": [
+            "Thú nhận Do Do Thái có Đấng bảo vệ duy nhất là Thiên Chúa giữ luật Ngài",
+            "Tuyên bố kỵ binh Syria mạnh nhất thế giới",
+            "Bị phong cùi trắng trán cách ly biệt lập phòng",
+            "Không thú nhận bắt lính chém đầu quan hầu cận"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên quan tướng Syria bị Judas tiêu diệt đợt sau cùng Nicanor câu 30?",
+          "options": [
+            "Ti-mô-thê (Timotheus) và Bác-khê-nơ (Bacchênor)",
+            "Apollonius và Seron chỉ huy dốc đèo",
+            "Bagoas và Holofernes quan toàn quyền Ba-tư",
+            "Không chép tên chỉ chép quan tướng biên ải"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa chiến thắng du kích đầu tiên của Judas Maccabeus chương 8 chép?",
+          "options": [
+            "Sự phục hồi hồi niềm tin cậy Chúa; lòng dũng cảm bảo vệ luật Chúa chiến thắng quân đông ngạo mạn",
+            "Do Thái có số lượng dũng sĩ giỏi nhất biên",
+            "Sự nhút nhát hèn hạ của lính Syria bỏ chạy trốn",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Hình phạt kinh hoàng Chúa áp dụng cho Antiochus IV Epiphanes trên đường đi diệt Do Thái là?",
+          "options": [
+            "Bị ngã ngã xe gãy xương, cơ thể thối rữa bốc mùi giòi bọ ăn sống",
+            "Bị chém đứt đầu ngay trên xe ngựa hoàng gia",
+            "Bị phong cùi trắng trán cách ly biệt lập phòng",
+            "Bị voi chiến giẫm nát thi thể giữa sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời thề ngạo mạn Antiochus IV tuyên bố khi nổi giận ra lệnh phóng xe nhanh câu 4?",
+          "options": [
+            "Thề thề sẽ biến Giê-ru-sa-lem thành nghĩa địa Do Thái khi ta đến!",
+            "Thề sẽ dâng một vạn si-clơ vàng xây đền thờ",
+            "Thề sẽ bắt mọi người Do Thái quỳ lạy Haman",
+            "Không thề gì chỉ lặng lẽ đi chinh phạt tiếp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thư hối cải Antiochus viết gửi Do Thái hứa hẹn gì trước khi chết câu 13-17?",
+          "options": [
+            "Hứa bọc bọc vàng đền thờ, ban quyền tự trị Do Thái, hứa làm người Do Thái",
+            "Hứa sẽ đúc hai con bò vàng thờ cúng tạ tội Do",
+            "Hứa sẽ nộp mười ta-lăng vàng cho đền thánh",
+            "Không viết thư chết cô độc cấm thèm hối hận"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi Antiochus IV qua đời cô độc trên núi đồi ngoại bang chép câu 28 là?",
+          "options": [
+            "Qua đời cô độc núi núi non ngoại bang chịu cái chết thảm hại thảm thương",
+            "Chết trong cung điện vương triều Ba-tư cổ",
+            "Chết trong hang đá mộ phần chồng nàng Judith",
+            "Dưới chân núi Sinai hoang vu hẻo lánh xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vị tổng quản Antiochus IV chỉ định làm giám hộ cho con trai Antiochus V trước khi chết câu 29?",
+          "options": [
+            "Phi-líp (Philip quan tổng quản)",
+            "Lysias dòng dõi hoàng gia cai quản vương triều",
+            "Alcimus thượng tế phản đạo hại dân Do Thái",
+            "Bagoas quan thái giám tiệc rượu riêng tư vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trạng thái thể xác Antiochus IV khi bị giòi bọ ăn sống bốc mùi hôi thối câu 9?",
+          "options": [
+            "Mùi hôi hôi thối bốc lên từ cơ thể ông khiến đại quân cấm chịu nổi mùi",
+            "Cơ thể bọc vàng ròng rực rỡ lấp lánh rực",
+            "Bị phong cùi trắng trán cách ly biệt lập phòng",
+            "Không có mùi hôi vẫn bình thường nằm ngủ yên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động hối hận Antiochus thừa nhận quyền năng tối cao Thiên Chúa câu 12?",
+          "options": [
+            "Thừa nhận: Thật là chính chính đáng phục quyền Thiên Chúa, phàm nhân cấm ngang hàng Chúa",
+            "Thừa nhận kỵ binh Do Thái mạnh nhất thế giới",
+            "Bắt phạt 12 chi tộc đóng thuế thập phân vàng",
+            "Không thừa nhận gì chỉ khóc lóc oán trách số"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thành phố ngoại bang nơi Antiochus thất bại nhục nhã cướp đền câu 1-2?",
+          "options": [
+            "Thành phố Ê-ly-mai (Elymais thuộc xứ Ba-tư)",
+            "Thành Babylon cổ đại bên sông Euphrates thù",
+            "Thành Giê-ru-sa-lem thủ đô nước thánh Do",
+            "Thành cảng biển Ty-rơ ngoại bang biên giới đông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người hầu cận trung thành đưa thi hài Antiochus về nước chép câu 29 là?",
+          "options": [
+            "Phi-líp (Philip quan tổng quản đưa xác về)",
+            "Lysias quan toàn quyền vương triều Syria oai",
+            "Bagoas thái giám hầu hạ tiệc rượu riêng tư",
+            "Không ai đưa xác bỏ lại núi rừng cho thú ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa cái chết thảm khốc của Antiochus IV Epiphanes chương 9 chép?",
+          "options": [
+            "Sự trừng phạt phạt công lý của Chúa đối với kẻ kiêu ngạo phạm thánh; vinh quang Chúa ngự trị",
+            "Do Thái có thợ rèn gươm giáo giỏi nhất nước",
+            "Sự nhút nhát hèn hạ của lính hầu cận bỏ chạy",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Thời gian đền thờ bị bỏ hoang ô uế trước khi được Judas thanh tẩy khánh thành câu 3?",
+          "options": [
+            "Đúng hai (2) năm năm chẵn (thanh tẩy dâng lễ dâng hương lại)",
+            "Bảy năm chẵn",
+            "Mười năm",
+            "Ba năm chẵn hoang vu sa mạc hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ xuất hiện che chở Judas tiêu diệt quân thù tại pháo lũy Gazara câu 29-30?",
+          "options": [
+            "Năm thiên thiên sứ kỵ sĩ mặc giáp vàng từ trời hiện ra che chở Judas ném tên",
+            "Dội lửa thiêu cháy sạch toàn bộ quân Syria",
+            "Sấm sét nổ vang phá sập bức tường thành giặc",
+            "Không có phép lạ tự nghĩa quân chiến thắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua mới lên ngôi kế vị Antiochus IV được nhắc đầu chương 10 là ai?",
+          "options": [
+            "Vua An-ti-ô-khô V Ưu-pa-to (Antiochus V Eupator)",
+            "Vua Demetrius hoàng gia Syria chiếm ngôi",
+            "Vua Artaxerxes vương triều Ba-tư xưa kia",
+            "Vua Herod vương quốc miền bắc Judea xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tổng trấn mới của Coele-Syria bị ép uống độc dược tự sát vì bênh vực Do Thái câu 12-13?",
+          "options": [
+            "Ptô-lê-mê thuộc dòng Ma-crôn (Ptolemy Macron tự sát)",
+            "Lysias dòng dõi hoàng gia Syria cai quản",
+            "Bagoas quan thái giám tiệc rượu riêng tư vua",
+            "Timotheus tướng chỉ huy quân ngoại bang vây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng quân ngoại bang vây hãm pháo lũy Gazara bị Judas đánh bại giết chết câu 32-37?",
+          "options": [
+            "Ti-mô-thê (Timotheus bị trốn giếng cạn bị giết)",
+            "Tướng Bacchides chỉ huy quân đội Syria bình",
+            "Tướng Gorgias chỉ huy quân đánh úp ban đêm",
+            "Nicanor tướng quân ngạo mạn bị chém đầu xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động khánh thành lễ Hanukkah Do Thái làm chép câu 6-7?",
+          "options": [
+            "Mang cành lá cành lá, gậy hoa quả, dâng hát ca ngợi Đấng thanh tẩy đền thờ",
+            "Đắp tượng con bò vàng đặt đền thờ tạ tội Do",
+            "Bắt phạt 12 chi tộc đóng thuế thập phân vàng",
+            "Không ăn mừng đóng chặt cửa thành đi ngủ ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Pháo lũy kiên cố Judas chiếm đóng thanh tẩy ngẫu tượng ngoại giáo cuối chương?",
+          "options": [
+            "Pháo lũy Ga-dơ-ra (Gazara)",
+            "Emmaus trận thắng vang dội Do Thái xưa",
+            "Mizpah nơi Do Thái ăn chay cầu nguyện",
+            "Bethulia thành phố chặn đèo Do Thái Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khẩu hiệu cầu khẩn Judas dâng lên Chúa trước khi giáp chiến Timotheus câu 26?",
+          "options": [
+            "Phủ đất lên đầu đầu, mặc áo sô xin Chúa làm thù kẻ thù nghịch Do Thái",
+            "Xin ban kỵ binh xe chiến Ba-tư cứu chúng tôi",
+            "Xin dội sấm sét thiêu cháy sạch trại quân thù",
+            "Không cầu xin gì tự tin sức mạnh hai cánh tay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng lính Timotheus bị tiêu diệt tại trận Gazara câu 31 chép?",
+          "options": [
+            "Hai mươi ngàn ngàn năm trăm bộ binh và sáu trăm kỵ binh bị giết",
+            "Mười ngàn chiến sĩ tuyển chọn Bên-gia-min",
+            "Năm vạn người",
+            "Một triệu bộ binh Ê-thi-ô-pi-a đánh bại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc dâng hiến đền thờ Hanukkah và phép lạ năm thiên sứ chương 10?",
+          "options": [
+            "Sự khích khích lệ lệ thiêng liêng; Chúa bảo vệ đền thánh và nghĩa quân trung thành dâng hiến thờ phượng",
+            "Do Thái có số lượng thiên sứ bảo vệ nhiều nhất",
+            "Sự nhút nhát hèn hại của Timotheus trốn giếng",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Tổng tư lệnh Syria dẫn 80.000 quân vây hãm Giê-ru-sa-lem bị kỵ sĩ trắng đánh bại là?",
+          "options": [
+            "Ly-si-a (Lysias quan toàn quyền Syria)",
+            "Tướng Gorgias chỉ huy quân đánh úp ban đêm",
+            "Nicanor tướng quân ngạo mạn bị chém đầu xưa",
+            "Bacchides tướng quân Syria bình định Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ xuất hiện dẫn đầu nghĩa quân Do Thái đánh tan quân Lysias câu 8 là?",
+          "options": [
+            "Một kỵ sĩ mặc mặc áo giáp trắng giáp trắng tay cầm gươm vàng dẫn đầu nghĩa quân",
+            "Dội lửa sấm sét thiêu cháy sạch toàn bộ trại",
+            "Sập sụp toàn bộ tường thành pháo lũy giặc",
+            "Không có kỵ sĩ tự nghĩa quân xông lên chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng quân lực Lysias bị nghĩa quân Do Thái chém chết trận Beth-zur câu 11?",
+          "options": [
+            "Mười một ngàn bộ binh, một ngàn sáu trăm kỵ binh kỵ binh",
+            "Mười ngàn chiến sĩ tuyển chọn Bên-gia-min",
+            "Năm vạn người bộ binh quân thù Syria",
+            "Không có ai bị giết chỉ có tiệc rượu giảng hòa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Lysias quyết định giảng hòa xin ký hòa ước với Do Thái câu 13?",
+          "options": [
+            "Nhận ra người người Do Thái vô địch vô địch vì có Thiên Chúa toàn năng bảo vệ",
+            "Sợ hãi kỵ binh chiến xa sắt Do Thái đánh úp",
+            "Chúa Do Thái dội sấm sét thiêu cháy sạch trại",
+            "Nhận được mười vạn ta-lăng bạc cống nộp vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nội dung bức thư vua Syria gửi dân Do Thái cam kết gì câu 23-25?",
+          "options": [
+            "Cho phép Do Do Thái tự do giữ luật pháp luật pháp tổ tiên họ vinh hiển",
+            "Bắt phạt Do Thái nộp vàng thập phân nặng nề",
+            "Trục xuất toàn bộ Do Thái ra hoang dã cùi",
+            "Không viết thư cự tuyệt cấm thèm nhìn mặt sứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bức thư của đại sứ Rome gửi Do Thái xác nhận liên minh hữu nghị câu 34-38?",
+          "options": [
+            "Đại sứ Quynh-tô (Quintus Memmius) và Titô (Titus Manlius) ký xác nhận hòa ước",
+            "Yêu cầu bắt phạt Do Thái nộp vàng thập phân",
+            "Không viết thư cự tuyệt cấm thèm nhìn mặt sứ",
+            "Cho phép quân Syria tự do tàn phá bờ cõi Do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh pháo lũy Do Thái đập tan đại quân Lysias câu 5?",
+          "options": [
+            "Bết-xua (Beth-zur pháo lũy biên giới phía nam)",
+            "Emmaus trận thắng vang dội Do Do Thái xưa",
+            "Mizpah nơi Do Do Thái ăn chay cầu nguyện",
+            "Joppa thành cảng biển ngoại bang Do Thái biên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đánh giá của Lysias về sức lực chiến sĩ Do Thái câu 4 chép?",
+          "options": [
+            "Hoàn toàn coi coi khinh sức lực Do Thái cấm cậy dựa vào đức tin Chúa",
+            "Nể sợ tôn kính sức mạnh nghĩa quân vô địch",
+            "Chúc họ bị phong cùi trắng trán sa mạc",
+            "Không đánh giá gì chỉ lo kéo quân xông trận chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thượng tế phản đạo đại diện Do Thái đi sứ xin hòa ước chép câu 29 là?",
+          "options": [
+            "Mê-nê-la-ô (Menelaus thượng tế phản đạo hại dân Do)",
+            "Onias III thượng tế thánh thiện đã bị giết hại",
+            "Thầy tế lễ thượng tế Joakim lo đền thờ thánh",
+            "Không có ai đi sứ tự vua Syria gửi thư sang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc kỵ sĩ giáp trắng xuất hiện đánh bại quân Lysias chương 11?",
+          "options": [
+            "Sự can thiệp thiệp thiên thượng cứu giúp dân Chúa; đức tin kiên cường bảo vệ đền thánh và luật pháp",
+            "Do Do Thái có số lượng kỵ binh dũng cảm nhất",
+            "Sự nhút nhát hèn hại của Lysias trước kỵ sĩ",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Hành vi phản bội độc ác của dân ngoại bang thành Joppa giết hại Do Thái là?",
+          "options": [
+            "Lừa ném hai hai trăm (200) người Do Thái xuống biển chết đuối thảm thương",
+            "Chém đầu toàn bộ tư tế Lê-vi đền thờ Do",
+            "Bắt đóng thuế thập phân vàng nặng nề cung",
+            "Không phản phản bội tiếp đón niềm nở hòa bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi trừng phạt sấm sét Judas áp dụng cho thành Joppa trả thù là?",
+          "options": [
+            "Đốt cháy cảng cảng biển ban đêm thiêu rụi tàu thuyền chiến lợi phẩm giặc",
+            "Nộp một vạn si-clơ vàng xin lỗi vua Syria",
+            "Đập phá đền đồi cao bò vàng Bê-then Đan tạ",
+            "Bỏ trốn sang sa mạc hoang dã trốn tránh giặc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bài học thần học dâng tế lễ cầu nguyện cho các tử sĩ qua đời chép câu 39-45?",
+          "options": [
+            "Quyên tiền gửi gửi Giê-ru-sa-lem dâng lễ chuộc tội mong họ sống lại ngày sau",
+            "Cướp của cải người chết chia cho người sống",
+            "Bỏ xác họ ngoài hoang mạc cấm cho chôn cất",
+            "Không cầu nguyện tin chắc họ đã bị phạt hỏa ngục"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món đồ tà thần Do Thái tử sĩ giấu dưới áo phạm tội bị phạt chết trận câu 40?",
+          "options": [
+            "Bùa hộ mệnh mệnh tà thần ngoại giáo Jamnia cấm sạch theo luật Do Thái",
+            "Khiên vàng Sa-lô-môn đúc xưa bị cướp đoạt",
+            "Mười ta-lăng bạc ký gửi nhà Gabael xứ Media",
+            "Không giấu gì chỉ mang hành lý quần áo thường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố kiên cố vững chắc Judas thiêu rụi đền thờ thần Atargatis câu 26?",
+          "options": [
+            "Thành Các-na-in (Carnaim đập phá đền thờ ngoại thần)",
+            "Thành Giê-ru-sa-lem thủ đô mới hoàng gia Do",
+            "Thành Hép-rôn vương đô cũ vương triều Do Thái",
+            "Thành cảng Tyre ngoại bang biên giới đông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ của Judas đối với người chết dũng cảm tuyên xưng phục sinh câu 43?",
+          "options": [
+            "Hành động rất rất tốt đẹp đẹp cao quý vì nghĩ đến sự sống lại ngày sau",
+            "Hành động ngu xuẩn cấm mang lại lợi ích gì cả",
+            "Bị phong cùi trắng trán cướp chiến công oai",
+            "Không làm gì chỉ lo chôn cất thi hài tử sĩ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng quân ngoại bang bị Judas đánh bại trận chiến lớn Galaát câu 19?",
+          "options": [
+            "Ti-mô-thê (Timotheus bị đánh tan đại quân)",
+            "Tướng Bacchides chỉ huy quân đội Syria bình",
+            "Tướng Gorgias chỉ huy quân đánh úp ban đêm",
+            "Nicanor tướng quân ngạo mạn bị chém đầu xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố cảng Jamnia bị Judas phóng hỏa đốt cháy rực rỡ ban đêm câu 9?",
+          "options": [
+            "Ánh lửa chiếu chiếu tận tận kinh thành Giê-ru-sa-lem xa xôi cách 240 dặm",
+            "Lửa thiêu cháy sạch toàn bộ tường thành pháo",
+            "Không bị cháy chỉ bị phong tỏa biên giới cấm",
+            "Tất cả của cải bị cướp sạch cấm còn gì nguyên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số tiền bạc Judas quyên góp gửi về Giê-ru-sa-lem dâng lễ đền thờ câu 43 chép?",
+          "options": [
+            "Hai ngàn ngàn (2.000) đồng bạc đồng bạc Do Thái quyên góp dâng lễ chuộc tội",
+            "Mười ngàn si-clơ vàng ròng nặng trĩu tay",
+            "Một vạn si-clơ đồng thau cũ rách nát thau",
+            "Không quyên góp đồng nào tự dâng tế lễ chay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học việc cầu nguyện dâng hiến cho người qua đời chương 12?",
+          "options": [
+            "Sự xác nhận nhận đức tin phục sinh resurrection; cầu nguyện liên đới tình thương cho người đã khuất",
+            "Do Thái có số lượng vàng bạc quyên góp nhiều",
+            "Sự nhút nhát hèn hạ của tử sĩ giấu bùa hộ mệnh",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Hình phạt thảm khốc tháp tro vua Syria áp dụng tiêu diệt tể tướng Menelaus tàn ác là?",
+          "options": [
+            "Ném Menelaus vào tháp tháp chứa đầy tro nóng cao 50 khuỷu tại Berea chết ngạt",
+            "Chém đầu ngay lập tức cổng thành đền thánh Do",
+            "Trục xuất Menelaus sang sa mạc hoang dã cùi",
+            "Tống giam Menelaus ngục tối cùm chân cùm tay vĩnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khẩu hiệu hiệu chiến đấu Judas hô hào nghĩa quân đột kích ban đêm trại Lysias là gì?",
+          "options": [
+            "Sự Trợ Giúp Của Thiên Chúa! Chúa Chiến Thắng! (Victory of God)",
+            "Hãy đầu hàng nộp khiên vàng Sa-lô-môn",
+            "Tôi có kỵ binh xe chiến sắt oai hùng bảo vệ",
+            "Chúc đức vua bị phong cùi trắng trán sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng voi chiến khổng lồ quân Syria mang theo vây hãm Giu-đê câu 2 chép là?",
+          "options": [
+            "Hai mươi hai (22) con voi chiến voi chiến trang bị tháp gỗ chiến đấu",
+            "Mười con lạc đà thồ mười ta-lăng bạc nặng",
+            "Bầy la hoàng gia oai vệ vương triều Syria",
+            "Không mang voi chiến chỉ mang kỵ binh oai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trận đột kích ban đêm dũng mãnh Judas chém chết bao nhiêu lính giặc câu 15?",
+          "options": [
+            "Chém chết khoảng bốn ngàn bốn ngàn (4.000) lính trong trại và con voi đầu đàn",
+            "Mười ngàn chiến sĩ tuyển chọn Bên-gia-min",
+            "Năm vạn người bộ binh quân thù Syria",
+            "Không đột kích chỉ bắn máy bắn đá thiêu cháy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh pháo lũy Do Thái phòng thủ kiên cường chống Antiochus V câu 19?",
+          "options": [
+            "Bết-xua (Beth-zur pháo lũy biên giới phía nam Do)",
+            "Emmaus trận thắng vang dội Do Do Thái xưa",
+            "Mizpah nơi Do Do Thái ăn chay cầu nguyện",
+            "Joppa thành cảng biển ngoại bang Do Thái biên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do vua Antiochus V quyết định hòa ước giảng hòa Do Thái rút quân câu 23-24?",
+          "options": [
+            "Nghe tin Philip Philip nổi loạn tại Antioch tranh đoạt vương triều Syria",
+            "Sợ hãi kỵ binh chiến xa sắt Do Thái đánh",
+            "Chúa Do Thái dội sấm sét thiêu cháy sạch trại",
+            "Nhận được mười vạn ta-lăng bạc Do Thái cống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên địa danh tháp tro Berea nơi Menelaus bị ném xác đền tội câu 4?",
+          "options": [
+            "Thành Bê-rê-a (Berea tháp tro cao 50 khuỷu)",
+            "Thành Giê-ru-sa-lem thủ đô mới hoàng gia Do",
+            "Thành Hép-rôn vương đô cũ vương triều Do Thái",
+            "Thành cảng Tyre ngoại bang biên giới đông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khẩn cầu Do Thái cùng khóc lóc nằm sấp đất kêu xin Chúa cứu câu 12?",
+          "options": [
+            "Khóc lóc khóc lóc ăn chay nằm sấp đất suốt ba ngày cầu khấn lòng thương xót Chúa",
+            "Đắp tượng con bò vàng đặt đền thờ tạ tội Do",
+            "Bắt phạt 12 chi tộc đóng thuế thập phân vàng",
+            "Không khóc lóc đi về nhà lều mình ngủ say sưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ vua Syria đối với tôn kính thượng tế đền thánh sau hòa ước câu 24?",
+          "options": [
+            "Kính trọng kính trọng Onias III, dâng lễ vật dồi dào, tôn vinh nơi thánh",
+            "Chém đầu thượng tế dâng chiến công cho ngoại thần",
+            "Cướp sạch vàng bạc bọc ngai đền thờ Chúa",
+            "Không tôn kính cự tuyệt cấm thèm thờ phượng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa cái chết của Menelaus đền tội và chiến thắng đêm Judas chương 13?",
+          "options": [
+            "Sự trừng phạt phạt công lý đối với kẻ phản bội tàn hại dân Chúa; chiến đấu bằng đức tin quả cảm",
+            "Do Thái có số lượng voi chiến nhiều nhất đèo",
+            "Sự nhút nhát hèn hại của Lysias trước Philip",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Kỳ mục Do Thái trung thành chịu chết anh dũng tự sát bảo vệ danh dự là cụ?",
+          "options": [
+            "Cụ Ra-dít (Razis kỳ mục được yêu mến gọi là cha Do Thái)",
+            "Tư tế Mattathias khởi nghĩa Modin vĩ đại",
+            "Thầy tế lễ thượng tế Joakim lo việc đền thánh",
+            "Thượng tế Onias III bị sát hại dã man xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động tự sát anh dũng rùng rợn cụ Razis làm để cấm rơi tay quân Syria là?",
+          "options": [
+            "Đâm gao, nhảy từ tường tường thành, moi ruột ném vào quân thù tuyên xưng Chúa",
+            "Uống độc dược tự sát ngay tại lều cung điện",
+            "Ném mình xuống chảo dầu nóng sôi tạ lỗi Do",
+            "Không tự sát đầu hàng nộp khiên vàng xin tha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng quân Syria Nicanor ban đầu giảng hòa thân thiết khuyên Judas làm gì câu 23-25?",
+          "options": [
+            "Khuyên Judas lấy lấy vợ sinh con sinh cái sống an nhàn hòa bình",
+            "Khuyên Judas nộp một vạn si-clơ vàng xin hàng",
+            "Chúc Judas bị phong cùi trắng trán sa mạc",
+            "Không khuyên gì lập mưu bắt giam Judas ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ dối trá Alcimus kiện cáo Judas trước vua Demetrius I châm ngòi bách hại câu 3-10?",
+          "options": [
+            "Alcimus (thượng tế phản đạo kiện Do Do Thái cấm chịu hòa bình vì Judas)",
+            "Haman tể tướng độc ác muốn diệt Do Thái Ba-tư",
+            "San-ba-lát quan trấn thủ ngoại giáo thù Do Thái",
+            "Bagoas quan thái giám quản lý phòng rượu vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nicanor đe dọa phá hủy đền thờ Chúa thế nào khi tư tế từ chối nộp Judas câu 33?",
+          "options": [
+            "Ta sẽ triệt hạ triệt hạ đền thờ, xây đền thờ thần Dionysus rực rỡ tại đây",
+            "Ta sẽ đắp tượng con bò vàng đặt đền thờ tạ tội",
+            "Ta sẽ tịch thu toàn bộ khiên vàng Sa-lô-môn",
+            "Chúc các ngươi bị phong cùi trắng trán sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Độ tuổi và danh tiếng cụ Razis được dân chúng xưng tụng câu 37-38?",
+          "options": [
+            "Được gọi gọi là cha Do Do Thái vì lòng trung kiên hiền hậu đức tin",
+            "Kẻ nhút nhát hèn yếu cấm biết dùng gươm giáo",
+            "Người chiến sĩ dũng mãnh bắn cung oai hùng Do",
+            "Kẻ đã đập phá đền đồi cao bò vàng Bê-then Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu nguyện của các tư tế đền thánh kêu xin Chúa giữ đền câu 35-36?",
+          "options": [
+            "Lạy Chúa, xin gìn gìn giữ đền thờ nầy được thanh khiết mãi mãi Danh Ngài ngự",
+            "Xin ban kỵ binh xe chiến Ba-tư cứu đền thờ",
+            "Xin dội sấm sét thiêu cháy sạch Nicanor kiêu",
+            "Không cầu xin gì tự tin sức mạnh nghĩa quân bảo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Syria Demetrius I nổi giận nghe lời Alcimus ra sắc lệnh gì câu 26-27?",
+          "options": [
+            "Ra lệnh Nicanor Nicanor bắt giam Judas áp giải về Antioch trị tội ngay lập tức",
+            "Miễn thuế vĩnh viễn cho tất cả các tỉnh Do",
+            "Bọc vàng ròng tường vách đền thờ bọc vàng",
+            "Không ban sắc lệnh chỉ gửi thư thăm hỏi sứ giả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng lính Nicanor cử đi bắt cụ Razis chép câu 39?",
+          "options": [
+            "Hơn năm trăm trăm (500) chiến sĩ đi bắt cụ để làm nhục Do Thái",
+            "Mười ngàn chiến sĩ tuyển chọn Bên-gia-min",
+            "Năm vạn người bộ binh",
+            "Một triệu bộ binh Ê-thi-ô-pi-a đánh bại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa cái chết của cụ Razis bảo vệ danh dự chương 14 dạy gì?",
+          "options": [
+            "Sự trung nghĩa nghĩa kiên cường cấm chịu khuất phục nhục nhã trước kẻ thù; tấm gương bảo vệ luật Chúa",
+            "Do Thái có số lượng người tự sát dũng cảm nhất",
+            "Sự nhục nhã hèn hạ của Nicanor dùng quân đông bắt cụ",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "Điềm chiêm bao thiêng liêng Judas kể khích lệ quân lính bách chiến bách thắng là?",
+          "options": [
+            "Tiên tri Jeremiah dâng tặng dâng tặng Judas thanh gươm vàng từ Chúa ban thắng giặc",
+            "Thượng tế Onias III cưỡi ngựa chiến oai hùng",
+            "Năm thiên sứ kỵ sĩ mặc giáp vàng bắn tên trời",
+            "Không có chiêm bao tự nghĩa quân hăng hái chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thượng tế thánh thiện quá cố Onias III hiện ra trong mơ làm gì câu 12-14?",
+          "options": [
+            "Giơ tay cầu nguyện cầu nguyện chúc phúc cho toàn thể cộng đồng Israel Do Thái",
+            "Chỉ đường đi tìm mười ta-lăng bạc ký gửi Gab",
+            "Mặc hoàng bào đeo triều thiên vàng cho Judas",
+            "Không làm gì chỉ khuyên Judas đầu hàng vua Syria"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng nghĩa quân Judas Maccabeus đánh tan đại quân Nicanor câu 25-28?",
+          "options": [
+            "Đánh bại quân Nicanor Nicanor, chém chết ba mươi lăm ngàn quân thù vang dội",
+            "Mười ngàn chiến sĩ tuyển chọn Bên-gia-min",
+            "Năm vạn người bộ binh quân thù Syria",
+            "Không có ai bị giết chỉ có tiệc rượu giảng hòa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi trừng trị Judas áp dụng cho xác chết Nicanor ngạo mạn câu 30-33 là?",
+          "options": [
+            "Chém đầu đầu, cắt tay và lưỡi Nicanor bêu trước đền thờ thánh răn đe",
+            "Chôn cất lăng mộ lộng lẫy hoàng gia Ba-tư",
+            "Ném xuống sông Gio-đan trôi mất tích giấu biệt",
+            "Không làm gì để mặc xác thối rữa ngoài hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ kỷ niệm chiến thắng Nicanor thiết lập hằng năm Do Thái câu 36 là?",
+          "options": [
+            "Ngày mười ba mười ba tháng Adar (ngày lễ Nicanor trước lễ Purim)",
+            "Đại lễ Vượt Qua long trọng dâng chiên con Sab",
+            "Lễ Lều Tạm mừng mùa gặt lúa mạch rực rỡ",
+            "Lễ khánh thành đền thờ bò vàng Bê-then Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời tiên tri Jeremiah nói khi dâng thanh gươm vàng cho Judas câu 16?",
+          "options": [
+            "Hãy nhận thanh gươm gươm thánh nầy, món quà Chúa ban, con sẽ đánh bại giặc",
+            "Hãy dùng gươm chém đầu Onias tạ tội Do Thái",
+            "Chúc các con giàu sang bọc vàng ròng cung điện",
+            "Không nói gì chỉ lặng lẽ trao gươm rồi biến mất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả trạng thái của Nicanor khi ngã gục tử trận câu 28 chép?",
+          "options": [
+            "Nicanor ngã gục ngã gục nằm chết với đầy đủ quân trang oai vệ nhục nhã",
+            "Trốn thoát chạy vội về Antioch khóc lóc tủi",
+            "Bị phong cùi trắng trán cách ly biệt lập phòng",
+            "Không ngã gục tiếp tục chỉ huy lính Syria tháo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ca hát tạ ơn của toàn dân Do Thái kêu lên trời câu 34 chép?",
+          "options": [
+            "Chúc tụng Đấng Đấng gìn giữ nơi thánh Ngài cấm bị ô uế!",
+            "Chúc các con có kỵ binh xe chiến oai hùng Ba",
+            "Chúc các con giàu sang bọc vàng ròng cung điện",
+            "Không hát gì đi thẳng vào đền thờ dâng tế đàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tác giả kết thúc cuốn sách 2 Maccabees bằng lời chia sẻ gì câu 38-39?",
+          "options": [
+            "Sử ký viết sơ sơ sài hay tinh vi thì tôi cũng đã nỗ lực hết mình; như rượu pha nước ngon ngọt",
+            "Sách của tôi hoàn hảo 100% cấm sai sót nhỏ",
+            "Tôi sẽ bị phong cùi trắng nếu viết sai sự thật",
+            "Không chia sẻ gì kết thúc đột ngột cấm lời lời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa toàn bộ sách 2 Ma-ca-bê và chương 15 đúc kết bài học gì?",
+          "options": [
+            "Quyền năng Thiên Thiên Chúa bảo vệ dân Ngài qua đức tin dũng cảm nghĩa hiệp; sự phục sinh và chiến thắng",
+            "Do Thái có số lượng thợ rèn gươm vàng giỏi nhất",
+            "Sự nhút nhát hèn hại của lính Syria khi tướng chết",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

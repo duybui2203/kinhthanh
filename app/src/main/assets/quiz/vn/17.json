@@ -1,0 +1,1476 @@
+{
+  "bookId": 17,
+  "bookName": "Tô-bi-a",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Tô-bi-a (Tobit) thuộc chi tộc nào bị lưu đày sang kinh đô Ni-ni-vê nước A-sy-ri?",
+          "options": [
+            "Chi tộc Náp-ta-li (Naphtali)",
+            "Chi tộc Giu-đa hoàng gia Do Thái",
+            "Chi tộc Bên-gia-min dũng mãnh bắn cung",
+            "Chi tộc Lê-vi phục dịch tế đàn đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động nghĩa hiệp nhân đạo Tobit làm trộm ban đêm khiến vua Assyria nổi giận tịch thu tài sản là?",
+          "options": [
+            "Chôn cất xác chết xác chết người Do Thái bị giết bỏ rơi ngoài đường",
+            "Đập phá tượng vàng tà thần ngoại bang Ba-al",
+            "Cướp kho bạc hoàng cung chia cho người nghèo Do",
+            "Thống kê dân số chuẩn bị kỵ binh nổi loạn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Assyria độc ác tàn sát người Do Thái bị con ruột giết chết trong đền thờ mình là ai?",
+          "options": [
+            "Vua San-khê-ríp (Sennacherib)",
+            "Vua Xen-na-khê-ríp vây thành Hezekiah xưa",
+            "Vua Nê-bu-cát-nê-xơ vương triều Ba-by-lon",
+            "Vua Artaxerxes vương triều Ba-tư oai hùng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người cháu họ hàng làm quan triều đình đứng ra bảo lãnh cứu mạng Tobit trở về nhà là ai?",
+          "options": [
+            "A-ki-kha (Ahikar quan quản thủ ấn tín hoàng gia)",
+            "Tô-bi-a con trai Tobit kế vị sau nầy",
+            "Rát-gu-ên người họ hàng ở Ecbatana xứ Mê",
+            "Ga-ba-ên người ký gửi mười ta-lăng bạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi Tobit và gia đình sinh sống lúc bị lưu đày ở Assyria câu 3 là?",
+          "options": [
+            "Thành Ni-ni-vê (Nineveh thủ đô Assyria)",
+            "Thành Sa-ma-ri thủ đô nước bắc đổ nát",
+            "Thành Ecbatana xứ Mê-đi biên giới ngoại",
+            "Thành Rha-ghê nơi ký gửi mười ta-lăng bạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vợ của Tobit phụ giúp dệt vải kiếm sống khi ông bị mù lòa câu 9 chép?",
+          "options": [
+            "Bà An-na (Anna)",
+            "Bà Sa-ra con gái Rát-gu-ên ở xứ Mê-idi",
+            "Thái hậu A-tha-li-a độc ác bị chém đầu",
+            "Bà góa phụ nghèo thành Xa-rép-ta xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tobit thể hiện sự trung thành đức tin khi lên Giê-ru-sa-lem tế lễ thời trẻ bằng cách nào?",
+          "options": [
+            "Dâng thuế thập phân thập phân đúng luật Mô-sê cấm theo tội thờ bò vàng nước bắc",
+            "Đúc một khiên đồng thay thế khiên vàng bị cướp",
+            "Lao dịch đốn củi đền thờ thành Ty-rơ ngoại",
+            "Không lên Giê-ru-sa-lem thờ phượng tại đồi cao"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Assyria đầu tiên bắt Tobit đi lưu đày sang Nineveh chép câu 2 là?",
+          "options": [
+            "Vua San-man-a-sar (Shalmaneser)",
+            "Vua Sennacherib tàn sát chém giết dân Do Thái",
+            "Vua Esarhaddon bổ nhiệm Ahikar làm quan",
+            "Vua Cyrus phóng thích dân Do Thái quay về"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi đạo đức của Tobit đối với thức ăn khi bị lưu đày ngoại bang câu 10-11?",
+          "options": [
+            "Giữ mình sạch sẽ sạch sẽ cấm ăn đồ ăn của dân ngoại bang",
+            "Chấp nhận ăn mọi thứ thịt dâng cúng tà thần",
+            "Chỉ uống rượu nho cấm ăn lúa mì Ai Cập",
+            "Không ăn súc vật tự trồng rau quả ăn sống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự thử thách lưu đày và nghĩa hiệp của Tobit chương 1 chứng minh?",
+          "options": [
+            "Lòng trung nghĩa nghĩa nhân đạo vượt qua hoàn cảnh bắt bớ; Chúa nhớ đến công đức kẻ công chính",
+            "Do Thái có số lượng người nghèo nhiều nhất",
+            "Sự nhút nhát hèn yếu của Tobit trốn chạy vua",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Đại lễ tôn giáo gia đình Tobit mừng ăn tiệc lớn đầu chương 2 chép là?",
+          "options": [
+            "Lễ Ngũ Tuần (Lễ Tuần / Feast of Weeks dâng bánh đầu gặt)",
+            "Đại lễ Vượt Qua dâng tế chiên con rách nát",
+            "Lễ Lều Tạm mừng mùa gặt lúa mạch ruộng cừu",
+            "Lễ khánh thành đền thờ bò vàng Bê-then Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động mù lòa đáng tiếc xảy ra với Tobit khi nằm ngủ ngoài sân là gì?",
+          "options": [
+            "Phân chim sẻ sẻ nóng rơi trúng hai mắt tạo vảy trắng mù lòa suốt 4 năm",
+            "Sét đánh trúng mắt mặt sưng vù hỏng thị lực",
+            "Bị bụi sa mạc thổi vào mắt gây loét mù",
+            "Bị thuộc hạ ám sát đâm mù mắt giường bệnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Công việc kiếm sống bà vợ Anna làm phụ giúp gia đình khi Tobit mù lòa câu 11?",
+          "options": [
+            "Lãnh dệt vải len len bán lấy tiền đổi thực phẩm súc vật",
+            "Đi xin ăn cổng thành Ni-ni-vê cực khổ",
+            "Làm lính kỵ binh chiến xe cho vua Ba-tư",
+            "Không làm việc gì chỉ khóc lóc oán trách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vụ tranh cãi đau lòng giữa Tobit và vợ về con dê nhỏ dọn dẹp Anna mang về là gì?",
+          "options": [
+            "Tobit nghi ngờ vợ ăn cắp ăn cắp con dê nhỏ bảo trả lại, khiến Anna nổi giận oán trách",
+            "Anna nghi ngờ Tobit giấu tiền vàng riêng đền",
+            "Hai vợ chồng tranh giành thịt dê dâng tà thần",
+            "Anna muốn bán dê mua thuốc chữa mắt cho chồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm Tobit chịu cảnh mù lòa tối tăm trước khi được chữa lành câu 10 chép?",
+          "options": [
+            "Bốn (4) năm năm mù lòa hoàn toàn cấm nhìn thấy ánh sáng",
+            "Mười năm chẵn cách ly biệt lập phòng",
+            "Bảy năm chẵn",
+            "Một năm chẵn ngắn ngủi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hàng xóm họ hàng chế giễu việc Tobit chôn cất người chết gặp họa mù lòa câu 8?",
+          "options": [
+            "Nó cấm sợ chết sao? Mới trốn chạy nay lại đi chôn xác người chết để gặp nạn!",
+            "Nó là kẻ giàu sang bọc vàng đền thờ xưa",
+            "Nó sẽ bị phong cùi trắng tay chân run rẩy",
+            "Không chế giễu khen ngợi nghĩa cử của ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món ăn Tobit bỏ dở lập tức khi nghe báo có người Do Thái bị bóp cổ chết câu 3-4?",
+          "options": [
+            "Bỏ bữa tiệc mừng tiệc mừng nhảy bổ ra đem thi hài vào nhà giấu kín",
+            "Bỏ bát canh rau đắng đền tạm cũ hoang dã",
+            "Không bỏ ăn ăn xong mới thong thả đi chôn",
+            "Ra lệnh cho đầy tớ đi chôn cấm tự tay làm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa điểm Tobit đặt thi hài người chết tạm thời chờ mặt trời lặn đi chôn câu 4?",
+          "options": [
+            "Đặt trong phòng trong phòng ngủ riêng biệt của mình chờ đêm tối",
+            "Ném xuống suối Xết-rôn rác rưởi ngoài thành",
+            "Để thẳng cổng thành Ni-ni-vê cho lính gác xem",
+            "Chôn cất dưới chân bàn thờ ngoại giáo tự lập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tobit làm sạch bản thân bằng cách nào sau khi chạm vào thi thể chết câu 9?",
+          "options": [
+            "Tẩy rửa tắm rửa tắm rửa sạch sẽ đúng luật Mô-sê trước khi đi ngủ",
+            "Không làm sạch nằm ngủ thẳng ngoài sân gác",
+            "Nộp một vạn si-clơ vàng cho tư tế làm lễ",
+            "Đến đền thờ bò vàng Bê-then sụp lạy khóc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự chịu đựng mù lòa và trung tín của Tobit chương 2 dạy gì?",
+          "options": [
+            "Thử thách lòng trung kiên trung kiên đức tin; sự trung thành dẫu chịu hoạn nạn chế giễu của người đời",
+            "Sự bất lực của y học cổ đại trước bệnh mù",
+            "Sức mạnh phá hoại của phân chim sẻ hoang dã",
+            "Sự kết thúc hoàn toàn giao ước đền thờ cũ hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Cô gái đau khổ bị quỷ dữ ám sát giết chết 7 người chồng đêm tân hôn là ai?",
+          "options": [
+            "Nàng Sa-ra (Sarah con gái Rát-gu-ên ở Ecbatana)",
+            "Bà thái hậu A-tha-li-a độc ác bị chém đầu",
+            "Bà hầu thiếp Rít-pa canh xác con hoàng gia",
+            "Nữ tiên tri Kha-la vợ quan giữ phẩm phục"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên con quỷ dữ độc ác ghen tuông giết hại các người chồng của Sarah là gì?",
+          "options": [
+            "Quỷ Át-mô-đê (Asmodeus quỷ dâm dục)",
+            "Quỷ tà thần Ba-al đồi cao ngoại bang thù",
+            "Thần nói dối nhập miệng tiên tri giả báo",
+            "Quỷ sứ sa mạc hoang dã cùi trắng tay chân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật tớ gái sỉ nhục Sarah nhạo báng nàng sát phu là ai câu 7 chép?",
+          "options": [
+            "Tớ gái của Rát-gu-ên Rát-gu-ên (mắng Sarah làm chết 7 chồng)",
+            "Hoàng hậu hoàng cung Ba-tư kinh thành Susa",
+            "Bà mẹ Anna khóc lóc oán trách Tobit mù",
+            "Không có tớ gái nào sỉ nhục chỉ tự nàng buồn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên sứ Chúa sai đến đáp lời cầu nguyện sám hối của Tobit và Sarah là ai?",
+          "options": [
+            "Thiên sứ Ra-pha-en (Raphael một trong bảy thiên sứ ngai Chúa)",
+            "Thiên sứ Ga-bri-en báo tin mừng sinh con",
+            "Thiên sứ Mi-ca-en tổng lãnh binh sĩ thiên",
+            "Không sai thiên sứ dội sấm sét trực tiếp cứu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sarah định treo cổ tự tử vì nhục nhưng từ bỏ ý định vì nghĩ thương ai câu 10?",
+          "options": [
+            "Thương người cha cha già Raguel sợ ông đau lòng chết vì nhục nhã độc nhất",
+            "Thương quỷ Asmodeus ghen tuông độc ác thù",
+            "Thương chàng Tobias chưa từng gặp mặt đính hôn",
+            "Sợ bị tư tế Lê-vi loại ra khỏi đền thờ thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu nguyện sám hối Tobit khóc lóc cầu xin Chúa câu 6 chép là gì?",
+          "options": [
+            "Xin cất mạng sống mạng sống tôi đi, vì tôi muốn chết hơn là sống khổ cực nhục nhã",
+            "Xin ban kỵ binh chiến xa sắt oai hùng cứu tôi",
+            "Xin dội sấm sét thiêu cháy sạch vảy trắng mắt",
+            "Xin ban cho con trai tôi lấy vợ giàu có xứ Mê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thành phố nơi Sarah cầu nguyện đau khổ ở xứ Mê-đi chép câu 7 là?",
+          "options": [
+            "Thành Ec-ba-ta-na (Ecbatana thuộc xứ Media)",
+            "Thành Rha-ghê nơi ký gửi mười ta-lăng bạc",
+            "Thành Ni-ni-vê thủ đô Assyria đi đày",
+            "Thành cảng biển Ty-rơ ngoại bang biên giới đông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sarah đứng cầu nguyện hướng về cửa sổ nơi nào chép câu 11?",
+          "options": [
+            "Giơ tay hướng về cửa sổ cửa sổ cầu nguyện chúc tụng Thiên Chúa nhân từ",
+            "Hướng về tế đàn bò vàng Bê-then Đan đúc",
+            "Hướng về phía đền thờ Giê-ru-sa-lem sụp đổ",
+            "Không hướng cửa sổ nằm sấp mặt đất cầu nguyện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng người chồng Sarah đã lấy trước khi gặp Tobias chép câu 8?",
+          "options": [
+            "Bảy (7) người chồng người chồng đều bị quỷ Asmodeus giết đêm tân hôn",
+            "Một người chồng duy nhất bị phong cùi trắng",
+            "Mười người chồng",
+            "Không có chồng nào chỉ đính hôn hờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc nhậm lời cầu nguyện đồng thời của Tobit và Sarah chương 3 chép?",
+          "options": [
+            "Chúa nghe nghe tiếng kêu cầu của người lành chịu khổ; chương trình giải cứu kỳ diệu của Chúa",
+            "Sự nhút nhát của con người trước thế lực ma quỷ",
+            "Tính chất hiểm độc của quỷ Asmodeus ghen tuông",
+            "Sự lỗi thời của lề luật Mô-sê đền tạm xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Lời trăn trối di ngôn xuất sắc Tobit dặn con trai Tobias về hiếu nghĩa cha mẹ là?",
+          "options": [
+            "Tôn kính mẹ hiếu thảo hiếu thảo, cấm làm buồn lòng mẹ suốt đời mẹ",
+            "Bỏ trốn sang Ai Cập lấy vợ ngoại bang giàu",
+            "Nộp một vạn si-clơ vàng chuộc mạng sống cha",
+            "Đắp tượng vàng bò vàng thờ tạ tội vương cung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khoản tiền vàng bạc khổng lồ Tobit ký gửi nhà Ga-ba-ên Tobias cần đi nhận lại là?",
+          "options": [
+            "Mười (10) ta-lăng bạc ta-lăng bạc ký gửi tại Rha-ghê xứ Mê-đi",
+            "Một trăm ta-lăng vàng nhỏ bé đền tạm cũ",
+            "Năm nghìn si-clơ đồng thau đánh bóng đai",
+            "Không ký gửi tiền bạc gì chỉ gửi bình dầu cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên nhân đạo quan trọng Tobit dặn con về việc bố thí giúp người nghèo câu 7-8?",
+          "options": [
+            "Bố thí theo khả khả năng có nhiều cho nhiều, có ít cho ít, đừng bao giờ quay mặt",
+            "Chỉ bố thí cho người giàu sang có quyền lực",
+            "Bắt phạt người nghèo đóng thuế thập phân vàng",
+            "Không bố thí tiết kiệm tiền của mua xe chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tobit dặn con cưới vợ theo nguyên tắc tôn giáo nào câu 12-13 chép?",
+          "options": [
+            "Hãy cưới vợ trong chi tộc chi tộc của tổ tiên, tránh xa phụ nữ ngoại bang tà thần",
+            "Cưới công chúa Ai Cập cổ đại dọc sông Nile",
+            "Lấy vợ ngoại bang giàu có để đổi đời vương",
+            "Không cần lấy vợ giữ độc thân phục dịch đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên đạo đức Tobit dạy con về sự công bằng lương bổng thợ câu 14?",
+          "options": [
+            "Đừng giữ tiền công tiền công của thợ hằng ngày qua đêm, trả sòng phẳng ngay",
+            "Bắt thợ làm việc phu dịch cấm trả một si-clơ",
+            "Chỉ trả công bằng lúa mì mục nát rẻ tiền",
+            "Không thuê thợ tự làm việc đẽo đá xây nhà"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ dẫn Tobit dạy con về thái độ đối với rượu nho uống say câu 15 là gì?",
+          "options": [
+            "Đừng uống rượu rượu đến mức say sưa, đừng để thói say sưa đi cùng đường",
+            "Hãy uống say sưa quên đi nỗi đau mù mắt cha",
+            "Chỉ uống rượu nho dâng tế tà thần ngoại bang",
+            "Không uống nước ngọt chỉ uống rượu thay nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người bạn Tobit ký gửi mười ta-lăng bạc tại Rha-ghê xứ Mê-đi chép câu 1 là?",
+          "options": [
+            "Ga-ba-ên (Gabael con trai Gáp-ri)",
+            "Rát-gu-ên cha của Sarah ở Ecbatana xứ",
+            "Ahikar người cháu họ hàng làm quan triều",
+            "Azariah thanh niên dẫn đường đi Media"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên Tobit dạy con về việc tìm kiếm ý kiến cố vấn câu 18?",
+          "options": [
+            "Hãy xin ý kiến ý kiến của mọi người khôn ngoan, đừng coi thường lời khuyên",
+            "Tự quyết định mọi sự cấm cần nghe lời ai khuyên",
+            "Chỉ nghe lời đám thanh niên trẻ tuổi kiêu ngạo",
+            "Nghe lời tiên tri giả báo sấm sừng sắt húc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi dâng bánh dâng tế người lành Tobit khuyên con câu 17 là?",
+          "options": [
+            "Dâng bánh bánh trên mộ phần người công chính, đừng chia cho kẻ có tội lỗi",
+            "Dâng một con bò vàng đúc Bê-then Đan tạ lỗi",
+            "Dâng mười con dê dê con béo mập ruộng cừu",
+            "Không dâng súc vật chỉ đi bộ im lặng cầu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa bài học luân lý di ngôn Tobit chương 4 dạy dỗ con cháu?",
+          "options": [
+            "Đạo đức gia đình gia đình kính sợ Chúa làm nền tảng sống thịnh vượng; đức tin dẫn đường hành vi nhân đạo",
+            "Cách thức tích lũy của cải vàng bạc tốt nhất Do",
+            "Sự bất lực của con người trước đói nghèo lưu",
+            "Sự lỗi thời của giao ước lề luật Mô-sê xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Thành niên giả dạng đồng ý dẫn đường an toàn cho Tobias sang xứ Mê-đi là ai?",
+          "options": [
+            "Thiên sứ Ra-pha-en (Raphael tự xưng Azariah dòng họ Kha-na-nia)",
+            "Tô-bi-a con trai Tobit kế vị sau nầy",
+            "Ahikar người cháu họ hàng quan triều đình",
+            "Ga-ba-ên người giữ mười ta-lăng bạc ký gửi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mức tiền công Tobit thỏa thuận trả cho thanh niên Azariah dẫn đường câu 14 là?",
+          "options": [
+            "Một drachma (1 drachma/ngày) và chi phí sinh hoạt ăn uống dọc đường",
+            "Mười si-clơ vàng ròng bọc đai cung điện Ba",
+            "Năm nghìn si-clơ đồng thau cũ rách nát thau",
+            "Không trả tiền công bắt đi miễn phí bảo vệ con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng khóc lóc của bà vợ Anna khi thấy Tobias chuẩn bị đi xa câu 17-18?",
+          "options": [
+            "Khóc lóc oán trách oán trách Tobit tham bạc vàng gửi mà bắt con đi xa nguy hiểm",
+            "Vui mừng tiễn con đi mong con lấy vợ giàu",
+            "Nổi giận đập phá đồ đạc len dệt len len bán",
+            "Không khóc lóc lặng lẽ chuẩn bị hành trang con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Tobit an ủi vợ đầy tin tưởng đức tin khuyên bà cấm khóc câu 21 chép?",
+          "options": [
+            "Vì thiên sứ lành thiên sứ lành sẽ đi cùng con, chuyến đi thành công con về bình an",
+            "Kỵ binh xe chiến vua Ba-tư sẽ bảo vệ con lo",
+            "Chúa sẽ tự dội sấm sét thiêu cháy sạch giặc",
+            "Con có gươm đao dũng sĩ chiến đấu giỏi cấm lo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên dòng tộc Azariah tự xưng để Tobit tin tưởng cho đi cùng con câu 13?",
+          "options": [
+            "A-da-ri-a con Kha-na-nia Kha-na-nia lớn (họ hàng Tobit xưa kia)",
+            "Dòng dõi thượng tế Aaron Aaron phục dịch tế đàn",
+            "Chi tộc Bên-gia-min hoàng gia kiêu ngạo bắn",
+            "Dòng dõi vua Đa-vít dòng vương quyền kiên cố"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích chuyến đi của Tobias chép câu 3 là gì?",
+          "options": [
+            "Lấy mười ta-lăng bạc ta-lăng bạc cha đã ký gửi Gabael Rha-ghê",
+            "Đi tìm cô gái đẹp Sarah cưới làm vợ vương",
+            "Trốn chạy khỏi triều đình Assyria tàn bạo",
+            "Đi mua thuốc chữa mắt mù cho cha Tobit già"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động Tobit kiểm tra gia thế gốc gác của thanh niên Azariah câu 11 chép?",
+          "options": [
+            "Hỏi dòng họ họ và bộ tộc của Azariah để chắc chắn cấm bị lừa dối dọc đường",
+            "Bắt Azariah thề trước đền thờ bò vàng Bê-then",
+            "Thử thách Azariah nhấc tảng đá đẽo núi nặng",
+            "Không hỏi gì tin tưởng cho đi ngay lập tức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của Tobias khi gặp Raphael tự giới thiệu lần đầu câu 4 chép?",
+          "options": [
+            "Chạy đi báo cha báo cha tìm được người thạo đường đi Media",
+            "Sợ hãi trốn chạy vì nhận ra thiên sứ Chúa",
+            "Rút gươm trần đòi đâm vì nghi ngờ cướp đường",
+            "Mời ăn tiệc dê dê con béo mập ruộng cừu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chúc lành Tobit chúc hai người khi bước chân ra đi câu 16 chép?",
+          "options": [
+            "Chúc chuyến đi bình an bình an; Thiên Chúa trên trời bảo vệ và thiên sứ hộ tống",
+            "Chúc lấy được vợ giàu có mang nhiều vàng về",
+            "Chúc săn được nhiều cá sông Tigris mang mổ",
+            "Không chúc gì im lặng cúi đầu tiễn đi ra cổng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc thiên sứ Raphael đồng hành âm thầm chương 5 chứng minh?",
+          "options": [
+            "Chúa quan phòng quan phòng chuẩn bị mọi sự giải cứu đức tin kẻ kính sợ Ngài; thiên sứ ở gần ta",
+            "Sự yếu đuối bất lực của Tobias cấm tự đi đường",
+            "Quyền lực của tiền bạc 1 drachma thuê người",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Con vật đi cùng hai thanh niên Tobias và Raphael suốt hành trình là?",
+          "options": [
+            "Con chó (con chó trung thành đi cùng)",
+            "Con lạc đà thồ mười ta-lăng bạc nặng trĩu",
+            "Con la hoàng gia oai vệ Tobias cưỡi đi",
+            "Con cừu nhỏ xén lông Mô-áp nộp cống hiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự việc xảy ra khi Tobias xuống rửa chân sông Ti-gơ (Tigris) là?",
+          "options": [
+            "Một con cá khổng lồ khổng lồ nhảy lên định nuốt bàn chân Tobias",
+            "Bị cá sấu tấn công cắn đứt ngón tay út",
+            "Nhìn thấy vàng ròng chìm dưới đáy cát sông",
+            "Bị quân cướp bao vây đòi cướp áo choàng gai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bộ phận con cá Raphael bảo Tobias giữ lại làm thuốc quý là?",
+          "options": [
+            "Mật cá, tim cá và gan cá (gall, heart, liver)",
+            "Đầu cá vây cá và đuôi cá làm canh ngọt",
+            "Xương cá vảy cá làm khiên đồng thay thế vàng",
+            "Toàn bộ thịt cá xông khói ăn dọc sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cách xua đuổi quỷ ám dâm dục Asmodeus khỏi phòng tân hôn Raphael chỉ dẫn là?",
+          "options": [
+            "Đốt tim gan cá cá trên than lò hương dâng khói tỏa xua đuổi quỷ",
+            "Dội sấm sét thiêu cháy sạch đền thờ tà thần",
+            "Đút lót tiền vàng cho quỷ xin tha mạng sống",
+            "Đập vỡ Hòm Bia Giao Ước lấy vàng bọc đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Công dụng của mật con cá lớn Raphael chỉ dẫn để chữa bệnh là gì câu 8?",
+          "options": [
+            "Bôi vào mắt bị vảy trắng vảy trắng để chữa lành mù lòa",
+            "Uống giải độc thuốc cùi trắng tay chân cùi",
+            "Bôi vào vết thương gươm chém chiến trường oai",
+            "Không làm thuốc chỉ dùng nhuộm vải lụa tím"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Raphael bảo Tobias trọ nhà ai và cưới cô gái nào làm vợ thừa kế gia tài câu 10-12?",
+          "options": [
+            "Trọ nhà Rát-gu-ên, cưới Sa-ra Sa-ra (Sarah con gái độc nhất dòng họ)",
+            "Trọ nhà Ga-ba-ên, cưới con gái ông Ga-ba-ên",
+            "Trọ hoàng cung Ba-tư cưới công chúa hoàng gia",
+            "Trọ đền thờ bò vàng Bê-then Đan cưới tư tế ngoại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nỗi sợ hãi của Tobias khi nghe Raphael khuyên cưới Sarah chép câu 14 là gì?",
+          "options": [
+            "Sợ chết sợ chết như 7 người chồng trước bị quỷ ghen Asmodeus giết đêm tân hôn",
+            "Sợ Sarah nghèo cấm có vàng bạc của cải hồi",
+            "Sợ bị phong cùi trắng cách ly phòng biệt lập",
+            "Sợ cha mẹ già đếm ngày lo lắng khóc lóc ở"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Raphael trấn an Tobias giải thích lý do quỷ Asmodeus cấm làm hại được ông?",
+          "options": [
+            "Vì Tobias kết hôn kết hôn trong sạch kính sợ Chúa, biết dùng tim gan cá theo chỉ dẫn",
+            "Vì Tobias có kỵ binh xe chiến Ba-tư hộ vệ",
+            "Vì Tobias sẽ đút lót một vạn si-clơ vàng cho quỷ",
+            "Do quỷ Asmodeus sợ gươm giáo dũng sĩ Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con sông lớn nơi Tobias bị con cá khổng lồ tấn công chép câu 2 là?",
+          "options": [
+            "Sông Ti-gơ (Tigris River)",
+            "Sông Gio-đan nơi Ê-li-a chia nước chia",
+            "Sông Euphrates Babylon hoang vu sa mạc",
+            "Khe suối Cơ-rít quạ nuôi tiên tri Ê-li-a"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học việc dùng bộ phận con cá làm phương thuốc chương 6 chứng minh?",
+          "options": [
+            "Chúa dùng thiên nhiên thiên nhiên tạo phương thuốc giải cứu; chuẩn bị đức tin và vâng lời thiên sứ",
+            "Sức mạnh ma thuật của loài cá khổng lồ sông",
+            "Sự nhút nhát của Tobias sợ hãi con cá nhỏ",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Raguel nhận ra Tobias là con ai qua nét mặt giống người anh họ câu 2-3 chép?",
+          "options": [
+            "Tobit (Tobit đức hạnh anh họ của Raguel)",
+            "Sa-lô-môn vua giàu sang bọc vàng đền thờ",
+            "A-sa vị vua đập ngẫu tượng tà thần A-sê-ra",
+            "Bên-gia-min tổ tông chi tộc dũng mãnh bắn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động nồng hậu Raguel và gia đình tiếp đón hai thanh niên chép câu 9 là gì?",
+          "options": [
+            "Mổ một con cừu cừu béo mập, làm tiệc tiếp đón tắm rửa sạch sẽ vui vẻ",
+            "Đuổi hai thanh niên ra ngoài cổng thành cự tuyệt",
+            "Nộp một vạn si-clơ vàng mời hai thanh niên ở",
+            "Bắt làm phu dịch đẽo đá xây nhà cho Raguel"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hợp đồng hôn nhân hôn ước gả Sarah cho Tobias được ký kết lập bằng cách nào câu 13?",
+          "options": [
+            "Raguel nắm tay Sarah gả gả gieo, viết giấy hôn ước (hôn thư đóng ấn)",
+            "Bắt Tobias thề trước tượng bò vàng Bê-then",
+            "Gửi thư ngỏ xin phép vua Ba-tư Artaxerxes",
+            "Không ký kết gì chỉ cho hai người ngủ chung phòng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Raguel khóc lóc ca ngợi khi nghe tin Tobit bị mù lòa câu 7 chép?",
+          "options": [
+            "Hỡi người con người con của người lành hiền đức lành, một tai họa mù lòa đau thương!",
+            "Chúc mừng con có kỵ binh xe chiến Ba-tư phò",
+            "Cha con sẽ bị phong cùi trắng tay chân run",
+            "Hãy dâng cừu non xén lông Mô-áp nộp thuế vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nàng Sarah khóc lóc mẹ nàng dọn dẹp phòng an ủi nàng thế nào câu 16-17?",
+          "options": [
+            "Khuyên con can đảm can đảm, Chúa sẽ ban niềm vui thay cho đau khổ sầu muộn",
+            "Hãy tự tử đi nếu Tobias bị quỷ giết đêm nay",
+            "Đút lót vàng bạc cho quỷ Asmodeus xin tha mạng",
+            "Không an ủi chỉ khóc lóc cùng con gái đáng thương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thành phố nơi Raguel và Sarah sinh sống trọ chép câu 1 là?",
+          "options": [
+            "Thành Ec-ba-ta-na (Ecbatana xứ Media)",
+            "Thành Rha-ghê nơi ký gửi mười ta-lăng bạc",
+            "Thành Ni-ni-vê thủ đô Assyria đi đày",
+            "Thành cảng biển Ty-rơ ngoại bang biên giới đông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tobias đòi hỏi xin Raguel giải quyết việc gì ngay trước khi ăn tiệc câu 11?",
+          "options": [
+            "Xin cưới cưới Sarah làm vợ lập tức cấm trì hoãn ăn uống",
+            "Xin mượn ngựa chiến kỵ binh chiến đấu giặc",
+            "Xin nhận lại mười ta-lăng bạc ký gửi Gabael",
+            "Không đòi hỏi gì ăn uống ngon lành vui vẻ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên mẹ của Sarah vợ Raguel đã dọn phòng tân hôn khóc lóc an ủi con câu 16?",
+          "options": [
+            "Bà Ét-na (Edna)",
+            "Bà An-na mẹ Tobias ở xứ Nineveh",
+            "Thái hậu A-tha-li-a độc ác bị chém đầu",
+            "Bà góa phụ nghèo thành Xa-rép-ta xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Raguel cầu nguyện chúc phúc gì cho đôi trẻ khi gả con câu 12 chép?",
+          "options": [
+            "Thiên Chúa của Abraham Thiên Chúa của Abraham, Isaac, Jacob ở cùng các con và chúc phúc",
+            "Xin ban kỵ binh chiến xa sắt bảo vệ con lo",
+            "Chúa sẽ tự dội sấm sét thiêu cháy sạch quỷ",
+            "Chúc các con giàu sang bọc vàng ròng cung điện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Raguel tiếp nhận gả con chương 7 chứng minh điều gì?",
+          "options": [
+            "Sự vâng phục luật luật pháp hôn nhân trong gia tộc; đức tin dũng cảm vượt qua nỗi sợ cái chết của Raguel",
+            "Do Do Thái có hệ thống gả cưới phức tạp nhất",
+            "Sự nhút nhát của Tobias trước mối hiểm nguy quỷ",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Hành động Tobias làm đối với tim gan cá trong phòng tân hôn khiến quỷ chạy trốn là?",
+          "options": [
+            "Đặt tim gan cá gan cá lên than lò hương dâng khói tỏa quỷ ngửi khét chạy trốn",
+            "Ném tim gan cá ra ngoài cửa sổ cho chó ăn",
+            "Đút mật cá vào mắt quỷ Asmodeus xua đuổi",
+            "Không dùng cá rút gươm trần chém quỷ Asmodeus"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh xa xôi nơi quỷ Asmodeus chạy trốn bị thiên sứ Raphael đuổi bắt xích trói?",
+          "options": [
+            "Vùng Thượng Ai Cập (Upper Egypt hoang dã)",
+            "Thành Ba-by-lon cổ đại bên sông Euphrates",
+            "Thành cảng biển Ty-rơ ngoại bang biên giới",
+            "Sa mạc hoang dã cùi cách ly phòng biệt lập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động bí mật Raguel làm ban đêm vì lo sợ Tobias bị quỷ giết chết là?",
+          "options": [
+            "Đào sẵn huyệt mộ huyệt mộ phòng hờ chôn cất Tobias ban đêm kẻo bị nhục",
+            "Tập hợp kỵ binh chiến xa sắt sẵn sàng chiến đấu",
+            "Gửi thư cầu cứu lên vua Ba-tư Artaxerxes",
+            "Không làm gì ngủ ngon giấc suốt đêm Sabát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tớ gái Raguel sai vào phòng xem thấy cảnh tượng bất ngờ gì câu 12-14?",
+          "options": [
+            "Thấy hai người hai người ngủ ngon giấc bình an vô sự lấp huyệt mộ ngay",
+            "Thấy Tobias bị quỷ Asmodeus bóp cổ chết thảm",
+            "Thấy phòng tân hôn bọc vàng ròng rực rỡ lấp",
+            "Không thấy ai phòng trống rỗng biến mất tích"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Độ dài thời gian tiệc cưới Raguel vui mừng bắt Tobias ở lại ăn tiệc mừng câu 19 là?",
+          "options": [
+            "Mười bốn (14) ngày ngày tiệc cưới ăn mừng lớn",
+            "Ba ngày chẵn ăn uống liên hoan hân hoan",
+            "Bảy ngày chẵn theo quy luật Do Thái cổ",
+            "Mười ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu nguyện chung nổi tiếng của Tobias và Sarah đêm tân hôn câu 4-8 là gì?",
+          "options": [
+            "Lạy Chúa, chúng tôi cưới nhau cấm phải vì dâm dục dâm dục mà vì lòng thanh khiết; xin ban ơn",
+            "Xin dội sấm sét tiêu diệt quỷ Asmodeus cứu",
+            "Xin cho chúng tôi giàu sang tiền bạc ngập tràn",
+            "Không cầu nguyện chỉ chúc tụng tà thần ngoại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Raguel cầu nguyện tạ ơn Chúa thế nào sau khi thấy con rể bình an câu 15-17?",
+          "options": [
+            "Chúc tụng Chúa Chúa nhân từ thương xót đôi con độc nhất; Chúa lấp đầy niềm vui",
+            "Chúc tụng kỵ binh chiến xa sắt đã đánh bại quỷ",
+            "Hân hoan dâng tế lễ bò vàng Bê-then Đan tạ",
+            "Không cầu nguyện chỉ lo làm tiệc cưới lớn ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Raguel dặn vợ dọn dẹp làm bánh chuẩn bị tiệc cưới lớn câu 19 chép thế nào?",
+          "options": [
+            "Làm bánh thật nhiều thật nhiều, mổ bò chiên gia súc dâng hiến tế đàn ăn mừng",
+            "Mua rượu nho Ai Cập cống nộp hoàng cung Do",
+            "Bắt phạt 12 chi tộc đóng thuế thập phân vàng",
+            "Không chuẩn bị bánh bắt khách tự mang thức ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món quà Raguel tặng cho Tobias ngay giữa tiệc cưới câu 21 chép là?",
+          "options": [
+            "Một nửa gia sản gia sản đầy tớ gia súc bạc vàng lập tức cho Tobias",
+            "Một chiếc khiên vàng Sa-lô-môn đúc xưa cướp",
+            "Con chó trung thành đi cùng bảo vệ đôi trẻ",
+            "Không tặng gì bắt họ tự lập nghiệp tay trắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc quỷ Asmodeus bị xích trói và huyệt mộ được lấp chương 8 chứng minh?",
+          "options": [
+            "Đức tin chân chân thật và đời sống hôn nhân thánh thiện chiến thắng ma quỷ; sự quan phòng cứu giải của Chúa",
+            "Sự nhút nhát hèn hạ của Raguel đào sẵn huyệt",
+            "Sức mạnh ma thuật của gan cá khét lẹt sông",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Tobias nhờ thanh niên Azariah (Raphael) làm việc quan trọng gì ở Rha-ghê xứ Mê-đi?",
+          "options": [
+            "Mang biên nhận chìa khóa chìa khóa đến nhà Gabael lấy mười ta-lăng bạc, mời ông dự tiệc",
+            "Đi tìm thầy thuốc chữa mù mắt cho cha Tobit",
+            "Đi mua ngựa chiến kỵ binh chiến xa sắt cho vua",
+            "Đi săn thêm cá lớn sông Tigris làm thuốc quý"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật giữ mười ta-lăng bạc ký gửi của Tobit giao trả đủ tiền và túi đóng ấn là?",
+          "options": [
+            "Ga-ba-ên (Gabael)",
+            "Rát-gu-ên cha của Sarah ở Ecbatana Media",
+            "Ahikar người cháu họ hàng quan triều đình",
+            "Azariah thanh niên dẫn đường đi Media"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết Gabael bàn giao bạc ký gửi cho Raphael chép câu 5 thế nào?",
+          "options": [
+            "Giao các túi bạc túi bạc còn nguyên niêm phong đóng ấn từ xưa",
+            "Đổi bạc lấy vàng ròng bọc ngai vàng cung điện",
+            "Nổi giận cự cự tuyệt cấm trả tiền đòi giấy thề",
+            "Không có bạc chỉ dâng hiến bò chiên cừu non"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gabael phản ứng thế nào khi đến dự tiệc cưới gặp Tobias câu 6 chép?",
+          "options": [
+            "Khóc lóc ôm hôn ôm hôn Tobias, chúc phúc con trai của người công chính hiền lành",
+            "Nổi giận đòi chia một nửa số bạc ký gửi",
+            "Đầu hàng sụp lạy bò vàng Bê-then Đan tạ tội",
+            "Không chúc phúc đi thẳng vào tiệc ăn uống im"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi Gabael sinh sống giữ mười ta-lăng bạc ký gửi câu 1 chép là?",
+          "options": [
+            "Thành Rha-ghê (Rages xứ Media)",
+            "Thành Ecbatana xứ Media nơi Sarah trọ",
+            "Thành Ni-ni-vê thủ đô Assyria đi đày",
+            "Thành cảng biển Ty-rơ ngoại bang biên giới đông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người được Tobias tin tưởng giao phó chìa khóa nhận bạc ký gửi câu 2 chép là?",
+          "options": [
+            "Azariah (Raphael thiên sứ Chúa giả dạng)",
+            "Tớ gái Raguel sai đi xem phòng ngủ tân hôn",
+            "Con chó trung thành chạy theo bảo vệ dọc đường",
+            "Không giao ai tự Tobias đi nhận bạc ký gửi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gabael ca ngợi đức tính tốt đẹp nào của Tobit cha Tobias câu 6 chép?",
+          "options": [
+            "Người công chính công chính tốt lành bố thí nhân đạo trung thành luật Chúa",
+            "Người giàu có nhất thế giới cấm ai sánh bằng",
+            "Người chiến sĩ dũng mãnh bắn cung oai hùng Do",
+            "Người đã đập phá đền đồi cao bò vàng Bê-then"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đánh giá niềm hân hoan của Gabael khi thấy con trai bạn mình câu 6 chép?",
+          "options": [
+            "Vô cùng mừng mừng rỡ khóc lóc chúc mừng đôi vợ chồng mới hạnh phúc",
+            "Sợ hãi lo sợ bị đòi nợ lãi suốt mười năm",
+            "Bỏ trốn biệt xứ cấm dám đến dự tiệc cưới",
+            "Không mừng rỡ chỉ lo ăn uống liên hoan cưới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phương tiện Raphael dùng di chuyển đi nhận bạc chép câu 5 là?",
+          "options": [
+            "Dùng bốn con đầy đầy tớ và hai con lạc đà đi cùng thồ bạc",
+            "Kỵ binh chiến xa sắt hoàng gia vương triều Ba",
+            "Đi bộ nhanh chóng vượt sa mạc hoang dã cùi",
+            "Bay lên trời biến mất tích nháy mắt mang bạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc nhận lại bạc ký gửi an toàn chương 9 chứng minh điều gì?",
+          "options": [
+            "Sự trung thực trung thực và giữ chữ tín; Chúa chúc phúc cho các mối quan hệ dựa trên đức tin",
+            "Sức mạnh của việc giữ gìn của cải tiền bạc",
+            "Sự nhút nhát hèn hạ của Gabael cấm dám quỵt tiền",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Hành động đếm ngày lo lắng của cha mẹ Tobit Anna tại Giê-ru-sa-lem chép là?",
+          "options": [
+            "Đếm từng ngày từng ngày trôi qua lo sợ con gặp nạn chết dọc đường trễ ngày",
+            "Mở tiệc liên hoan vui vẻ cấm lo lắng gì",
+            "Quyên góp bạc vàng bọc lại tường đền thờ thánh",
+            "Không lo lắng đi dệt vải kiếm sống hằng ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà mẹ Anna đứng ngóng con khóc lóc thảm thiết tiếc nuối điều gì câu 5-7?",
+          "options": [
+            "Khóc lóc: Khốn khốn nạn cho tôi, tại sao tôi lại để con đi, ánh sáng mắt tôi!",
+            "Khóc tiếc mười ta-lăng bạc ký gửi bị mất",
+            "Nổi giận tống giam đầy tớ ngục tối cùm chân",
+            "Không khóc lóc vui vẻ dệt len len len bán len"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Raguel xin Tobias ở lại thêm nhưng Tobias kiên quyết từ chối xin về vì lý do gì câu 8?",
+          "options": [
+            "Vì biết cha mẹ cha mẹ già đang lo lắng đếm từng giờ, lòng cấm yên ở lại",
+            "Vì ông ghét vợ mới cưới Sarah muốn ly hôn",
+            "Vì kỵ binh chiến xa sắt Ba-tư giục giã về",
+            "Do tư tế Lê-vi dọa phạt dịch cùi nếu trễ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món quà Raguel tặng cho Tobias và Sarah khi tiễn đôi trẻ lên đường về là?",
+          "options": [
+            "Một nửa gia sản gia sản: đầy tớ, gia súc, vàng bạc, lạc đà, lừa thồ của cải",
+            "Một chiếc khiên vàng Sa-lô-môn đúc xưa cướp",
+            "Con chó trung thành chạy theo bảo vệ đôi trẻ",
+            "Không tặng gì bắt họ tự lập nghiệp tay trắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Raguel chúc phúc cho con gái Sarah trước khi chia tay câu 12 chép là?",
+          "options": [
+            "Hãy tôn kính cha mẹ cha mẹ chồng, yêu thương chồng, giữ nhà cửa đoan trang",
+            "Hãy cướp hết của cải vàng bạc hoàng gia mang",
+            "Hãy đắp tượng vàng bò vàng thờ tạ tội vương",
+            "Không khuyên gì khóc lóc tiễn con ra cổng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Anna đứng ngóng con dọc đường đi hướng nào chép câu 7?",
+          "options": [
+            "Đứng hướng ngóng ngóng về con đường con đã đi ngóng chờ tin tức",
+            "Hướng về đền thờ bò vàng Bê-then Đan thờ",
+            "Hướng về phía thung lũng sông Euphrates hoang",
+            "Không ngóng đường nằm sấp trong nhà khóc lóc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số ngày tiệc cưới kết thúc Raguel tiễn Tobias lên đường chép câu 10?",
+          "options": [
+            "Sau khi mười mười bốn ngày tiệc cưới kết thúc hoàn toàn",
+            "Ba ngày chẵn ăn uống vui vẻ hân hoan rực",
+            "Bảy ngày chẵn",
+            "Mười ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Edna mẹ Sarah dặn dò Tobias điều gì về việc cư xử với con gái bà câu 12?",
+          "options": [
+            "Đồng giao Sarah cho Tobias, xin đừng làm nàng buồn làm nàng buồn lòng suốt đời",
+            "Hãy đánh đập nàng nếu nàng cấm chịu làm việc",
+            "Hãy nộp một vạn si-clơ vàng cho bà chăm sóc",
+            "Không dặn gì khóc lóc tiễn con dâu ra xe la"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chúc lành kết thúc của Raguel dành cho đôi vợ chồng trẻ câu 11 chép?",
+          "options": [
+            "Nguyện Chúa trên trời trên trời ban cho hành trình tốt đẹp thành công bình an",
+            "Chúc các con có kỵ binh chiến xa sắt oai",
+            "Chúc các con giàu sang bọc vàng ròng cung điện",
+            "Không chúc gì đi thẳng vào nhà đóng chặt cửa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc cha mẹ lo lắng và đôi trẻ lên đường chương 10 chứng minh?",
+          "options": [
+            "Tình yêu thương thương gia đình sâu sắc; sự hiếu thảo của Tobias đặt cha mẹ lên trên tiệc vui riêng",
+            "Do Thái có số lượng người già yếu nhiều nhất",
+            "Sự nhút nhát hèn hạ của dân cấm dám đi đường",
+            "Sự lỗi thời của giao ước đền tạm hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Hành động đầu tiên của Tobias khi về đến nhà cứu cha khỏi mù lòa là gì?",
+          "options": [
+            "Xức mật con cá con cá lớn lên mắt cha, thổi nhẹ cho vảy trắng rụng ra ngoài",
+            "Dùng gươm chém đứt đầu con chim sẻ sẻ trên tường",
+            "Nộp một vạn si-clơ vàng cầu nguyện Chúa chữa",
+            "Đưa cha đi khám thầy thuốc giỏi nhất Assyria"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của Tobit khi thấy lại được ánh sáng sáng rõ rệt câu 14-15 là?",
+          "options": [
+            "Khóc lóc chúc tụng Chúa chúc tụng Chúa: Lạy Chúa, con thấy được con trai con rồi!",
+            "Nổi giận trách móc con cưới vợ ngoại bang tà",
+            "Sụp lạy tượng con bò vàng Bê-then Đan tạ lỗi",
+            "Không nói gì ngơ ngác bỏ chạy trốn ra ngoài"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động Anna làm khi thấy bóng con trai và thanh niên Azariah về từ xa câu 6?",
+          "options": [
+            "Chạy đi báo báo cho chồng biết con trai chúng ta đang về kìa!",
+            "Khóc lóc cự tuyệt cấm cho con dâu vào nhà",
+            "Đút lót tiền vàng cho lính gác thành Ni-ni-vê",
+            "Không làm gì đứng im lặng ngạc nhìn con chó"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi đoàn người dừng chân nghỉ ngơi gần thành Nineveh chép câu 1 là?",
+          "options": [
+            "Thành Kha-ran (Haran đối diện Nineveh)",
+            "Thành Rha-ghê nơi ký gửi bạc vàng cũ",
+            "Thành Ecbatana xứ Media nơi cưới vợ mới",
+            "Thành cảng biển Ty-rơ ngoại bang biên giới đông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con vật chạy đi đầu báo tin vui reo mừng trước đoàn người về nhà câu 4 chép?",
+          "options": [
+            "Con chó (con chó chạy trước vẫy đuôi reo mừng)",
+            "Con la hoàng gia oai vệ Tobias cưỡi đi",
+            "Con chim sẻ bay liệng báo tin mừng cho mẹ",
+            "Con cừu nhỏ xén lông Mô-áp nộp cống hiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tuổi thọ của Tobit khi mắt sáng lại chép cuộc đời ông câu 10-15 chép?",
+          "options": [
+            "Mắt sáng lại khi ông năm mươi tám (58) tuổi tuổi và sống thêm lâu dài",
+            "Tám mươi tuổi chẵn tuổi thọ thường nhân",
+            "Một trăm tuổi chẵn",
+            "Không chép tuổi chỉ chép mắt sáng lại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Độ dài thời gian khánh thành tiệc cưới đón dâu Sarah tại nhà Tobit câu 19 chép là?",
+          "options": [
+            "Đại lễ ăn mừng mừng bảy (7) ngày vui vẻ hân hoan rực rỡ tại Nineveh",
+            "Ba ngày chẵn ăn uống vui vẻ hân hoan",
+            "Mười bốn ngày ngày giống tiệc cưới nhà vợ",
+            "Một ngày duy nhất lập tức ra quân đánh thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chúc lành Tobit chúc con dâu Sarah khi nàng bước qua cửa nhà câu 17?",
+          "options": [
+            "Chào mừng con dâu con dâu của cha; chúc tụng Thiên Chúa đã dẫn con đến đây!",
+            "Hãy nộp một vạn si-clơ vàng chuộc lỗi cùi",
+            "Con sẽ bị phong cùi trắng nếu cấm chịu nghe",
+            "Chúc con sinh con kỵ binh xe chiến oai hùng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người cùng đi đón Sarah mừng rỡ ngoài cổng thành Nineveh chép câu 16?",
+          "options": [
+            "Tobit (Tobit đi bộ mắt sáng đi đón con dâu)",
+            "Anna mẹ Tobias ở nhà lo dọn phòng dọn dẹp",
+            "Ahikar quan quản thủ ấn tín hoàng gia Ba-tư",
+            "Không có ai đi đón tự Sarah đi bộ vào nhà"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chữa lành mù lòa của Tobit chương 11 chứng minh điều gì?",
+          "options": [
+            "Sự thành tín thành tín đáp lời cầu nguyện Chúa; niềm vui trọn vẹn hồi hương phục hồi đức tin kính sợ Chúa",
+            "Sức mạnh ma thuật của mật cá sông Tigris",
+            "Sự nhút nhát hèn yếu của Tobit khóc lóc lo",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Lời mặc khải danh tính thực sự thiên sứ Raphael nói với cha con Tobit câu 15 là?",
+          "options": [
+            "Ta là thiên sứ Ra-pha-en Ra-pha-en, một trong bảy thiên sứ chầu trước ngai Chúa",
+            "Ta là vương kỵ binh chiến xa Ba-tư hoàng gia",
+            "Ta là quỷ Asmodeus biến dạng lừa dối các ngươi",
+            "Ta là tư tế dòng Aaron đền thờ Giê-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tỷ lệ phần thưởng Tobit và Tobias đề xuất thưởng trả công cho Azariah câu 1-2 là?",
+          "options": [
+            "Một nửa (1/2) gia sản gia sản mang về (tất cả của cải vàng bạc mang từ Media)",
+            "Mười si-clơ vàng ròng bọc đai cung điện",
+            "Năm nghìn si-clơ đồng thau cũ rách nát",
+            "Không thưởng tiền chỉ cho con chó trung thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng sợ hãi của Tobit và Tobias sau lời mặc khải danh tính của Raphael câu 16?",
+          "options": [
+            "Họ kinh hoàng kinh hoàng sụp mặt xuống đất bái lạy sợ hãi vô cùng",
+            "Nổi giận rút gươm chém đứt đầu thiên sứ Chúa",
+            "Mở tiệc rượu lớn cầu xin tà thần cứu mạng",
+            "Không sợ hãi đứng thẳng người bắt tay thiên sứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Raphael giải thích nhiệm vụ thiên đàng ông làm khi Tobit cầu nguyện chôn người chết?",
+          "options": [
+            "Ta đã dâng dâng lời cầu nguyện của các ngươi lên trước ngai tòa vinh quang Chúa",
+            "Ta đã đi tìm mười ta-lăng bạc cất giấu hộ",
+            "Ta đã đúc khiên đồng thay thế khiên vàng bị cướp",
+            "Ta đã tiêu diệt sạch quân thù ngoại bang Assyria"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn Raphael dạy về giá trị của việc bố thí nhân đạo câu 9 chép?",
+          "options": [
+            "Việc bố thí bố thí cứu thoát khỏi cái chết và tẩy sạch mọi tội lỗi, đem lại sự sống",
+            "Tiền bạc vàng ròng sẽ tồn tại vĩnh viễn vương",
+            "Hãy tích lũy của cải kho chứa đền thờ Chúa",
+            "Không bố thí chỉ lo kiêng ăn cầu nguyện Sabát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Raphael biến mất lên trời bằng cách nào sau lời dặn dò cuối câu 20-21?",
+          "options": [
+            "Biến mất cấm thấy nữa nữa; hai cha con đứng dậy chúc tụng Chúa suốt 3 tiếng",
+            "Sét đánh nổ vang trời khói tỏa biến mất tích",
+            "Cưỡi xe ngựa kỵ binh bay lên mây đen che khuất",
+            "Đi bộ lặng lẽ ra cổng thành Ni-ni-vê biến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ thị Raphael dặn cha con Tobit viết chép lại cuộc đời câu 20 là?",
+          "options": [
+            "Hãy chép chép lại mọi sự việc đã xảy ra nầy vào sách vở lưu truyền",
+            "Hãy đập phá đền đồi cao bò vàng Bê-then Đan",
+            "Hãy nộp một vạn si-clơ vàng cho tư tế đền",
+            "Không chép gì giữ bí mật tuyệt đối cuộc đời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Raphael khẳng định ông ăn uống thế nào trước mặt họ suốt chuyến đi câu 19?",
+          "options": [
+            "Chỉ là ảo ảo ảnh các ngươi thấy, ta cấm ăn uống gì thật sự cả",
+            "Ăn uống ngon lành dê con béo mập cừu non",
+            "Chỉ uống rượu nho cấm ăn lúa mì mục nát",
+            "Không ăn uống nhịn đói hoàn toàn suốt sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng thiên sứ chầu trước ngai vinh quang Thiên Chúa Raphael mặc khải câu 15?",
+          "options": [
+            "Bảy (7) thiên sứ thiên sứ thánh phục vụ ngai Chúa",
+            "Mười hai thiên sứ đại diện chi tộc Do",
+            "Năm mươi thiên sứ dũng mãnh bảo vệ đền thánh",
+            "Không chép số lượng chỉ chép rất đông thiên sứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự mặc khải danh tính thiên sứ Raphael chương 12 dạy gì?",
+          "options": [
+            "Chúa hoạt động động âm thầm qua các thiên sứ bảo vệ kẻ lành; hãy ca ngợi và bố thí cứu người",
+            "Quyền lực tối cao của thiên sứ trên loài người Do",
+            "Sự nhút nhát của con người trước thần linh linh",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Tobit viết bài ca chúc tụng ngợi khen vinh quang Chúa bằng hình thức nào?",
+          "options": [
+            "Bài ca chúc tụng chúc tụng Thiên Chúa sống đời đời vương quyền Ngài vĩnh cửu",
+            "Bài ca chiến thắng chiến thắng kỵ binh xe chiến Ba-tư",
+            "Bài ca thương khóc khóc lóc cho thành Giê-ru-sa",
+            "Không viết bài ca chỉ nói lời cầu chúc đơn giản"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khải tượng tiên tri Tobit chúc tụng về sự phục hưng phục hồi của Giê-ru-sa-lem là?",
+          "options": [
+            "Xây bằng ngọc bích bích sapphire, tường vách bằng đá quý, đường phố lát vàng ròng",
+            "Thành trì kiên cố kiên cố có khiên đồng thay khiên vàng",
+            "Đất đai màu mỡ có ngai vàng ngà voi bọc vàng",
+            "Không phục hưng sụp đổ vĩnh viễn hoang địa sa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả chất liệu xây dựng các cổng thành Giê-ru-sa-lem tương lai câu 16-17 là?",
+          "options": [
+            "Cổng xây bằng ngọc bích ngọc bích, sapphire, ngọc lục bảo và đá quý rực rỡ",
+            "Cổng bọc đồng thau thau đánh bóng lấp lánh",
+            "Làm bằng gỗ keo hoang mạc Sinai đền tạm cũ",
+            "Không có cổng thành chỉ có vách đá đẽo núi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ thị Tobit kêu gọi dân đi đày lưu vong ca ngợi Chúa ngoại bang câu 3-4?",
+          "options": [
+            "Hãy ca ngợi ca ngợi Ngài trước dân ngoại, vì Ngài phân tán các ngươi để ca ngợi Danh Ngài",
+            "Hãy đắp tượng vàng bò vàng thờ tạ tội vua",
+            "Không ca ngợi giữ im lặng tránh bị chém đầu",
+            "Cướp vàng bạc ngoại bang dâng hiến đền thờ Do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khẳng định của Tobit về sự trừng phạt và thương xót của Chúa câu 2 chép?",
+          "options": [
+            "Ngài đánh phạt đánh phạt rồi lại xót thương, đưa xuống âm phủ rồi lại cứu lên",
+            "Ngài tiêu diệt diệt sạch cấm bao giờ tha thứ tội",
+            "Ngài chỉ thích vàng ròng bạc trắng đền thờ bọc",
+            "Không trừng phạt chỉ ban phước lành giàu có vĩnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả của bài ca về ánh sáng rực rỡ Giê-ru-sa-lem chiếu soi muôn dân câu 11?",
+          "options": [
+            "Ánh sáng rực rỡ rực rỡ sẽ chiếu soi khắp tận cùng thế giới muôn dân kính thờ Chúa",
+            "Mây đen che phủ sấm sét nổ vang cổng thành",
+            "Đèn dầu vàng ròng soi sáng góc thành nhỏ bé",
+            "Không có ánh sáng tối tăm hoang vu sa mạc hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua các tầng trời Tobit tôn vinh trong bài ca chép câu 7, 11 là ai?",
+          "options": [
+            "Vua các tầng trời trời (King of heaven vương quyền vĩ đại)",
+            "Vua Cyrus vua Ba-tư giải phóng Do Thái xưa",
+            "Vua dòng dõi Đa-vít trị vì ngai vàng vững mạnh",
+            "Không tôn vinh ai chỉ cầu chúc cha mẹ sống thọ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiếng kêu cầu tạ ơn ca hát trên đường phố Giê-ru-sa-lem câu 18 chép?",
+          "options": [
+            "Mọi đường phố đường phố hát ca: Ha-lê-lui-a! Chúc tụng Thiên Chúa Israel!",
+            "Tiếng khóc lóc sám hối của kẻ cưới vợ ngoại",
+            "Tiếng thổi kèn sừng cừu lớn vang dội núi",
+            "Không có tiếng ca hát im lặng tang chế hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa bài ca chúc tụng của Tobit chương 13 chứng minh điều gì?",
+          "options": [
+            "Hy vọng phục hưng phục hưng dân tộc và đền thánh; đức tin kiên cường vào tương lai vinh quang của Giê-ru-sa-lem",
+            "Sức mạnh ca hát của dòng ca sĩ Lê-vi đền",
+            "Sự yếu kém của thành Nineveh sắp bị tiêu diệt",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Tobit khuyên dân chúng hoán cải quay về kính sợ Chúa câu 6 chép?",
+          "options": [
+            "Hãy hoán cải hoán cải hết lòng hết ý thực hành sự chính trực trước nhan Ngài",
+            "Hãy trốn chạy sang vương quốc Ai Cập gả cưới",
+            "Hãy nộp một vạn si-clơ vàng chuộc mạng sống",
+            "Không khuyên gì bắt dân tự chịu phạt lưu đày"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Tobit sống thọ bao nhiêu tuổi trước khi băng hà bình an tại Nineveh chép câu 2?",
+          "options": [
+            "Một trăm mười hai (112) tuổi tuổi băng hà chôn cất trọng thể Nineveh",
+            "Bảy mươi tuổi chẵn",
+            "Một trăm tuổi chẵn",
+            "Tám mươi tuổi tuổi bằng Ê-li-sê qua đời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Tobit dặn con Tobias di cư gấp sang xứ Mê-đi vì thành Nineveh sắp bị sao?",
+          "options": [
+            "Nineveh sắp bị hủy diệt diệt vong ứng nghiệm lời tiên tri Giô-na (Jonah)",
+            "Nineveh sẽ bị phong cùi trắng cách ly phòng biệt",
+            "Nineveh sẽ bọc vàng ròng cung điện oai hùng",
+            "Không bị hủy diệt trị vì vinh quang vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tobias dọn nhà sang Ecbatana sinh sống phụng dưỡng cha mẹ vợ Raguel thừa kế gia sản là?",
+          "options": [
+            "Thừa kế gia tài gia tài của Raguel và cha mình Tobit, sống thọ 117 tuổi",
+            "Bị cướp sạch của cải vàng bạc làm phu dịch",
+            "Bỏ trốn sang Ai Cập hoang dã sa mạc hoang cùi",
+            "Không thừa kế tự lập nghiệp làm ruộng cừu non"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tin tức nóng hổi Tobias nghe được trước khi nhắm mắt qua đời tại Ecbatana là?",
+          "options": [
+            "Tin Nineveh sụp đổ sụp đổ bị chiếm đóng bởi Cyaxares và Nabopolassar",
+            "Tin đền thờ Giê-ru-sa-lem xây lại hoàn toàn bọc",
+            "Tin kỵ binh chiến xa sắt Ba-tư bị tiêu diệt sạch",
+            "Không nghe tin gì nhắm mắt qua đời cô độc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tuổi thọ của Tobias khi qua đời chép đoạn kết chương 14 là bao nhiêu?",
+          "options": [
+            "Một trăm mười bảy (117) tuổi tuổi (nghe tin Nineveh bị diệt mừng vui)",
+            "Bảy mươi tuổi chẵn tuổi thọ thường nhân",
+            "Một trăm tuổi chẵn",
+            "Tám mươi tuổi tuổi bằng cha Tobit già băng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi chôn cất mẹ hiền Anna chép câu 11 ở đâu?",
+          "options": [
+            "Chôn cất tại Nineveh bên cạnh mộ cha Tobit",
+            "Chôn cất nghĩa trang hoàng gia Giê-ru-sa-lem",
+            "Xác bị ném xuống sông Gio-đan trôi mất tích",
+            "Chôn cất dưới chân bàn thờ ngoại giáo tự lập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời tiên tri của Tobit dặn con về đền thờ Giê-ru-sa-lem bị thiêu rụi rồi lại sao câu 5?",
+          "options": [
+            "Sẽ bị thiêu thiêu rụi rồi lại được xây lại tráng lệ đúng thời gian Chúa định",
+            "Sẽ sụp đổ vĩnh viễn cấm bao giờ xây dựng lại",
+            "Sẽ bọc vàng ròng rực rỡ lấp lánh ngai ngài",
+            "Không thiêu rụi vẫn giữ nguyên đền tạm cũ hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tobias dọn nhà sang xứ Media trọ nhà ai chép câu 12?",
+          "options": [
+            "Trọ nhà cha vợ Rát-gu-ên (Raguel ở Ecbatana)",
+            "Trọ nhà Ga-ba-ên người giữ mười ta-lăng bạc",
+            "Trọ hoàng cung Ba-tư kinh thành Susa oai",
+            "Không trọ nhà ai tự xây dựng biệt thự riêng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tobias đối xử với cha mẹ vợ Raguel Edna khi họ già yếu chép câu 13 thế nào?",
+          "options": [
+            "Phụng dưỡng hiếu thảo hiếu thảo, chôn cất trọng thể khi họ qua đời Ecbatana",
+            "Trục xuất họ sang vương quốc Ai Cập làm phu",
+            "Nộp một vạn si-clơ vàng phạt tội cùi trắng",
+            "Không phụng dưỡng bỏ mặc họ cô độc đói khát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc di ngôn Tobit ứng nghiệm thành Nineveh bị diệt vong chương 14 chép?",
+          "options": [
+            "Sự phán xét công lý công lý của Chúa trên thành ác Nineveh; lời Chúa hứa cấm bao giờ qua đi vô ích",
+            "Sức mạnh quân sự của vương quốc Media và Babylon",
+            "Sự nhút nhát của Tobias chạy trốn chiến tranh",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

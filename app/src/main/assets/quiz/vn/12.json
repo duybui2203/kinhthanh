@@ -1,0 +1,2631 @@
+{
+  "bookId": 12,
+  "bookName": "2 Các Vua",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Vua A-khát-gia (con A-háp) bị bệnh nặng đã sai sứ giả đi cầu hỏi tà thần ngoại bang nào?",
+          "options": [
+            "Thần Ba-al-Dê-búp (Baal-Zebub) ở Éc-rôn",
+            "Thần Mô-lếch nước Am-môn lửa",
+            "Tượng con bò vàng đúc Bê-then",
+            "Thần cá Dagon Phi-li-tinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sấm ngôn đe dọa Ê-li-a truyền đạt chặn sứ giả báo lại cho vua bệnh tật là?",
+          "options": [
+            "Ngươi sẽ cấm xuống khỏi giường bệnh giường bệnh mà chắc chắn phải chết!",
+            "Ngươi sẽ bị phong cùi trắng tay chân dòng họ",
+            "Vương quốc Sa-ma-ri sẽ sụp đổ sập ngay ngày mai",
+            "Hãy nộp một vạn si-clơ vàng dâng đền thờ tạ tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tai họa giáng xuống hai nhóm quan năm mươi lính đầu tiên đến bắt Ê-li-a trên núi là?",
+          "options": [
+            "Lửa từ trời giội xuống giội xuống thiêu chết quan quân tại chỗ",
+            "Đất nứt nuốt chửng toàn bộ chiến binh thù thù",
+            "Bị phong cùi trắng tay chân run rẩy lập tức",
+            "Sư tử rừng xông ra cắn chết quan quân chạy trốn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi khôn ngoan của quan chỉ huy năm mươi lính nhóm thứ ba cầu cứu mạng sống là?",
+          "options": [
+            "Quỳ sụp xuống quỳ sụp sụp van xin Ê-li-a tha mạng cho mình và 50 lính tôi tớ",
+            "Nổi giận phóng giáo đâm chết Ê-li-a ngay lập tức",
+            "Dâng nộp một vạn si-clơ bạc chuộc mạng sống",
+            "Đầu hàng dâng chiến xa sắt hoàng gia tạ tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người em trai kế vị ngai vàng A-khát-gia trị vì Ít-ra-en làm ác bò vàng là?",
+          "options": [
+            "Vua Giô-ram (Jehoram / Joram)",
+            "Vua Giê-hu con Năng-si",
+            "Vua Zim-ri tự thiêu",
+            "Vua Om-ri lập Sa-ma-ri"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đặc điểm nhận dạng ngoại hình Ê-li-a sứ giả tả cho vua nhận ra tiên tri câu 8?",
+          "options": [
+            "Mặc áo da thú da thú lông lá, thắt lưng bằng đai da đai da thú quanh sườn",
+            "Mặc phẩm phục hoàng gia lộng lẫy thêu chỉ vàng",
+            "To cao vạm vỡ đầu hói cạo trọc đi đứng oai vệ",
+            "Tay cầm trượng gỗ keo bọc vàng ròng chiếu sáng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người khuyên bảo Ê-li-a đi xuống núi cùng quan quân nhóm thứ ba tha mạng?",
+          "options": [
+            "Thiên sứ của ĐỨC CHÚA (Angel of the LORD) phán bảo ông đi",
+            "Đích thân vua cha A-háp hiện về báo chiêm bao",
+            "Ngôn sứ Ê-li-sê học trò can ngăn đi theo",
+            "Không ai khuyên bảo tự ý ông đi xuống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Chúa nổi giận trừng trị A-khát-gia chết bệnh trăn trối sấm ngôn là gì?",
+          "options": [
+            "Vì coi thường Thiên Chúa Do Thái Do Thái, đi cầu hỏi thần ngoại Baal-Zebub",
+            "Vì ông tà dâm cướp vườn nho Na-vốt giống cha",
+            "Vì ông thống kê dân số kiểm tra lính quân đội",
+            "Do ông đập phá bàn thờ Các-mên Ê-li-a lập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng tổng cộng lính bị lửa trời thiêu chết cùng hai quan chỉ huy là bao nhiêu?",
+          "options": [
+            "Một trăm người lính người lính (50 lính mỗi nhóm quan quân)",
+            "Năm mươi người",
+            "Hai trăm người chẵn",
+            "Không có ai chết chỉ bị hù dọa sấm sét"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học việc lửa trời thiêu chết quân lính cậy quyền thế lực chứng minh?",
+          "options": [
+            "Quyền uy tối cao tối cao và tính thánh thiêng của tiên tri Chúa bảo vệ; cấm dùng vũ lực ép buộc",
+            "Sự tàn ác dã man của tiên tri Ê-li-a Các-mên",
+            "Sức mạnh vũ trang của vương triều Sa-ma-ri bại",
+            "Sự lỗi thời của lề luật Mô-sê cấm giết lính"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Hành đạo phép lạ Ê-li-a làm với áo choàng rẽ đôi nguồn nước sông Gio-đan đi bộ qua là?",
+          "options": [
+            "Quấn áo choàng áo choàng lại đập xuống nước sông Gio-đan rẽ đôi hai người qua bộ",
+            "Cầm trượng gỗ gõ xuống nước sông cạn cạn chảy",
+            "Dâng tế lễ bò tơ xin Chúa dội mưa đá rẽ dòng",
+            "Bốc thăm U-rim bói toán bơi qua sông Gio-đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu xin đặc ân thiêng liêng Ê-li-sê xin thầy Ê-li-a trước khi cất lên trời là gì?",
+          "options": [
+            "Xin cho tôi được phần gấp đôi phần gấp đôi thần khí của thầy kế vị",
+            "Xin ban cho tôi chiếc áo choàng và ngai vàng vua",
+            "Xin cho tôi sống thọ một trăm năm mươi tuổi",
+            "Xin Chúa tiêu diệt sạch tiên tri Ba-al thù địch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tượng oai nghiêm cất Ê-li-a lên trời trong cơn gió lốc sa mạc là gì?",
+          "options": [
+            "Xe lửa ngựa lửa lửa hiện ra ngăn cách, cất ông lên trời trong cơn gió lốc",
+            "Đám mây trắng hạ xuống cất ông đi trước mắt",
+            "Một bầy quạ lớn bay đến cắp ông lên trời cao",
+            "Đất nứt nuốt chửng ông biến mất tăm hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật báu rơi xuống Ê-li-sê nhặt lấy lập lại phép lạ rẽ nước sông Gio-đan là gì?",
+          "options": [
+            "Chiếc áo choàng (cloak) của Ê-li-a rơi xuống",
+            "Chiếc sừng dầu xức vương hoàng gia Do Thái",
+            "Thanh gươm sắt và ngọn giáo đồng của thầy",
+            "Bản đá luật pháp Mô-sê nhận ở núi Sinai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ đầu tiên Ê-li-sê làm cứu nguồn nước độc thành Giê-ri-khô hồi phục là?",
+          "options": [
+            "Đổ muối muối đựng trong đĩa mới vào nguồn nước khử độc ngọt lành",
+            "Ném bột mì mịn vào nồi nước đắng ngắt",
+            "Cắm khúc gỗ thông Lebanon xuống nguồn nước ngọt",
+            "Dâng tế lễ bò tơ tạ ơn Chúa tại suối nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tai họa kinh hoàng xông ra xé xác 42 đứa trẻ chế giễu Ê-li-sê trọc đầu đồi Bê-then là?",
+          "options": [
+            "Hai con gấu rừng gấu rừng xông ra xé xác chúng theo lời nguyền rủa tiên tri",
+            "Bầy sư tử hoang dã cắn chết quan quân chạy",
+            "Dịch bệnh ung độc trĩ tàn phá chết sạch",
+            "Sét đánh trúng đồi thiêu rụi bọn trẻ con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chế giễu ngạo mạn bọn trẻ con nói trêu chọc tiên tri Ê-li-sê dọc đường là gì?",
+          "options": [
+            "Đầu hói hói đi lên đi! Đầu hói đi lên đi!",
+            "Kẻ trốn chạy sa mạc Các-mên hèn nhát hèn",
+            "Hãy dâng bò vàng bò vàng tạ tội vua Do Thái",
+            "Áo choàng rách rưới biến đi nơi khác ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng 50 tiên tri môn đồ đi tìm kiếm xác Ê-li-a núi đồi ba ngày cấm kết quả là?",
+          "options": [
+            "Năm mươi môn đồ môn đồ (50 người đi tìm kiếm dẫu Ê-li-sê khuyên cấm đi)",
+            "Mười hai người",
+            "Một trăm người chẵn",
+            "Không có ai đi tìm tin tưởng tuyệt đối cất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi Ê-li-a bắt đầu hành trình đi cùng Ê-li-sê trước khi cất lên trời là?",
+          "options": [
+            "Thành Ghinh-gát (Gilgal)",
+            "Thành Bê-then tế đàn",
+            "Thành Giê-ri-khô cũ",
+            "Thành Giê-ru-sa-lem thủ đô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học việc Ê-li-a cất lên trời và thần khí gấp đôi trên Ê-li-sê là gì?",
+          "options": [
+            "Khẳng định vương quyền tiên tri vương vương cấm gián đoạn; Ê-li-sê kế vị hợp pháp oai nghiêm",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa",
+            "Sự nguy hiểm của tội phạm nguyền rủa tiên tri trọc đầu",
+            "Chỉ có Ê-li-a mới được lên thiên đàng Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Liên minh ba đức vua kéo quân đánh Mô-áp nổi loạn đòi cống nộp cừu là những ai?",
+          "options": [
+            "Vua Ít-ra-en, vua Giu-đa và vua Ê-đôm Ê-đôm",
+            "Vua A-háp, vua Rô-vô-am và vua Ai Cập",
+            "Vua Khi-ram, vua Ben-ha-đát và vua A-gác",
+            "Không lập liên minh tự quân Giu-đa đánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tai họa khủng hoảng liên minh gặp phải khi hành quân hoang địa bảy ngày là gì?",
+          "options": [
+            "Hết nước uống nước uống cho toàn bộ quân đội và súc vật theo sau",
+            "Dịch bệnh ung độc trĩ tàn phá lính bộ binh",
+            "Bão cát sa mạc chôn vùi toàn bộ xe chiến mã",
+            "Quân thù Phi-li-tinh đánh úp phóng hỏa trại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chỉ trích ban đầu Ê-li-sê nói với vua Giô-ram khi ông đến cầu cứu là gì?",
+          "options": [
+            "Hãy đến với các tiên tri tiên tri của cha mẹ ông (tiên tri thần Ba-al ngoại)!",
+            "Hãy nộp toàn bộ vàng bạc cung điện tạ ơn Chúa",
+            "Tôi cấm liên quan liên minh chiến tranh nầy",
+            "Hãy chém đầu vua Ê-đôm dâng tế lễ Chúa ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phương thức nhận mặc khải thiêng liêng Ê-li-sê yêu cầu trước khi phán sấm ngôn là?",
+          "options": [
+            "Mời một nhạc sĩ gảy đàn gảy đàn; khi tiếng đàn vang lên, thần khí Chúa ngự xuống",
+            "Dâng tế lễ bò tơ cấm châm lửa bàn thờ",
+            "Bốc thăm U-rim bói toán tư tế dòng Lê-vi",
+            "Nằm sấp đất khóc lóc cầu khẩn nhịn ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Chúa phán qua Ê-li-sê bảo đào nhiều hố thung lũng ban nguồn nước là gì?",
+          "options": [
+            "Cấm thấy gió cấm thấy mưa gió mưa, nhưng thung lũng nầy sẽ đầy nước uống tràn trề",
+            "Hãy đào sâu mười thước tìm mạch nước ngầm",
+            "Chúa sẽ dội mưa bão sấm sét đầy thung lũng",
+            "Hãy nộp Hòm Bia Giao Ước về đền tạm mới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ảo ảnh đỏ như máu quân Mô-áp nhìn thấy mặt trời phản chiếu nguồn nước dẫn đến bại trận là?",
+          "options": [
+            "Tưởng máu chảy máu chảy liên minh đánh nhau chết; ùa ra cướp trại bị đột kích tiêu diệt",
+            "Tưởng sấm sét thiêu cháy toàn bộ chiến xa thù",
+            "Tưởng tà thần Kê-mốt dội lửa đỏ cứu giúp nước",
+            "Ảo ảnh sa mạc cát bụi cuốn bay trại lính"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi dã man kinh hoàng của vua Mô-áp dâng tế thần Kê-mốt trên tường thành là gì?",
+          "options": [
+            "Dâng con trai trưởng con trai trưởng kế vị làm tế lễ toàn thiêu trên tường thành",
+            "Chém đầu toàn bộ sứ giả liên minh Do Thái",
+            "Đốt sạch đền miếu tà thần Ba-al tạ tội Chúa",
+            "Tự sát lao mình vào gươm giống vua Sa-un"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng cừu cống nộp hằng năm Mô-áp nổi loạn cự tuyệt cống nộp cho Ít-ra-en là?",
+          "options": [
+            "Một trăm ngàn chiên con chiên con và một trăm ngàn lông chiên đực",
+            "Mười con dê dê con béo mập",
+            "Năm vạn si-clơ vàng ròng cống nộp",
+            "Không cống nộp súc vật chỉ đóng bạc thuế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Ê-li-sê đồng ý cứu liên minh ba vua khỏi chết khát hoang địa sa mạc?",
+          "options": [
+            "Vì nể mặt đức vua Giê-hô-sa-phát Giê-hô-sa-phát nước Giu-đa kính sợ Chúa",
+            "Vì vua Giô-ram nộp sính lễ vàng bạc bộc",
+            "Vì ông sợ bị quân lính liên minh chém đầu",
+            "Do Chúa hiện ra phán bảo ông trực tiếp đi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự việc Mô-áp dâng con tế tường thành gây kinh hoàng Do Thái rút quân là?",
+          "options": [
+            "Nỗi ám ảnh tôn giáo tôn giáo tột bực; sự bất an tâm lý rút quân tránh cơn giận thần ngoại bang",
+            "Quân Mô-áp đã lật ngược thế cờ quân sự thắng",
+            "Sự bất hòa sâu sắc chia rẽ liên minh ba vua",
+            "Lề luật Mô-sê cấm tuyệt đối vây thành Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Phép lạ dầu góa phụ nghèo đầy vò giúp bà giải quyết khủng hoảng nợ nần thế nào?",
+          "options": [
+            "Mượn bình không hàng xóm hàng xóm, dầu từ vò rót đầy tất cả các bình đem bán trả nợ",
+            "Dầu biến thành vàng ròng đúc tiền vàng bộc",
+            "Chủ nợ tự động xóa nợ vì sợ tiên tri phạt cùi",
+            "Nhận được sính lễ cừu non tiếp tế từ Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ghi nhận phòng thượng người phụ nữ Sun-nem chuẩn bị cho Ê-li-sê nghỉ ngơi trọ gồm gì?",
+          "options": [
+            "Giường, bàn, ghế bàn, ghế và một cây đèn đặt phòng thượng",
+            "Chiến xa sắt bọc vàng và ngai vàng ngà voi",
+            "Hòm Bia Giao Ước giả bọc đồng thau bảo vệ",
+            "Thịt cừu nướng và rượu nho dọn sẵn hằng ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi cầu nguyện cứu sống con trai góa phụ Sun-nem Ê-li-sê thực hiện phòng thượng là?",
+          "options": [
+            "Đóng cửa cầu nguyện áp mình lên áp mình lên trẻ hai lần (miệng mắt tay), trẻ hắt hơi 7 lần sống",
+            "Đổ dầu ô-liu nguyên chất vào miệng trẻ cứu sống",
+            "Bắt phạt đầy tớ Ghê-kha-xi nộp mạng thay trẻ",
+            "Không cứu sống được chỉ khóc lóc chôn mộ đá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ nồi canh độc Ghinh-gát hạn đói được Ê-li-sê hóa giải độc tố bằng cách nào?",
+          "options": [
+            "Lấy bột bỏ vào nồi bột bỏ vào nồi canh lập tức hóa giải độc ăn uống ngon lành",
+            "Đổ muối đĩa mới vào nguồn nước nồi canh độc",
+            "Ném khúc gỗ hương nam vào nồi canh thanh lọc",
+            "Dâng tế lễ bò tơ cầu Chúa giáng dịch bệnh thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ hóa bánh ra nhiều cho một trăm người ăn của Ê-li-sê gồm bao nhiêu bánh lúa mạch?",
+          "options": [
+            "Hai mươi (20) bánh lúa mạch lúa mạch đầu mùa (họ ăn cấm hết còn dư đúng sấm Chúa)",
+            "Một trăm bánh mì ngọt mật ong rừng thơm",
+            "Năm bánh lúa mạch và hai con cá nhỏ bé",
+            "Chỉ một cái bánh duy nhất chia trăm phần nhỏ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên địa danh ngọn núi nơi người mẹ Sun-nem cưỡi lừa đi tìm gặp Ê-li-sê cứu con là?",
+          "options": [
+            "Núi Các-mên (Mount Carmel)",
+            "Núi thánh Khô-rếp Sinai hoang vu",
+            "Núi Ghil-bô-a thảm bại chiến",
+            "Núi Nê-bô biên giới hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món đồ Ê-li-sê dặn Ghê-kha-xi chạy nhanh đặt lên mặt đứa trẻ chết trước khi ông đến là?",
+          "options": [
+            "Cây gậy (staff) của Ê-li-sê đặt lên mặt trẻ (nhưng cấm động tĩnh gì)",
+            "Chiếc áo choàng rơi của thầy Ê-li-a xưa",
+            "Tấm vải sô thô mặc tang chế đền tạm",
+            "Bản đá luật pháp Mô-sê bôi vôi viết chữ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Loại dây leo hoang dã môn đồ hái nhầm bỏ vào nồi canh đắng gây ngộ độc độc là gì?",
+          "options": [
+            "Dây mướp dại hoang dã hoang dã (wild gourds hái đầy vạt áo)",
+            "Dây nho khô héo dọc sườn núi Bê-then",
+            "Rêu xanh mọc trên tường thành Giê-ri-khô cũ",
+            "Lúa mạch mốc ruộng cày hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Độ tuổi hoặc tình trạng chồng của người phụ nữ Sun-nem giàu có đón tiếp vua là?",
+          "options": [
+            "Chồng bà đã già (chồng bà đã già yếu cấm có con con)",
+            "Chồng bà là quan tổng quản giàu có của Sa-ma-ri",
+            "Bà là góa phụ nghèo khổ giống bà ở Xa-rép-ta",
+            "Chồng bà bị cùi trắng cách ly hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa bốn phép lạ Ê-li-sê chương 4 chứng minh phẩm chất mục tử nào của ông?",
+          "options": [
+            "Lòng trắc ẩn, cứu giúp cứu giúp người nghèo đói đau khổ; sự chăm sóc cụ thể của Chúa đời thường",
+            "Quyền uy bá chủ quân sự của tiên tri Do Thái",
+            "Sự tham lam lừa đảo của đầy tớ Ghê-kha-xi",
+            "Sự lỗi thời của nghi lễ tế bò tơ Lê-vi đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Tướng quân chỉ huy đại quân A-ram dũng cảm dũng mãnh nhưng bị cùi trắng là ai?",
+          "options": [
+            "Tướng Na-a-man (Naaman tổng tư lệnh quân đội A-ram)",
+            "Tướng Sô-vác bị Đa-vít diệt xưa",
+            "Tướng Áp-ner quân Sa-un cũ",
+            "Tướng Zim-ri tự thiêu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ dẫn chữa bệnh cùi Ê-li-sê nhắn Na-a-man thực hiện sông Gio-đan là gì?",
+          "options": [
+            "Hãy xuống sông Gio-đan tắm bảy lần tắm bảy lần, da thịt sẽ phục hồi sạch cùi",
+            "Hãy nộp một vạn si-clơ vàng dâng hiến đền thờ",
+            "Uống thuốc thảo dược trộn bột muối đĩa mới",
+            "Hãy chịu phép cắt bì gia nhập Do Thái lập tức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do tướng Na-a-man nổi giận bỏ đi khinh khỉnh ban đầu khi nghe lời Ê-li-sê nhắn?",
+          "options": [
+            "Khinh sông Gio-đan cấm sạch bằng sông sông A-va-na và Pha-pha quê mình",
+            "Vì tiên tri cấm ra đón tiếp cúi chào long trọng",
+            "Vì ông sợ bị lính Do Thái bắt làm con tin",
+            "Vì giá sính lễ bạc tiên tri đòi quá đắt đỏ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món quà tạ ơn Na-a-man dâng tặng nhưng Ê-li-sê quyết liệt cự tuyệt nhận là?",
+          "options": [
+            "Vàng bạc, si-clơ vàng và mười bộ áo choàng quý giá",
+            "Hòm Bia Giao Ước giả đúc vàng thau",
+            "Một trăm con cừu non xén lông Mô-áp",
+            "Bản đá luật pháp Mô-sê bôi vôi viết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội ác lừa dối Ghê-kha-xi (đầy tớ) chạy theo xin tiền bạc Na-a-man sau lưng thầy là?",
+          "options": [
+            "Nói dối xin một ta-lăng bạc và hai bộ quần áo bộ quần áo cho hai môn đồ mới đến",
+            "Cướp bóc kỵ binh chiến xa của tướng A-ram",
+            "Đầu độc giếng nước cung điện Sa-ma-ri",
+            "Bán chiếc áo choàng rơi của Ê-li-a lấy vàng ròng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt phong cùi trắng giáng xuống Ghê-kha-xi phản bội nổi lòng tham là gì?",
+          "options": [
+            "Bệnh cùi Na-a-man dính chặt vào ngươi dính chặt vào ngươi và dòng dõi vĩnh viễn (cùi trắng tuyết)",
+            "Bị chém đầu cổng thành Sa-ma-ri lập tức",
+            "Bị phong cùi chết cô độc hoang dã sa mạc",
+            "Bị tước quyền đầy tớ trục xuất sang Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tớ gái Do Thái mách nước chữa cùi cho Na-a-man xuất thân hoàn cảnh nào?",
+          "options": [
+            "Bị bắt làm tù binh tù binh chiến tranh phục vụ vợ Na-a-man",
+            "Là con gái lớn của tiên tri Ê-li-sê Nob",
+            "Là Thái hậu Ma-a-kha cải trang làm đầy tớ",
+            "Là con gái Pharaon Ai Cập gả cưới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Yêu cầu kỳ lạ Na-a-man xin phép mang về đất A-ram để lập bàn thờ tế Chúa Do Thái là?",
+          "options": [
+            "Xin chở đầy đất đất (bằng sức kéo hai con lừa) đất Do Thái về lập tế đàn",
+            "Xin múc mười thùng nước sông Gio-đan mang đi",
+            "Xin mua lại Hòm Bia Giao Ước bọc vàng ròng",
+            "Xin cưới con gái lớn của vua Do Thái làm vợ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả trạng thái da thịt Na-a-man sau khi tắm đủ 7 lần sông Gio-đan câu 14?",
+          "options": [
+            "Da thịt trở nên mịn màng mịn màng như da trẻ thơ, sạch hoàn toàn cùi",
+            "Da bị bong tróc đau đớn cùi trắng loang lỗ",
+            "Hóa thành đồng thau cứng cáp như cột đền",
+            "Không có thay đổi gì chỉ hết đau nhức xương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa câu chuyện Na-a-man cùi trắng sạch cùi chứng minh điều gì đức tin?",
+          "options": [
+            "Quyền năng Chúa vượt biên giới Do Thái; giá trị của vâng phục vâng phục và lòng khiêm nhường",
+            "Sông Gio-đan có nguồn nước khoáng chữa cùi tốt",
+            "Ghê-kha-xi là kẻ tội nghiệp đáng thương hại",
+            "Sự giàu sang vàng bạc A-ram thắng thế đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Phép lạ cứu chiếc lưỡi rìu sắt rơi sông Gio-đan Ê-li-sê thực hiện thế nào?",
+          "options": [
+            "Cắt một khúc gỗ khúc gỗ ném xuống nước làm lưỡi rìu sắt tự động nổi lên mặt nước",
+            "Dùng nam châm hút sắt múc suối Gio-đan lên",
+            "Cầu nguyện dội mưa bão sấm sét đẩy rìu lên",
+            "Bắt môn đồ tự lặn xuống đáy sông tìm kiếm rìu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mặc khải oai nghiêm mở mắt đầy tớ nhìn thấy núi đồi bảo vệ Ê-li-sê vây thành Đô-than là?",
+          "options": [
+            "Núi đồi đầy ngựa chiến và xe lửa xe lửa bao quanh bảo vệ Ê-li-sê khỏi thù",
+            "Đám mây vinh quang Chúa bao phủ đền đền thờ",
+            "Bầy sư tử rừng xông ra bao vây bắt lính A-ram",
+            "Sét đánh cháy sạch chiến xa sắt thù ngoài thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mưu kế Ê-li-sê xử lý quân A-ram vây Đô-than sau khi cầu Chúa làm họ mù mắt là?",
+          "options": [
+            "Dẫn dắt họ về tận Sa-ma-ri Sa-ma-ri thủ đô Do Thái rồi mở mắt, dọn tiệc đãi họ",
+            "Lệnh chém đầu toàn bộ tù binh mù mắt ngoài cổng",
+            "Bắt họ nộp một vạn si-clơ vàng tạ ơn tha mạng",
+            "Bỏ trốn biệt xứ hoang dã sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tai họa hạn đói kinh hoàng Sa-ma-ri bị vây hãm đẩy hai bà mẹ phạm tội ác nào?",
+          "options": [
+            "Thỏa thuận nấu thịt con nấu thịt con mình ăn tranh giành cãi vã kiện lên vua",
+            "Ăn trộm bánh thánh dâng đền thờ bò vàng Bê-then",
+            "Đầu độc nguồn nước ngọt trại quân vua Do Thái",
+            "Bán con cái làm nô dịch cho Phi-li-tinh cướp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng đau đớn xé áo của vua Do Thái khi nghe lời tố cáo nấu con ăn là?",
+          "options": [
+            "Xé áo mình lộ ra lớp vải sô vải sô thô mặc sát da thịt chịu tang sám hối",
+            "Nổi giận lệnh chém đầu hai bà mẹ độc ác lập",
+            "Đầu hàng dâng thành Sa-ma-ri cho vua A-ram ngay",
+            "Dâng tế lễ bò tơ toàn thiêu tạ tội Chúa đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua đổ lỗi tai họa hạn đói cho ai đòi lấy đầu nhân vật nầy ngày hôm nay câu 31?",
+          "options": [
+            "Đòi lấy đầu tiên tri Ê-li-sê Ê-li-sê con Sa-phát (đổ lỗi tiên tri Chúa hại dân)",
+            "Đòi lấy đầu tướng quân Giô-áp quân đội",
+            "Đòi chém đầu quan quản gia Ô-vát-gia phản bội",
+            "Đòi giết sạch dòng họ Sa-un Bên-gia-min thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố nơi Ê-li-sê đóng quân bị A-ram bao vây săn đuổi đầu chương là?",
+          "options": [
+            "Thành Đô-than (Dothan)",
+            "Thành Giê-ri-khô cũ",
+            "Thành Sa-ma-ri vương đô",
+            "Thành Gia-vết Ga-la-át"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu nói nổi tiếng của Ê-li-sê khuyên đầy tớ lo sợ binh mã thù vây thành câu 16?",
+          "options": [
+            "Đừng sợ! Kẻ ở với chúng ta chúng ta đông hơn kẻ ở với chúng nó!",
+            "Hãy chạy trốn ngay hoang địa sa mạc tìm hang đá",
+            "Chiến xa sắt chúng ta sẽ đè bẹp kỵ binh thù",
+            "Chúa sẽ tự dội sấm sét tiêu diệt chúng hộ ta"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Ê-li-sê cản vua Do Thái cấm cho giết quân A-ram mù mắt dẫn về cung?",
+          "options": [
+            "Vì cấm phải do gươm gươm cung vua bắt được; hãy cho ăn bánh nước thả về",
+            "Vì họ là anh em họ hàng thân thuộc Do Thái",
+            "Vì sợ vua A-ram mang đại quân sang trả thù gấp",
+            "Do họ hứa nộp sính lễ bạc chuộc mạng sống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc cứu lưỡi rìu sắt nổi nước chứng minh quyền năng gì của Ê-li-sê?",
+          "options": [
+            "Chúa tể trị quy luật tự nhiên tự nhiên vật lý; sự chăm sóc tôn trọng tài sản mượn của môn đồ nghèo",
+            "Sông Gio-đan có sức đẩy vật lý mạnh hơn thường",
+            "Ê-li-sê là thợ đốn củi giỏi võ nghệ xuất chúng",
+            "Sự kết thúc hoàn toàn giao ước đền thờ cũ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Sấm ngôn tiên báo bất ngờ Ê-li-sê nói về giá bột mì lúa mạch ngày mai là?",
+          "options": [
+            "Một thúng bột mì tinh giá một si-clơ si-clơ cổng thành Sa-ma-ri ngày mai",
+            "Hạn đói sẽ kéo dài thêm bảy năm nữa đổ nát",
+            "Quân A-ram sẽ chiếm thành cướp sạch lương thực vàng",
+            "Dân chúng sẽ được phát bánh miễn phí từ trời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chế giễu ngạo mạn quan thị vệ phản bác sấm ngôn Ê-li-sê là gì?",
+          "options": [
+            "Dẫu Chúa mở cửa trời cửa trời cũng cấm xảy ra nổi việc nầy!",
+            "Ê-li-sê là tiên tri dối đáng chém đầu ngay",
+            "Lương thực đền thờ bò vàng đủ nuôi dân cấm cần mua",
+            "Chiến xa sắt A-ram cấm cho phép mở cổng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đáp từ Ê-li-sê cảnh báo quan thị vệ ngạo mạn phản bác sấm ngôn là?",
+          "options": [
+            "Ngươi sẽ thấy thấy bằng mắt mình, nhưng cấm được ăn miếng nào!",
+            "Ngươi sẽ bị phong cùi trắng tay chân run rẩy lập",
+            "Ngươi sẽ bị sư tử cắn chết cổng thành ngày mai",
+            "Hãy nộp phạt mười si-clơ vàng chuộc lời nói dối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bốn nhân vật phát hiện trại quân A-ram trống rỗng bỏ chạy trốn sạch đầu tiên là ai?",
+          "options": [
+            "Bốn người bị phong cùi phong cùi ngoài cổng thành vào trại ăn uống báo tin",
+            "Đầy tớ Ghê-kha-xi chạy trốn sa mạc phát hiện",
+            "Hai liên lạc viên trốn giếng Ba-khu-rim xưa",
+            "Các bô lão kỳ mục đi tuần tra ban đêm biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nỗi khiếp sợ Chúa làm cho quân A-ram hoảng hốt bỏ chạy trốn ban đêm bỏ hết lều trại là?",
+          "options": [
+            "Làm họ nghe tiếng gầm vang gầm vang của chiến xa ngựa quân đội khổng lồ liên minh",
+            "Dội lửa diêm sinh thiêu cháy sạch lều trại thù",
+            "Dịch bệnh ung độc trĩ tàn phá chết sạch bộ binh",
+            "Tiên tri Ê-li-sê bay trên mây cầm gươm lửa dọa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận quan thị vệ chế giễu sấm ngôn ứng nghiệm cảnh báo Ê-li-sê cổng thành là?",
+          "options": [
+            "Bị dân chúng giẫm đạp giẫm đạp chết ngay cổng thành khi ùa ra cướp lương thực",
+            "Bị phong cùi chết cô độc hoang dã sa mạc",
+            "Bị sư tử cắn chết dọc đường đi tuần tra cổng",
+            "Bị vua chém đầu tội tắc trách gác cổng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lương thực vật phẩm quân A-ram bỏ lại trại chạy trốn cứu hạn đói Sa-ma-ri gồm gì?",
+          "options": [
+            "Lều trại, ngựa lừa, lương thực lương thực quần áo vàng bạc đầy tràn hoang dã",
+            "Hòm Bia Giao Ước bọc vàng ròng rực rỡ cướp xưa",
+            "Bầy ngựa chiến xa sắt bọc đồng thau trăm ngàn con",
+            "Không bỏ lại gì thiêu rụi sạch lều trại trước đi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời bốn người cùi bàn bạc quyết định vào trại A-ram liều mạng câu 4 là gì?",
+          "options": [
+            "Ngồi đây cũng chết, vào thành đói chết, sang hàng hàng A-ram may ra sống!",
+            "Hãy sang cướp vàng bạc cất giấu sa mạc hoang vu",
+            "Hãy báo tin cho đức vua Do Thái nhận thưởng vàng",
+            "Chúng ta cùi trắng cấm sợ gì sư tử cắn chết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời điểm quân A-ram bỏ chạy trốn sạch hoảng loạn sa mạc chép câu 7 là?",
+          "options": [
+            "Bỏ chạy vào lúc chạng vạng chạng vạng tối trốn tránh đêm đen gầm vang",
+            "Bỏ chạy buổi trưa nóng khi đang ăn uống tiệc",
+            "Bỏ chạy bình minh sáng sớm khi Do Thái tấn công",
+            "Không chạy trốn bị lính Do Thái diệt sạch trong lều"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sấm ngôn bột mì si-clơ ứng nghiệm rực rỡ chứng minh chân lý nào?",
+          "options": [
+            "Sự thành tín trọn vẹn lời hứa cứu giúp Chúa cứu dân; trừng phạt kẻ chế giễu ngạo mạn ngạo mạn quyền năng Ngài",
+            "Lòng nhân đức của bốn người cùi phong cứu thành",
+            "Sự nhút nhát hèn hạ của quân đội kỵ binh A-ram",
+            "Sự giàu sang phú quý của vương quốc Sa-ma-ri mới"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Lánh nạn hạn đói 7 năm góa phụ Sun-nem đi cư ngụ đất nước lân bang nào?",
+          "options": [
+            "Định cư xứ Phi-li-tinh Phi-li-tinh bảy năm hạn đói lánh nạn",
+            "Định cư vương quốc Mô-áp biên giới đông",
+            "Định cư Ai Cập cổ đại dọc sông Nile cảng",
+            "Ẩn nấp hang đá núi Các-mên cùng Ê-li-sê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghĩa cử vua Do Thái trả lại toàn bộ nhà ruộng cho phụ nữ Sun-nem nhờ lời làm chứng ai?",
+          "options": [
+            "Lời kể của Ghê-kha-xi Ghê-kha-xi về phép lạ cứu sống con trai bà của Ê-li-sê",
+            "Sứ giả ngoại giao từ nước Phi-li-tinh bảo lãnh",
+            "Sấm ngôn của tiên tri mù A-khi-gia Si-lô xưa",
+            "Lời can ngăn của Thái hậu Ma-a-kha đức độ vương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ mưu sát đắp chăn ướt ngột thở chết vua Ben-ha-đát cướp ngôi vua A-ram là ai?",
+          "options": [
+            "Ha-da-ê (Hazael đắp chăn ướt giết vua cướp ngôi)",
+            "Tướng chỉ huy quân đội Giô-áp Do Thái",
+            "Tướng Zim-ri tự thiêu Tiệc-xa vương đô",
+            "Môn đồ tiên tri phản bội dòng Lê-vi mới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do tiên tri Ê-li-sê khóc lóc nhìn chằm chằm vào mặt Ha-da-ê khi gặp mặt là?",
+          "options": [
+            "Vì biết Ha-da-ê sẽ làm vua A-ram tàn tàn sát dã man dân Do Thái (giết thanh niên mổ thai phụ)",
+            "Vì ông thương tiếc bệnh tình đức vua cũ sắp chết",
+            "Vì ông bị bụi cát sa mạc bay vào mắt chảy nước",
+            "Do ông e ngại Ha-da-ê ám sát mình tại Damas"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Giu-đa sa đọa cưới con gái vua A-háp (A-tha-li-a) du nhập tà thần ngoại bang là?",
+          "options": [
+            "Vua Giê-hô-ram (Jehoram / Joram con Giê-hô-sa-phát)",
+            "Vua A-xa bị đau chân chết vương đô",
+            "Vua Rô-vô-am đúc khiên đồng thau thay vàng",
+            "Vua A-khát-gia con ông kế vị"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quà cáp Ha-da-ê đem dâng hỏi bệnh Ê-li-sê thồ bao nhiêu lạc đà sản vật quý Damas?",
+          "options": [
+            "Bốn mươi lạc đà lạc đà thồ đầy sản vật quý giá nhất thành Damas hỏi bệnh",
+            "Mười lạc đà nhỏ nhắn thồ củi khô dâng tế",
+            "Một trăm xe ngựa kỵ binh hoàng gia hộ tống",
+            "Không dâng quà chỉ mang thư hỏi bệnh vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quốc gia biên giới phía nam nổi loạn ly khai vương quốc Giu-đa thời Giê-hô-ram là?",
+          "options": [
+            "Xứ Ê-đôm (Edom nổi loạn lập vua riêng thoát Giu-đa)",
+            "Xứ Mô-áp cự tuyệt cống nộp cừu non",
+            "Thành cảng Ty-rơ ngoại bang bờ biển",
+            "Vương quốc Ai Cập cổ đại thung lũng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Chúa cấm muốn tiêu diệt vương quốc Giu-đa dẫu Giê-hô-ram làm ác câu 19?",
+          "options": [
+            "Vì nghĩa Đa-vít tôi trung; Chúa đã hứa ban ngọn đèn ngọn đèn cho ông và con cháu vĩnh viễn",
+            "Vì đền thờ Sa-lô-môn bọc vàng ròng quá thiêng",
+            "Vì vua dâng nhiều lễ tế bò tơ tạ tội đền",
+            "Do sứ giả nước Phi-li-tinh sang can thiệp hòa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên con trai kế vị Giê-hô-ram làm vua Giu-đa làm ác giống nhà A-háp mẹ đẻ là?",
+          "options": [
+            "Vua A-khát-gia (Ahaziah trị vì một năm Giê-ru-sa-lem)",
+            "Vua Giô-át trốn phòng ngủ đền thờ thánh",
+            "Vua A-xa dẹp đĩ điếm đền đồi cao cũ",
+            "Vua Giê-hu diệt tộc A-háp sau nầy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Ha-da-ê đắp chăn ướt giết vua cướp ngôi chứng minh điều gì?",
+          "options": [
+            "Sự thành tín lời tiên tri Ê-li-a Các-mên; sự sa đọa phản phản quốc ngoại bang biên giới nguy hiểm",
+            "Sự thông minh mưu lược sát nhân của đầy tớ",
+            "Sự yếu hèn nhút nhát của đức vua Ben-ha-đát cũ",
+            "Sự kết thúc hoàn toàn giao ước đền thờ cũ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Tướng quân xức dầu phong vương nổi loạn diệt nhà A-háp do môn đồ Ê-li-sê làm là ai?",
+          "options": [
+            "Vua Giê-hu (Jehu con Giê-hô-sa-phát con Năng-si xức sừng dầu)",
+            "Vua Giô-ram con A-háp bại trận",
+            "Tướng Zim-ri tự thiêu Tiệc-xa vương đô",
+            "Tướng A-ma-sa bị đâm lòi ruột Ga-va-on"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đặc điểm lái xe kỵ binh nổi tiếng giận dữ điên cuồng của Giê-hu trạm gác nhìn thấy là?",
+          "options": [
+            "Lái xe điên cuồng điên cuồng (drives like a madman lái xe hung hãn)",
+            "Cưỡi chiến xa sắt bọc vàng ròng rực rỡ lướt nhanh",
+            "Lái xe chậm rãi thầm lặng trốn tránh lính canh",
+            "Không lái xe chiến đi bộ cởi trần chịu tang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thửa ruộng lịch sử nơi Giê-hu bắn tên xuyên tim vua Giô-ram ném xác là?",
+          "options": [
+            "Thửa ruộng vườn nho Na-vốt Na-vốt người Giê-rơ-ên (ứng nghiệm sấm Ê-li-a)",
+            "Sân đập lúa A-rau-nah người Giê-vu-si đền thờ",
+            "Hồ nước Ga-va-on đọ gươm võ sĩ xưa",
+            "Ruộng lúa mạch của nhà Bô-át Bê-lem Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cái chết nhục nhã của hoàng hậu độc ác Giê-sa-ven bị đẩy xuống cửa sổ xảy ra thế nào?",
+          "options": [
+            "Bị thái giám đẩy xuống đẩy xuống, ngựa chà đạp xác, chó ăn thịt chỉ còn sọ tay chân",
+            "Bị bắn tên xuyên tim trốn chạy sa mạc hoang vu",
+            "Uống thuốc độc tự tử cổng phòng ngủ cung điện",
+            "Bị giam vào ngục tối cung điện chết đói rã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị vua vương quốc Giu-đa đi cùng Giô-ram bị Giê-hu bắn chết tại Mê-ghi-đô là?",
+          "options": [
+            "Vua A-khát-gia (Ahaziah vua Giu-đa làm ác giống nhà A-háp)",
+            "Vua Giô-át trốn phòng ngủ đền thờ thánh",
+            "Vua A-xa bị đau chân chết vương đô cũ",
+            "Vua Giê-hô-sa-phát liên minh Ra-mốt xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Môn đồ tiên tri Ê-li-sê cử đi xức dầu cho Giê-hu phải làm gì ngay sau khi đổ sừng dầu?",
+          "options": [
+            "Mở cửa chạy trốn chạy trốn ngay lập tức cấm được trì hoãn chậm trễ",
+            "Bắt phạt Giê-hu nộp mười ngàn si-clơ vàng lễ",
+            "Dâng tế lễ bò tơ toàn thiêu tạ ơn Chúa tại chỗ",
+            "Ẩn nấp trong hang đá núi Các-mên chờ lệnh thầy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người dũng sĩ cận vệ đi xe cùng Giê-hu được lệnh ném xác vua Giô-ram ruộng Na-vốt là?",
+          "options": [
+            "Bít-các (Bidkar cận vệ trung thành ném xác)",
+            "Tướng chỉ huy quân đội Giô-áp cũ",
+            "Vệ binh Bê-na-gia chỉ huy ngự lâm quân",
+            "Đầy tớ Ghê-kha-xi bị phong cùi trắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trạng thái trang điểm hoàng hậu Giê-sa-ven khi đón Giê-hu vào thành Giê-rơ-ên là gì?",
+          "options": [
+            "Trang điểm mắt vẽ mắt, đội tóc giả tóc giả ngự cổng cửa sổ mỉa mai",
+            "Mặc quần áo vải sô thô sám hối ăn chay",
+            "Cầm gươm gươm sắt định đâm chết Giê-hu cổng thành",
+            "Ném Hòm Bia Giao Ước giả bọc đồng xin tha mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao lính ra chôn cất xác Giê-sa-ven chỉ còn lại xương sọ, bàn chân và bàn tay câu 35?",
+          "options": [
+            "Vì chó hoang đã ăn ăn sạch thịt bà đúng sấm ngôn tiên tri Ê-li-a phạt xưa",
+            "Vì quân lính Giê-hu thiêu xác lấy tro rải sông",
+            "Vì chim trời rỉa sạch xác phơi đồng hoang dã",
+            "Do đầy tớ giấu xác mộ đá hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa cách mạng đẫm máu của Giê-hu chương 9 chứng minh điều gì sấm ngôn?",
+          "options": [
+            "Sự phán xét công lý nghiêm minh nghiêm minh của Chúa giáng xuống nhà A-háp phạm tội giết Na-vốt",
+            "Sức mạnh lái xe điên cuồng thắng kỵ binh vương",
+            "Sự nhút nhát hèn nhát của vua Giu-đa A-khát-gia",
+            "Sự kết thúc hoàn toàn giao ước Bên-gia-min Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Số lượng con cháu trai hoàng tử nhà A-háp bị bô lão Sa-ma-ri chặt đầu gửi thúng cho Giê-hu?",
+          "options": [
+            "Bảy mươi (70) hoàng tử hoàng tử (chất hai đống cổng thành Giê-rơ-ên làm chứng)",
+            "Mười hai người con trai cả",
+            "Năm mươi người chẵn",
+            "Không bị chặt đầu được tha mạng trục xuất Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mưu chước lừa gạt Giê-hu dùng để tập hợp tiêu diệt sạch tiên tri tư tế thần Ba-al là gì?",
+          "options": [
+            "Giả vờ thờ kính Ba-al Ba-al hơn A-háp; mở đại hội tế lễ lớn dụ chúng vào đền sát hại",
+            "Đầu độc rượu nho tiệc mừng công hoàng gia mới",
+            "Thuê kỵ binh chiến xa sắt bao vây Các-mên diệt",
+            "Nộp một vạn si-clơ vàng dụ chúng giao nộp tượng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Công trình đền thờ tà thần Ba-al bị Giê-hu triệt phá biến thành nơi ô uế nào?",
+          "options": [
+            "Biến đền thờ Ba-al thành hố xí công cộng hố xí công cộng (latrines lưu truyền mãi)",
+            "Biến thành đồn lũy quân sự chứa xe chiến",
+            "Biến thành đền tạm thờ Chúa Do Thái mới bọc vàng",
+            "San bằng làm đống tro tàn hoang vu ruộng lúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khen ngợi và giao ước Chúa hứa ban cho vương triều Giê-hu do diệt Ba-al là?",
+          "options": [
+            "Con cháu bốn đời bốn thế hệ sẽ ngồi trên ngai vàng vương quốc Ít-ra-en",
+            "Cho phép vương triều trị vì một trăm năm vĩnh viễn",
+            "Cho Giê-hu sống thọ một trăm năm mươi tuổi",
+            "Bắt phạt dòng họ Bên-gia-min làm phu dịch nhà ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội lỗi bò vàng Giê-hu vẫn cấm từ bỏ giữ lại vương quốc sau cách mạng là?",
+          "options": [
+            "Vẫn thờ hai con bò vàng bò vàng tại Bê-then và Đan (giống Gia-rô-bô-am)",
+            "Tà dâm cướp vợ đầy tớ chiến sĩ giống Đa-vít",
+            "Thống kê dân số kiểm tra quân lính quân đội",
+            "Trục xuất toàn bộ dòng tộc Lê-vi ra khỏi xứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật trung thành đi cùng xe với Giê-hu chứng kiến diệt tiên tri Ba-al Sa-ma-ri là?",
+          "options": [
+            "Giê-hô-na-đáp (Jehonadab) con trai Rê-kháp kính sợ Chúa",
+            "Tướng quân Giô-áp Do Thái cũ",
+            "Đầy tớ Ghê-kha-xi bị phong cùi trắng",
+            "Ngôn sứ Ê-li-sê học trò Ê-li-a"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm trị vì của vua Giê-hu trên vương quốc Ít-ra-en tại Sa-ma-ri chép là?",
+          "options": [
+            "Hai mươi tám năm năm (28 years cai trị băng hà)",
+            "Bốn mươi năm trọn",
+            "Mười bảy năm",
+            "Bảy ngày ngắn ngủi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ thù ngoại bang A-ram gặm nhấm cắt xén đất đai Do Thái bờ đông Gio-đan thời Giê-hu?",
+          "options": [
+            "Đức vua Ha-da-ê (Hazael) nước A-ram tàn phá biên giới",
+            "Vua Si-sắc nước Ai Cập cổ đại cướp phá",
+            "Vua Khi-ram thành Ty-rơ cảng biển gỗ",
+            "Vua A-gác nước A-ma-lếch ngoại bang chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng hoàng thân quốc thích vua Giu-đa bị Giê-hu giết dọc đường đi gặp con vua là?",
+          "options": [
+            "Bốn mươi hai (42) người người hoàng tộc Giu-đa bị giết tại giếng nước",
+            "Mười hai người",
+            "Năm mươi người chẵn",
+            "Không giết ai chỉ bắt làm tù binh tù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa triều đại Giê-hu trong lịch sử Do Thái chép tôn vinh chương 10 chứng minh?",
+          "options": [
+            "Sự quét sạch tà thần Ba-al ngoại lai; khôi phục độc thần giáo dẫu vấp váp tội bò vàng bò vàng",
+            "Sức mạnh kỵ binh chiến xa của Giê-hu vô địch",
+            "Sự nhút nhát hèn hạ của bô lão thành Sa-ma-ri",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Thái hậu độc ác tàn sát diệt tộc dòng dõi hoàng gia Giu-đa để cướp ngôi vương là ai?",
+          "options": [
+            "Thái hậu A-tha-li-a (Athaliah con gái A-háp Giê-sa-ven)",
+            "Bà hầu thiếp Rít-pa canh xác con",
+            "Bà Bát-sê-va mẹ Sa-lô-môn",
+            "Bà góa phụ nghèo xứ Xa-rép-ta"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hoàng tử sơ sinh duy nhất được cứu sống giấu trong phòng ngủ đền thờ 6 năm là ai?",
+          "options": [
+            "Vua Giô-át (Joash / Jehoash con vua A-khát-gia)",
+            "Mê-phi-vô-sết con Giô-na-than què chân",
+            "Gia-rô-bô-am tôi tớ Sa-lô-môn",
+            "Ê-li-sê tiên tri kế vị"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người phụ nữ dũng cảm cứu sống hoàng tử Giô-át trốn thoát thảm sát là ai?",
+          "options": [
+            "Bà Giê-hô-se-va (Jehosheba con gái vua Giô-ram, cô ruột hoàng tử)",
+            "Bà hầu thiếp Rít-pa canh xác con",
+            "Bà Thái hậu A-tha-li-a độc ác",
+            "Bà góa phụ nghèo thành Xa-rép-ta"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư tế thượng tế dũng cảm vạch kế hoạch rước Giô-át lên ngôi xức dầu năm thứ bảy là?",
+          "options": [
+            "Tư tế Giê-hô-gia-đa (Jehoiada liên minh vệ binh hoàng gia)",
+            "Tư tế Xa-đốc dòng tư tế đền thờ",
+            "Tư tế A-vi-a-tha bị trục xuất An-na-thốt",
+            "Tư tế A-khi-mê-lếch Nóp bị giết xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cái chết đền tội của Thái hậu độc ác A-tha-li-a xảy ra thế nào cổng ngựa cung điện?",
+          "options": [
+            "Bị lính điệu ra ngoài chém chết chém chết ngay cổng ngựa cung điện theo lệnh tư tế",
+            "Bị ngã ngựa gãy cổ tự tử giống vua Sa-un",
+            "Uống thuốc độc tự tử trốn chạy sa mạc",
+            "Bị ném đá chết cổng đền thờ thần Ba-al"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật phẩm hoàng gia tư tế trao ban cho Giô-át dịp lên ngôi xức dầu phong vương là gì?",
+          "options": [
+            "Trao vương miện vương miện và sách Giao Ước (sách Luật Do Thái)",
+            "Thanh gươm sắt và ngọn giáo đồng của Đa-vít cha",
+            "Áo ê-phốt vải gai bọc vàng ròng rực rỡ",
+            "Hai bản đá luật pháp Mô-sê nhận ở Sinai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động tiếng la lớn A-tha-li-a hét lên khi thấy vua mới xức dầu thổi kèn là?",
+          "options": [
+            "Phản loạn! Phản loạn! (Treason! Treason! hét lớn xé quần áo)",
+            "Vạn tuế hoàng đế mới Do Thái vạn tuế!",
+            "Hãy chém đầu tư tế Giê-hô-gia-đa lập tức",
+            "Bắt phạt 12 chi tộc đóng thuế gấp đôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh đền thờ tà thần Ba-al bị phá hủy diệt tư tế Mát-tan cổng bàn thờ là đền nào?",
+          "options": [
+            "Đền thờ thần Ba-al (Baal đập phá tiêu hủy tượng cột thờ)",
+            "Đền thờ thần Dagon Phi-li-tinh cũ",
+            "Tế đàn bò vàng Bê-then Bê-then",
+            "Đền thờ Chúa Giê-ru-sa-lem bọc vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tuổi của hoàng tử Giô-át khi lên ngôi làm vua Giu-đa năm thứ bảy là bao nhiêu?",
+          "options": [
+            "Bảy (7) tuổi tuổi (Seven years old làm vua trẻ nhất)",
+            "Mười hai tuổi",
+            "Hai mươi tuổi chẵn",
+            "Ba mươi tuổi tuổi bằng Đa-vít xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc cứu sống và phong vương Giô-át ở chương 11 chứng minh chân lý nào?",
+          "options": [
+            "Chúa bảo vệ dòng dõi Đa-vít Đa-vít giữ vững lời hứa vương quyền vĩnh viễn; diệt tà thần tà thần",
+            "Sức mạnh của ngự lâm quân Kê-rê-thi bảo vệ",
+            "Sự tàn ác dã man của Thái hậu A-tha-li-a",
+            "Sự lỗi thời của nghi lễ dâng bò tơ đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Vua Giô-át làm vua Giu-đa 40 năm công chính nhờ sự giáo huấn chỉ dạy của ai?",
+          "options": [
+            "Tư tế Giê-hô-gia-đa (Jehoiada dạy dỗ suốt đời ông sống)",
+            "Ngôn sứ Ê-li-sê học trò Ê-li-a",
+            "Ngôn sứ Na-than Giê-ru-sa-lem",
+            "Mẹ đẻ của vua từ thành Bê-e-se-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phương thức Giô-át và tư tế dùng để thu gom bạc trùng tu Đền Thờ Chúa bị hư hại là?",
+          "options": [
+            "Đặt một chiếc hòm khoét lỗ khoét lỗ trên nắp đặt bên hữu bàn thờ đựng bạc dân dâng",
+            "Đánh thuế nặng nề trên ruộng đất của bô lão Do Thái",
+            "Bắt phạt quân Mô-áp nộp mười ngàn si-clơ vàng thuế",
+            "Tịch thu vàng bạc tượng thần Ba-al cướp được"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cách thức thanh toán bạc uy tín cho thợ mộc thợ đá trùng tu đền thờ câu 15 là gì?",
+          "options": [
+            "Giao bạc trực tiếp cho đốc công đốc công cấm cần kiểm tra sổ sách vì họ làm việc uy tín",
+            "Bắt thợ làm việc miễn phí lao dịch cưỡng bách dân",
+            "Nộp bạc về Ai Cập nhờ Pharaon thuê thợ hộ Do Thái",
+            "Không dùng bạc chỉ đổi bằng lúa mì ô-liu Ty-rơ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Biện pháp ngoại giao Giô-át làm để giải vây Giê-ru-sa-lem khỏi vua A-ram Ha-da-ê vây thành?",
+          "options": [
+            "Lấy toàn bộ vàng bạc kho tàng Đền Thờ Đền Thờ và cung điện cống nộp giải vây",
+            "Kéo đại quân ra quyết chiến diệt sạch quân A-ram",
+            "Gửi sứ giả gả con gái lớn cưới vua Ha-da-ê cầu hòa",
+            "Cầu khấn Chúa dội sấm sét thiêu cháy sạch quân thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cái chết bi thảm của đức vua Giô-át xảy ra thế nào do thuộc hạ phản nghịch làm?",
+          "options": [
+            "Bị thuộc hạ ám sát ám sát tại nhà Mi-lô đi xuống Sắp-la",
+            "Bị bắn tên trúng khe hở giáp sắt giống A-háp xưa",
+            "Ngã ngựa gãy cổ tự tử giống vua Sa-un Ghil-bô-a",
+            "Bị phong cùi chết cô độc hoang dã sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người con trai kế vị Giô-át lên trị vì vương quốc Giu-đa phía nam là ai?",
+          "options": [
+            "Vua A-ma-xi-a (Amaziah)",
+            "Vua A-xa bị đau chân chết",
+            "Vua Rô-vô-am đúc khiên đồng",
+            "Vua Giê-hu diệt tộc A-háp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Loại bạc lễ vật dâng cúng cấm được dùng để đúc chén đĩa vàng bạc đền thờ câu 13 là?",
+          "options": [
+            "Bạc dâng đền thờ đền thờ phải để dành riêng mua đá gỗ trùng tu đền thánh",
+            "Bạc cướp được từ quân thù ngoại bang Phi-li-tinh",
+            "Bạc đóng thuế thập phân của tư tế dòng Lê-vi",
+            "Không có quy định cấm dùng tự do đúc đĩa chén"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bạc lễ tế chuộc tội lỗi và chuộc lỗi phạm được xử lý thế nào câu 16?",
+          "options": [
+            "Giao cho các tư tế tư tế tự thụ hưởng cấm đem trùng tu đền thờ thánh",
+            "Thánh hiến dâng hiến toàn bộ làm quỹ đền thờ Chúa",
+            "Đúc tượng vàng dâng đền thờ đồi cao bò vàng",
+            "Chia đều cho người nghèo góa phụ cổng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi thuộc hạ phản nghịch lập mưu ám sát vua Giô-át chép câu 20 là?",
+          "options": [
+            "Tại nhà Mi-lô (Beth Millo)",
+            "Tại cung điện vương đô Giê-ru-sa-lem",
+            "Tại thửa ruộng vườn nho Na-vốt Giê-rơ-ên",
+            "Tại hang đá hang đá A-đul-lam cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Giô-át dùng vàng đền thờ cống nộp vua A-ram giải vây chứng minh?",
+          "options": [
+            "Sự suy yếu tài chính quân sự quân sự Giu-đa; sự sa sút đức tin đặt tiền của trên Hòm Bia Chúa",
+            "Sức mạnh vô địch của kỵ binh A-ram Ha-da-ê",
+            "Sự nghiêm minh của pháp luật Do Thái đối với vua",
+            "Sự kết thúc hoàn toàn vương triều Đa-vít vương"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Tội lỗi bò vàng Giô-a-khát (con Giê-hu) tiếp tục phạm phải khiến Chúa nổi giận phó cho A-ram là?",
+          "options": [
+            "Đi theo tội lỗi tội lỗi Gia-rô-bô-am thờ bò vàng Bê-then và Đan",
+            "Tà dâm cướp vợ đầy tớ chiến sĩ giống Đa-vít",
+            "Thống kê dân số kiểm tra quân lính quân đội",
+            "Trục xuất toàn bộ dòng tộc Lê-vi ra khỏi xứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cái chết của tiên tri vĩ đại Ê-li-sê ngã bệnh qua đời đức vua đến khóc tiếc thương là?",
+          "options": [
+            "Ê-li-sê qua đời qua đời; vua Giô-a-xơ đến khóc: Cha tôi! Chiến xa kỵ binh Do Thái!",
+            "Ê-li-sê được cất lên trời trong xe lửa ngựa lửa giống thầy",
+            "Ê-li-sê bị chém đầu theo lệnh hoàng hậu Giê-sa-ven",
+            "Ê-li-sê bị phong cùi trắng dính chặt giống Ghê-kha-xi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ bắn tên qua cửa sổ phía đông Ê-li-sê dặn vua bắn biểu thị điềm gì?",
+          "options": [
+            "Mũi tên chiến thắng chiến thắng của Chúa chống quân A-ram tại A-phéc diệt thù",
+            "Mũi tên dập tắt ngọn đèn của đức vua Do Thái",
+            "Mũi tên chỉ hướng trốn chạy sa mạc hoang dã",
+            "Không bắn tên chỉ lấy tên đập xuống đất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Ê-li-sê nổi giận khi vua Giô-a-xơ chỉ đập tên xuống đất ba lần rồi dừng là?",
+          "options": [
+            "Đáng lẽ đập 5-6 lần để diệt sạch A-ram; nay chỉ thắng 3 trận thắng 3 trận rồi thôi",
+            "Vì đập tên làm gãy tên báu vật của tiên tri",
+            "Vì đập tên xúc phạm đến uy nghiêm bàn thờ đá",
+            "Vì vua đập quá mạnh làm bụi đất bay đầy phòng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ hồi sinh bất ngờ xảy ra khi xác một người chết chạm vào xương cốt Ê-li-sê mộ là?",
+          "options": [
+            "Người chết chạm vào xương chạm vào xương Ê-li-sê liền sống lại đứng thẳng dậy trên chân mình",
+            "Mộ đá Ê-li-sê tự động mở ra rực sáng vinh quang",
+            "Ê-li-sê sống lại đi bộ ra ngoài giảng giải luật",
+            "Xác chết tự hóa thành vàng ròng đúc tiền chuộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm trị vì của vua Giô-a-khát trên vương quốc Ít-ra-en tại Sa-ma-ri chép là?",
+          "options": [
+            "Mười bảy năm năm (17 years làm ác bò vàng bị thù đàn áp)",
+            "Bốn mươi năm trọn",
+            "Mười sáu năm",
+            "Ba năm chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đầy tớ khốn nạn A-ram đàn áp kiệt quệ quân đội Giô-a-khát chỉ còn lại bao nhiêu binh mã?",
+          "options": [
+            "Năm mươi kỵ binh kỵ binh, mười xe chiến và mười ngàn bộ binh (như cát bụi chà đạp)",
+            "Ba ngàn quân tinh nhuệ Bên-gia-min",
+            "Sáu trăm chiến sĩ Rim-môn trốn thoát",
+            "Không còn một người lính nào đầu hàng hoàn toàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mũi tên chiến thắng Ê-li-sê dặn vua bắn qua cửa sổ hướng về vương quốc nào phía đông?",
+          "options": [
+            "Hướng về phía đông đông xứ A-ram (Syria)",
+            "Hướng về phía tây biên giới Phi-li-tinh",
+            "Hướng về phía nam vương quốc Ai Cập cổ đại",
+            "Hướng về phía bắc thành Sa-ma-ri thủ đô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên con trai kế vị vua Ha-da-ê cai trị nước A-ram tiếp tục giao tranh Do Thái là?",
+          "options": [
+            "Vua Ben-ha-đát (Ben-hadad III con Ha-da-ê)",
+            "Vua Sô-vác bị Đa-vít diệt xưa",
+            "Vua Khi-ram thành Ty-rơ cảng biển",
+            "Vua A-gác nước A-ma-lếch ngoại bang chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chạm xương Ê-li-sê sống lại chứng minh điều gì về tiên tri Chúa?",
+          "options": [
+            "Quyền năng Chúa ngự trị tiên tri dẫu ông đã qua đời qua đời xương cốt; lời Chúa thắng cái chết",
+            "Sự linh thiêng của mộ đá quê hương Ê-li-sê",
+            "Môn đồ Do Thái thích làm phép tà thuật gọi hồn",
+            "Sự kết thúc hoàn toàn giao ước đền thờ cũ Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Dụ ngôn ngạo mạn vua Giô-a-xơ dùng cây gai Lebanon để khuyên can A-ma-xi-a cấm khiêu chiến là gì?",
+          "options": [
+            "Cây gai đòi kết hôn con gái cây hương nam, thú rừng giẫm nát cây gai",
+            "Hai con bò vàng húc nhau nứt bàn thờ Bê-then",
+            "Sư tử hoang dã cắn chết kẻ vượt biên tìm nô lệ",
+            "Mũi tên chiến thắng bắn qua cửa sổ hướng đông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiệt hại kinh hoàng vương quốc Giu-đa gánh chịu khi đại bại dưới tay Giô-a-xơ tại Bết-sê-mét là?",
+          "options": [
+            "Bị đập phá tường thành 400 khuỷu tay khuỷu tay và cướp sạch vàng bạc Đền Thờ",
+            "Vua A-ma-xi-a bị phong cùi trắng tay chân run rẩy",
+            "Hòm Bia Giao Ước bị cướp dâng thần Dagon ngoại",
+            "Dân chúng bị bắt đi lưu đày sang xứ A-sy-ri"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên tiên tri thời Gia-rô-bô-am II báo sấm lấy lại biên giới từ Ha-mát đến biển Đồng Bằng là ai?",
+          "options": [
+            "Ngôn sứ Giô-na (Jonah con A-mi-tai)",
+            "Tiên tri Ê-li-sê học trò Ê-li-a",
+            "Ngôn sứ I-sai-a con A-mốt",
+            "Ngôn sứ Mi-khe-a con Dím-la"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi vua A-ma-xi-a bị thuộc hạ phản loạn đuổi theo ám sát chết khi chạy trốn là ở đâu?",
+          "options": [
+            "Thành La-khít (Lachish)",
+            "Thành Giê-ru-sa-lem cung điện",
+            "Thung lũng Muối biên giới Ê-đôm",
+            "Hang đá A-đul-lam hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm trị vì của vua A-ma-xi-a tại vương quốc Giu-đa phía nam chép là?",
+          "options": [
+            "Hai mươi chín năm năm (29 years cai trị công chính)",
+            "Bốn mươi năm trọn",
+            "Mười hai năm",
+            "Ba năm chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm trị vì dài hơi của vua Gia-rô-bô-am II trên vương quốc Ít-ra-en phía bắc là?",
+          "options": [
+            "Bốn mươi mốt năm năm (41 years phục hưng biên giới)",
+            "Bốn mươi năm",
+            "Mười bảy năm",
+            "Hai mươi hai năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động luật pháp A-ma-xi-a làm đối với con cái những kẻ ám sát cha mình câu 6 là?",
+          "options": [
+            "Tha mạng sống sống cho họ theo luật Mô-sê: cha làm ác cha chịu chết",
+            "Chém đầu diệt cỏ tận gốc hoàng tộc thù",
+            "Bắt phạt nộp một vạn si-clơ vàng đền tạm",
+            "Trục xuất họ sang vương quốc Mô-áp làm nô lệ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thung lũng nơi A-ma-xi-a đánh bại mười ngàn quân Ê-đôm đầu chương là?",
+          "options": [
+            "Thung lũng Muối (Valley of Salt)",
+            "Thung lũng thung lũng Mô-áp ruộng cừu",
+            "Thung lũng đá cuội Ê-ven-ê-zer",
+            "Thung lũng Ghi-hôn nguồn nước ngọt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tính chất tôn giáo của triều đại Gia-rô-bô-am II chép ở câu 24 là gì?",
+          "options": [
+            "Vẫn làm điều ác trước nhan Chúa, cấm từ bỏ tội bò vàng bò vàng Gia-rô-bô-am I",
+            "Phá hủy hoàn toàn tượng bò vàng Bê-then Đan",
+            "Cưới Giê-sa-ven thứ hai làm hoàng hậu độc ác",
+            "Thánh hiến đền thờ bọc vàng ròng Giê-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chép sấm ngôn Giô-na ứng nghiệm biên giới vương quốc phía bắc rộng mở chứng chứng minh?",
+          "options": [
+            "Lòng thương xót Chúa dẫu họ tội lỗi bò vàng bò vàng; cứu giúp Do Thái khỏi diệt vong tức khắc",
+            "Sức mạnh chiến xa mã của Gia-rô-bô-am II vô địch",
+            "Sự nhút nhát hèn hạ của liên minh các vua A-ram",
+            "Sự kết thúc hoàn toàn giao ước Bên-gia-min cổ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "Hình phạt nghiêm khắc Chúa giáng xuống vua công chính A-da-ri-a (Uzziah) Giu-đa cuối đời là?",
+          "options": [
+            "Bị phong cùi trắng phong cùi trắng nằm riêng trong phòng biệt lập đến chết",
+            "Bị ám sát chết trong phòng ngủ hoàng gia cung",
+            "Bị mù hai mắt và xiềng xích giải sang Ba-by-lon",
+            "Không bị phạt gì sống thọ trăm tuổi an nhàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Ít-ra-en làm ác tàn bạo mổ bụng thai phụ thành Típ-sa nộp bạc cho A-sy-ri là ai?",
+          "options": [
+            "Vua Mê-na-hem (Menahem mổ bụng phụ nữ mang thai)",
+            "Vua Xa-kha-ri-a trị vì 6 tháng bị ám sát",
+            "Vua Sa-lum làm vua 1 tháng ngắn ngủi",
+            "Vua Pê-khát phản nghịch cướp ngôi vương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm trị vì rất dài của đức vua bị phong cùi A-da-ri-a tại Giu-đa là?",
+          "options": [
+            "Năm mươi hai năm năm (52 years cai trị công chính đền thờ)",
+            "Bốn mươi năm",
+            "Ba mươi năm",
+            "Năm năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua A-sy-ri kéo quân sang bắt Do Thái nộp một ngàn ta-lăng bạc cống hiến củng cố ngôi là?",
+          "options": [
+            "Vua Phun (Pul / Tiglath-Pileser I)",
+            "Vua Xen-na-khê-ríp vây thành Giu-đa",
+            "Vua Nê-bu-cát-nê-xơ Ba-by-lon",
+            "Vua Pharaon Nê-cô Ai Cập cổ đại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vương triều Giê-hu kết thúc ở thế hệ thứ tư đúng lời Chúa phán qua cái chết vua nào?",
+          "options": [
+            "Vua Xa-kha-ri-a (Zachariah bị Sa-lum ám sát công khai)",
+            "Vua Mê-na-hem trị vì 10 năm tàn bạo",
+            "Vua Pê-kha-khia bị tướng giết hại cung điện",
+            "Vua Ô-sê phản loạn cướp ngôi sau nầy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua A-sy-ri kéo sang đánh chiếm nửa phần phía bắc Do Thái bắt đi đày đợt đầu là ai?",
+          "options": [
+            "Tích-lát Phi-lê-ser (Tiglath-Pileser III)",
+            "San-man-e-ser vua cuối cùng",
+            "Nê-vu-da-ra-đan tướng ngự lâm quân",
+            "Si-sắc vua Ai Cập cướp khiên vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người nhiếp chính điều hành triều đình Giu-đa khi vua cha A-da-ri-a bị cách ly cùi?",
+          "options": [
+            "Hoàng tử Giô-tham (Jotham con trai vua)",
+            "Tư tế Giê-hô-gia-đa tối cao đền thờ",
+            "Ngôn sứ I-sai-a con A-mốt chỉ dẫn",
+            "Hoàng hậu Thái hậu Ma-a-kha đức độ vương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số tháng ngắn ngủi vua Sa-lum trị vì Ít-ra-en trước khi bị Mê-na-hem giết hại là?",
+          "options": [
+            "Một tháng tháng chẵn (One full month làm vua)",
+            "Sáu tháng",
+            "Hai năm",
+            "Bảy ngày ngắn ngủi giống Zim-ri"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vua phản loạn giết Pê-khát cướp ngôi làm vua cuối cùng của vương quốc Ít-ra-en là?",
+          "options": [
+            "Vua Ô-sê (Hoshea con Ê-la)",
+            "Vua Xa-kha-ri-a bị ám sát công khai",
+            "Vua Mê-na-hem mổ bụng thai phụ",
+            "Vua Giê-hu diệt nhà A-háp xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa biến loạn tranh ngôi liên tục vương quốc phía bắc chương 15 chứng minh?",
+          "options": [
+            "Sự suy sụp suy sụp nội bộ toàn diện; hình phạt Chúa bắt đầu ứng nghiệm xóa bỏ Ít-ra-en",
+            "Sức mạnh chiến xa mã của A-sy-ri vô địch",
+            "Sự giàu sang phú quý của dân đô Sa-ma-ri",
+            "Sự kết thúc hoàn toàn giao ước Bên-gia-min cổ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "questions": [
+        {
+          "text": "Tội lỗi tột bực ghê tởm vua sa đọa A-khát Giu-đa phạm phải đầu chương là gì?",
+          "options": [
+            "Thiêu con trai mình qua lửa qua lửa dâng tế tà thần Mô-lếch ngoại bang",
+            "Đúc hai con bò vàng thờ tại Giê-ru-sa-lem",
+            "Đập vỡ Hòm Bia Giao Ước lấy vàng bọc cung điện",
+            "Thống kê dân số lính kiểm tra quân đội Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi cướp bóc vàng đền thờ A-khát thực hiện để cầu viện vua A-sy-ri giải vây là?",
+          "options": [
+            "Lấy vàng bạc Đền Thờ Đền Thờ và kho hoàng cung nộp cho Tích-lát Phi-lê-ser",
+            "Tịch thu toàn bộ lạc đà cừu non của nước Mô-áp",
+            "Bắt phạt 12 chi tộc đóng thuế gấp mười lần vàng",
+            "Không cướp của đền thờ chỉ dùng bạc kho riêng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi làm ô uế Đền Thờ Chúa A-khát thực hiện sau khi đi Damas bái kiến ngoại bang?",
+          "options": [
+            "Vẽ mẫu bàn thờ ngoại bàn thờ ngoại đem về lệnh tư tế U-ri-a xây thế bàn thờ Chúa",
+            "Đập phá cột đồng Jachin và Boaz bán lấy tiền",
+            "Đưa tượng thần A-sê-ra đặt thẳng vào Nơi Cực Thánh",
+            "Đốt cháy toàn bộ cuốn sách Luật Pháp tìm thấy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên tư tế thượng tế tiếp tay thỏa hiệp xây bàn thờ ngoại giáo khổng lồ cho vua là?",
+          "options": [
+            "Tư tế U-ri-a (Uriah thực hiện lệnh vua)",
+            "Tư tế Giê-hô-gia-đa trung chính xưa",
+            "Tư tế Xa-đốc dòng tư tế đền thờ",
+            "Tư tế A-vi-a-tha bị tước quyền vương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua nước A-ram liên minh Pê-khát vây hãm A-khát bị vua A-sy-ri giết chết tại Damas là?",
+          "options": [
+            "Vua Rơ-xin (Rezin vương quốc A-ram)",
+            "Vua Ben-ha-đát con Ha-da-ê xưa",
+            "Vua Khi-ram thành Ty-rơ cảng biển",
+            "Vua A-gác nước A-ma-lếch ngoại bang chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiết kế bàn thờ đồng cũ của Chúa bị A-khát dời đi đặt ở vị trí nào câu 14?",
+          "options": [
+            "Dời về phía bắc phía bắc bàn thờ ngoại giáo khổng lồ mới xây",
+            "Đập vỡ đúc xe đẩy đồng phục vụ hoàng cung",
+            "Dâng cống nộp sang vương quốc A-sy-ri làm quà",
+            "Không dời đi vẫn giữ nguyên vị trí cũ dâng lễ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm trị vì của vua sa đọa A-khát tại Giu-đa Giê-ru-sa-lem chép là?",
+          "options": [
+            "Mười sáu năm năm (16 years trị vì độc ác)",
+            "Bốn mươi năm",
+            "Năm mươi hai năm",
+            "Ba năm chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quốc gia đế quốc lớn A-khát thần phục xưng làm con làm tôi tớ phục dịch là?",
+          "options": [
+            "Đế quốc A-sy-ri (Assyria hoàng gia)",
+            "Vương quốc Ai Cập cổ đại dọc sông Nile",
+            "Đế quốc Ba-by-lon mới trỗi dậy",
+            "Vương quốc Ty-rơ cảng biển ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những thay đổi cấu trúc đền thờ A-khát thực hiện để làm vừa lòng vua A-sy-ri câu 18?",
+          "options": [
+            "Tháo gỡ bệ che bệ che ngai ngày Sabát, dời lối đi hoàng gia ngoài đền thờ",
+            "Bọc toàn bộ vách đá đền thờ bằng đồng thau cũ",
+            "Đốt cháy Hòm Bia Giao Ước lấy vàng bọc cung",
+            "Trục xuất toàn bộ tư tế dòng Lê-vi ra ngoài"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc A-khát rước bàn thờ Damas vào đền thờ thánh Giê-ru-sa-lem chứng minh?",
+          "options": [
+            "Sự đồng hóa tôn giáo tôn giáo nô dịch chính trị; đỉnh điểm sự phản đạo đức tin của Giu-đa",
+            "Sự thông minh tiếp thu mỹ thuật ngoại quốc vua",
+            "Sự nhút nhát hèn hạ của tư tế thượng tế U-ri-a",
+            "Sự kết thúc hoàn toàn giao ước đền thờ cũ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "questions": [
+        {
+          "text": "Vương quốc Ít-ra-en phía bắc chính thức sụp đổ vào năm thứ mấy trị vì của vua Ô-sê?",
+          "options": [
+            "Năm thứ chín chín (9th year Ô-sê, thành Sa-ma-ri thất thủ năm 722 TCN)",
+            "Năm thứ bốn mươi trị vì của vua cha",
+            "Năm thứ nhất sau khi liên minh Ai Cập",
+            "Không ghi nhận thời gian cụ thể chỉ chép sụp đổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua đế quốc A-sy-ri vây hãm Sa-ma-ri ba năm bắt dân Do Thái đi đày lưu vong là ai?",
+          "options": [
+            "Vua San-man-e-ser (Shalmaneser V vây thành)",
+            "Vua Xen-na-khê-ríp vây Giu-đa sau nầy",
+            "Vua Tích-lát Phi-lê-ser cướp đất đợt đầu",
+            "Vua Nê-bu-cát-nê-xơ đế quốc Ba-by-lon"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do sâu xa thần học chép về sự sụp đổ diệt vong vương quốc phía bắc Sa-ma-ri?",
+          "options": [
+            "Tội phản bội Chúa Chúa, thờ tà thần đồi cao bò vàng bất chấp lời cảnh báo tiên tri",
+            "Do kỵ binh chiến xa sắt Do Thái quá yếu kém",
+            "Do bị vua Ai Cập phản bội cự tuyệt viện binh",
+            "Do đền thờ bọc vàng Giê-ru-sa-lem bị sập sụp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi dân ngoại bang được vua A-sy-ri đưa đến định cư thay dân Do Thái đi đày?",
+          "options": [
+            "Vùng Sa-ma-ri Sa-ma-ri (dân Ba-by-lon, Cút-tha, A-va, Kha-mát, Sê-phạt-va-im)",
+            "Thành thánh Giê-ru-sa-lem thủ đô cũ",
+            "Thành cảng biển Ty-rơ ngoại bang biên giới",
+            "Vùng đất Mô-áp ruộng cừu non hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tai họa Chúa giáng xuống dân ngoại mới định cư Sa-ma-ri vì cấm kính sợ Chúa là?",
+          "options": [
+            "Sư tử hoang dã hoang dã xông ra tấn công cắn chết nhiều người dân định cư",
+            "Dịch bệnh ung độc trĩ tàn phá chết sạch súc vật",
+            "Mưa bão sấm sét đánh cháy sạch lều trại họ",
+            "Đất nứt nuốt chửng toàn bộ nhà cửa mới xây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giải pháp vua A-sy-ri thực hiện cứu dân ngoại khỏi sư tử cắn chết Sa-ma-ri là?",
+          "options": [
+            "Cho một tư tế tư tế Do Thái lưu đày về dạy luật pháp Thiên Chúa cho dân ngoại",
+            "Sai quân lính A-sy-ri sang săn bắn diệt sư tử",
+            "Trục xuất họ quay lại xứ Ba-by-lon cũ lánh",
+            "Đúc tượng thần bò vàng dâng tế đàn tạ tội Chúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên tôn giáo hỗn hợp sinh ra tại vùng Sa-ma-ri chép ở cuối chương 17 là?",
+          "options": [
+            "Vừa thờ phượng phượng Chúa vừa thờ các tà thần ngoại bang riêng của họ",
+            "Chuyển sang thờ thần cá Dagon Phi-li-tinh",
+            "Giữ trọn vẹn lề luật Mô-sê cắt bì Do Thái",
+            "Hoàn toàn vô thần cấm tin thờ kính thần nào"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh sông hồ nơi dân Ít-ra-en lưu đày định cư bên xứ A-sy-ri chép câu 6?",
+          "options": [
+            "Kha-la, bên sông Kha-bo Kha-bo và các thành nước truyền giáo Mê-đi",
+            "Dọc thung lũng sông Nile nước Ai Cập cổ",
+            "Cổng thành Ba-by-lon dọc sông Euphrates",
+            "Hoang địa sa mạc hoang vu biên giới Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những sứ giả Chúa liên tục gửi đến cảnh báo Do Thái quay về luật pháp câu 13?",
+          "options": [
+            "Các ngôn sứ ngôn sứ và các thị nhân (prophets and seers cảnh báo)",
+            "Các tư tế thượng tế thượng tế Lê-vi bộc vàng",
+            "Các thiên sứ từ trời giáng xuống sấm sét",
+            "Các vua công chính nước Giu-đa phía nam cứu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa lịch sử sự sụp đổ Ít-ra-en (10 chi tộc phía bắc) năm 722 TCN chứng minh?",
+          "options": [
+            "Chúa thành tín thực thực hiện hình phạt sấm ngôn; sự chấm dứt vương quốc ly khai phạm tội",
+            "Sức mạnh vô địch của đế quốc Assyria bá chủ",
+            "Tính chất dã man của chính sách di dân ngoại bang",
+            "Sự lỗi thời của đền tạm hoang dã xưa Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "questions": [
+        {
+          "text": "Vua cực kỳ công chính Giu-đa đập tan rắn đồng Mô-sê làm vì dân thờ cúng là ai?",
+          "options": [
+            "Vua Ê-xê-kia (Hezekiah con A-khát công chính vô song)",
+            "Vua Giô-si-a cải cách tôn giáo triệt để",
+            "Vua A-xa bị đau chân chết vương đô",
+            "Vua Giô-át trốn phòng ngủ đền thờ thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật phẩm lịch sử thời Mô-sê bị dân Do Thái thờ cúng đốt hương bị Ê-xê-kia đập nát là?",
+          "options": [
+            "Con rắn đồng (Nehushtan nghĩa là Vật bằng đồng đồng)",
+            "Hai bản đá luật pháp bọc vàng ròng rách",
+            "Gậy nở hoa của tư tế thượng tế Aaron cũ",
+            "Chiếc hòm bia giao ước giả bọc đồng thau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua đế quốc A-sy-ri kéo đại quân đánh chiếm các thành Giu-đa đe dọa Giê-ru-sa-lem là?",
+          "options": [
+            "Vua Xen-na-khê-ríp (Sennacherib đòi nộp phạt vàng bạc)",
+            "Vua San-man-e-ser diệt vương quốc bắc bắc",
+            "Vua Nê-bu-cát-nê-xơ đế quốc Ba-by-lon mới",
+            "Vua Pharaon Nê-cô Ai Cập cổ đại chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng vàng bạc cống nộp khổng lồ Ê-xê-kia phải bóc cửa đền thờ dâng nộp ban đầu là?",
+          "options": [
+            "Ba trăm (300) ta-lăng bạc và ba mươi (30) ta-lăng vàng ta-lăng vàng (bóc cả vàng dát cửa)",
+            "Mười ta-lăng vàng nhỏ bé đền tạm cũ",
+            "Năm nghìn si-clơ đồng thau đánh bóng đúc",
+            "Không nộp gì quyết tử thủ trong thành Giê-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên viên tướng đại diện A-sy-ri nhục mạ Chúa thách thức dân đầu hàng bằng tiếng Do Thái là?",
+          "options": [
+            "Tướng Ráp-sa-kê (Rabshakeh nói tiếng Do Thái cổng thành)",
+            "Tướng chỉ huy quân ngự lâm Bê-na-gia",
+            "Tướng Ha-da-ê nước A-ram Damas cũ",
+            "Tướng quân Giô-áp Do Thái cũ phản"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn nhục mạ của Ráp-sa-kê thách thức đức tin cậy Chúa Do Thái câu 22 là gì?",
+          "options": [
+            "Thần các nước cấm cứu nổi họ, há Chúa các ngươi cứu nổi Giê-ru-sa-lem cứu nổi Giê-ru-sa-lem khỏi tay vua ta?",
+            "Chúa Do Thái đã chết trận núi Ghil-bô-a thảm",
+            "Hãy dâng bò vàng bò vàng tạ tội vua Assyria",
+            "Xe chiến mã chúng ta sẽ san bằng đền thờ vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngôn ngữ Ráp-sa-kê dùng để hét to dụ dỗ dân chúng nổi loạn chống vua đầu hàng là?",
+          "options": [
+            "Tiếng Do Thái Do Thái (Judean / Hebrew để dân trên tường thành nghe rõ)",
+            "Tiếng A-ram ngoại giao quan lại triều đình",
+            "Tiếng A-sy-ri hoàng gia đế quốc",
+            "Tiếng Ai Cập cổ đại dọc thung lũng sông Nile"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng im lặng của dân chúng trên tường thành theo lệnh vua Ê-xê-kia dặn là gì?",
+          "options": [
+            "Họ giữ im lặng im lặng, cấm trả lời một lời nào (theo mệnh lệnh của đức vua)",
+            "Họ bắn tên cung tên giết chết tướng Ráp-sa-kê ngay",
+            "Họ khóc lóc van xin đầu hàng mở cổng thành",
+            "Họ ném đá cuội trúng trán lính tướng A-sy-ri"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm trị vì của đức vua công chính xuất sắc Ê-xê-kia tại Giu-đa chép là?",
+          "options": [
+            "Hai mươi chín năm năm (29 years cai trị Giê-ru-sa-lem)",
+            "Bốn mươi năm",
+            "Mười bảy năm",
+            "Ba năm chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Ê-xê-kia đập nát con rắn đồng Nehushtan chương 18 dạy điều gì?",
+          "options": [
+            "Bài trừ ngẫu tượng ngẫu tượng dẫu là kỷ vật thiêng liêng lịch sử; chỉ thờ phượng một mình Chúa",
+            "Sự lỗi thời của lề luật Mô-sê hoang địa",
+            "Sự thông minh hiểu biết khoa học của đức vua Do Thái",
+            "Quyết tâm phá hủy toàn bộ đồng thau đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "questions": [
+        {
+          "text": "Tiên tri vĩ đại Ê-xê-kia sai sứ giả mặc vải sô đến xin cầu nguyện sấm ngôn cứu thành là?",
+          "options": [
+            "Ngôn sứ I-sai-a (Isaiah con A-mốt)",
+            "Tiên tri Ê-li-sê học trò Ê-li-a",
+            "Ngôn sứ Giê-rê-mi-a thành thánh",
+            "Ngôn sứ Na-than Giê-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi cầu nguyện khẩn thiết Ê-xê-kia làm khi nhận thư đe dọa của vua A-sy-ri là?",
+          "options": [
+            "Trải thư thư ra trước nhan Chúa dâng lời cầu khẩn cầu xin Chúa cứu thành",
+            "Đốt lá thư dâng hương tế lễ bò tơ bàn thờ",
+            "Gửi lá thư sang vua Ba-by-lon nhờ giải cứu hộ",
+            "Bọc lá thư bằng vàng ròng dâng Nơi Cực Thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa của Chúa qua sấm ngôn I-sai-a bảo vệ thành Giê-ru-sa-lem khỏi A-sy-ri là gì?",
+          "options": [
+            "Vua Assyria cấm bước vào vào thành nầy, cấm bắn một mũi tên nào vào đây",
+            "Chúa sẽ dội mưa đá thiêu cháy sạch chiến xa sắt thù",
+            "Dân Do Thái sẽ được cất lên trời lánh nạn",
+            "Thành phố sẽ bị sụp sụp nứt đất nuốt chửng quân thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tai họa khủng khiếp tiêu diệt đại quân A-sy-ri trong một đêm ngoài thành là?",
+          "options": [
+            "Thiên sứ Chúa tiêu diệt một trăm tám mươi lăm ngàn (185.000) lính lính A-sy-ri",
+            "Dịch bệnh ung độc trĩ tàn phá chết sạch lính",
+            "Quân liên minh Do Thái mở cổng thành chém sạch thù",
+            "Bão cát chôn vùi toàn bộ trại quân Xen-na-khê-ríp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cái chết đền tội vua A-sy-ri Xen-na-khê-ríp gặp phải tại đền thờ thần mình quê nhà là?",
+          "options": [
+            "Bị hai con trai chém chết chém chết bằng gươm khi đang thờ cúng đền thần Ni-nô-khơ",
+            "Bị sư tử hoang dã cắn chết dọc đường rút chạy",
+            "Uống thuốc độc tự tử trốn chạy nhục nhã bại",
+            "Phong cùi trắng chết cô độc hoang dã sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu nguyện của Ê-xê-kia tôn vinh Chúa là Thiên Chúa thế nào câu 15?",
+          "options": [
+            "Chúa là Thiên Chúa duy nhất duy nhất của mọi vương quốc trên địa cầu; Chúa tạo trời đất",
+            "Chúa là thần núi núi Các-mên dội lửa bốc cháy",
+            "Chúa yêu thích khiên vàng Sa-lô-môn hơn khiên đồng",
+            "Chúa đã chọn Bên-gia-min làm lãnh tụ tối cao Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên thần ngoại bang Xen-na-khê-ríp đang sụp lạy cúng tế thì bị con trai ám sát chết là?",
+          "options": [
+            "Thần Nít-rốc (Nisroch thần Assyria)",
+            "Thần Ba-al-Dê-búp ở Éc-rôn",
+            "Tượng con bò vàng đúc Bê-then",
+            "Thần cá Dagon Phi-li-tinh cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố thủ đô vương quốc A-sy-ri Xen-na-khê-ríp rút chạy về trú ngụ chép câu 36 là?",
+          "options": [
+            "Thành Ni-ni-vê (Nineveh)",
+            "Thành Damas xứ A-ram",
+            "Thành Sa-ma-ri đổ nát cũ",
+            "Thành Ba-by-lon dọc sông cả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dấu hiệu Chúa ban cho Ê-xê-kia chứng minh lời sấm ngôn cứu thành ứng nghiệm câu 29?",
+          "options": [
+            "Năm nay ăn lúa tự mọc, năm sau ăn lúa tự lên, năm thứ ba gieo gặt gieo gặt ăn trái vườn nho",
+            "Bóng mặt trời đi giật lùi mười độ trên bậc thang",
+            "Nguồn nước suối ngọt tự động tràn về đầy mương",
+            "Sấm sét nổ vang trời lúc giữa trưa nắng ấm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa phép lạ tiêu diệt 185.000 quân A-sy-ri trong một đêm chứng chứng minh?",
+          "options": [
+            "Chúa bảo vệ thành thánh thánh và giữ trọn giao ước dòng dõi Đa-vít; quyền năng vượt đại quân thù",
+            "Sự hung tàn của thiên sứ hủy diệt Do Thái",
+            "Sự yếu hèn của lính canh gác trại Xen-na-khê-ríp",
+            "Sự kết thúc hoàn toàn giao ước đền thờ cũ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "questions": [
+        {
+          "text": "Lần báo tử đầu tiên I-sai-a nói khi Ê-xê-kia ngã bệnh nặng sắp chết là?",
+          "options": [
+            "Hãy trối lại nhà ngươi nhà ngươi vì ngươi sẽ chết, cấm sống nổi đâu!",
+            "Ngươi sẽ sống thọ thêm mười lăm năm nữa",
+            "Hãy dâng bò tơ tạ tội Chúa đền thờ bọc vàng",
+            "Con trai ngươi sẽ làm thái giám cung điện Ba-by-lon"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu xin khóc lóc Ê-xê-kia quay mặt vào tường khẩn nguyện Chúa nhớ đến là?",
+          "options": [
+            "Xin Chúa nhớ tôi đã đi trước mặt Ngài cách trung thành trung thành, trọn lòng, làm tốt",
+            "Xin Chúa dội sấm sét tiêu diệt sạch sứ giả Ba-by-lon",
+            "Xin cứu sống con trai tôi trốn phòng ngủ đền thờ",
+            "Xin cho tôi kỵ binh chiến xa sắt đánh quân thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm tuổi thọ Chúa ban thêm cho Ê-xê-kia nhờ lời cầu nguyện khẩn thiết là?",
+          "options": [
+            "Mười lăm (15) năm năm tuổi thọ ban thêm cứu thành nầy",
+            "Bảy năm chẵn",
+            "Mười năm",
+            "Bốn mươi năm hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ y khoa I-sai-a dùng đắp lên ung mủ chữa lành cho đức vua là gì?",
+          "options": [
+            "Bánh vả (cake of figs đắp lên ung mủ lành bệnh)",
+            "Dầu ô-liu nguyên chất trộn muối đĩa mới",
+            "Bột lúa mạch mịn hòa sữa dê nóng ngọt",
+            "Trải lá cây sồi lớn rừng Ép-ra-im sát da"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dấu hiệu điềm báo thiên văn học bóng mặt trời di chuyển thế nào bậc thang A-khát?",
+          "options": [
+            "Bóng mặt trời đi giật lùi giật lùi mười độ (10 steps) trên bậc thang A-khát",
+            "Bóng đi nhanh hơn thường lệ mười độ chẵn",
+            "Mặt trời tự động tối sầm sầm giữa ban ngày trưa",
+            "Sấm sét nổ vang trời lúc giữa trưa nắng ấm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sai lầm kiêu ngạo Ê-xê-kia phạm phải tiếp sứ giả vua Ba-by-lon sang mừng lành bệnh?",
+          "options": [
+            "Chỉ cho họ xem toàn bộ kho tàng kho tàng, vũ khí, bảo vật cung điện đền thờ",
+            "Tống giam sứ giả ăn bánh nước khổ ngục tối",
+            "Đòi nộp thuế thập phân vàng bạc cho Do Thái",
+            "Cự tuyệt cấm thèm tiếp chuyện đuổi họ về nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sấm ngôn đe dọa lưu đày Ba-by-lon I-sai-a tuyên phạt dòng dõi Ê-xê-kia sau kiêu ngạo là?",
+          "options": [
+            "Mọi thứ trong cung sẽ bị chở sang Ba-by-lon chở sang Ba-by-lon; con cái làm thái giám cung vua họ",
+            "Vua sẽ bị phong cùi trắng tay chân dòng dõi",
+            "Đền thờ bọc vàng sẽ bị sụp sụp cháy sạch ngày mai",
+            "Dân chúng sẽ bị bắt làm nô dịch Ai Cập vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Công trình thủy lợi nổi tiếng Ê-xê-kia xây dựng dẫn nước sạch vào thành Giê-ru-sa-lem là?",
+          "options": [
+            "Đào đường ống dẫn nước dẫn nước sạch từ nguồn nước vào trong thành",
+            "Xây bể chứa đồng thau khổng lồ tựa 12 con bò",
+            "Đào giếng nước sâu cổng thành Bê-lem dũng sĩ",
+            "Xây đập ngăn nước sông Gio-đan biên giới đông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người con trai kế vị Ê-xê-kia làm vua làm nhiều tội ác kinh hoàng nhất Giu-đa là?",
+          "options": [
+            "Vua Ma-na-sê (Manasseh trị vì 55 năm độc ác)",
+            "Vua Giô-si-a cải cách tôn giáo triệt để",
+            "Vua A-môn làm vua hai năm bị ám sát",
+            "Vua Sê-đê-kia bị khoét hai mắt trốn chạy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thái độ của Ê-xê-kia khi nghe sấm ngôn phạt lưu đày Ba-by-lon câu 19 là?",
+          "options": [
+            "Chấp nhận vì nghĩ: Miễn là có hòa bình hòa bình và an ninh trong đời ta trị vì",
+            "Nổi giận lệnh trục xuất tiên tri I-sai-a lập tức",
+            "Sám hối ăn chay nằm sọm vải sô thô ngủ đất",
+            "Nộp một vạn si-clơ vàng xin lỗi tiên tri Chúa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "questions": [
+        {
+          "text": "Số năm trị vì siêu dài của vua cực kỳ độc ác sa đọa Ma-na-sê tại Giu-đa là?",
+          "options": [
+            "Năm mươi lăm năm năm (55 years trị vì độc ác tột cùng)",
+            "Bốn mươi năm",
+            "Năm mươi hai năm",
+            "Hai năm chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những tội ác tôn giáo kinh hoàng Ma-na-sê phạm phải làm ô uế Đền Thờ Chúa là?",
+          "options": [
+            "Xây lại đồi cao, lập bàn thờ Ba-al Ba-al A-sê-ra ngay trong Đền Thờ Chúa, dâng con lửa",
+            "Đập vỡ Hòm Bia Giao Ước lấy vàng bọc cung điện",
+            "Bắt tư tế dòng Lê-vi thờ bò vàng Bê-then Đan",
+            "Trục xuất toàn bộ ngôn sứ ra ngoài sa mạc chết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội ác đổ máu vô tội Ma-na-sê gây ra cho thành thánh Giê-ru-sa-lem chép câu 16?",
+          "options": [
+            "Đổ máu vô tội ngập đầy ngập đầy Giê-ru-sa-lem từ đầu nầy sang đầu kia",
+            "Giết hại toàn bộ trẻ sơ sinh chăn cừu Bê-lem",
+            "Chém đầu tư tế thượng tế Giê-xơ-va đền thờ",
+            "Tàn sát toàn bộ bô lão kỳ mục Bên-gia-min thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bản án kinh hoàng Chúa tuyên phạt Giê-ru-sa-lem do tội lỗi Ma-na-sê là gì?",
+          "options": [
+            "Quét Giê-ru-sa-lem như chùi đĩa chùi đĩa, chùi xong úp ngược lại; giao cho thù cướp",
+            "Dội lửa diêm sinh thiêu rụi thành ngay lập tức",
+            "Bắt phạt 12 chi tộc làm nô dịch Ai Cập cổ",
+            "Phạt dịch bệnh phong cùi trắng tay chân toàn dân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vua con trai Ma-na-sê trị vì 2 năm độc ác bị thuộc hạ ám sát chết tại cung là?",
+          "options": [
+            "Vua A-môn (Amon bị ám sát chết vương cung)",
+            "Vua Giô-si-a cải cách vương quyền công chính",
+            "Vua Giê-hô-gia-kim đóng thuế nặng Ai Cập",
+            "Vua Sê-đê-kia bị khoét hai mắt trốn chạy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân chúng xử lý thế nào với bọn phản loạn ám sát vua A-môn chép câu 24?",
+          "options": [
+            "Giết sạch bọn phản phản loạn, tôn Giô-si-a con ông lên làm vua kế vị",
+            "Tôn kẻ phản loạn lên làm vua mới Do Thái vương",
+            "Trục xuất họ sang vương quốc Ba-by-lon làm phu",
+            "Nộp một vạn si-clơ vàng chuộc lỗi phản quốc thảm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi chôn cất đức vua độc ác Ma-na-sê khi qua đời chép câu 18 ở đâu?",
+          "options": [
+            "Trong vườn cung điện, tại vườn U-da (garden of Uzza)",
+            "Trong Thành Đa-vít nghĩa trang hoàng gia cũ",
+            "Hang đá A-đul-lam hoang dã sa mạc hoang",
+            "Dưới chân bàn thờ ngoại giáo khổng lồ tự lập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tà thần thiên thể Ma-na-sê sụp lạy thờ cúng chép ở câu 3 là gì?",
+          "options": [
+            "Thờ lạy toàn thể thiên tượng thiên tượng tinh tú trên trời phục dịch chúng",
+            "Thần cá Dagon Phi-li-tinh thù địch cũ",
+            "Con bò vàng đúc Bê-then tế đàn bò vàng",
+            "Thần Mặt Trời của nước Ai Cập cổ đại dọc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Độ tuổi của Ma-na-sê khi bắt đầu lên ngôi vua Giu-đa chép câu 1 là?",
+          "options": [
+            "Mười hai (12) tuổi tuổi (Twelve years old làm vua trẻ)",
+            "Bảy tuổi tuổi bằng Giô-át xưa đền",
+            "Hai mươi tuổi chẵn",
+            "Ba mươi tuổi tuổi bằng Đa-vít cha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học triều đại Ma-na-sê đối với số phận Giu-đa sau nầy là gì?",
+          "options": [
+            "Tội ác Ma-na-sê là điểm mốc giáng họa giáng họa lưu đày Ba-by-lon cấm thể đảo ngược",
+            "Chúa yêu thương vương quyền của Ma-na-sê nhất",
+            "Chứng minh sự bất lực của các tiên tri Do Thái",
+            "Sự kết thúc hoàn toàn giao ước đền thờ cũ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "questions": [
+        {
+          "text": "Vị vua vô cùng công chính thờ Chúa hết lòng tiến hành trùng tu đền thờ năm 18 trị quốc là?",
+          "options": [
+            "Vua Giô-si-a (Josiah con A-môn công chính xuất sắc)",
+            "Vua Ê-xê-kia đập tan rắn đồng Nehushtan",
+            "Vua Giô-át trùng tu đền thờ hòm khoét lỗ",
+            "Vua Sê-đê-kia bị khoét hai mắt trốn chạy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật phẩm thiêng liêng thượng tế Hin-ki-a tìm thấy trong Đền Thờ khi sửa đền là?",
+          "options": [
+            "Sách Luật Pháp (Book of the Law sách Luật Mô-sê tìm lại)",
+            "Bình đựng man-na và gậy nở hoa A-hác-rôn",
+            "Thanh gươm của khổng lồ Goliath tư tế Nob giữ",
+            "Bản đá luật pháp cũ viết bằng mực đen bộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng đau đớn xé áo của vua Giô-si-a khi nghe thư ký Sa-phan đọc Sách Luật là?",
+          "options": [
+            "Xé áo mình mình đau đớn vì nhận ra cha ông đã phạm luật Chúa nghiêm trọng",
+            "Nổi giận ra lệnh chém đầu thượng tế Hin-ki-a",
+            "Trục xuất toàn bộ thư ký ra ngoài thành Giê-ru-sa-lem",
+            "Đập vỡ đền thờ bò vàng Bê-then ngay lập tức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nữ tiên tri uy tín trong thành Giô-si-a sai người đến cầu hỏi sấm ngôn là ai?",
+          "options": [
+            "Bà Kha-la (Huldah nữ ngôn sứ vợ quan giữ phẩm phục)",
+            "Bà hầu thiếp Rít-pa canh xác con hoàng gia",
+            "Thái hậu A-tha-li-a độc ác bị chém đầu",
+            "Nữ hoàng phương Nam Xa-ba mang vàng đố"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sấm ngôn bà Huldah truyền đạt về số phận Giu-đa và cá nhân vua Giô-si-a là?",
+          "options": [
+            "Chúa giáng họa trên Giu-đa; riêng vua vì hạ mình xé áo khóc lóc sẽ được chôn bình an chôn bình an",
+            "Vương quốc sẽ thắng trận giòn giã trước Ai Cập",
+            "Vua sẽ bị phong cùi trắng chết cô độc biệt lập",
+            "Bắt phạt 12 chi tộc làm nô dịch Ba-by-lon vĩnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thượng tế dòng tư tế đền thờ phát hiện Sách Luật Pháp dâng nộp Sa-phan là ai?",
+          "options": [
+            "Hin-ki-a (Hilkiah tư tế thượng tế đền thờ)",
+            "Xa-đốc dòng tư tế thượng tế xưa",
+            "A-vi-a-tha bị tước quyền vương triều cũ",
+            "U-ri-a xây bàn thờ ngoại giáo Damas"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thư ký hoàng gia nhận sách đọc cho vua nghe báo cáo sửa đền thờ là ai?",
+          "options": [
+            "Sa-phan (Shaphan thư ký triều đình Giô-si-a)",
+            "Gia-hốt-sa-phát con A-khi-lút lưu ký xưa",
+            "Ê-li-khô-rép con Sa-sa thư ký vương",
+            "Ghê-kha-xi đầy tớ tiên tri bị phong cùi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bạc sửa đền thờ được thu gom từ nguồn nào dâng nộp cho đốc công câu 4?",
+          "options": [
+            "Bạc giữ cửa giữ cửa đền thu gom từ dân dâng nộp tư tế Lê-vi",
+            "Bạc đóng thuế thập phân của 10 chi tộc bắc",
+            "Bạc cướp được từ quân thù ngoại bang Phi-li-tinh",
+            "Không dùng bạc chỉ dùng vàng bóc dát cửa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Độ tuổi trẻ thơ của Giô-si-a khi lên làm vua Giu-đa chép câu 1 là?",
+          "options": [
+            "Tám (8) tuổi tuổi (Eight years old làm vua trẻ chính)",
+            "Bảy tuổi tuổi bằng Giô-át xưa đền",
+            "Mười hai tuổi tuổi bằng Ma-na-sê xưa",
+            "Hai mươi tuổi chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc xé áo khóc lóc của Giô-si-a trước Sách Luật chép câu 19 là?",
+          "options": [
+            "Lòng ăn năn ăn năn hạ mình thật lòng; sự kính trọng tuyệt đối lời Chúa dạy luật pháp",
+            "Sự lo sợ mất ngôi vương quyền trước Ba-by-lon",
+            "Sự tiếc nuối tiền của bỏ ra trùng tu đền thánh",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "questions": [
+        {
+          "text": "Đại lễ tôn giáo thiêng liêng Giô-si-a lập lại triệt để sau cuộc đọc Sách Luật là?",
+          "options": [
+            "Đại lễ Vượt Qua Vượt Qua cực kỳ long trọng chưa từng có từ thời thẩm phán",
+            "Lễ Lều thánh hiến cung đền thờ tháng bảy",
+            "Lễ Ngũ Tuần thu hoạch lúa mạch ruộng cừu",
+            "Lễ dâng hương tế lễ bò vàng Bê-then Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thung lũng nơi dâng tế con Mô-lếch bị Giô-si-a phá hủy Tô-phết là?",
+          "options": [
+            "Thung lũng con trai Hinnom Hinnom (Tô-phết nơi dâng con lửa Mô-lếch)",
+            "Thung lũng Muối biên giới nước Ê-đôm",
+            "Thung lũng thung lũng đá cuội Ê-ven-ê-zer",
+            "Thung lũng Ghi-hôn nguồn nước ngọt Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sấm ngôn cổ 300 năm người của Chúa báo chống bò vàng Bê-then được Giô-si-a hoàn thành?",
+          "options": [
+            "Đập tan bàn thờ bò vàng bò vàng, đốt xương tư tế đồi cao trên đó (giữ mộ người của Chúa)",
+            "Rước tượng bò vàng về đặt thẳng Giê-ru-sa-lem",
+            "Chém đầu vua Gia-rô-bô-am lập tế đàn mới",
+            "Không phá hủy giữ nguyên bàn thờ bò vàng Bê-then"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cái chết đột ngột bi thảm của vua công chính Giô-si-a xảy ra thế nào chiến trận?",
+          "options": [
+            "Bị vua Ai Cập (Pharaon Nê-cô) bắn chết bắn chết tại Mê-ghi-đô khi chặn đường hành quân",
+            "Bị ám sát chết trong phòng ngủ hoàng gia cung điện",
+            "Ngã ngựa gãy cổ tự tử giống vua Sa-un Ghil-bô-a",
+            "Phong cùi trắng chết cô độc biệt lập hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vua con trai Giô-si-a bị vua Ai Cập phế truất giam cầm sau 3 tháng trị vì là?",
+          "options": [
+            "Vua Giô-a-khát (Jehoahaz bị phế giam Ai Cập)",
+            "Vua Giê-hô-gia-kim anh ông được phong vương",
+            "Vua Giê-hô-gia-khin đầu hàng Ba-by-lon",
+            "Vua Sê-đê-kia bị khoét hai mắt trốn chạy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những tượng tà thần Giô-si-a lôi ra khỏi Đền Thờ đem thiêu rụi tại khe Xết-rôn là?",
+          "options": [
+            "Tượng thần A-sê-ra A-sê-ra, đồ thờ Ba-al và thiên tượng tinh tú trời",
+            "Tượng vàng thần cá Dagon Phi-li-tinh cũ",
+            "Hòm Bia Giao Ước giả bọc đồng thau cũ",
+            "Không có tượng tà thần đền thờ hoàn toàn sạch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đền miếu tà thần độc đáo Giô-si-a phá hủy trên núi Ô-uế phía đông Giê-ru-sa-lem là do ai lập?",
+          "options": [
+            "Do vua Sa-lô-môn Sa-lô-môn xây cho các vợ ngoại bang xưa tuổi già",
+            "Do vua Đa-vít lập thời chạy trốn Áp-sa-lôm phản",
+            "Do Thái hậu A-tha-li-a xây thờ thần Ba-al",
+            "Do đức vua độc ác Ma-na-sê xây mới đây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cuộc cải cách của Giô-si-a quét sạch đồng cốt nhân vật bói toán chép câu 24 là gì?",
+          "options": [
+            "Dẹp sạch đồng cốt đồng cốt, nhân vật bói toán, thần gia đình gia bảo, ngẫu tượng ngoại",
+            "Trục xuất toàn bộ tư tế dòng Lê-vi ra ngoài",
+            "Bắt phạt 12 chi tộc đóng thuế gấp mười vàng",
+            "Không dẹp đồng cốt chỉ phá hủy đền thờ đồi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đánh giá vương quyền công chính của Giô-si-a chép ở câu 25 tôn vinh thế nào?",
+          "options": [
+            "Trước và sau ông cấm có vua nào hướng lòng hướng lòng về Chúa trọn vẹn như ông",
+            "Ông là vị vua giàu sang hơn Sa-lô-môn bọc vàng",
+            "Ông đã đánh bại hoàn toàn đế quốc Assyria bá",
+            "Ông trị quốc bằng kỵ binh chiến xa sắt mạnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Giô-si-a bị bắn chết tại Mê-ghi-đô dẫu rất công chính dạy điều gì?",
+          "options": [
+            "Ý định Chúa phạt Giu-đa cấm thể dời dời; sự hữu hạn của nỗ lực con người trước định mệnh lịch sử",
+            "Sức mạnh vô địch của cung thủ bộ binh Ai Cập",
+            "Sự nhút nhát hèn hạ của Giô-si-a chiến trường",
+            "Sự kết thúc hoàn toàn vương triều Đa-vít Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "questions": [
+        {
+          "text": "Đức vua đế quốc Ba-by-lon kéo quân vây hãm bắt đi đày đợt đầu Giê-ru-sa-lem là ai?",
+          "options": [
+            "Vua Nê-bu-cát-nê-xơ (Nebuchadnezzar vua Babylon)",
+            "Vua Xen-na-khê-ríp vua Assyria xưa kia",
+            "Vua Pharaon Nê-cô Ai Cập cổ đại chiến",
+            "Vua Khi-ram thành Ty-rơ cảng biển gỗ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Giu-đa đầu hàng Nê-bu-cát-nê-xơ bị bắt lưu đày Ba-by-lon cùng hoàng gia là ai?",
+          "options": [
+            "Vua Giê-hô-gia-khin (Jehoiachin trị vì 3 tháng rồi đầu hàng)",
+            "Vua Giê-hô-gia-kim anh vua chết cung điện",
+            "Vua Sê-đê-kia làm vua bù nhìn sau nầy",
+            "Vua Giô-si-a bị bắn chết chiến trường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phần cốt cán Do Thái bị Ba-by-lon bắt lưu đày đợt đầu (năm 597 TCN) gồm ai?",
+          "options": [
+            "Hoàng tộc, tướng lĩnh, chiến sĩ dũng cảm, thợ rèn thợ mộc rèn thợ mộc tài giỏi (10.000 người)",
+            "Chỉ chừa lại các tư tế dòng Lê-vi thánh",
+            "Toàn bộ dân nghèo xơ xác ruộng vườn",
+            "Không có ai đi đày chỉ cướp phá kho vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vua bù nhìn Ba-by-lon phong lên cai trị Giu-đa đổi tên thành Sê-đê-kia là ai?",
+          "options": [
+            "Mát-ta-ni-a (Mattaniah chú vua đổi tên Zedekiah)",
+            "Giô-a-khát bị giam giữ Ai Cập cổ",
+            "Gia-rô-bô-am tôi tớ Sa-lô-môn xưa",
+            "Ê-li-sê tiên tri kế vị dòng Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Chúa nổi giận phó Giu-đa cho Ba-by-lon diệt quốc chép câu 20 là gì?",
+          "options": [
+            "Vì Chúa nổi giận nổi giận trước tội lỗi Giu-đa đến mức trục xuất họ khỏi nhan Ngài",
+            "Vì họ cự tuyệt đóng thuế thập phân vàng đền",
+            "Vì họ đập vỡ Hòm Bia Giao Ước lấy vàng bọc",
+            "Do kỵ binh chiến xa sắt Do Thái nổi loạn thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm trị vì làm ác phản loạn của vua bù nhìn Sê-đê-kia tại Giê-ru-sa-lem là?",
+          "options": [
+            "Mười một năm năm (11 years rồi phản loạn Ba-by-lon)",
+            "Bốn mươi năm",
+            "Ba tháng chẵn",
+            "Hai năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kho báu bị Ba-by-lon cướp bóc đập vỡ mang đi khỏi Đền Thờ Chúa chép câu 13 là?",
+          "options": [
+            "Cướp sạch vàng bạc vàng bạc đền thờ và đập vỡ đồ vàng Sa-lô-môn đúc xưa",
+            "Chỉ cướp khiên đồng Rô-vô-am đúc thay thế",
+            "Hòm Bia Giao Ước bọc vàng ròng rách nát",
+            "Không cướp đồ đền thờ chỉ cướp cung điện vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình trạng dân chúng còn sót lại Do Thái sau đợt đi đày thứ nhất câu 14 chép là?",
+          "options": [
+            "Chỉ chừa lại hạng dân nghèo xơ xơ xác nhất trong xứ làm ruộng vườn",
+            "Toàn bộ tư tế dòng Lê-vi Lê-vi cai trị đền",
+            "Không còn một người nào hoang vu sạch sẽ",
+            "Chỉ còn kỵ binh chiến xa sắt ẩn nấp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm trị vì ngắn ngủi làm ác bò vàng của vua Giê-hô-gia-khin trước đầu hàng là?",
+          "options": [
+            "Ba tháng tháng (Three months làm vua Giu-đa)",
+            "Mười một năm",
+            "Hai năm chẵn",
+            "Sáu tháng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sấm ngôn lưu đày Ba-by-lon ứng nghiệm thời Giê-hô-gia-khin chứng minh?",
+          "options": [
+            "Lời Chúa qua tiên tri I-sai-a I-sai-a phạt kiêu ngạo Ê-xê-kia đã thành sự thật",
+            "Sức mạnh vô địch của chiến xa Ba-by-lon",
+            "Sự hèn nhát đầu hàng của vua Giê-hô-gia-khin",
+            "Sự kết thúc hoàn toàn giao ước Bên-gia-min cũ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "questions": [
+        {
+          "text": "Số phận bi thảm của vua Sê-đê-kia khi bị bắt tại đồng bằng Giê-ri-khô là gì?",
+          "options": [
+            "Giết con trai trước mắt, khoét mắt khoét mắt xiềng đồng giải sang Ba-by-lon",
+            "Bị chém đầu cổng thành Giê-ru-sa-lem lập",
+            "Bị phong cùi trắng chết cô độc hoang dã",
+            "Đầu độc tự sát trốn tránh nhục nhã bại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng ngự lâm quân Ba-by-lon phóng hỏa thiêu rụi Đền Thờ cung điện phá thành là ai?",
+          "options": [
+            "Tướng Nê-vu-da-ra-đan (Nebuzaradan tướng ngự lâm quân)",
+            "Vua Nê-bu-cát-nê-xơ tối cao",
+            "Tướng chỉ huy quân A-ram Ha-da-ê xưa",
+            "Tướng quân Giô-áp Do Thái phản loạn cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận các cột đồng đền thờ Jachin Boaz và bể đồng Biển đúc khổng lồ là gì?",
+          "options": [
+            "Bị quân Ba-by-lon đập đập phá vỡ vụn mang toàn bộ đồng thau sang Ba-by-lon",
+            "Được rước nguyên vẹn đặt đền thờ ngoại bang",
+            "Bị nấu chảy đúc tượng vàng thần Ba-al mới",
+            "Không bị phá hủy giữ nguyên làm kỷ niệm cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên tổng đốc Giu-đa Ba-by-lon bổ nhiệm cai quản dân nghèo sót bị ám sát chết là ai?",
+          "options": [
+            "Ghê-đa-lia (Gedaliah con A-khi-cam bị ám sát)",
+            "Mát-ta-ni-a chú vua đổi tên Sê-đê-kia",
+            "Tư tế thượng tế Xơ-ra-gia bị chém đầu",
+            "Đầy tớ Ghê-kha-xi bị phong cùi trắng xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động nghĩa cử nhân từ vua Ba-by-lon mới làm cho cựu vua Giê-hô-gia-khin cuối sách?",
+          "options": [
+            "Phóng thích tha ra khỏi ngục, cho ngồi bàn ăn ngồi bàn ăn hoàng gia ban lương thực suốt đời",
+            "Tha cho về Giê-ru-sa-lem làm vua bù nhìn mới",
+            "Chém đầu cổng thành Ba-by-lon răn đe dân",
+            "Bắt phạt nộp một vạn si-clơ vàng chuộc tự do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Năm chính xác thành Giê-ru-sa-lem thất thủ đền thờ bị thiêu rụi đợt hai chép câu 8 là?",
+          "options": [
+            "Năm thứ mười mười chín (19th year) trị vì của Nê-bu-cát-nê-xơ",
+            "Năm thứ bốn mươi trị vì của vua cha xưa",
+            "Năm thứ chín trị vì của vua bù nhìn Sê-đê-kia",
+            "Không ghi nhận năm chỉ chép tháng thứ năm ngày 7"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tai họa khủng khiếp vây hãm thành hai năm dẫn đến chọc thủng thành là gì?",
+          "options": [
+            "Hạn đói kinh hoàng kinh hoàng cấm có bánh ăn cho dân chúng trong thành",
+            "Dịch bệnh ung độc trĩ tàn phá chết sạch lính",
+            "Mưa bão sấm sét đánh sập sập tường thành cổng",
+            "Đất nứt nuốt chửng toàn bộ chiến binh bảo vệ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi cựu vua Sê-đê-kia bị đưa đến để vua Ba-by-lon tuyên án trừng trị câu 6 là?",
+          "options": [
+            "Thành Ríp-la (Riblah nơi vua tuyên án phạt)",
+            "Thành Ba-by-lon thủ đô đế quốc mới",
+            "Thành thánh Giê-ru-sa-lem cung điện đổ",
+            "Thành Đô-than nơi bắt Ê-li-sê xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng hoảng sợ của dân Do Thái sót lại sau khi quan tổng đốc Ghê-đa-lia bị ám sát là?",
+          "options": [
+            "Toàn dân chạy trốn trốn sang Ai Cập vì sợ cơn thịnh nộ quân Ba-by-lon trả thù",
+            "Nổi loạn chiếm lại đồn lũy quân sự cũ",
+            "Tôn kẻ ám sát lên làm lãnh tụ tối cao mới vương",
+            "Nộp một vạn si-clơ vàng xin lỗi vua Babylon"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa đoạn kết nhân từ đối với Giê-hô-gia-khin ở cuối sách 2 Các Vua là gì?",
+          "options": [
+            "Nhen nhóm tia hy vọng hy vọng phục hồi nhà Đa-vít dẫu vương quốc đã sụp đổ lưu đày",
+            "Sức mạnh kinh tế của đế quốc Babylon thắng thế",
+            "Sự thuần phục hoàn toàn của Do Thái trước ngoại bang",
+            "Sự lỗi thời của lề luật Mô-sê hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

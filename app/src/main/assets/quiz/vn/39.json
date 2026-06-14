@@ -1,0 +1,426 @@
+{
+  "bookId": 39,
+  "bookName": "Giô-na",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề đức tin chính của sách Giô-na chương 1 thảo luận về điều gì?",
+          "options": [
+            "Bài học đức tin và sấm ngôn trong sách 39 chương 1",
+            "Nghi thức dâng mười ta-lăng bạc cho đền thờ Syria cổ",
+            "Kỹ thuật huấn luyện ngựa chiến của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán phải cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn, câu chuyện hoặc lời răn đe tiêu biểu chép trong Giô-na chương 1 là gì?",
+          "options": [
+            "\"Đức Chúa phán quyết công minh trên dân Ngài ở chương 1.\"",
+            "\"Chúng tôi có xe chiến kỵ binh oai hùng bảo vệ vương triều\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt ngã ba đường\"",
+            "\"Hãy bỏ trốn sang sa mạc hoang dã cùi cách ly lánh nạn\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-na chương 1 củng cố đức tin hay cảnh báo tội lỗi dựa trên chi tiết nào qua cụm từ 'Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa?'",
+          "options": [
+            "Bài học tâm linh sâu sắc: Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa giúp hướng lòng trông cậy Chúa",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không mang ý răn dạy chỉ chép chuyện các tổ tiên thời hồng hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Đức Chúa Chúa hiển hiển linh linh bảo vệ kẻ trung tín' trong Giô-na chương 1 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Đức Chúa Chúa hiển hiển linh linh bảo vệ kẻ trung tín giúp đứng vững trước những thử thách bách hại",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế thập phân đền thờ vương triều Syria",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ cổ đại xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng hoặc hành động 'Tế đàn đàn dâng dâng của lễ vật đẹp lòng Chúa' trong Giô-na chương 1 biểu thị trạng thái nào?",
+          "options": [
+            "Biểu trưng đức tin hoặc quyền năng: Tế đàn đàn dâng dâng của lễ vật đẹp lòng Chúa chứng minh sự hướng dẫn kỳ diệu của Chúa",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giô-na chương 1, cụm từ 'Cơn giận giận phạt phạt chư chư dân ngoại bang chống Chúa' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa giải thoát hoặc phán xét công minh: Cơn giận giận phạt phạt chư chư dân ngoại bang chống Chúa để củng cố người trung tín",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc hành động liên quan đến 'Lời hứa hứa khôi khôi phục phục thái bình thịnh vượng đời' ở Giô-na chương 1 hướng con người trông cậy gì?",
+          "options": [
+            "Kêu gọi cậy trông và tôn vinh: Lời hứa hứa khôi khôi phục phục thái bình thịnh vượng đời vương quốc vĩnh cửu của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc nâng đỡ chính trong Giô-na chương 1 là ai?",
+          "options": [
+            "Cộng đoàn tín hữu, những kẻ bất trung phạm tội và thế hệ trẻ cần giáo huấn",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người giữ lòng trung nghĩa chương 1?",
+          "options": [
+            "Mạng sống được bảo toàn, giải thoát tội khiên, ban ơn bình an và sự sống đời đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và cứu độ sâu sắc của Giô-na chương 1 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa yêu thương, làm chủ lịch sử và kêu gọi con người cộng tác qua: Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề đức tin chính của sách Giô-na chương 2 thảo luận về điều gì?",
+          "options": [
+            "Bài học đức tin và sấm ngôn trong sách 39 chương 2",
+            "Nghi thức dâng mười ta-lăng bạc cho đền thờ Syria cổ",
+            "Kỹ thuật huấn luyện ngựa chiến của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán phải cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn, câu chuyện hoặc lời răn đe tiêu biểu chép trong Giô-na chương 2 là gì?",
+          "options": [
+            "\"Đức Chúa phán quyết công minh trên dân Ngài ở chương 2.\"",
+            "\"Chúng tôi có xe chiến kỵ binh oai hùng bảo vệ vương triều\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt ngã ba đường\"",
+            "\"Hãy bỏ trốn sang sa mạc hoang dã cùi cách ly lánh nạn\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-na chương 2 củng cố đức tin hay cảnh báo tội lỗi dựa trên chi tiết nào qua cụm từ 'Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa?'",
+          "options": [
+            "Bài học tâm linh sâu sắc: Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa giúp hướng lòng trông cậy Chúa",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không mang ý răn dạy chỉ chép chuyện các tổ tiên thời hồng hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Đức Chúa Chúa hiển hiển linh linh bảo vệ kẻ trung tín' trong Giô-na chương 2 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Đức Chúa Chúa hiển hiển linh linh bảo vệ kẻ trung tín giúp đứng vững trước những thử thách bách hại",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế thập phân đền thờ vương triều Syria",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ cổ đại xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng hoặc hành động 'Tế đàn đàn dâng dâng của lễ vật đẹp lòng Chúa' trong Giô-na chương 2 biểu thị trạng thái nào?",
+          "options": [
+            "Biểu trưng đức tin hoặc quyền năng: Tế đàn đàn dâng dâng của lễ vật đẹp lòng Chúa chứng minh sự hướng dẫn kỳ diệu của Chúa",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giô-na chương 2, cụm từ 'Cơn giận giận phạt phạt chư chư dân ngoại bang chống Chúa' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa giải thoát hoặc phán xét công minh: Cơn giận giận phạt phạt chư chư dân ngoại bang chống Chúa để củng cố người trung tín",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc hành động liên quan đến 'Lời hứa hứa khôi khôi phục phục thái bình thịnh vượng đời' ở Giô-na chương 2 hướng con người trông cậy gì?",
+          "options": [
+            "Kêu gọi cậy trông và tôn vinh: Lời hứa hứa khôi khôi phục phục thái bình thịnh vượng đời vương quốc vĩnh cửu của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc nâng đỡ chính trong Giô-na chương 2 là ai?",
+          "options": [
+            "Cộng đoàn tín hữu, những kẻ bất trung phạm tội và thế hệ trẻ cần giáo huấn",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người giữ lòng trung nghĩa chương 2?",
+          "options": [
+            "Mạng sống được bảo toàn, giải thoát tội khiên, ban ơn bình an và sự sống đời đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và cứu độ sâu sắc của Giô-na chương 2 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa yêu thương, làm chủ lịch sử và kêu gọi con người cộng tác qua: Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề đức tin chính của sách Giô-na chương 3 thảo luận về điều gì?",
+          "options": [
+            "Bài học đức tin và sấm ngôn trong sách 39 chương 3",
+            "Nghi thức dâng mười ta-lăng bạc cho đền thờ Syria cổ",
+            "Kỹ thuật huấn luyện ngựa chiến của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán phải cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn, câu chuyện hoặc lời răn đe tiêu biểu chép trong Giô-na chương 3 là gì?",
+          "options": [
+            "\"Đức Chúa phán quyết công minh trên dân Ngài ở chương 3.\"",
+            "\"Chúng tôi có xe chiến kỵ binh oai hùng bảo vệ vương triều\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt ngã ba đường\"",
+            "\"Hãy bỏ trốn sang sa mạc hoang dã cùi cách ly lánh nạn\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-na chương 3 củng cố đức tin hay cảnh báo tội lỗi dựa trên chi tiết nào qua cụm từ 'Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa?'",
+          "options": [
+            "Bài học tâm linh sâu sắc: Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa giúp hướng lòng trông cậy Chúa",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không mang ý răn dạy chỉ chép chuyện các tổ tiên thời hồng hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Đức Chúa Chúa hiển hiển linh linh bảo vệ kẻ trung tín' trong Giô-na chương 3 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Đức Chúa Chúa hiển hiển linh linh bảo vệ kẻ trung tín giúp đứng vững trước những thử thách bách hại",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế thập phân đền thờ vương triều Syria",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ cổ đại xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng hoặc hành động 'Tế đàn đàn dâng dâng của lễ vật đẹp lòng Chúa' trong Giô-na chương 3 biểu thị trạng thái nào?",
+          "options": [
+            "Biểu trưng đức tin hoặc quyền năng: Tế đàn đàn dâng dâng của lễ vật đẹp lòng Chúa chứng minh sự hướng dẫn kỳ diệu của Chúa",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giô-na chương 3, cụm từ 'Cơn giận giận phạt phạt chư chư dân ngoại bang chống Chúa' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa giải thoát hoặc phán xét công minh: Cơn giận giận phạt phạt chư chư dân ngoại bang chống Chúa để củng cố người trung tín",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc hành động liên quan đến 'Lời hứa hứa khôi khôi phục phục thái bình thịnh vượng đời' ở Giô-na chương 3 hướng con người trông cậy gì?",
+          "options": [
+            "Kêu gọi cậy trông và tôn vinh: Lời hứa hứa khôi khôi phục phục thái bình thịnh vượng đời vương quốc vĩnh cửu của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc nâng đỡ chính trong Giô-na chương 3 là ai?",
+          "options": [
+            "Cộng đoàn tín hữu, những kẻ bất trung phạm tội và thế hệ trẻ cần giáo huấn",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người giữ lòng trung nghĩa chương 3?",
+          "options": [
+            "Mạng sống được bảo toàn, giải thoát tội khiên, ban ơn bình an và sự sống đời đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và cứu độ sâu sắc của Giô-na chương 3 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa yêu thương, làm chủ lịch sử và kêu gọi con người cộng tác qua: Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề đức tin chính của sách Giô-na chương 4 thảo luận về điều gì?",
+          "options": [
+            "Bài học đức tin và sấm ngôn trong sách 39 chương 4",
+            "Nghi thức dâng mười ta-lăng bạc cho đền thờ Syria cổ",
+            "Kỹ thuật huấn luyện ngựa chiến của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán phải cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn, câu chuyện hoặc lời răn đe tiêu biểu chép trong Giô-na chương 4 là gì?",
+          "options": [
+            "\"Đức Chúa phán quyết công minh trên dân Ngài ở chương 4.\"",
+            "\"Chúng tôi có xe chiến kỵ binh oai hùng bảo vệ vương triều\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt ngã ba đường\"",
+            "\"Hãy bỏ trốn sang sa mạc hoang dã cùi cách ly lánh nạn\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-na chương 4 củng cố đức tin hay cảnh báo tội lỗi dựa trên chi tiết nào qua cụm từ 'Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa?'",
+          "options": [
+            "Bài học tâm linh sâu sắc: Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa giúp hướng lòng trông cậy Chúa",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không mang ý răn dạy chỉ chép chuyện các tổ tiên thời hồng hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Đức Chúa Chúa hiển hiển linh linh bảo vệ kẻ trung tín' trong Giô-na chương 4 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Đức Chúa Chúa hiển hiển linh linh bảo vệ kẻ trung tín giúp đứng vững trước những thử thách bách hại",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế thập phân đền thờ vương triều Syria",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ cổ đại xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng hoặc hành động 'Tế đàn đàn dâng dâng của lễ vật đẹp lòng Chúa' trong Giô-na chương 4 biểu thị trạng thái nào?",
+          "options": [
+            "Biểu trưng đức tin hoặc quyền năng: Tế đàn đàn dâng dâng của lễ vật đẹp lòng Chúa chứng minh sự hướng dẫn kỳ diệu của Chúa",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giô-na chương 4, cụm từ 'Cơn giận giận phạt phạt chư chư dân ngoại bang chống Chúa' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa giải thoát hoặc phán xét công minh: Cơn giận giận phạt phạt chư chư dân ngoại bang chống Chúa để củng cố người trung tín",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc hành động liên quan đến 'Lời hứa hứa khôi khôi phục phục thái bình thịnh vượng đời' ở Giô-na chương 4 hướng con người trông cậy gì?",
+          "options": [
+            "Kêu gọi cậy trông và tôn vinh: Lời hứa hứa khôi khôi phục phục thái bình thịnh vượng đời vương quốc vĩnh cửu của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc nâng đỡ chính trong Giô-na chương 4 là ai?",
+          "options": [
+            "Cộng đoàn tín hữu, những kẻ bất trung phạm tội và thế hệ trẻ cần giáo huấn",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người giữ lòng trung nghĩa chương 4?",
+          "options": [
+            "Mạng sống được bảo toàn, giải thoát tội khiên, ban ơn bình an và sự sống đời đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và cứu độ sâu sắc của Giô-na chương 4 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa yêu thương, làm chủ lịch sử và kêu gọi con người cộng tác qua: Kêu gọi gọi sám sám hối hối từ bỏ tội lỗi xưa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

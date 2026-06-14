@@ -8,20 +8,22 @@ import java.util.Random
 
 object QuizRepository {
     
-    private var quizMap: Map<Int, List<Question>>? = null
+    // In-memory cache: BookId -> Map of ChapterNumber -> List of Questions
+    private val quizCache = mutableMapOf<Int, Map<Int, List<Question>>>()
 
-    @Synchronized
-    fun init(context: Context) {
-        if (quizMap != null) return
+    private fun loadBookQuiz(context: Context, bookId: Int): Map<Int, List<Question>> {
+        val cached = quizCache[bookId]
+        if (cached != null) return cached
+
         val map = mutableMapOf<Int, List<Question>>()
         try {
-            val jsonString = context.assets.open("bible_quiz.json").bufferedReader().use { it.readText() }
+            val jsonString = context.assets.open("quiz/vn/$bookId.json").bufferedReader().use { it.readText() }
             val rootObj = JSONObject(jsonString)
-            val quizzesArray = rootObj.getJSONArray("quizzes")
-            for (i in 0 until quizzesArray.length()) {
-                val quizObj = quizzesArray.getJSONObject(i)
-                val bookId = quizObj.getInt("bookId")
-                val questionsArray = quizObj.getJSONArray("questions")
+            val chaptersArray = rootObj.getJSONArray("chapters")
+            for (i in 0 until chaptersArray.length()) {
+                val chapterObj = chaptersArray.getJSONObject(i)
+                val chapterNum = chapterObj.getInt("chapter")
+                val questionsArray = chapterObj.getJSONArray("questions")
                 val questions = mutableListOf<Question>()
                 for (j in 0 until questionsArray.length()) {
                     val qObj = questionsArray.getJSONObject(j)
@@ -34,41 +36,187 @@ object QuizRepository {
                     val correctIndex = qObj.getInt("correctAnswerIndex")
                     questions.add(Question(text, options, correctIndex))
                 }
-                map[bookId] = questions
+                map[chapterNum] = questions
             }
-            quizMap = map
+            quizCache[bookId] = map
         } catch (e: Exception) {
             e.printStackTrace()
-            // Fallback: load hardcoded if file is missing/corrupt
-            quizMap = getFallbackQuizzes()
         }
+        return map
     }
 
-    private fun getFallbackQuizzes(): Map<Int, List<Question>> {
-        return mapOf(
-            1 to getGenesisQuestions(),
-            2 to getExodusQuestions(),
-            47 to getMatthewQuestions(),
-            50 to getJohnQuestions()
-        )
+    fun getQuestionsForChapter(context: Context, bookId: Int, chapter: Int): List<Question> {
+        val bookQuiz = loadBookQuiz(context, bookId)
+        val staticQuestions = bookQuiz[chapter]
+        if (staticQuestions != null && staticQuestions.isNotEmpty()) {
+            return staticQuestions
+        }
+        return generateDynamicQuestions(context, bookId, chapter)
     }
 
     fun getQuestionsForBook(context: Context, bookId: Int): List<Question> {
-        init(context)
-        return quizMap?.get(bookId) ?: emptyList()
+        val bookQuiz = loadBookQuiz(context, bookId)
+        val staticQuestions = bookQuiz.values.flatten()
+        if (staticQuestions.isNotEmpty()) {
+            return staticQuestions
+        }
+
+        // Dynamically generate book-level questions (20 questions from random chapters)
+        val dbHelper = com.example.triava.data.database.BibleDatabaseHelper(context)
+        val totalChapters = dbHelper.getChaptersCount(bookId)
+        val questions = mutableListOf<Question>()
+        if (totalChapters <= 0) return emptyList()
+
+        val chaptersToQuery = (1..totalChapters).shuffled().take(minOf(5, totalChapters))
+        for (ch in chaptersToQuery) {
+            questions.addAll(generateDynamicQuestions(context, bookId, ch))
+        }
+        return questions.shuffled().take(20)
+    }
+
+    private fun generateDynamicQuestions(context: Context, bookId: Int, chapter: Int): List<Question> {
+        val questions = mutableListOf<Question>()
+        try {
+            val dbHelper = com.example.triava.data.database.BibleDatabaseHelper(context)
+            val verses = dbHelper.getVerses(bookId, chapter)
+            if (verses.isEmpty()) return emptyList()
+
+            val book = dbHelper.getBook(bookId)
+            val bookName = book?.nameVi ?: "Kinh Thánh"
+
+            // Shuffling verses so we get different questions if they play again
+            val shuffledVerses = verses.shuffled()
+            val limit = minOf(10, shuffledVerses.size)
+
+            val fallbackDistractors = listOf(
+                "Thiên Chúa", "ĐỨC CHÚA", "sứ thần", "Giao ước", "lễ tế", "bàn thờ",
+                "Áp-ra-ham", "Gia-cóp", "Giô-sép", "Mô-sê", "Ai Cập", "Ca-na-an",
+                "lúa mì", "đất đai", "súc vật", "con chiên", "bánh mì", "rượu nho",
+                "hoang địa", "chúc phúc", "đức tin", "công chính", "sự sống", "đền thờ"
+            )
+
+            for (i in 0 until limit) {
+                val verse = shuffledVerses[i]
+                val originalText = verse.textVi
+                if (originalText.isBlank()) continue
+
+                // Find candidate words to blank out
+                val words = originalText.split(Regex("\\s+"))
+                val candidates = words.map { word ->
+                    word.trim { it in listOf(',', '.', ';', ':', '?', '!', '"', '\'', '(', ')', '[', ']', '“', '”', '‘', '’') }
+                }.filter { cleanWord ->
+                    cleanWord.length >= 3 && (
+                        cleanWord.contains("-") || // proper name hyphenated (e.g. Gia-cóp)
+                        cleanWord.firstOrNull()?.isUpperCase() == true || // capitalized word
+                        cleanWord.length >= 5 // longer word
+                    )
+                }
+
+                if (candidates.isEmpty()) continue
+
+                // Pick a random candidate word
+                val targetWord = candidates.random()
+
+                // Replace the target word in the text with [...]
+                var blankedText = originalText
+                val wordIndex = originalText.indexOf(targetWord)
+                if (wordIndex != -1) {
+                    blankedText = originalText.substring(0, wordIndex) + "[...]" + originalText.substring(wordIndex + targetWord.length)
+                } else {
+                    continue
+                }
+
+                // Prepare options (correct answer + 3 distractors)
+                val options = mutableSetOf<String>()
+                options.add(targetWord)
+
+                // Try to get other words from the same chapter as distractors
+                val otherWords = verses.flatMap { v ->
+                    v.textVi.split(Regex("\\s+")).map { w ->
+                        w.trim { it in listOf(',', '.', ';', ':', '?', '!', '"', '\'', '(', ')', '[', ']', '“', '”', '‘', '’') }
+                    }
+                }.filter { cleanWord ->
+                    cleanWord.length >= 3 && 
+                    cleanWord != targetWord && 
+                    cleanWord.firstOrNull()?.isUpperCase() == targetWord.firstOrNull()?.isUpperCase()
+                }.shuffled()
+
+                for (w in otherWords) {
+                    if (options.size < 4) {
+                        options.add(w)
+                    } else {
+                        break
+                    }
+                }
+
+                // If still not enough options, use fallbacks
+                val shuffledFallbacks = fallbackDistractors.shuffled()
+                for (w in shuffledFallbacks) {
+                    if (options.size < 4 && w != targetWord) {
+                        options.add(w)
+                    }
+                }
+
+                // Fallback placeholders
+                val placeholders = listOf("Đức tin", "Hy vọng", "Yêu thương", "Bình an")
+                for (w in placeholders) {
+                    if (options.size < 4 && w != targetWord) {
+                        options.add(w)
+                    }
+                }
+
+                val optionsList = options.toList().shuffled()
+                val correctIndex = optionsList.indexOf(targetWord)
+
+                questions.add(
+                    Question(
+                        text = "Điền từ còn thiếu vào chỗ trống:\n\n\"$blankedText\"\n\n($bookName ${verse.chapter}:${verse.verseNumber})",
+                        options = optionsList,
+                        correctAnswerIndex = correctIndex
+                    )
+                )
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+        return questions
     }
 
     fun getRandomQuestions(context: Context, count: Int): List<Question> {
-        init(context)
-        val allQuestions = quizMap?.values?.flatten() ?: emptyList()
+        val allQuestions = mutableListOf<Question>()
+        try {
+            val files = context.assets.list("quiz/vn") ?: emptyArray()
+            for (filename in files) {
+                if (filename.endsWith(".json")) {
+                    val bookId = filename.substringBefore(".json").toIntOrNull() ?: continue
+                    allQuestions.addAll(getQuestionsForBook(context, bookId))
+                }
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+        
         if (allQuestions.isEmpty()) return emptyList()
         return allQuestions.shuffled().take(count)
     }
 
     fun getQuestionsByCategory(context: Context, testament: String, count: Int): List<Question> {
-        init(context)
         val bookIds = if (testament == "OT") 1..46 else 47..73
-        val categoryQuestions = quizMap?.filterKeys { it in bookIds }?.values?.flatten() ?: emptyList()
+        val categoryQuestions = mutableListOf<Question>()
+        try {
+            val files = context.assets.list("quiz/vn") ?: emptyArray()
+            for (filename in files) {
+                if (filename.endsWith(".json")) {
+                    val bookId = filename.substringBefore(".json").toIntOrNull() ?: continue
+                    if (bookId in bookIds) {
+                        categoryQuestions.addAll(getQuestionsForBook(context, bookId))
+                    }
+                }
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+
         if (categoryQuestions.isEmpty()) {
             return getRandomQuestions(context, count)
         }
@@ -76,10 +224,21 @@ object QuizRepository {
     }
 
     fun getDailyQuestions(context: Context): List<Question> {
-        init(context)
-        val allQuestions = quizMap?.values?.flatten() ?: emptyList()
+        val allQuestions = mutableListOf<Question>()
+        try {
+            val files = context.assets.list("quiz/vn") ?: emptyArray()
+            for (filename in files) {
+                if (filename.endsWith(".json")) {
+                    val bookId = filename.substringBefore(".json").toIntOrNull() ?: continue
+                    allQuestions.addAll(getQuestionsForBook(context, bookId))
+                }
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+
         if (allQuestions.isEmpty()) return emptyList()
-        
+
         // Seed based on current date
         val calendar = Calendar.getInstance()
         val seed = (calendar.get(Calendar.YEAR) * 10000 + 
@@ -98,65 +257,5 @@ object QuizRepository {
         }
         
         return shuffled.take(5)
-    }
-
-    private fun getGenesisQuestions(): List<Question> {
-        return listOf(
-            Question("Thiên Chúa đã tạo dựng vũ trụ trong mấy ngày?", listOf("5 ngày", "6 ngày", "7 ngày", "8 ngày"), 1),
-            Question("Người đàn ông đầu tiên được Thiên Chúa tạo ra tên là gì?", listOf("Áp-ra-ham", "Mô-sê", "A-đam", "Nô-ê"), 2),
-            Question("Tại sao Thiên Chúa lại cho trận đại hồng thủy xảy ra?", listOf("Vì con người quá đông đúc", "Vì con người tội lỗi và gian ác", "Vì muốn thanh lọc trái đất", "Vì một tai nạn tự nhiên"), 1),
-            Question("Ai là người đã đóng tàu để cứu gia đình và các loài động vật khỏi hồng thủy?", listOf("Lót", "Gióp", "Áp-ra-ham", "Nô-ê"), 3),
-            Question("Tháp nào mà con người xây dựng để cao đến tận trời nhưng bị Thiên Chúa làm lộn xộn ngôn ngữ?", listOf("Tháp Si-on", "Tháp Ba-bên", "Tháp Đa-vít", "Tháp Giê-ru-sa-lem"), 1),
-            Question("Thiên Chúa đã gọi ai rời bỏ quê hương để đi đến một vùng đất mới và hứa sẽ làm cho ông thành một dân tộc lớn?", listOf("I-xa-ác", "Gia-cóp", "Áp-ra-ham", "Mô-sê"), 2),
-            Question("Vợ của Áp-ra-ham, người đã sinh cho ông một người con trai khi bà đã già yếu, tên là gì?", listOf("Ra-khen", "Xa-ra", "Rê-bê-ca", "Lê-a"), 1),
-            Question("Con trai duy nhất của Áp-ra-ham và Xa-ra tên là gì?", listOf("I-xa-ác", "Ích-ma-ên", "Ê-sau", "Gia-cóp"), 0),
-            Question("Ai là người đã bán quyền trưởng nam của mình chỉ vì một bát cháo đậu đỏ?", listOf("Ê-sau", "Gia-cóp", "Giô-sép", "Giu-đa"), 0),
-            Question("Ai đã bị các anh mình bán sang Ai Cập nhưng sau đó trở thành tể tướng?", listOf("Bên-gia-min", "Giu-đa", "Ru-bên", "Giô-sép"), 3)
-        )
-    }
-
-    private fun getExodusQuestions(): List<Question> {
-        return listOf(
-            Question("Ai là người được Thiên Chúa chọn để dẫn dắt dân Israel ra khỏi Ai Cập?", listOf("Áp-ra-ham", "Gia-cóp", "Mô-sê", "A-ha-ron"), 2),
-            Question("Thiên Chúa đã hiện ra với Mô-sê trong hình ảnh nào trên núi Hô-rếp?", listOf("Một đám mây", "Một bụi gai bốc cháy nhưng không tàn", "Một cột lửa", "Một thiên thần"), 1),
-            Question("Có bao nhiêu tai ương đã giáng xuống Ai Cập trước khi Pha-ra-ôn chịu để dân Israel đi?", listOf("7", "10", "12", "40"), 1),
-            Question("Tai ương cuối cùng giáng xuống Ai Cập là gì?", listOf("Nước hóa máu", "Dịch ếch nhái", "Bóng tối bao trùm", "Các con đầu lòng bị giết"), 3),
-            Question("Biển nào đã rẽ nước ra để dân Israel đi qua như trên đất liền?", listOf("Biển Chết", "Biển Đỏ", "Biển Ga-li-lê", "Biển Địa Trung Hải"), 1),
-            Question("Thiên Chúa đã ban thức ăn gì từ trời xuống cho dân Israel trong sa mạc?", listOf("Man-na", "Bánh mì", "Trái cây", "Thịt cừu"), 0),
-            Question("Mô-sê đã nhận được Hai Mươi Điều Răn trên ngọn núi nào?", listOf("Núi Ca-rê-bê", "Núi Xi-nai", "Núi Các-mên", "Núi Ô-liu"), 1),
-            Question("Trong khi Mô-sê ở trên núi, dân Israel đã đúc tượng con vật gì để thờ lạy?", listOf("Con cừu vàng", "Con rắn đồng", "Con bê vàng", "Con chim câu"), 2),
-            Question("Ai là anh trai của Mô-sê và được chọn làm tư tế đầu tiên?", listOf("Giu-đa", "Lê-vi", "A-ha-ron", "Mi-ri-am"), 2),
-            Question("Khám Giao Ước được đặt ở đâu trong Lều Hội Ngộ?", listOf("Nơi Thánh", "Nơi Cực Thánh", "Bàn Thờ", "Sân Lều"), 1)
-        )
-    }
-
-    private fun getMatthewQuestions(): List<Question> {
-        return listOf(
-            Question("Sách Phúc Âm Mát-thêu bắt đầu bằng việc gì?", listOf("Gia phả của Chúa Giêsu", "Sự giáng sinh của Chúa Giêsu", "Gioan Tẩy Giả rao giảng", "Chúa Giêsu chịu phép rửa"), 0),
-            Question("Chúa Giêsu đã sinh ra tại thành phố nào?", listOf("Na-da-rét", "Bê-lem", "Giê-ru-sa-lem", "Ca-phác-na-um"), 1),
-            Question("Ai đã báo mộng cho Thánh Giuse đưa Hài Nhi và Mẹ Người trốn sang Ai Cập?", listOf("Thiên thần Gáp-ri-en", "Một vị đạo sĩ", "Sứ thần của Chúa", "Bà Ê-li-xa-bét"), 2),
-            Question("Chúa Giêsu đã ăn chay trong hoang địa bao nhiêu ngày đêm?", listOf("7 ngày", "12 ngày", "40 ngày", "50 ngày"), 2),
-            Question("Bài giảng nổi tiếng nhất của Chúa Giêsu trong Mát-thêu chương 5-7 gọi là gì?", listOf("Bài giảng trên Núi", "Bài giảng tại Đền Thờ", "Bài giảng bên Biển Hồ", "Bài giảng ở Hội Đường"), 0),
-            Question("Trong kinh Lạy Cha, câu nào đi sau 'Xin tha nợ chúng con'?", listOf("Như chúng con cũng tha kẻ có nợ chúng con", "Và chớ để chúng con sa chước cám dỗ", "Nhưng cứu chúng con cho khỏi sự dữ", "Ý Cha thể hiện dưới đất cũng như trên trời"), 0),
-            Question("Chúa Giêsu đã dùng mấy chiếc bánh và mấy con cá để nuôi 5000 người ăn no?", listOf("7 bánh, 2 cá", "5 bánh, 2 cá", "5 bánh, 5 cá", "7 bánh, 5 cá"), 1),
-            Question("Môn đệ nào đã đi trên mặt nước để đến với Chúa Giêsu nhưng lại sợ hãi và chìm xuống?", listOf("Gio-an", "Gia-cô-bê", "Phê-rô", "An-rê"), 2),
-            Question("Môn đệ nào đã phản bội và nộp Chúa Giêsu với giá 30 đồng bạc?", listOf("Tô-ma", "Giu-đa Ít-ca-ri-ốt", "Phê-rô", "Si-môn"), 1),
-            Question("Lời cuối cùng Chúa Giêsu dặn dò các môn đệ trước khi về trời là gì?", listOf("Hãy đi giảng dạy muôn dân", "Hãy xây dựng đền thờ", "Hãy tránh xa người Pha-ri-sêu", "Hãy đi tìm chiên lạc"), 0)
-        )
-    }
-
-    private fun getJohnQuestions(): List<Question> {
-        return listOf(
-            Question("Sách Phúc Âm Gio-an bắt đầu bằng câu nào?", listOf("Gia phả của Đức Giêsu Kitô", "Lúc khởi đầu đã có Ngôi Lời", "Có một người tên là Gioan", "Khởi đầu Tin Mừng Đức Giêsu Kitô"), 1),
-            Question("Phép lạ đầu tiên Chúa Giêsu làm tại tiệc cưới Ca-na là gì?", listOf("Chữa người mù", "Hóa bánh ra nhiều", "Biến nước thành rượu", "Đi trên mặt nước"), 2),
-            Question("Chúa Giêsu nói chuyện với người phụ nữ ngoại giáo nào bên bờ giếng Gia-cóp?", listOf("Người Samari", "Người Rôma", "Người Hylạp", "Người Cana-an"), 0),
-            Question("Ai là người đã được Chúa Giêsu gọi ra khỏi mồ sau khi chết 4 ngày?", listOf("Da-kêu", "La-da-rô", "Nai-in", "Giai-rô"), 1),
-            Question("Chúa Giêsu đã làm hành động gì cho các môn đệ trong Bữa Tiệc Ly?", listOf("Rửa mặt", "Rửa tay", "Rửa chân", "Xức dầu"), 2),
-            Question("Chúa Giêsu tự xưng mình là gì trong Phúc Âm Gio-an?", listOf("Ta là bánh hằng sống", "Ta là sự sáng thế gian", "Ta là mục tử nhân lành", "Tất cả các ý trên"), 3),
-            Question("Môn đệ nào đã không tin Chúa Giêsu phục sinh cho đến khi chạm vào vết thương của Người?", listOf("Phê-rô", "Tô-ma", "Giu-đa", "Mat-thêu"), 1),
-            Question("Trên thập giá, Chúa Giêsu đã trao phó Đức Mẹ cho môn đệ nào?", listOf("Phê-rô", "Gio-an", "Gia-cô-bê", "Tô-ma"), 1),
-            Question("Sau khi phục sinh, Chúa Giêsu đã hỏi Phê-rô câu gì 3 lần?", listOf("Con có yêu mến Thầy không?", "Con có tin Thầy không?", "Con có theo Thầy không?", "Con có phản Thầy không?"), 0),
-            Question("Theo chương 21, người môn đệ 'được Chúa Giêsu yêu mến' là ai?", listOf("Phê-rô", "Chính tác giả sách Phúc Âm Gio-an", "Phao-lô", "Gia-cô-bê"), 1)
-        )
     }
 }

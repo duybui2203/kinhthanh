@@ -1,0 +1,3261 @@
+{
+  "bookId": 24,
+  "bookName": "Châm ngôn",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Mục đích mở đầu của sách Châm ngôn câu 7 khẳng định khởi đầu tri thức là?",
+          "options": [
+            "Kính sợ Đức Chúa kính sợ Đức Chúa là khởi đầu tri thức, kẻ ngu khinh khôn ngoan",
+            "Học luật pháp đóng thuế thập phân vàng vương triều Syria",
+            "Bắn tên oai hùng bên sa mạc cát nóng hoang dã",
+            "Không có khởi đầu tự mình thông minh khôn ngoan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn khuyên con trai tránh xa bọn tội phạm lôi kéo câu 10?",
+          "options": [
+            "Hỡi con, nếu kẻ tội tội lỗi lỗi lỗi dụ dỗ con, đừng tán thành theo chúng",
+            "Hãy đi mua kỵ binh xe chiến Ba-tư bảo vệ mình",
+            "Hãy tự sát đi lánh nạn chịu chết đống tro tàn",
+            "Chúc kẻ thù bị phong cùi trắng trán sa mạc cách ly"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bọn gian ác dụ dỗ con đi làm việc ác gì chép câu 11-12?",
+          "options": [
+            "Mai phục phục đổ máu người vô tội, nuốt chửng chúng như âm phủ",
+            "Đúc tượng con bò vàng thờ cúng đặt Bê-then Đan tạ",
+            "Bán mười ta-lăng bạc lấy tiền vàng đút lót vương triều",
+            "Không làm ác đi quyên góp tiền xây đền thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự khôn ngoan cất tiếng kêu gọi réo rắt ở địa điểm nào câu 20-21?",
+          "options": [
+            "Kêu ngoài đường đường phố, cất tiếng nơi công trường, quảng trường cổng thành",
+            "Kêu gào trong cung điện bọc vàng ròng của vua chúa",
+            "Kêu van ở hoang mạc hoang dã cùi cách ly phòng",
+            "Không kêu gọi chỉ thầm thì lòng người ngoan đạo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận kẻ khờ dại cự tuyệt sự sửa dạy của Khôn ngoan câu 32?",
+          "options": [
+            "Kẻ khờ khờ dại dại bị giết vì quay lưng lại, kẻ ngu xuẩn bị diệt vì tự mãn",
+            "Sẽ trở nên giàu sang có nhiều khiên vàng lớn",
+            "Bị phong cùi trắng cách ly phòng biệt lập hoang",
+            "Không bị diệt sống thọ trăm tuổi bình an hưởng lạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Khôn ngoan cảnh cáo khi tai họa ập đến kẻ cự tuyệt câu 26?",
+          "options": [
+            "Ta sẽ cười cười nhạo nhạo tai tai họa của các ngươi, chế giễu khi kinh hoàng ập",
+            "Ta sẽ ban kỵ binh xe chiến Ba-tư hộ tống các ngươi",
+            "Ta sẽ phong cùi trắng trán kẻ nghịch hại các ngươi",
+            "Không cảnh cáo luôn yêu thương tha thứ lỗi lầm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người lắng nghe Khôn ngoan sẽ nhận được trạng thái nào câu 33?",
+          "options": [
+            "Sẽ sống an an toàn toàn toàn, được thảnh thơi cấm sợ tai họa nào",
+            "Sẽ nhận được mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Sẽ bị phong cùi trắng trán cách ly biệt lập phòng",
+            "Không có an toàn luôn gặp gian truân sa mạc nóng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ ác gieo tai họa chịu hậu quả gì câu 31 chép?",
+          "options": [
+            "Chúng phải ăn ăn trái trái của đường lối mình, no nê mưu chước gian tà",
+            "Chúng nhận được khiên vàng Sa-lô-môn đúc vinh hiển",
+            "Chúng bị phong cùi trắng trán dòng dõi họ thù địch",
+            "Không chịu hậu quả sống an nhàn giàu sang triều đình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là tác giả chính được ghi nhận ở dòng đầu sách Châm ngôn câu 1?",
+          "options": [
+            "Vua Sa-lô-môn Sa-lô-môn con vua Đa-vít, trị vì Ít-ra-en",
+            "Tiên tri Giê-rê-mi-a than thở khóc thương Si-on",
+            "Tể tướng Haman độc ác mưu hại dân Do Thái xưa",
+            "Tư tế Lê-vi dòng Aaron lo việc dâng tế đàn đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học chương 1 sách Châm ngôn chép dạy gì?",
+          "options": [
+            "Định nghĩa nguồn nguồn gốc gốc khôn ngoan là kính sợ Chúa; lời khuyên tránh xa tội lỗi hiểm ác",
+            "Do Thái có số lượng quảng trường rộng nhất thế giới",
+            "Sự nhút nhát hèn hạ của thanh niên cấm dám từ chối bạn",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Nếu con tìm kiếm Khôn ngoan như vật báu nào con sẽ hiểu lòng kính sợ Chúa câu 4-5?",
+          "options": [
+            "Như bạc bạc và kho kho tàng tàng ẩn giấu ẩn giấu lâu nay",
+            "Như kỵ binh xe chiến Ba-tư oai hùng chiến đấu",
+            "Như khiên vàng Sa-lô-môn đúc thay khiên đồng xưa",
+            "Như con dê cừu non ngoài hoang mạc hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA ban tặng sự khôn ngoan từ bộ phận nào của Ngài câu 6?",
+          "options": [
+            "Từ miệng miệng miệng Ngài xuất ra tri thức và thông minh",
+            "Từ tay hữu Ngài dội lửa sấm sét thiêu giặc",
+            "Từ trái tim Ngài đập mạnh yêu thương muôn dân Do",
+            "Không ban tặng tự con người thông minh học hỏi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự khôn ngoan sẽ cứu con khỏi loại đàn bà nào câu 16?",
+          "options": [
+            "Khỏi người đàn đàn bà bà xa xa lạ lạ, người vợ ngoại bang lời phỉnh phờ",
+            "Khỏi góa phụ nghèo khổ gác đền thờ thánh Chúa",
+            "Khỏi công chúa xứ Syria oai hùng triều đình cũ",
+            "Không cứu khỏi để mặc con sa vào bẫy rập tình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối đi của kẻ gian ác được mô tả thế nào câu 15 chép?",
+          "options": [
+            "Đường lối lối cong cong queo queo queo, đi những nẻo đường quanh co gian tà",
+            "Đường lối bọc vàng ròng rực rỡ lấp lánh cung điện",
+            "Đường lối kỵ binh Ba-tư diễu hành oai phong vương",
+            "Không cong queo đường lối thẳng tắp mát mẻ bóng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhà của người đàn bà trắc nết dẫn xuống địa điểm đáng sợ nào câu 18?",
+          "options": [
+            "Nhà dẫn xuống xuống cõi cõi chết chết chết, nẻo nẻo đường dẫn đến âm phủ u uẩn",
+            "Nhà dẫn vào đền thánh Giê-ru-sa-lem nguy nga bọc",
+            "Nhà dẫn sang Ai Cập cổ đại dọc sông Nile xanh",
+            "Không dẫn đi đâu nhà nàng ở trung tâm thành phố"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa tể giữ gìn, làm tấm khiên bảo vệ người có lối sống nào câu 7?",
+          "options": [
+            "Lối sống sống vẹn vẹn toàn toàn toàn chính trực, người ăn ở ngay thẳng",
+            "Lối sống giàu sang có nhiều vàng bạc cung điện",
+            "Lối sống của tư tế Lê-vi dâng tế đàn đồng",
+            "Không bảo vệ để mặc mọi người tự do tự lo mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự khôn ngoan sẽ cứu con khỏi lối sống của ai câu 12?",
+          "options": [
+            "Cứu con khỏi đường đường lối lối của kẻ ác kẻ ác, kẻ nói lời gian tà",
+            "Cứu con khỏi kỵ binh xe chiến Ba-tư càn quét",
+            "Cứu con khỏi bị phong cùi trắng trán cách ly",
+            "Không cứu cứu cứu để con tự do lựa chọn lối đi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ trắc nết quên đi giao ước nào của Thiên Chúa câu 17 chép?",
+          "options": [
+            "Quên giao giao ước ước của Thiên Chúa mình, bỏ người bạn thanh xuân",
+            "Quên giao ước lập với Áp-ra-ham về đất hứa",
+            "Quên luật pháp đóng thuế thập phân vàng vương",
+            "Không quên giao ước nào chỉ quên lời hứa với chồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những người ăn ở ngay thẳng sẽ được ngụ ở đâu câu 21?",
+          "options": [
+            "Sẽ được ngụ ngụ trên trên đất đất đất, người vẹn toàn sẽ ở lại đó",
+            "Sẽ được ngụ đền thánh Giê-ru-sa-lem bọc vàng",
+            "Sẽ bị phong cùi trắng cách ly phòng biệt lập",
+            "Không ngụ đất thế biến mất vĩnh viễn địa ngục"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa giáo huấn chương 2 sách Châm ngôn chép dạy gì?",
+          "options": [
+            "Giá trị trị bảo bảo vệ vệ của sự khôn ngoan cứu con người khỏi nẻo đường ác nhân và cạm bẫy dâm phụ",
+            "Do Thái có số lượng kho báu bạc nhiều nhất nước",
+            "Sự nhút nhát của thanh niên trước dâm phụ phỉnh",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Lời khuyên răn con cậy trông vào Chúa hết lòng câu 5 chép là?",
+          "options": [
+            "Hãy tin cậy cậy vào vào Đức Đức Chúa Chúa hết lòng, đừng dựa tri thức mình",
+            "Hãy tin cậy kỵ binh chiến xa sắt Ba-tư oai hùng",
+            "Hãy đút lót một vạn si-clơ vàng xin tha tội",
+            "Chúc đức vua bị phong cùi trắng trán sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi con dâng hoa lợi đầu mùa dâng kính Chúa, kết quả là câu 9-10?",
+          "options": [
+            "Kho lẫm lẫm ngươi ngươi đầy đầy ắp thóc lúa, bồn ép rượu tràn ngập rượu mới",
+            "Ngươi sẽ bị cướp sạch biến thành nô lệ ngoại bang",
+            "Bầy dê cừu chết sạch dịch bệnh hoang mạc nóng",
+            "Không được gì chỉ mất công của dâng hiến tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên con đối với sự sửa phạt giáo huấn của Chúa câu 11-12?",
+          "options": [
+            "Đừng khinh thường lời giáo giáo huấn huấn huấn Chúa sửa phạt người Ngài yêu",
+            "Hãy xé rách sách Luật Pháp đốt lửa đống tro tàn",
+            "Hãy nộp tiền vàng chuộc tội cùi trắng trán quan",
+            "Không khuyên răn tự do cãi lại lời Chúa mắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự khôn ngoan quý giá hơn châu ngọc báu vật nào câu 15?",
+          "options": [
+            "Khôn ngoan quý quý hơn châu châu ngọc ngọc ngọc, cấm của cải nào sánh bằng",
+            "Quý hơn mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Quý hơn khiên vàng Sa-lô-môn đúc thay khiên",
+            "Không quý bằng dê cừu súc vật tế đàn đồng thau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan là cây gì cho kẻ nắm giữ nó câu 18 chép?",
+          "options": [
+            "Là cây cây sự sự sống sống sống (tree of life) cho ai giữ được nó",
+            "Là cây sồi khô nhặt ngoài vườn gác lều tranh",
+            "Là cây lau cây sậy thiếu nước bùn bùn cạn kiệt",
+            "Không là cây gì chỉ là lời nói trừu tượng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa dùng khôn ngoan và thông minh để làm gì câu 19?",
+          "options": [
+            "Đặt nền móng móng trái đất trái đất, thiết lập vòm trời trời",
+            "Ban khiên vàng bọc ngai vàng lộng lẫy vua chúa",
+            "Phạt cùi trắng trán kẻ ác nhân sa mạc hoang",
+            "Không dùng tự thiên nhiên hình thành trôi chảy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên cấm được từ chối làm điều thiện cho ai câu 27?",
+          "options": [
+            "Đừng từ chối chối làm điều điều thiện thiện cho ai đáng được nhận khi tay",
+            "Đừng từ chối cướp khiên vàng đền thờ Do Thái",
+            "Đừng từ chối đút lót tiền vàng cho quan lớn",
+            "Không khuyên cấm làm việc thiện tự do ích kỷ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đừng cãi cọ vô cớ với ai nếu họ cấm làm hại con câu 30?",
+          "options": [
+            "Đừng cãi cọ cọ vô vô cớ cớ cớ với ai, nếu họ cấm làm hại gì con",
+            "Đừng cãi cọ với kỵ binh xe chiến Ba-tư oai",
+            "Đừng cãi cọ với hoàng hậu Esther Do Thái cứu",
+            "Không khuyên cấm cãi cọ tự do đánh nhau giành giật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa chống lại kẻ kiêu ngạo nhưng ban ơn cho ai câu 34?",
+          "options": [
+            "Ngài chế giễu kẻ chế giễu giễu, ban ban ơn ơn cho kẻ khiêm tốn tốn",
+            "Ngài ban khiên vàng cho kẻ giàu sang phú quý",
+            "Ngài phạt cùi trắng trán kẻ ác nhân sa mạc",
+            "Không can thiệp để mặc thế gian tự phân xử lấy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học chương 3 sách Châm ngôn chép dạy gì?",
+          "options": [
+            "Đức tin cậy cậy trông trông vào Chúa; giá trị vô song của Khôn Ngoan mang lại sự sống bình an hạnh phúc",
+            "Do Thái có số lượng bồn ép rượu tràn ngập nhất",
+            "Sự nhút nhát hèn yếu của thanh niên trước sửa dạy",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 4 thảo luận là gì?",
+          "options": [
+            "Lời cha khuyên dạy tìm kiếm Khôn Ngoan",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 4 là?",
+          "options": [
+            "\"Khôn ngoan là điều tối quan trọng, hãy tìm kiếm khôn ngoan.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 4 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Hãy giữ gìn lòng lòng con hơn hết vì từ đó phát nguồn sự sống?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Hãy giữ gìn lòng lòng con hơn hết vì từ đó phát nguồn sự sống để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Tránh xa nẻo đường của kẻ ác nhân ác nhân tà tà' trong Châm ngôn chương 4 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Tránh xa nẻo đường của kẻ ác nhân ác nhân tà tà giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Mắt hãy nhìn thẳng thẳng phía trước trước cấm lệch chân' trong Châm ngôn chương 4 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Mắt hãy nhìn thẳng thẳng phía trước trước cấm lệch chân dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 4, cụm từ 'Nẻo người công chính như ánh bình minh bình minh rạng rỡ' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Nẻo người công chính như ánh bình minh bình minh rạng rỡ mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Hãy từ bỏ môi miệng dối trá dối trá xảo quyệt hại người' ở Châm ngôn chương 4 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Hãy từ bỏ môi miệng dối trá dối trá xảo quyệt hại người để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 4 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 4 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 4 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Hãy giữ gìn lòng lòng con hơn hết vì từ đó phát nguồn sự sống",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 5 thảo luận là gì?",
+          "options": [
+            "Cảnh giác cạm bẫy người đàn bà dâm phụ",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 5 là?",
+          "options": [
+            "\"Môi người đàn bà xa lạ tiết ra mật ngọt, nhưng cuối cùng đắng như ngải cứu.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 5 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Môi dâm phụ tiết mật mật ngọt ngọt ngọt, miệng trơn hơn dầu?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Môi dâm phụ tiết mật mật ngọt ngọt ngọt, miệng trơn hơn dầu để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Cuối cùng đắng như ngải ngải cứu cứu, sắc như gươm hai lưỡi' trong Châm ngôn chương 5 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Cuối cùng đắng như ngải ngải cứu cứu, sắc như gươm hai lưỡi giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Chân nàng đi xuống cõi chết chết, bước dẫn vào âm phủ' trong Châm ngôn chương 5 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Chân nàng đi xuống cõi chết chết, bước dẫn vào âm phủ dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 5, cụm từ 'Hãy uống nước nước bể nhà ngươi ngươi nước giếng nhà mình' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Hãy uống nước nước bể nhà ngươi ngươi nước giếng nhà mình mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Hãy vui say nơi người vợ thanh xuân xuân của ngươi' ở Châm ngôn chương 5 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Hãy vui say nơi người vợ thanh xuân xuân của ngươi để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 5 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 5 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 5 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Môi dâm phụ tiết mật mật ngọt ngọt ngọt, miệng trơn hơn dầu",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 6 thảo luận là gì?",
+          "options": [
+            "Lời khuyên tránh bảo lãnh, lười biếng và gian ác",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 6 là?",
+          "options": [
+            "\"Hỡi kẻ lười biếng, hãy đi quan sát con kiến, học khôn ngoan từ nó.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 6 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Quan sát con con kiến kiến kiến hỡi kẻ lười biếng học khôn?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Quan sát con con kiến kiến kiến hỡi kẻ lười biếng học khôn để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Sáu điều Chúa ghét ghét ghét, bảy điều Ngài gớm ghiếc' trong Châm ngôn chương 6 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Sáu điều Chúa ghét ghét ghét, bảy điều Ngài gớm ghiếc giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Kẻ lười biếng ngủ ngủ trưa trưa nghèo đói ập đến như giặc' trong Châm ngôn chương 6 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Kẻ lười biếng ngủ ngủ trưa trưa nghèo đói ập đến như giặc dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 6, cụm từ 'Mắt kiêu ngạo, lưỡi dối dối trá trá, tay đổ máu vô tội' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Mắt kiêu ngạo, lưỡi dối dối trá trá, tay đổ máu vô tội mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Lòng hoài bão mưu gian ác ác, chân chạy nhanh làm bạo' ở Châm ngôn chương 6 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Lòng hoài bão mưu gian ác ác, chân chạy nhanh làm bạo để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 6 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 6 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 6 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Quan sát con con kiến kiến kiến hỡi kẻ lười biếng học khôn",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 7 thảo luận là gì?",
+          "options": [
+            "Cạm bẫy dâm phụ dụ dỗ thanh niên khờ dại",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 7 là?",
+          "options": [
+            "\"Nàng dụ dỗ gã bằng lời ngon ngọt trơn tru, kéo gã đi như bò bị dắt đến lò mổ.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 7 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Thanh niên khờ dại dại đi qua góc đường gần nhà nàng?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Thanh niên khờ dại dại đi qua góc đường gần nhà nàng để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Nàng mặc áo như điếm điếm điếm lòng đầy quỷ quyệt dụ' trong Châm ngôn chương 7 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Nàng mặc áo như điếm điếm điếm lòng đầy quỷ quyệt dụ giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Nàng rải giường bằng vải len len Ai Cập ướp mộc dược' trong Châm ngôn chương 7 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Nàng rải giường bằng vải len len Ai Cập ướp mộc dược dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 7, cụm từ 'Chồng nàng cấm có nhà nhà cầm túi bạc đi xa lâu' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Chồng nàng cấm có nhà nhà cầm túi bạc đi xa lâu mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Gã đi theo nàng như bò bò bị dắt đến lò mổ sát' ở Châm ngôn chương 7 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Gã đi theo nàng như bò bò bị dắt đến lò mổ sát để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 7 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 7 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 7 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Thanh niên khờ dại dại đi qua góc đường gần nhà nàng",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 8 thảo luận là gì?",
+          "options": [
+            "Bài ca oai hùng của Khôn Ngoan personified",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 8 là?",
+          "options": [
+            "\"Chúa đã tạo dựng nên Ta trước hết mọi công trình của Ngài thuở xưa.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 8 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Khôn ngoan quý quý hơn vàng vàng ròng tinh khiết báu?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Khôn ngoan quý quý hơn vàng vàng ròng tinh khiết báu để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Ta đã được thiết lập lập từ thuở đời đời khởi đầu' trong Châm ngôn chương 8 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Ta đã được thiết lập lập từ thuở đời đời khởi đầu giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Khi Chúa vẽ vòng tròn tròn mặt biển Ta đã có đó' trong Châm ngôn chương 8 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Khi Chúa vẽ vòng tròn tròn mặt biển Ta đã có đó dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 8, cụm từ 'Ta là kiến trúc sư sư sư bên cạnh Chúa hằng ngày vui' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Ta là kiến trúc sư sư sư bên cạnh Chúa hằng ngày vui mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Ai tìm được Ta Ta tìm được sự sống sống ơn lành Chúa' ở Châm ngôn chương 8 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Ai tìm được Ta Ta tìm được sự sống sống ơn lành Chúa để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 8 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 8 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 8 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Khôn ngoan quý quý hơn vàng vàng ròng tinh khiết báu",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 9 thảo luận là gì?",
+          "options": [
+            "Bàn tiệc Khôn Ngoan đối lập bàn tiệc Ngu Dại",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 9 là?",
+          "options": [
+            "\"Khôn ngoan đã xây nhà mình đục đẽo bảy cột trụ vững.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 9 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Khôn ngoan đục đẽo bảy bảy cột cột trụ trụ vững chắc xây nhà?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Khôn ngoan đục đẽo bảy bảy cột cột trụ trụ vững chắc xây nhà để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Nàng giết thịt pha rượu rượu dọn bàn tiệc mời gọi người' trong Châm ngôn chương 9 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Nàng giết thịt pha rượu rượu dọn bàn tiệc mời gọi người giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Kính sợ Chúa là khởi đầu của khôn khôn ngoan ngoan thật' trong Châm ngôn chương 9 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Kính sợ Chúa là khởi đầu của khôn khôn ngoan ngoan thật dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 9, cụm từ 'Bà Ngu Dại dại khờ ba hoa hoa ngồi cửa nhà mời gọi' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Bà Ngu Dại dại khờ ba hoa hoa ngồi cửa nhà mời gọi mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Nước ăn trộm trộm ngon ngọt bánh ăn lén lén thơm tho hại' ở Châm ngôn chương 9 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Nước ăn trộm trộm ngon ngọt bánh ăn lén lén thơm tho hại để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 9 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 9 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 9 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Khôn ngoan đục đẽo bảy bảy cột cột trụ trụ vững chắc xây nhà",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 10 thảo luận là gì?",
+          "options": [
+            "Bắt đầu bộ sưu tập châm ngôn Sa-lô-môn đối lập",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 10 là?",
+          "options": [
+            "\"Con khôn ngoan làm cha vui mừng, con ngu dại làm mẹ buồn sầu.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 10 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Con khôn ngoan ngoan làm cha cha vui mừng hớn hở lòng?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Con khôn ngoan ngoan làm cha cha vui mừng hớn hở lòng để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Tay siêng siêng năng năng làm giàu có, tay lười biếng nghèo' trong Châm ngôn chương 10 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Tay siêng siêng năng năng làm giàu có, tay lười biếng nghèo giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Miệng người công chính như nguồn nguồn sự sống sự sống ngọt' trong Châm ngôn chương 10 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Miệng người công chính như nguồn nguồn sự sống sự sống ngọt dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 10, cụm từ 'Của cải người giàu giàu như thành kiên cố của họ che' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Của cải người giàu giàu như thành kiên cố của họ che mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Nói năng nhiều cấm thiếu tội lỗi lỗi, kiềm môi là khôn' ở Châm ngôn chương 10 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Nói năng nhiều cấm thiếu tội lỗi lỗi, kiềm môi là khôn để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 10 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 10 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 10 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Con khôn ngoan ngoan làm cha cha vui mừng hớn hở lòng",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 11 thảo luận là gì?",
+          "options": [
+            "Cân đo gian lận và lối sống công chính",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 11 là?",
+          "options": [
+            "\"Cây cân gian lận là điều Chúa gớm ghiếc, quả cân đúng đắn làm Ngài vui.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 11 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Cây cân gian gian lận lận Chúa gớm ghiếc cấm bằng lòng?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Cây cân gian gian lận lận Chúa gớm ghiếc cấm bằng lòng để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Kẻ kiêu ngạo đi liền nhục nhã nhục nhã đi kèm theo gót' trong Châm ngôn chương 11 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Kẻ kiêu ngạo đi liền nhục nhã nhục nhã đi kèm theo gót giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Người hào phóng phóng được thịnh vượng vinh hiển giàu sang' trong Châm ngôn chương 11 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Người hào phóng phóng được thịnh vượng vinh hiển giàu sang dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 11, cụm từ 'Nhan sắc dâm phụ như khuyên vàng vàng mũi heo heo nái' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Nhan sắc dâm phụ như khuyên vàng vàng mũi heo heo nái mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Người gieo công chính công chính gặt phần thưởng chắc chắn' ở Châm ngôn chương 11 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Người gieo công chính công chính gặt phần thưởng chắc chắn để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 11 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 11 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 11 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Cây cân gian gian lận lận Chúa gớm ghiếc cấm bằng lòng",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 12 thảo luận là gì?",
+          "options": [
+            "Lời khuyên về làm việc chăm chỉ và môi miệng chân thật",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 12 là?",
+          "options": [
+            "\"Người chăm sóc đất đai mình sẽ no lòng, kẻ chạy theo hư ảo thiếu trí khôn.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 12 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Ai yêu lời nghiêm phạt phạt yêu tri thức khôn ngoan?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Ai yêu lời nghiêm phạt phạt yêu tri thức khôn ngoan để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Vợ đảm đang là triều triều thiên thiên cho chồng vinh hiển' trong Châm ngôn chương 12 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Vợ đảm đang là triều triều thiên thiên cho chồng vinh hiển giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Môi chân thật thật vững bền muôn đời, lưỡi dối chớp mắt' trong Châm ngôn chương 12 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Môi chân thật thật vững bền muôn đời, lưỡi dối chớp mắt dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 12, cụm từ 'Kẻ lười biếng cấm quay được thịt rừng rừng săn được nghèo' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Kẻ lười biếng cấm quay được thịt rừng rừng săn được nghèo mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Đường công chính có sự sống sống cấm có cái chết vong' ở Châm ngôn chương 12 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Đường công chính có sự sống sống cấm có cái chết vong để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 12 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 12 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 12 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Ai yêu lời nghiêm phạt phạt yêu tri thức khôn ngoan",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 13 thảo luận là gì?",
+          "options": [
+            "Roi vọt răn dạy và bạn hữu khôn ngoan",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 13 là?",
+          "options": [
+            "\"Ai ghét roi vọt là ghét con mình, ai yêu con sẽ lo răn dạy sớm.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 13 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Ai đi với người khôn khôn ngoan ngoan sẽ nên khôn ngoan?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Ai đi với người khôn khôn ngoan ngoan sẽ nên khôn ngoan để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Kẻ kết bạn bạn ngu xuẩn xuẩn sẽ chịu tai họa khốn' trong Châm ngôn chương 13 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Kẻ kết bạn bạn ngu xuẩn xuẩn sẽ chịu tai họa khốn giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Ai thương con con lo răn dạy dạy sớm dùng roi vọt' trong Châm ngôn chương 13 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Ai thương con con lo răn dạy dạy sớm dùng roi vọt dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 13, cụm từ 'Ánh sáng người công chính chiếu sáng sáng vui tươi lộng' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Ánh sáng người công chính chiếu sáng sáng vui tươi lộng mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Hy vọng trì hoãn làm lòng sầu sầu não não mệt mỏi' ở Châm ngôn chương 13 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Hy vọng trì hoãn làm lòng sầu sầu não não mệt mỏi để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 13 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 13 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 13 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Ai đi với người khôn khôn ngoan ngoan sẽ nên khôn ngoan",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 14 thảo luận là gì?",
+          "options": [
+            "Nhà người khôn ngoan và lối đi dẫn đến cái chết",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 14 là?",
+          "options": [
+            "\"Có lối đi tưởng là ngay thẳng trước mặt người đời, nhưng cuối cùng dẫn đến cái chết.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 14 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Đàn bà khôn ngoan xây dựng nhà nhà mình vững chắc?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Đàn bà khôn ngoan xây dựng nhà nhà mình vững chắc để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Có lối đi đi tưởng là ngay thẳng thẳng nhưng dẫn chết' trong Châm ngôn chương 14 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Có lối đi đi tưởng là ngay thẳng thẳng nhưng dẫn chết giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Kẻ hay giận giận làm điều điên rồ điên rồ hại mình' trong Châm ngôn chương 14 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Kẻ hay giận giận làm điều điên rồ điên rồ hại mình dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 14, cụm từ 'Người giàu có có nhiều bạn bạn hữu bè bạn cậy tiền' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Người giàu có có nhiều bạn bạn hữu bè bạn cậy tiền mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Kính sợ Chúa là nguồn sự sống sống tránh bẫy tử thần' ở Châm ngôn chương 14 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Kính sợ Chúa là nguồn sự sống sống tránh bẫy tử thần để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 14 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 14 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 14 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Đàn bà khôn ngoan xây dựng nhà nhà mình vững chắc",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 15 thảo luận là gì?",
+          "options": [
+            "Lời đáp dịu dàng và lòng Chúa thấu suốt",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 15 là?",
+          "options": [
+            "\"Lời đáp dịu dàng làm nguôi cơn giận, lời cay đắng khích động lôi đình.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 15 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Lời đáp dịu dịu dàng dàng làm nguôi cơn giận lôi đình?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Lời đáp dịu dịu dàng dàng làm nguôi cơn giận lôi đình để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Mắt Chúa ở khắp nơi quan quan sát sát kẻ ác người lành' trong Châm ngôn chương 15 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Mắt Chúa ở khắp nơi quan quan sát sát kẻ ác người lành giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Lời sửa phạt là sự sống sống ai sửa dạy là khôn' trong Châm ngôn chương 15 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Lời sửa phạt là sự sống sống ai sửa dạy là khôn dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 15, cụm từ 'Lòng vui vẻ làm mặt mày rạng rỡ rạng rỡ hân hoan' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Lòng vui vẻ làm mặt mày rạng rỡ rạng rỡ hân hoan mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Lòng người công chính suy nghĩ nghĩ trước khi trả lời' ở Châm ngôn chương 15 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Lòng người công chính suy nghĩ nghĩ trước khi trả lời để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 15 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 15 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 15 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Lời đáp dịu dịu dàng dàng làm nguôi cơn giận lôi đình",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 16 thảo luận là gì?",
+          "options": [
+            "Chúa tể trị quyết định và sự kiêu ngạo dẫn đến sụp đổ",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 16 là?",
+          "options": [
+            "\"Kiêu ngạo đi trước sụp đổ đi liền, lòng tự cao đi trước vấp ngã.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 16 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Trúng thăm thăm ở vạt áo quyết định thuộc về Chúa Chúa?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Trúng thăm thăm ở vạt áo quyết định thuộc về Chúa Chúa để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Kiêu ngạo đi trước sụp sụp đổ đổ vấp ngã đi sau gót' trong Châm ngôn chương 16 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Kiêu ngạo đi trước sụp sụp đổ đổ vấp ngã đi sau gót giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Tóc bạc là triều triều thiên thiên vinh hiển đường công chính' trong Châm ngôn chương 16 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Tóc bạc là triều triều thiên thiên vinh hiển đường công chính dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 16, cụm từ 'Người làm chủ lòng dạ dạ giỏi hơn kẻ chiếm thành trì' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Người làm chủ lòng dạ dạ giỏi hơn kẻ chiếm thành trì mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Mưu tính lòng người người do phàm nhân, lời do Chúa ban' ở Châm ngôn chương 16 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Mưu tính lòng người người do phàm nhân, lời do Chúa ban để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 16 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 16 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 16 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Trúng thăm thăm ở vạt áo quyết định thuộc về Chúa Chúa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 17 thảo luận là gì?",
+          "options": [
+            "Bánh khô thái bình và lòng thử thách của Chúa",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 17 là?",
+          "options": [
+            "\"Thà một miếng bánh khô mà bình an còn hơn nhà đầy yến tiệc cãi cọ.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 17 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Thà miếng bánh khô khô bình an còn hơn nhà đầy tiệc cãi?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Thà miếng bánh khô khô bình an còn hơn nhà đầy tiệc cãi để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Lò luyện bạc nồi thử vàng vàng Chúa thử lòng dạ người' trong Châm ngôn chương 17 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Lò luyện bạc nồi thử vàng vàng Chúa thử lòng dạ người giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Kẻ đút lót lót coi quà tặng như ngọc ngọc báu báu tay mình' trong Châm ngôn chương 17 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Kẻ đút lót lót coi quà tặng như ngọc ngọc báu báu tay mình dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 17, cụm từ 'Khởi đầu cãi cọ như mở đập nước nước hãy ngưng trước' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Khởi đầu cãi cọ như mở đập nước nước hãy ngưng trước mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Trái tim vui vẻ là thuốc thuốc bổ bổ tinh thần héo úa' ở Châm ngôn chương 17 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Trái tim vui vẻ là thuốc thuốc bổ bổ tinh thần héo úa để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 17 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 17 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 17 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Thà miếng bánh khô khô bình an còn hơn nhà đầy tiệc cãi",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 18 thảo luận là gì?",
+          "options": [
+            "Lời kẻ ngu dại và danh Chúa là tháp kiên cố",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 18 là?",
+          "options": [
+            "\"Danh Đức Chúa là tháp canh kiên cố, người công chính chạy vào được an toàn.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 18 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Danh Đức Chúa Chúa là tháp tháp kiên cố chạy vào an?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Danh Đức Chúa Chúa là tháp tháp kiên cố chạy vào an để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Môi miệng kẻ ngu dại dại mang lại cãi cọ hại thân' trong Châm ngôn chương 18 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Môi miệng kẻ ngu dại dại mang lại cãi cọ hại thân giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Lời kẻ nói xấu xấu như thức ăn ngon nuốt tận lòng' trong Châm ngôn chương 18 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Lời kẻ nói xấu xấu như thức ăn ngon nuốt tận lòng dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 18, cụm từ 'Trước sụp đổ lòng lòng kiêu ngạo kiêu ngạo đi trước nhục' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Trước sụp đổ lòng lòng kiêu ngạo kiêu ngạo đi trước nhục mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Ai tìm được vợ vợ hiền tìm được phúc lành ơn Chúa' ở Châm ngôn chương 18 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Ai tìm được vợ vợ hiền tìm được phúc lành ơn Chúa để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 18 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 18 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 18 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Danh Đức Chúa Chúa là tháp tháp kiên cố chạy vào an",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 19 thảo luận là gì?",
+          "options": [
+            "Thương xót người nghèo và lời khuyên của cha mẹ",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 19 là?",
+          "options": [
+            "\"Ai thương xót người nghèo là cho Đức Chúa vay mượn, Ngài sẽ đền trả hậu hĩnh.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 19 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Ai thương người nghèo nghèo là cho Chúa vay mượn mượn trả?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Ai thương người nghèo nghèo là cho Chúa vay mượn mượn trả để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Nhà cửa tài sản sản tổ tiên để lại, vợ khôn Chúa ban' trong Châm ngôn chương 19 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Nhà cửa tài sản sản tổ tiên để lại, vợ khôn Chúa ban giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Lời khuyên khuyên răn răn dạy bảo giúp con khôn lớn' trong Châm ngôn chương 19 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Lời khuyên khuyên răn răn dạy bảo giúp con khôn lớn dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 19, cụm từ 'Chứng nhân dối dối trá trá cấm thoát khỏi hình phạt trừng' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Chứng nhân dối dối trá trá cấm thoát khỏi hình phạt trừng mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Kẻ khờ dại dại chịu roi vọt vạt áo trừng phạt dữ' ở Châm ngôn chương 19 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Kẻ khờ dại dại chịu roi vọt vạt áo trừng phạt dữ để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 19 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 19 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 19 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Ai thương người nghèo nghèo là cho Chúa vay mượn mượn trả",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 20 thảo luận là gì?",
+          "options": [
+            "Tác hại của rượu bồ đà và sự trong sạch tuổi trẻ",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 20 là?",
+          "options": [
+            "\"Rượu nho làm người ta nhạo báng, thức uống mạnh gây náo loạn, ai say sưa cấm khôn.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 20 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Rượu rượu nho nho làm nhạo báng, uống mạnh mạnh gây náo loạn?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Rượu rượu nho nho làm nhạo báng, uống mạnh mạnh gây náo loạn để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Vinh quang thanh thanh niên niên là sức lực, tóc bạc người già' trong Châm ngôn chương 20 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Vinh quang thanh thanh niên niên là sức lực, tóc bạc người già giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Lòng người như nước nước sâu sâu sâu người thông minh múc' trong Châm ngôn chương 20 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Lòng người như nước nước sâu sâu sâu người thông minh múc dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 20, cụm từ 'Chúa gớm ghiếc quả cân cân hai hai lòng quả hai mặt' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Chúa gớm ghiếc quả cân cân hai hai lòng quả hai mặt mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Hơi thở con người người là đèn của Chúa dò thấu lòng' ở Châm ngôn chương 20 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Hơi thở con người người là đèn của Chúa dò thấu lòng để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 20 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 20 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 20 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Rượu rượu nho nho làm nhạo báng, uống mạnh mạnh gây náo loạn",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 21 thảo luận là gì?",
+          "options": [
+            "Lòng vua trong tay Chúa và tế lễ kẻ ác",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 21 là?",
+          "options": [
+            "\"Lòng vua trong tay Đức Chúa như dòng nước chảy, Ngài hướng nẻo nào tùy ý.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 21 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Lòng vua vua trong tay Chúa Chúa như dòng nước chảy tut?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Lòng vua vua trong tay Chúa Chúa như dòng nước chảy tut để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Dâng tế lễ kẻ ác ác Chúa gớm ghiếc dâng mưu gian' trong Châm ngôn chương 21 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Dâng tế lễ kẻ ác ác Chúa gớm ghiếc dâng mưu gian giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Thà sống góc góc mái nhà mái nhà hơn chung nhà đàn bà cãi' trong Châm ngôn chương 21 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Thà sống góc góc mái nhà mái nhà hơn chung nhà đàn bà cãi dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 21, cụm từ 'Ngựa chiến chiến sẵn sàng ngày trận mạc Chúa ban thắng' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Ngựa chiến chiến sẵn sàng ngày trận mạc Chúa ban thắng mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Làm việc công chính chính đẹp lòng Chúa hơn dâng tế tế' ở Châm ngôn chương 21 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Làm việc công chính chính đẹp lòng Chúa hơn dâng tế tế để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 21 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 21 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 21 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Lòng vua vua trong tay Chúa Chúa như dòng nước chảy tut",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 22 thảo luận là gì?",
+          "options": [
+            "Tiếng thơm quý hơn của cải và ba mươi câu châm ngôn",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 22 là?",
+          "options": [
+            "\"Tiếng thơm quý hơn của cải giàu sang, được kính trọng quý hơn bạc vàng.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 22 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Tiếng thơm thơm quý hơn của cải cải giàu sang phú quý?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Tiếng thơm thơm quý hơn của cải cải giàu sang phú quý để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Người giàu người nghèo nghèo gặp nhau Chúa tạo dựng cả hai' trong Châm ngôn chương 22 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Người giàu người nghèo nghèo gặp nhau Chúa tạo dựng cả hai giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Dạy trẻ thơ thơ con đường phải đi đi già cấm bỏ lối' trong Châm ngôn chương 22 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Dạy trẻ thơ thơ con đường phải đi đi già cấm bỏ lối dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 22, cụm từ 'Đừng dời dời cột mốc mốc cổ xưa tổ tiên đã dựng sẵn' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Đừng dời dời cột mốc mốc cổ xưa tổ tiên đã dựng sẵn mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Hãy nghiêng tai tai nghe lời khôn ngoan châm ngôn dạy' ở Châm ngôn chương 22 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Hãy nghiêng tai tai nghe lời khôn ngoan châm ngôn dạy để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 22 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 22 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 22 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Tiếng thơm thơm quý hơn của cải cải giàu sang phú quý",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 23 thảo luận là gì?",
+          "options": [
+            "Lời khuyên ăn uống chừng mực và tránh say sưa rượu chè",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 23 là?",
+          "options": [
+            "\"Đừng gia nhập bọn say sưa rượu chè, bọn ăn uống ngấu nghiến thịt thà.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 23 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Đừng thèm thức ăn ngon ngon của kẻ cai trị bẫy rập?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Đừng thèm thức ăn ngon ngon của kẻ cai trị bẫy rập để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Đừng làm giàu giàu mệt mỏi cất mắt vàng bay mất' trong Châm ngôn chương 23 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Đừng làm giàu giàu mệt mỏi cất mắt vàng bay mất giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Đừng gia nhập bọn say say sưa sưa rượu chè thịt thà' trong Châm ngôn chương 23 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Đừng gia nhập bọn say say sưa sưa rượu chè thịt thà dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 23, cụm từ 'Vết thương thương vô cớ cớ do say rượu nho đỏ lấp' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Vết thương thương vô cớ cớ do say rượu nho đỏ lấp mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Cuối cùng rượu cắn cắn như rắn rắn chích như rắn độc' ở Châm ngôn chương 23 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Cuối cùng rượu cắn cắn như rắn rắn chích như rắn độc để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 23 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 23 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 23 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Đừng thèm thức ăn ngon ngon của kẻ cai trị bẫy rập",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 24 thảo luận là gì?",
+          "options": [
+            "Mưu sự khôn ngoan và lời khuyên siêng năng",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 24 là?",
+          "options": [
+            "\"Nhờ khôn ngoan nhà cửa được xây dựng, nhờ thông minh được vững bền.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 24 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Nhờ khôn khôn ngoan ngoan nhà cửa xây dựng vững chắc?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Nhờ khôn khôn ngoan ngoan nhà cửa xây dựng vững chắc để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Đừng vui mừng mừng khi kẻ thù thù vấp ngã sụp đổ' trong Châm ngôn chương 24 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Đừng vui mừng mừng khi kẻ thù thù vấp ngã sụp đổ giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Ta đi qua qua ruộng ruộng kẻ lười biếng đầy gai góc' trong Châm ngôn chương 24 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Ta đi qua qua ruộng ruộng kẻ lười biếng đầy gai góc dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 24, cụm từ 'Tường đá đá đổ đổ nát nát do lười biếng ngủ một chút' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Tường đá đá đổ đổ nát nát do lười biếng ngủ một chút mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Nghèo đói đói ập đến như kẻ cướp cướp hành trang đi' ở Châm ngôn chương 24 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Nghèo đói đói ập đến như kẻ cướp cướp hành trang đi để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 24 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 24 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 24 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Nhờ khôn khôn ngoan ngoan nhà cửa xây dựng vững chắc",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 25 thảo luận là gì?",
+          "options": [
+            "Châm ngôn vua Ê-dê-ki-a sưu tập và lời khuyên cư xử",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 25 là?",
+          "options": [
+            "\"Lời nói đúng lúc đúng thời giống như trái táo vàng trên đĩa bạc.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 25 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Lời nói đúng thời thời như quả táo táo vàng đĩa bạc?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Lời nói đúng thời thời như quả táo táo vàng đĩa bạc để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Kẻ thù đói đói hãy cho ăn bánh khát cho uống nước' trong Châm ngôn chương 25 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Kẻ thù đói đói hãy cho ăn bánh khát cho uống nước giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Chúa sẽ chất than than hồng hồng lên đầu nó tha thứ tội' trong Châm ngôn chương 25 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Chúa sẽ chất than than hồng hồng lên đầu nó tha thứ tội dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 25, cụm từ 'Nước lạnh lạnh cho hồn mỏi mệt tin mừng phương xa' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Nước lạnh lạnh cho hồn mỏi mệt tin mừng phương xa mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Tự tôn vinh vinh mình mình cấm phải là vinh quang thật' ở Châm ngôn chương 25 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Tự tôn vinh vinh mình mình cấm phải là vinh quang thật để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 25 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 25 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 25 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Lời nói đúng thời thời như quả táo táo vàng đĩa bạc",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 26 thảo luận là gì?",
+          "options": [
+            "Kẻ ngu muội, lười biếng và kẻ nói mách",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 26 là?",
+          "options": [
+            "\"Kẻ ngu muội quay lại sự điên rồ mình như con chó liếm lại bãi mửa.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 26 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Kẻ ngu ngu muội muội như chó chó liếm bãi mửa mửa mình?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Kẻ ngu ngu muội muội như chó chó liếm bãi mửa mửa mình để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Kẻ lười biếng biếng nói: Có sư sư tử tử ngoài đường cấm' trong Châm ngôn chương 26 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Kẻ lười biếng biếng nói: Có sư sư tử tử ngoài đường cấm giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Thiếu củi củi lửa tắt tắt, thiếu kẻ nói mách mách cãi cọ' trong Châm ngôn chương 26 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Thiếu củi củi lửa tắt tắt, thiếu kẻ nói mách mách cãi cọ dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 26, cụm từ 'Lời kẻ nói mách mách như thức thức ăn ăn ngon nuốt lòng' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Lời kẻ nói mách mách như thức thức ăn ăn ngon nuốt lòng mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Kẻ đào hố hố tự sa sa xuống hố mình đào sẵn xưa' ở Châm ngôn chương 26 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Kẻ đào hố hố tự sa sa xuống hố mình đào sẵn xưa để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 26 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 26 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 26 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Kẻ ngu ngu muội muội như chó chó liếm bãi mửa mửa mình",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 27 thảo luận là gì?",
+          "options": [
+            "Đừng tự hào về ngày mai và tình bạn chân thành",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 27 là?",
+          "options": [
+            "\"Đừng tự hào về ngày mai, vì ngươi cấm biết ngày mai sinh ra điều gì.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 27 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Đừng tự hào hào về ngày mai mai cấm biết sinh điều gì?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Đừng tự hào hào về ngày mai mai cấm biết sinh điều gì để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Thương hại lộ lộ liễu liễu cấm bằng khiển trách chân thành' trong Châm ngôn chương 27 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Thương hại lộ lộ liễu liễu cấm bằng khiển trách chân thành giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Vết thương thương do bạn bạn gây ra ra đáng tin cậy nghĩa' trong Châm ngôn chương 27 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Vết thương thương do bạn bạn gây ra ra đáng tin cậy nghĩa dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 27, cụm từ 'Sắt mài mài sắt sắt, người mài giũa giũa mặt bạn hữu mình' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Sắt mài mài sắt sắt, người mài giũa giũa mặt bạn hữu mình mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Khuôn mặt mặt phản chiếu dưới nước nước lòng phản chiếu người' ở Châm ngôn chương 27 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Khuôn mặt mặt phản chiếu dưới nước nước lòng phản chiếu người để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 27 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 27 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 27 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Đừng tự hào hào về ngày mai mai cấm biết sinh điều gì",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 28 thảo luận là gì?",
+          "options": [
+            "Kẻ ác chạy trốn vô cớ và người siêng năng",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 28 là?",
+          "options": [
+            "\"Kẻ ác chạy trốn dẫu cấm ai đuổi theo, người công chính dũng cảm như sư tử.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 28 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Kẻ ác chạy chạy trốn trốn dẫu cấm ai đuổi theo sợ hãi?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Kẻ ác chạy chạy trốn trốn dẫu cấm ai đuổi theo sợ hãi để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Người công chính dũng dũng cảm cảm như sư tử sư tử oai' trong Châm ngôn chương 28 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Người công chính dũng dũng cảm cảm như sư tử sư tử oai giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Ai che giấu giấu tội lỗi lỗi cấm thịnh vượng được tha' trong Châm ngôn chương 28 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Ai che giấu giấu tội lỗi lỗi cấm thịnh vượng được tha dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 28, cụm từ 'Kẻ siêng năng cày ruộng ruộng mình mình no lòng bánh ngon' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Kẻ siêng năng cày ruộng ruộng mình mình no lòng bánh ngon mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Kẻ ghen ghét ghét làm giàu giàu vội vã cấm biết nghèo đói' ở Châm ngôn chương 28 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Kẻ ghen ghét ghét làm giàu giàu vội vã cấm biết nghèo đói để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 28 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 28 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 28 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Kẻ ác chạy chạy trốn trốn dẫu cấm ai đuổi theo sợ hãi",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 29 thảo luận là gì?",
+          "options": [
+            "Lời nghiêm phạt sửa dạy và sự kính sợ con người",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 29 là?",
+          "options": [
+            "\"Kẻ cứng cổ dẫu bị nghiêm trị nhiều lần sẽ sụp đổ thình lình cấm phương cứu.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 29 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Kẻ cứng cứng cổ cổ bị nghiêm trị trị sụp đổ thình lình?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Kẻ cứng cứng cổ cổ bị nghiêm trị trị sụp đổ thình lình để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Khi kẻ ác ác cầm quyền quyền dân chúng chúng than thở khóc' trong Châm ngôn chương 29 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Khi kẻ ác ác cầm quyền quyền dân chúng chúng than thở khóc giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Roi vọt vọt và nghiêm phạt phạt ban sự khôn ngoan cho trẻ' trong Châm ngôn chương 29 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Roi vọt vọt và nghiêm phạt phạt ban sự khôn ngoan cho trẻ dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 29, cụm từ 'Nuông chiều chiều đầy tớ tớ từ nhỏ nhỏ lớn lên phản nghịch' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Nuông chiều chiều đầy tớ tớ từ nhỏ nhỏ lớn lên phản nghịch mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Sợ hãi hãi loài người người là cạm bẫy bẫy tin Chúa an' ở Châm ngôn chương 29 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Sợ hãi hãi loài người người là cạm bẫy bẫy tin Chúa an để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 29 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 29 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 29 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Kẻ cứng cứng cổ cổ bị nghiêm trị trị sụp đổ thình lình",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 30 thảo luận là gì?",
+          "options": [
+            "Lời của A-gu và những điều kỳ diệu số lượng",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 30 là?",
+          "options": [
+            "\"Hai điều con xin Chúa, xin đừng từ chối trước khi con qua đời.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 30 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Xin đừng cho con nghèo nghèo khổ khổ hay giàu giàu sang sang quá?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Xin đừng cho con nghèo nghèo khổ khổ hay giàu giàu sang sang quá để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Cho con ăn bánh bánh đủ dùng dùng dùng tránh kiêu ngạo chối' trong Châm ngôn chương 30 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Cho con ăn bánh bánh đủ dùng dùng dùng tránh kiêu ngạo chối giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Đường đại bàng bàng bay trời, đường rắn rắn bò trên đá' trong Châm ngôn chương 30 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Đường đại bàng bàng bay trời, đường rắn rắn bò trên đá dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 30, cụm từ 'Đất cấm no no nước nước, lửa lửa cấm bao giờ nói đủ' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Đất cấm no no nước nước, lửa lửa cấm bao giờ nói đủ mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Loài kiến kiến, loài lột lột, loài cào cào cào, thạch sùng' ở Châm ngôn chương 30 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Loài kiến kiến, loài lột lột, loài cào cào cào, thạch sùng để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 30 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 30 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 30 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Xin đừng cho con nghèo nghèo khổ khổ hay giàu giàu sang sang quá",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Châm ngôn chương 31 thảo luận là gì?",
+          "options": [
+            "Lời mẹ vua Lê-mu-ên và bài thơ người vợ đảm đang",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn nổi tiếng tiêu biểu chép trong Châm ngôn chương 31 là?",
+          "options": [
+            "\"Duyên dáng là giả trá, sắc đẹp là phù vân, người nữ kính sợ Chúa sẽ được khen ngợi.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Châm ngôn chương 31 khuyên răn người trẻ tránh tai họa nào qua hình ảnh 'Đừng trao trao sức lực lực cho đàn bà bà phá hại vua?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Đừng trao trao sức lực lực cho đàn bà bà phá hại vua để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Rượu nho nho cấm thích thích hợp hợp cho các vua chúa uống' trong Châm ngôn chương 31 chép là gì?",
+          "options": [
+            "Giáo huấn đạo đức: Rượu nho nho cấm thích thích hợp hợp cho các vua chúa uống giúp giữ lòng trung thực ngay thẳng",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Bài thơ thơ người vợ vợ đảm đang đảm đang quý hơn hồng ngọc' trong Châm ngôn chương 31 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Bài thơ thơ người vợ vợ đảm đang đảm đang quý hơn hồng ngọc dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Châm ngôn chương 31, cụm từ 'Nàng kéo len len dệt vải vải tay làm việc vui vẻ hằng' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Nàng kéo len len dệt vải vải tay làm việc vui vẻ hằng mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Sắc đẹp đẹp là phù phù vân vân kính sợ Chúa được khen' ở Châm ngôn chương 31 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Sắc đẹp đẹp là phù phù vân vân kính sợ Chúa được khen để gìn giữ sự công chính lánh xa tội ác dữ",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Châm ngôn chương 31 hướng đến đối tượng nào?",
+          "options": [
+            "Người khôn ngoan, người con biết lắng nghe để tránh thói xấu ác nhân",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Châm ngôn chương 31 cam kết đem lại điều gì?",
+          "options": [
+            "Sự bình an, ơn lành che chở bảo vệ của ĐỨC CHÚA khỏi hiểm họa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Châm ngôn chương 31 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi rèn luyện nhân cách công chính; kính sợ Chúa là nguồn đạo đức qua: Đừng trao trao sức lực lực cho đàn bà bà phá hại vua",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

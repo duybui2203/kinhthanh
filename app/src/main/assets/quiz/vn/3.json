@@ -1,0 +1,2841 @@
+{
+  "bookId": 3,
+  "bookName": "Lê-vi",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Lễ tế toàn thiêu (Burnt Offering) bằng súc vật lớn phải dùng con vật gì?",
+          "options": [
+            "Một con bò đực hoàn hảo không tì vết",
+            "Một con bò cái có sừng",
+            "Một con bê sữa mới sinh",
+            "Một con bò rừng thiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người dâng lễ tế toàn thiêu phải làm hành động gì trên đầu con vật trước khi sát tế?",
+          "options": [
+            "Đặt tay lên đầu con vật để nó được chấp nhận làm lễ đền tội cho mình",
+            "Xức dầu thơm lên đầu nó",
+            "Cắt một chỏm lông đầu làm dấu",
+            "Rửa đầu con vật bằng nước sạch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai có nhiệm vụ tưới máu con vật hiến tế xung quanh bàn thờ?",
+          "options": [
+            "Các tư tế, con cháu ông A-hác-rôn",
+            "Chính người dâng lễ vật",
+            "Các bô lão kỳ mục",
+            "Người giúp việc đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi sát tế con vật làm lễ tế toàn thiêu quy định ở đâu?",
+          "options": [
+            "Phía bắc bàn thờ, trước mặt ĐỨC CHÚA",
+            "Phía nam bàn thờ",
+            "Bên ngoài doanh trại",
+            "Bên trong Nơi Cực Thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thịt con vật tế toàn thiêu phải được đốt dâng hiến thế nào?",
+          "options": [
+            "Đốt thiêu hoàn toàn toàn bộ con vật trên bàn thờ",
+            "Tư tế được ăn một nửa",
+            "Người dâng lễ vật được ăn đùi sau",
+            "Đem chia cho người nghèo ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu lễ vật toàn thiêu là chim, người dâng phải dùng loại chim nào?",
+          "options": [
+            "Chim gáy hoặc bồ câu con",
+            "Chim sẻ hoặc chim én",
+            "Chim đại bàng hoặc chim ưng",
+            "Bất kỳ loại chim nào bắt được"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần nội tạng và chân của con vật tế phải làm sạch bằng gì trước khi thiêu?",
+          "options": [
+            "Phải rửa sạch bằng nước",
+            "Xoa dầu ô-liu lên",
+            "Rắc muối trắng",
+            "Sấy khô bằng gió"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lửa trên bàn thờ tế toàn thiêu phải được duy trì thế nào?",
+          "options": [
+            "Phải giữ cháy liên tục không được tắt",
+            "Chỉ đốt khi có người dâng lễ",
+            "Tắt đi vào ban đêm",
+            "Chỉ đốt vào ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hương thơm tỏa ra từ lễ tế toàn thiêu được mô tả là gì?",
+          "options": [
+            "Hương thơm dễ chịu dâng lên ĐỨC CHÚA",
+            "Làn khói đen che khuất đền",
+            "Dấu hiệu của sự trừng phạt",
+            "Mùi hương của sự hòa giải đất đai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai chịu trách nhiệm xếp các khúc thịt, đầu và mỡ con vật tế lên củi trên bàn thờ?",
+          "options": [
+            "Các tư tế con cháu A-hác-rôn",
+            "Chính Mô-sê",
+            "Người chăn súc vật dâng hiến",
+            "Người dọn dẹp bàn thờ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Lễ tế chay (Grain Offering) dâng lên Chúa phải dùng nguyên liệu chính nào?",
+          "options": [
+            "Bột lanh mịn nhào dầu ô-liu và rắc hương thơm",
+            "Bánh mì lên men ngọt",
+            "Trái cây chín đầu mùa",
+            "Mật ong rừng chưng cất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư tế bốc lấy một nắm bột tế chay làm gì trên bàn thờ?",
+          "options": [
+            "Thiêu làm phần tưởng niệm dâng lên Chúa làm hương thơm dễ chịu",
+            "Đem cất vào bình vàng đền tạm",
+            "Đổ xuống đất chân bàn thờ",
+            "Mang về làm bánh ăn riêng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần lễ tế chay còn lại sau khi thiêu phần tưởng niệm thuộc về ai?",
+          "options": [
+            "Thuộc về A-hác-rôn và các con ông, đó là của cực thánh",
+            "Đem chia cho người dâng lễ vật",
+            "Đem thiêu hủy hết ngoài doanh trại",
+            "Chia đều cho người nghèo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai nguyên liệu nào bị cấm tuyệt đối không được có trong bất kỳ lễ tế chay nào thiêu dâng lên Chúa?",
+          "options": [
+            "Men và mật ong",
+            "Dầu ô-liu và muối",
+            "Nước lã và hương liệu",
+            "Bột lúa mạch và lúa mì"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia vị bắt buộc phải nêm vào mọi lễ tế chay dâng lên Chúa là gì?",
+          "options": [
+            "Muối (muối của giao ước)",
+            "Hạt tiêu sa mạc",
+            "Nước mật ong thơm",
+            "Dầu thơm Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bánh tế chay nướng trong lò phải đáp ứng tiêu chuẩn nào?",
+          "options": [
+            "Bánh không men nhào dầu hoặc bánh tráng không men phết dầu",
+            "Bánh ngọt có mật ong",
+            "Bánh dày nướng cháy cạnh",
+            "Bánh mì men ngọt cắt lát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu lễ tế chay dâng cúng thổ sản đầu mùa, hạt lúa phải được chế biến thế nào?",
+          "options": [
+            "Hạt lúa non rang lửa và giã nát dâng kèm dầu và hương",
+            "Hạt lúa tươi nguyên vỏ",
+            "Hạt lúa chín nghiền thành bột mịn làm bánh men",
+            "Lúa mạch nấu chín thành cháo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao muối lại được gọi là 'muối của giao ước' của Thiên Chúa?",
+          "options": [
+            "Tượng trưng cho sự bền vững, không hư nát của giao ước Thiên Chúa",
+            "Vì muối có giá trị kinh tế cao thời đó",
+            "Vì muối dùng để tẩy sạch vết máu",
+            "Vì Chúa thích vị mặn của muối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tác dụng của dầu ô-liu trong lễ tế chay dâng hiến là gì?",
+          "options": [
+            "Tượng trưng cho sự thánh hiến và làm mịn bột dâng lễ",
+            "Để làm chất đốt cháy lò nhanh hơn",
+            "Để tạo màu vàng cho bánh",
+            "Để khử mùi hôi của bột"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần của cực thánh dành cho tư tế từ lễ tế chay chỉ được ăn ở đâu?",
+          "options": [
+            "Tại Nơi Thánh ngoài sân Đền Tạm",
+            "Trong lều gia đình tự do",
+            "Bên ngoài biên giới doanh trại",
+            "Trên đỉnh núi Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Lễ tế hòa bình (Peace Offering / Kỳ An) dâng súc vật đáp ứng tiêu chuẩn nào?",
+          "options": [
+            "Bò hoặc chiên, dê đực hoặc cái, hoàn hảo không tì vết",
+            "Chỉ được dùng bò đực",
+            "Chỉ được dùng dê cái đen",
+            "Phải là súc vật già yếu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bộ phận nào của con vật tế hòa bình bắt buộc phải thiêu dâng hiến hoàn toàn cho Chúa?",
+          "options": [
+            "Toàn bộ lớp mỡ bọc nội tạng, hai quả cật và mỡ sa bọc cật",
+            "Đùi sau và ngực con vật",
+            "Toàn bộ lớp da súc vật",
+            "Đầu và chân con vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao lớp mỡ của con vật hiến tế lại được dâng riêng cho Chúa?",
+          "options": [
+            "Mỡ là phần tốt nhất, béo bổ nhất tượng trưng cho sự dâng hiến phần quý giá nhất",
+            "Vì mỡ cháy tạo ngọn lửa to",
+            "Vì tư tế cấm không được ăn mỡ động vật",
+            "Vì mỡ dễ bị ôi thối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghiêm cấm tuyệt đối dân Ít-ra-en ăn hai thứ nào của súc vật trong đời sống hàng ngày?",
+          "options": [
+            "Mỡ và máu",
+            "Thịt đùi và thịt vai",
+            "Lòng và gan",
+            "Da và xương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư thế dâng lễ vật kỳ an chiên dê đực cái thế nào?",
+          "options": [
+            "Người dâng đặt tay lên đầu con vật và sát tế nó tại cửa Lều Hội Ngộ",
+            "Tư tế tự bắt súc vật trong đàn dâng hiến",
+            "Sát tế súc vật tại lều riêng",
+            "Treo con vật lên cột đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Máu con vật tế kỳ an được rảy vào đâu?",
+          "options": [
+            "Rảy xung quanh bàn thờ đồng",
+            "Rảy lên đầu người dâng lễ",
+            "Rảy lên bia đá luật",
+            "Bôi lên tai phải tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đuôi béo của loại chiên nào được dâng hiến làm lễ hỏa tế cho Chúa?",
+          "options": [
+            "Chiên giống đuôi béo cắt sát xương cụt",
+            "Mọi con chiên thường",
+            "Chiên lấy từ xứ Ai Cập",
+            "Chiên cái tơ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa chính của lễ tế hòa bình (kỳ an) trong đời sống cộng đoàn là gì?",
+          "options": [
+            "Biểu thị sự hòa giải, thiết lập mối tương giao hòa thuận giữa Chúa, tư tế và người dâng lễ",
+            "Để đền bồi tội lỗi cố ý sát nhân",
+            "Để quyên góp thực phẩm cho tư tế",
+            "Để ăn mừng chiến thắng quân thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ tế kỳ an dâng kèm theo lễ vật chay gì?",
+          "options": [
+            "Bánh không men và bánh tráng phết dầu cùng bánh mì có men dâng kèm hiến tế tạ ơn",
+            "Chỉ dâng súc vật không dâng bánh",
+            "Bánh ngọt có mật ong",
+            "Hạt lúa mạch rang nguyên vỏ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật cấm ăn máu dựa trên nguyên lý thần học nào?",
+          "options": [
+            "Vì sự sống của xác thịt nằm trong máu, máu đền tội trên bàn thờ",
+            "Vì máu mất vệ sinh dễ gây bệnh",
+            "Vì máu có vị đắng",
+            "Vì máu là biểu tượng của cái chết"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Lễ tế đền tội (Sin Offering) áp dụng cho đối tượng nào phạm lỗi?",
+          "options": [
+            "Người phạm tội vô ý đi ngược lại các điều răn mệnh lệnh của Chúa",
+            "Kẻ cố tình sát nhân giết người",
+            "Người muốn dâng hiến tạ ơn Chúa",
+            "Kẻ cướp bóc tài sản"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu thượng tế xức dầu phạm tội vô ý làm liên lụy đến dân, lễ vật dâng đền tội là gì?",
+          "options": [
+            "Một con bò tơ hoàn hảo không tì vết",
+            "Một con chiên đực một tuổi",
+            "Đôi chim gáy nhỏ",
+            "Bột lanh mịn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thượng tế phải nhúng ngón tay vào máu con vật tế và rảy mấy lần trước bức màn Nơi Cực Thánh?",
+          "options": [
+            "Rảy bảy lần (7 lần trước mặt Chúa)",
+            "Rảy ba lần",
+            "Rảy mười lần",
+            "Rảy một lần duy nhất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Máu con bò tế đền tội của thượng tế được bôi vào đâu trong Nơi Thánh?",
+          "options": [
+            "Bôi vào bốn sừng của Bàn thờ xông hương thơm trước mặt Chúa",
+            "Bôi lên chân đèn bảy nhánh",
+            "Bôi lên nắp Hòm Bia",
+            "Bôi lên trán thượng tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Xác con bò tế đền tội của tư tế (da, thịt, đầu, chân, ruột...) được xử lý thế nào?",
+          "options": [
+            "Đem ra ngoài doanh trại, thiêu hủy hoàn toàn tại nơi đổ tro sạch",
+            "Các tư tế được ăn phần thịt đùi",
+            "Đem chia cho người nghèo trong trại",
+            "Để dành dâng lễ tế ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu thủ lãnh phạm tội vô ý, lễ vật đền tội quy định là con vật gì?",
+          "options": [
+            "Một con dê đực hoàn hảo không tì vết",
+            "Một con bò tơ",
+            "Một con dê cái",
+            "Một con chiên cái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu một người dân thường phạm tội vô ý, lễ vật đền tội có thể dâng là gì?",
+          "options": [
+            "Một con dê cái hoặc một con chiên cái hoàn hảo",
+            "Một con bò đực lớn",
+            "Chỉ được dâng đôi chim bồ câu",
+            "Một ta-lăng bạc trắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư tế bôi máu của lễ tế đền tội của dân thường vào đâu trên bàn thờ?",
+          "options": [
+            "Bôi vào các sừng của Bàn thờ tế toàn thiêu (bàn thờ đồng ngoài sân)",
+            "Bôi lên bàn thờ xông hương vàng",
+            "Bôi lên trán người phạm tội",
+            "Đổ hết xuống đất chân hòm bia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần máu còn lại của lễ tế đền tội được xử lý thế nào?",
+          "options": [
+            "Đổ hết xuống chân bàn thờ tế toàn thiêu",
+            "Đem rảy lên toàn dân chúng",
+            "Đem cất vào bình vàng đền tạm",
+            "Đem đổ ngoài doanh trại nơi đổ tro"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích tối hậu của lễ tế đền tội được ghi lại nhiều lần trong chương là gì?",
+          "options": [
+            "Tư tế cử hành nghi thức xá tội cho họ, và họ sẽ được tha thứ",
+            "Để trừng phạt người phạm lỗi công khai",
+            "Để răn đe dân chúng giữ luật lệ",
+            "Để thu bạc thuế đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Trường hợp nào sau đây bắt buộc phải dâng lễ tế sửa lỗi (Guilt Offering)?",
+          "options": [
+            "Nghe lời nguyền rủa làm chứng mà im lặng, hoặc chạm vào đồ ô uế, thề thốt vô ý",
+            "Quên không ăn bánh không men lễ vượt qua",
+            "Trộm cắp vàng bạc của tư tế",
+            "Chăn súc vật làm hại ruộng lúa láng giềng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu người phạm lỗi quá nghèo không thể dâng chiên dê làm lễ sửa lỗi, họ được phép dâng gì thay thế?",
+          "options": [
+            "Hai con chim gáy hoặc hai con chim bồ câu non",
+            "Một phần mười ta-lăng đồng",
+            "Một con thỏ rừng hoang dã",
+            "Không phải dâng gì chỉ cần ăn chay 3 ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu dâng hai con chim làm lễ đền tội, một con làm lễ đền tội còn con thứ hai làm lễ gì?",
+          "options": [
+            "Lễ toàn thiêu",
+            "Lễ hòa bình kỳ an",
+            "Lễ tế chay",
+            "Lễ tưới rượu nho"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu người nghèo đến mức không mua nổi đôi chim, lễ vật tối thiểu họ dâng đền tội là gì?",
+          "options": [
+            "Một phần mười ê-pha bột lanh mịn (không pha dầu và hương liệu)",
+            "Một nắm cỏ khô sa mạc",
+            "Một chén muối trắng",
+            "Một đồng xu đồng đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao bột lanh mịn dùng đền tội của người nghèo lại cấm pha thêm dầu và hương liệu?",
+          "options": [
+            "Vì đây là lễ tế đền tội (sửa lỗi), không phải lễ tế chay tạ ơn vui vẻ",
+            "Vì dầu và hương liệu quá đắt đỏ",
+            "Vì dầu làm bột dễ bị hỏng",
+            "Vì hương liệu làm ô uế lễ đền tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu một người phạm tội vô ý xâm phạm đồ thánh hiến của Chúa, người đó phải đền bù thế nào?",
+          "options": [
+            "Đền bù hiện vật cộng thêm một phần năm (20%) giá trị vật đó và dâng một con chiên đực làm lễ",
+            "Bị tịch thu toàn bộ gia sản",
+            "Phải chịu phạt roi năm mươi roi",
+            "Bị cách ly ngoài doanh trại một tháng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa của việc cộng thêm một phần năm (20%) giá trị khi đền bồi đồ thánh là gì?",
+          "options": [
+            "Phạt đền bồi bổ sung vì sự thiếu tôn kính đối với của thánh của Chúa",
+            "Để trả công xét xử cho tư tế",
+            "Làm quỹ từ thiện đền tạm",
+            "Để mua thêm củi đốt bàn thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con chiên đực dâng làm lễ sửa lỗi đền bù đồ thánh phải ước lượng giá trị bằng kim loại nào?",
+          "options": [
+            "Được định giá bằng si-clơ bạc theo giá thánh điện",
+            "Định giá bằng vàng ròng Ai Cập",
+            "Định giá bằng đồng đỏ",
+            "Không cần định giá tùy ý người dâng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Điều gì xảy ra sau khi tư tế dùng con chiên đực tế sửa lỗi cử hành nghi thức chuộc tội?",
+          "options": [
+            "Người phạm lỗi sẽ được tha thứ mọi lỗi lầm phạm phải",
+            "Người đó phải đi cày ruộng đền tạm 1 năm",
+            "Gia đình người đó được chúc phúc giàu có",
+            "Bia đá chứng ước sẽ phát sáng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự khác biệt chính giữa Lễ tế đền tội (ch. 4) và Lễ tế sửa lỗi (ch. 5) là gì?",
+          "options": [
+            "Lễ tế sửa lỗi tập trung vào việc đền bù thiệt hại cụ thể đối với quyền lợi của Chúa hoặc người lân cận",
+            "Lễ tế sửa lỗi chỉ dành cho người giàu",
+            "Lễ tế đền tội chỉ dùng chim bồ câu",
+            "Không có sự khác biệt nào"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Nếu một người lừa dối láng giềng về vật ký gửi, tài sản chung, trộm cắp hoặc nhặt được của rơi mà thề dối, người đó phải làm gì khi hối hận?",
+          "options": [
+            "Trả lại nguyên vẹn tài sản, cộng thêm một phần năm (20%) giá trị và dâng lễ tế sửa lỗi lên Chúa",
+            "Chỉ cần trả lại đồ nhặt được",
+            "Bị phạt làm nô lệ cho nạn nhân",
+            "Dâng tế một con bò tơ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lửa trên bàn thờ tế toàn thiêu phải được duy trì thế nào theo luật chương 6?",
+          "options": [
+            "Phải giữ cháy liên tục trên bàn thờ, không bao giờ được để tắt tắt",
+            "Chỉ cần thắp đèn dầu thay thế ban đêm",
+            "Chỉ đốt khi tư tế dâng lễ",
+            "Tắt đi vào ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư tế phải làm gì với đống tro tàn của lễ tế toàn thiêu buổi sáng?",
+          "options": [
+            "Mặc phẩm phục lanh gạt tro bên bàn thờ, thay thường phục đem tro ra nơi sạch ngoài doanh trại",
+            "Đổ xuống sông Nin",
+            "Dùng tro rắc lên đầu dân chúng",
+            "Đem bán làm phân bón"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ tế chay của riêng hàng tư tế dâng hiến vào ngày xức dầu phong chức được thiêu thế nào?",
+          "options": [
+            "Phải thiêu hủy hoàn toàn dâng hiến, tư tế cấm tuyệt đối không được ăn",
+            "Tư tế được ăn toàn bộ",
+            "Chia đôi cho Mô-sê và A-hác-rôn",
+            "Đem phân phát cho người nghèo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi ăn thịt của hiến tế đền tội của dân chúng quy định ở đâu?",
+          "options": [
+            "Tại Nơi Thánh ngoài sân Lều Hội Ngộ, do các tư tế nam giới ăn",
+            "Ăn tại nhà riêng của người dâng lễ",
+            "Ăn bên ngoài trại nơi thanh vắng",
+            "Chỉ thượng tế A-hác-rôn được ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nồi đất dùng để nấu thịt tế đền tội phải xử lý thế nào sau khi nấu?",
+          "options": [
+            "Phải đập vỡ nồi đất nung (vì nước thịt thấm vào đất không tẩy sạch được)",
+            "Rửa sạch bằng dầu ô-liu dùng lại",
+            "Đem chôn ngoài bãi tro",
+            "Đem phơi nắng ba ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nồi đồng dùng để nấu thịt tế đền tội phải xử lý thế nào?",
+          "options": [
+            "Phải cọ sạch và rửa kỹ bằng nước sạch dùng lại",
+            "Đập bẹt đúc lại vật dụng khác",
+            "Đốt trong lửa đỏ cho chảy ra",
+            "Không cần rửa cất vào đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu máu lễ đền tội được mang vào Lều Hội Ngộ để chuộc tội trong Nơi Thánh, thịt con vật đó phải xử lý thế nào?",
+          "options": [
+            "Cấm tuyệt đối không được ăn, phải đem thiêu hủy hoàn toàn trong lửa",
+            "Tư tế vẫn được ăn bình thường",
+            "Đem cho chó ăn",
+            "Đem phơi khô làm lương thực hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trang phục của tư tế bị dính máu tế đền tội phải xử lý ra sao?",
+          "options": [
+            "Phải giặt phần bị dính máu tại Nơi Thánh ngoài sân hành lang",
+            "Phải đem đốt trang phục đó ngay",
+            "Đem phơi nắng cho khô máu",
+            "Không cần xử lý cứ mặc tiếp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai có quyền ăn phần lễ tế chay dâng cúng hàng ngày còn dư?",
+          "options": [
+            "Mọi nam giới thuộc dòng dõi tư tế A-hác-rôn",
+            "Toàn bộ chi tộc Lê-vi",
+            "Chỉ các bô lão kỳ mục",
+            "Người nghèo cô nhi góa phụ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Tư tế được hưởng phần da của con vật tế nào do dân dâng hiến?",
+          "options": [
+            "Da của con vật làm lễ tế toàn thiêu do chính tư tế đó dâng",
+            "Da của con vật tế hòa bình",
+            "Da của chiên lễ vượt qua",
+            "Da của bò tế đền tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần thịt của lễ tế hòa bình tạ ơn (Thanksgiving Offering) phải được ăn vào lúc nào?",
+          "options": [
+            "Phải ăn ngay trong ngày dâng cúng, cấm để dành thịt đến sáng hôm sau",
+            "Được để dành đến ngày thứ ba",
+            "Ăn lúc nào tùy ý trong tuần",
+            "Đem phơi khô ăn dần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu lễ tế hòa bình dâng làm lời khấn hứa hoặc tự nguyện, thịt được ăn trong bao lâu?",
+          "options": [
+            "Được ăn trong ngày dâng và ngày hôm sau; phần thịt còn dư đến ngày thứ ba phải thiêu hủy",
+            "Phải ăn hết trong ngày thứ nhất",
+            "Được ăn suốt bảy ngày lễ",
+            "Không giới hạn thời gian ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chuyện gì xảy ra nếu có người cố tình ăn thịt tế hòa bình vào ngày thứ ba?",
+          "options": [
+            "Đó là của ô uế ghê tởm, lễ tế không được chấp nhận và kẻ ăn phải gánh tội bị khai trừ khỏi dân",
+            "Không sao chỉ bị phạt tiền",
+            "Bị đau bụng dịch bệnh phạt chết",
+            "Phải dâng thêm con chiên đền tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người đang bị ô uế (chưa thanh tẩy) mà cố tình ăn thịt tế hòa bình dâng cho Chúa thì bị phạt thế nào?",
+          "options": [
+            "Người đó phải bị khai trừ khỏi dân chúng",
+            "Bị phạt làm nô lệ 1 năm",
+            "Bị đánh ba mươi roi",
+            "Phải chịu cách ly ngoài doanh trại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai bộ phận súc vật nào cụ thể mà Chúa cấm tuyệt đối dân Ít-ra-en ăn dẫu là súc vật nhà hay rừng?",
+          "options": [
+            "Mỡ và máu",
+            "Thịt đùi và thịt vai",
+            "Lòng và gan",
+            "Da và đầu súc vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần thịt nào của tế lễ hòa bình được dành riêng làm phần của tư tế dâng hiến?",
+          "options": [
+            "Lồng ngực (dâng nghi thức lắc) và đùi sau bên phải (dâng nghi thức giơ cao)",
+            "Toàn bộ phần đầu và chân",
+            "Lòng cật và lớp mỡ",
+            "Da và xương súc vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi thức 'lắc' (Wave Offering) lồng ngực tế lễ trước mặt Chúa có ý nghĩa gì?",
+          "options": [
+            "Dâng hiến vật phẩm cho Chúa và nhận lại phần đó chia cho tư tế phục vụ",
+            "Làm cho thịt được mềm ngon",
+            "Xua đuổi tà thần xung quanh",
+            "Tẩy sạch vết máu trên thịt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai được hưởng phần đùi sau bên phải dâng giơ cao từ lễ tế hòa bình?",
+          "options": [
+            "Tư tế trực tiếp dâng máu và mỡ lễ tế đó",
+            "Toàn bộ người nghèo trong trại",
+            "Chính người dâng lễ vật mang về",
+            "Mô-sê và Giô-suê chia đôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt cho kẻ ăn máu súc vật bất kỳ là gì?",
+          "options": [
+            "Kẻ nào ăn bất kỳ thứ máu nào sẽ bị khai trừ khỏi dân chúng của mình",
+            "Phải nộp phạt mười con chiên",
+            "Bị phạt làm nô lệ",
+            "Bị cạo trọc đầu bôi tro"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Ai là người trực tiếp chủ trì nghi lễ phong chức tư tế cho A-hác-rôn và các con ông theo lệnh Chúa?",
+          "options": [
+            "Ông Mô-sê (Moses)",
+            "Chính Đức Chúa hiện ra chủ trì",
+            "Các bô lão kỳ mục Ít-ra-en",
+            "Thầy tư tế xứ Ma-đi-an Giê-trô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê đã làm gì đầu tiên cho A-hác-rôn và các con ông tại cửa Lều Hội Ngộ trước khi mặc phẩm phục?",
+          "options": [
+            "Dùng nước rửa sạch họ rửa sạch họ",
+            "Xức dầu thơm toàn thân họ",
+            "Bắt họ ăn chay ba ngày",
+            "Cắt bì cho các con ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê đặt mũ triều thiên lên đầu A-hác-rôn và đính vật gì bằng vàng lên mũ?",
+          "options": [
+            "Tấm vàng triều thiên thánh (khắc chữ Thánh hiến cho Đức Chúa)",
+            "Một viên ngọc hồng ngọc",
+            "Hình khắc hai tượng Kê-ru-bim",
+            "Một chiếc vòng vàng tròn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê đã dùng dầu xức thánh làm gì để thánh hóa Đền Tạm và bàn thờ đồng?",
+          "options": [
+            "Rẩy dầu bảy lần lên bàn thờ đồng và xức dầu lên toàn bộ vật dụng đền tạm để thánh hóa",
+            "Đổ dầu xuống đất xung quanh lều",
+            "Bôi dầu lên trán các bô lão",
+            "Thắp dầu vào chân đèn bảy nhánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê xức dầu thánh hiến A-hác-rôn bằng cách nào?",
+          "options": [
+            "Đổ dầu xức thánh lên đầu ông xức dầu cho ông",
+            "Thoa dầu lên lòng bàn tay ông",
+            "Nhỏ dầu vào cầu vai áo ê-phốt",
+            "Xức dầu vào chân ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Máu con bò tế đền tội trong lễ phong chức được Mô-sê bôi vào đâu để thanh tẩy bàn thờ?",
+          "options": [
+            "Dùng ngón tay bôi máu lên bốn sừng của Bàn thờ đồng tế lễ",
+            "Rảy vào Nơi Cực Thánh",
+            "Bôi lên mũ triều thiên tư tế",
+            "Bôi lên đai lưng A-hác-rôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Máu con chiên phong chức tư tế thứ hai được Mô-sê bôi vào đâu trên người A-hác-rôn và các con ông?",
+          "options": [
+            "Thùy tai phải, ngón tay cái bên phải và ngón chân cái bên phải của họ",
+            "Bôi lên trán và hai má họ",
+            "Bôi lên cầu vai áo ê-phốt tư tế",
+            "Bôi vào lòng bàn tay họ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ vật chay đặt vào tay A-hác-rôn và các con ông để dâng nghi thức lắc trước Chúa gồm gì?",
+          "options": [
+            "Một bánh mì không men, một bánh nhào dầu và một bánh tráng phết dầu lấy từ giỏ lễ",
+            "Bánh ngọt mật ong và ngũ cốc rang",
+            "Trái vả chín đầu mùa",
+            "Một nắm lúa mì tươi nguyên vỏ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê rảy hỗn hợp gì lên phẩm phục A-hác-rôn và các con ông để thánh hóa y phục họ?",
+          "options": [
+            "Hỗn hợp dầu xức thánh và máu trên bàn thờ đồng",
+            "Nước thánh hòa muối",
+            "Rượu nho lễ tưới",
+            "Nước rửa bàn thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "A-hác-rôn và các con phải ở tại lối vào Lều Hội Ngộ bao nhiêu ngày đêm để hoàn tất lễ phong chức?",
+          "options": [
+            "Bảy ngày đêm (7 ngày đêm cấm không được ra ngoài)",
+            "Ba ngày đêm",
+            "Mười ngày đêm",
+            "Bốn mươi ngày đêm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Vào ngày thứ tám (sau 7 ngày phong chức), Mô-sê bảo A-hác-rôn dâng lễ tế đầu tiên cho ai?",
+          "options": [
+            "Dâng lễ tế chuộc tội cho chính bản thân mình trước, sau đó dâng lễ tế chuộc tội cho toàn dân",
+            "Chỉ dâng lễ cho dân chúng",
+            "Dâng lễ tạ ơn cho Mô-sê",
+            "Dâng lễ tế cho nhạc phụ Giê-trô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con vật A-hác-rôn phải dâng làm lễ chuộc tội cho chính mình là con gì?",
+          "options": [
+            "Một con bê đực hoàn hảo (bê làm lễ đền tội)",
+            "Một con bò đực lớn",
+            "Một con dê cái đen",
+            "Một con chiên đực một tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ vật đền tội A-hác-rôn dâng thay cho dân chúng là con vật gì?",
+          "options": [
+            "Một con dê đực (dê làm lễ đền tội)",
+            "Một con bê đực",
+            "Một con bò cái tơ",
+            "Một con chiên đực"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "A-hác-rôn giơ tay chúc lành cho dân chúng sau khi hoàn tất các nghi lễ tế nào?",
+          "options": [
+            "Sau khi dâng lễ đền tội, lễ toàn thiêu và lễ hòa bình kỳ an",
+            "Chỉ sau khi dâng lễ tế chay",
+            "Sau khi xức dầu đền tạm",
+            "Sau khi ăn thịt hiến tế phong chức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau khi Mô-sê và A-hác-rôn vào Lều Hội Ngộ rồi ra chúc phúc, hiện tượng thiêng liêng nào xuất hiện?",
+          "options": [
+            "Vinh quang của ĐỨC CHÚA hiện ra trước mắt toàn dân chúng",
+            "Có cơn mưa lớn đổ xuống hoang địa",
+            "Cột lửa biến mất hoàn toàn",
+            "Tiếng sấm sét vang dội chân núi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tượng kỳ diệu nào từ ĐỨC CHÚA đã thiêu rụi lễ toàn thiêu và mỡ trên bàn thờ đồng?",
+          "options": [
+            "Một luồng lửa phát ra từ trước nhan ĐỨC CHÚA phóng xuống thiêu rụi toàn bộ lễ tế",
+            "Mô-sê dùng gậy châm lửa đốt",
+            "Mặt trời chiếu sáng cực mạnh tự đốt",
+            "Các tư tế đổ dầu châm lửa đốt củi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ của dân chúng thế nào khi nhìn thấy lửa từ Chúa thiêu rụi lễ tế?",
+          "options": [
+            "Dân chúng reo hò vui mừng hớn hở và quỳ sụp úp mặt xuống đất thờ lạy",
+            "Họ sợ hãi bỏ trốn vào lều riêng",
+            "Họ oán trách Mô-sê lừa dối",
+            "Họ giữ im lặng tang chế thành kính"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "A-hác-rôn bôi máu con bê tế đền tội cho mình vào đâu đầu tiên?",
+          "options": [
+            "Vào các sừng bàn thờ đồng tế toàn thiêu ngoài sân",
+            "Vào nắp xá tội hòm bia",
+            "Vào tai phải các con trai ông",
+            "Vào trán chính mình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần thịt và da con bê tế đền tội của A-hác-rôn dâng cho chính mình được đốt ở đâu?",
+          "options": [
+            "Đốt ngoài doanh trại, giống như luật quy định bò tế đền tội tư tế",
+            "Đốt trên bàn thờ đồng tế toàn thiêu",
+            "Đốt trong Nơi Thánh",
+            "Đem chia cho người dâng lễ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa lịch sử của sự kiện chương 9 đối với hàng tư tế Lê-vi là gì?",
+          "options": [
+            "Đánh dấu sự khởi đầu chính thức của hệ thống phụng vụ đền thờ do hàng tư tế dòng A-hác-rôn cử hành",
+            "Đánh dấu việc Mô-sê nhường chức lãnh đạo cho A-hác-rôn",
+            "Xóa sạch hoàn toàn tội thờ bò vàng của A-hác-rôn",
+            "Hoàn tất việc di chuyển Đền Tạm khỏi Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Hai con trai lớn của thượng tế A-hác-rôn phạm tội bị phạt chết tên là gì?",
+          "options": [
+            "Na-đáp (Nadab) và A-vi-hu (Abihu)",
+            "Ê-la-da và I-tha-ma",
+            "Ghẹt-sôm và Ê-li-e-zer",
+            "Hóp-ni và Phi-nê-ha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội ác nghiêm trọng nào hai con trai A-hác-rôn phạm phải trước mặt Chúa?",
+          "options": [
+            "Dâng 'lửa lạ' (lửa không được phép) trước nhan ĐỨC CHÚA trái mệnh lệnh của Người",
+            "Thờ lạy tượng bò vàng",
+            "Trộm cắp bạc thuế đền tạm",
+            "Uống rượu say xỉn làm đổ dầu thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt lập tức giáng xuống Na-đáp và A-vi-hu là gì?",
+          "options": [
+            "Một luồng lửa từ trước nhan ĐỨC CHÚA phát ra thiêu chết họ ngay tại chỗ trước nhan Chúa",
+            "Bị ngã bệnh phong cùi chết dần",
+            "Bị đất nứt ra nuốt chửng",
+            "Bị dân chúng ném đá chết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa giải thích thế nào về sự phạt chết nghiêm khắc đối với hai tư tế phạm lỗi?",
+          "options": [
+            "Ta tỏ mình là Đấng Thánh nơi những kẻ lại gần Ta, và trước mặt toàn dân Ta được tôn vinh",
+            "Vì họ không có lòng kính sợ cha họ",
+            "Vì họ muốn cướp chức thượng tế",
+            "Vì họ đã học phép thuật Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê cấm A-hác-rôn và các con còn lại (Ê-la-da, I-tha-ma) làm hành động tang chế nào?",
+          "options": [
+            "Không được xõa tóc, không được xé áo chịu tang kẻo bị phạt chết và làm Chúa giận dữ toàn đoàn",
+            "Không được ăn thịt hiến tế",
+            "Không được tế lễ ba ngày",
+            "Không được nhìn xác chết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai được Mô-sê gọi vào khiêng xác hai người chết ra ngoài doanh trại?",
+          "options": [
+            "Ông Mi-sa-ên và ông Ê-li-xa-phan (các anh em họ tư tế dòng Kê-hát)",
+            "Chính ông A-hác-rôn cha họ",
+            "Những người hầu cận đền tạm",
+            "Đức Giô-suê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật nghiêm cấm tư tế làm gì mỗi khi đi vào Lều Hội Ngộ để bảo đảm tỉnh táo?",
+          "options": [
+            "Không được uống rượu nho hay thức uống có men kẻo chết; đây là luật vĩnh viễn",
+            "Không được ăn thịt súc vật tế",
+            "Không được mặc y phục thường",
+            "Không được mang gậy theo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô-sê nổi giận với Ê-la-da và I-tha-ma về việc xử lý con dê tế đền tội thế nào?",
+          "options": [
+            "Họ đã đem thiêu hủy hoàn toàn con dê tế đền tội thay vì ăn phần thịt đó trong Nơi Thánh",
+            "Họ đem chia thịt cho người ngoài ăn",
+            "Họ quên không rảy máu dê lên bàn thờ",
+            "Họ để thịt dê bị ôi thiu qua đêm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "A-hác-rôn đã biện hộ thế nào cho các con còn lại trước cơn giận của Mô-sê?",
+          "options": [
+            "Hôm nay tai họa tang thương lớn xảy ra cho tôi, nếu tôi ăn thịt tế đền tội hôm nay liệu Chúa có vui lòng?",
+            "Các con tôi còn trẻ dại chưa hiểu luật",
+            "Họ sợ bị nhiễm độc từ thịt dê",
+            "Họ bận dọn dẹp đống tro tàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ của Mô-sê thế nào sau khi nghe lời giải thích của A-hác-rôn?",
+          "options": [
+            "Ông nghe theo và hài lòng chấp nhận lời giải thích đó",
+            "Ông vẫn nổi giận phạt roi họ",
+            "Ông đuổi họ ra khỏi đền tạm",
+            "Ông cầu xin Chúa phạt thêm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Tiêu chuẩn động vật trên cạn được coi là thanh sạch được phép ăn thịt là gì?",
+          "options": [
+            "Súc vật có móng chẻ đôi hoàn toàn và nhai lại",
+            "Súc vật ăn cỏ có móng vuốt",
+            "Mọi loài thú bốn chân hoang dã",
+            "Súc vật có sừng nhọn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con vật nào sau đây bị coi là ô uế vì nhai lại nhưng không có móng chẻ đôi?",
+          "options": [
+            "Lạc đà (camel) và thỏ rừng",
+            "Con bò tơ",
+            "Con cừu đực",
+            "Con dê hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con heo (lợn) bị coi là ô uế cấm ăn vì lý do gì?",
+          "options": [
+            "Vì nó có móng chẻ đôi hoàn toàn nhưng không nhai lại",
+            "Vì nó ăn đồ bẩn thỉu",
+            "Vì thịt nó có nhiều mỡ",
+            "Vì nó có nhiều lông rậm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiêu chuẩn động vật dưới nước (sông biển) thanh sạch được phép ăn là gì?",
+          "options": [
+            "Có vây và có vảy (fins and scales)",
+            "Có mai cứng bảo vệ",
+            "Có kích thước lớn hơn một gang tay",
+            "Không có xương dăm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các loài thủy sản nào bị coi là ghê tởm cấm ăn dưới nước?",
+          "options": [
+            "Mọi loài không có vây và vảy (như tôm, cua, lươn, bạch tuộc...)",
+            "Cá chép sông",
+            "Cá thu biển",
+            "Cá trê hồ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những loài chim nào bị liệt vào danh sách ghê tởm cấm ăn?",
+          "options": [
+            "Các loài chim ăn thịt hoang dã (như đại bàng, diều hâu, kền kền, chim ưng, cú...)",
+            "Chim bồ câu và chim gáy",
+            "Chim sẻ và chim cút",
+            "Gà rừng và vịt nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Loài côn trùng bay nào được phép ăn theo quy định đặc biệt?",
+          "options": [
+            "Các loài côn trùng bay bốn chân có càng dài để nhảy trên đất (như châu chấu, cào cào)",
+            "Các loài ong mật",
+            "Con ruồi và con muỗi",
+            "Bươm bướm và chuồn chuồn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chuyện gì xảy ra với người chạm vào xác chết của con vật ô uế?",
+          "options": [
+            "Người đó bị ô uế cho đến chiều tối, phải giặt sạch quần áo thanh tẩy",
+            "Bị phạt tiền nộp đền tạm",
+            "Bị cách ly ngoài trại bảy ngày",
+            "Phải dâng lễ tế đền tội ngay lập tức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật dụng bằng đất nung bị xác chết con vật ô uế rơi trúng phải xử lý ra sao?",
+          "options": [
+            "Phải đập vỡ vật dụng đất nung đó cấm dùng lại",
+            "Rửa kỹ bằng nước sạch dùng tiếp",
+            "Hơ trên lửa đỏ thanh tẩy",
+            "Phơi nắng ba ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích tối hậu của các luật kiêng ăn động vật ô uế được Chúa phán là gì?",
+          "options": [
+            "Các ngươi phải nên thánh, vì Ta là Đấng Thánh. Đừng tự làm ô uế mình vì loài bò sát bò trên đất",
+            "Để bảo vệ sức khỏe phòng tránh ngộ độc",
+            "Để tiết kiệm súc vật chăn nuôi",
+            "Để phân biệt người giàu nghèo"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Thời gian sản phụ bị coi là ô uế sau khi sinh một con trai là bao nhiêu ngày?",
+          "options": [
+            "Bốn mươi ngày (40 ngày: 7 ngày ô uế thường + 33 ngày thanh huyết)",
+            "Ba mươi ngày",
+            "Mười ngày",
+            "Bảy ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vào ngày thứ mấy sau khi sinh, bé trai bắt buộc phải chịu phép cắt bì?",
+          "options": [
+            "Ngày thứ tám (8 ngày tuổi)",
+            "Ngày thứ ba",
+            "Ngày thứ mười lăm",
+            "Ngày thứ ba mươi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời gian sản phụ bị coi là ô uế sau khi sinh một con gái là bao nhiêu ngày?",
+          "options": [
+            "Tám mươi ngày (80 ngày: 14 ngày ô uế thường + 66 ngày thanh huyết)",
+            "Bốn mươi ngày",
+            "Sáu mươi ngày",
+            "Một trăm ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi mãn thời gian thanh tẩy, sản phụ phải dâng lễ vật gì tại cửa Lều Hội Ngộ?",
+          "options": [
+            "Một con chiên một tuổi làm lễ toàn thiêu và một chim bồ câu non làm lễ đền tội",
+            "Một con bò cái tơ",
+            "Một con dê đực lớn",
+            "Chỉ dâng tiền vàng thuế đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu sản phụ nghèo không đủ sức mua chiên con, họ được phép dâng gì thay thế?",
+          "options": [
+            "Hai con chim gáy hoặc hai con chim bồ câu non",
+            "Một phần mười ê-pha bột lanh mịn",
+            "Một đồng bạc si-clơ",
+            "Một nắm muối trắng dâng kính"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao thời gian thanh tẩy khi sinh con gái lại dài gấp đôi sinh con trai?",
+          "options": [
+            "Tùy thuộc vào quan niệm văn hóa xã hội cổ đại quy định về nhịp sinh học giới tính",
+            "Vì con gái sinh ra khó nuôi hơn",
+            "Vì con gái không phải chịu phép cắt bì",
+            "Vì mẹ thương con gái hơn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người trực tiếp nhận lễ vật từ tay sản phụ để dâng hiến và cầu nguyện xá tội cho họ?",
+          "options": [
+            "Thầy tư tế trực tế lễ",
+            "Ông Mô-sê",
+            "Bà đỡ đẻ cho sản phụ",
+            "Chồng của sản phụ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sản phụ có được phép chạm vào đồ thánh hoặc vào thánh điện trong thời gian thanh huyết không?",
+          "options": [
+            "Cấm tuyệt đối không được chạm vào đồ thánh hay vào thánh điện cho đến khi mãn ngày thanh tẩy",
+            "Được phép nếu đeo găng tay lanh",
+            "Chỉ được phép vào ngày sa-bát",
+            "Được vào khu vực sân ngoài hành lang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa y khoa vệ sinh của luật thanh tẩy sản phụ thời cổ đại là gì?",
+          "options": [
+            "Giúp người mẹ có thời gian nghỉ ngơi phục hồi sức khỏe và tránh nhiễm trùng hậu sản",
+            "Để trừng phạt người mẹ sinh con",
+            "Để hạn chế số lượng trẻ sơ sinh",
+            "Để tư tế thu thêm tiền lễ vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là cặp vợ chồng nổi tiếng trong Tân Ước đã dâng lễ vật đôi chim gáy nghèo nầy khi dâng Chúa Giê-su vào đền thờ?",
+          "options": [
+            "Bà Ma-ri-a và ông Giu-se (Maria & Joseph)",
+            "Bà Ê-li-sa-phét và ông Da-ca-ri-a",
+            "Bà An-na và ông Giô-a-khim",
+            "Bà Ma-ri-a Mác-đa-la và môn đệ Gio-an"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Ai là người có thẩm quyền khám và chẩn đoán các vết phát ban nghi bệnh phong hủi trên da?",
+          "options": [
+            "Tư tế A-hác-rôn hoặc một trong các tư tế con cháu ông",
+            "Chính ông Mô-sê",
+            "Các thầy thuốc Ai Cập cổ",
+            "Người đứng đầu chi tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vết phát ban trên da nghi ngờ phong hủi phải cách ly người đó trong bao nhiêu ngày để theo dõi?",
+          "options": [
+            "Bảy ngày (7 ngày, nếu chưa rõ thì cách ly thêm 7 ngày nữa)",
+            "Ba ngày",
+            "Mười ngày",
+            "Bốn mươi ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dấu hiệu lâm sàng chính chứng tỏ vết phát ban đã biến thành bệnh phong hủi thật sự là gì?",
+          "options": [
+            "Lông tóc chỗ vết thương biến thành màu trắng và vết thương ăn sâu hơn da thường",
+            "Vết thương bị chảy máu nhiều",
+            "Vết thương có màu đen sẫm",
+            "Chỗ phát ban biến mất không đau đớn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi tư tế chính thức tuyên bố một người bị phong hủi, người bệnh phải tuân thủ quy định trang phục thế nào?",
+          "options": [
+            "Mặc quần áo rách, xõa tóc, che râu miệng và phải kêu lên: Ô uế! Ô uế! để người khác tránh xa",
+            "Mặc quần áo kín mít che toàn thân",
+            "Mặc y phục màu đỏ cảnh báo",
+            "Cấm không được mặc gì che thân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi ở quy định của người bị bệnh phong hủi là ở đâu?",
+          "options": [
+            "Phải ở riêng biệt bên ngoài doanh trại biệt lập",
+            "Ở trong lều riêng gia đình che kín",
+            "Ở khu vực sân hành lang ngoài đền tạm",
+            "Ở trên đỉnh núi Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu vết phát ban hủi loang rộng phủ kín toàn bộ da từ đầu đến chân hóa trắng hết, tư tế tuyên bố người đó thế nào?",
+          "options": [
+            "Tuyên bố người đó thanh sạch (vì bệnh đã phát hết ra ngoài không còn lây nhiễm âm ỉ)",
+            "Tuyên bố người đó cực kỳ ô uế phải xử tử",
+            "Bắt cách ly thêm bốn mươi ngày",
+            "Trục xuất vĩnh viễn khỏi hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vết mốc nghi hủi xuất hiện trên quần áo bằng len hoặc sợi lanh phải xử lý thế nào đầu tiên?",
+          "options": [
+            "Tư tế kiểm tra và cách ly áo đó trong bảy ngày",
+            "Đem đốt ngay lập tức",
+            "Đem giặt sạch bằng nước muối",
+            "Đem phơi nắng ba ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu vết mốc xanh đỏ trên áo loang rộng sau thời gian cách ly, áo đó phải xử lý ra sao?",
+          "options": [
+            "Phải đem thiêu hủy hoàn toàn trong lửa vì bị hủi độc ăn bám",
+            "Đem giặt lại bằng nước chảy dùng tiếp",
+            "Cắt bỏ phần bị mốc vá vải mới vào",
+            "Đem cho người nghèo ngoài trại dùng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu vết mốc trên áo nhạt đi sau khi giặt, tư tế cho giặt lần hai và tuyên bố áo đó thế nào?",
+          "options": [
+            "Tuyên bố áo đó đã thanh sạch được phép mặc lại",
+            "Vẫn bắt đem đốt để phòng hờ",
+            "Đem cất vào kho thánh điện",
+            "Bắt ngâm dầu xức thánh thanh tẩy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của luật cách ly bệnh phong hủi thời cổ đại là gì?",
+          "options": [
+            "Ngăn chặn dịch bệnh truyền nhiễm lây lan hủy hoại toàn bộ cộng đồng dân cư hoang địa",
+            "Để trừng phạt tội lỗi cá nhân người bệnh",
+            "Để giảm bớt dân số ăn man-na trong trại",
+            "Để thể hiện uy quyền phán xét của hàng tư tế"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Nơi tư tế tiến hành khám cho người phong hủi đã lành bệnh để làm thủ tục thanh tẩy là ở đâu?",
+          "options": [
+            "Bên ngoài doanh trại",
+            "Bên trong Lều Hội Ngộ",
+            "Tại chân núi Xi-nai",
+            "Trong lều tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật dụng nghi lễ dâng cúng dùng thanh tẩy người hủi gồm những gì?",
+          "options": [
+            "Hai con chim sống thanh sạch, cành gỗ hương thảo, chỉ màu đỏ thắm và nhánh tía tô",
+            "Một con bê đực và mười lít dầu",
+            "Một bình vàng chứa nước sông hóa máu",
+            "Bột lanh mịn nhào mật ong"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư tế làm gì với con chim thứ nhất trong nghi lễ thanh tẩy phong hủi?",
+          "options": [
+            "Sát tế con chim trên một bình đất chứa nước chảy ngọt",
+            "Đốt thiêu hoàn toàn trên bàn thờ",
+            "Thả cho bay đi tự do trên cánh đồng",
+            "Đem nấu thịt cho người lành bệnh ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con chim sống thứ hai được xử lý thế nào sau khi nhúng vào máu con chim thứ nhất?",
+          "options": [
+            "Thả cho nó bay tự do ngoài cánh đồng hoang dã",
+            "Đem sát tế tiếp trên bàn thờ đồng",
+            "Cất giữ lại trong lồng đền tạm",
+            "Đem thiêu hủy ngoài trại cùng đống tro"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Máu con chim bị sát tế được rẩy mấy lần lên người cần thanh tẩy?",
+          "options": [
+            "Rẩy bảy lần (7 lần) rồi tuyên bố người đó thanh sạch",
+            "Rảy ba lần",
+            "Rảy mười lần",
+            "Rảy một lần duy nhất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vào ngày thứ tám thanh tẩy, người lành bệnh dâng lễ vật sửa lỗi là chiên và được bôi máu vào đâu?",
+          "options": [
+            "Thùy tai phải, ngón tay cái bên phải và ngón chân cái bên phải của họ",
+            "Bôi lên trán và ngực họ",
+            "Bôi lên lòng bàn tay và bàn chân",
+            "Bôi lên quần áo mới mặc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dầu xức dâng kèm lễ vật được tư tế đổ vào lòng bàn tay trái của mình rồi làm gì?",
+          "options": [
+            "Dùng ngón tay phải chấm dầu rảy bảy lần trước mặt Chúa, rồi bôi lên tai, ngón tay, ngón chân của người thanh tẩy đè lên vết máu",
+            "Đổ hết lên đầu người lành bệnh",
+            "Dùng dầu xoa bóp toàn thân người bệnh",
+            "Đổ vào bồn đồng rửa tay chân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần dầu còn dư trong lòng bàn tay tư tế được đổ vào đâu?",
+          "options": [
+            "Đổ lên đầu người được thanh tẩy để hoàn tất nghi lễ chuộc tội",
+            "Đổ xuống đất chân bàn thờ",
+            "Cất lại vào bình dầu xức thánh",
+            "Đổ vào ngọn đèn chân đèn bảy nhánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật thanh tẩy nhà bị mốc rêu (nghi hủi nhà) quy định thế nào nếu vết mốc loang rộng ăn sâu vào tường?",
+          "options": [
+            "Phải dỡ bỏ các viên đá mốc đem vứt nơi ô uế ngoài trại, nếu mốc tái phát thì phải phá sập hoàn toàn ngôi nhà",
+            "Chỉ cần sơn phủ màu sơn mới lên tường",
+            "Đốt lửa sưởi ấm cho khô mốc",
+            "Cấm không cho ai bước vào nhà suốt đời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi thức thả con chim sống bay tự do ngoài cánh đồng mang ý nghĩa biểu tượng gì?",
+          "options": [
+            "Tượng trưng cho sự giải thoát, tự do hoàn toàn của người lành bệnh phong hủi khỏi sự giam hãm ô uế",
+            "Tượng trưng cho sứ điệp hòa bình gửi dân ngoại",
+            "Để chim mang tin lành đi xa",
+            "Làm mồi nhử cho thú dữ sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "Người nam bị chứng xuất tiết chảy chất dịch liên tục từ thân thể bị coi là thế nào?",
+          "options": [
+            "Người đó bị ô uế; bất cứ vật gì người đó nằm, ngồi hay chạm vào đều bị lây ô uế",
+            "Bị ngã bệnh nặng phải trục xuất",
+            "Phải chịu phạt roi răn đe",
+            "Vẫn thanh sạch bình thường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người nào chạm vào giường lều hoặc vật dụng của người bị chứng xuất tiết phải làm gì để thanh tẩy?",
+          "options": [
+            "Phải giặt quần áo, tắm rửa bằng nước sạch và bị ô uế cho đến chiều tối",
+            "Phải dâng lễ tế sửa lỗi bằng bạc",
+            "Bị cách ly ngoài doanh trại bảy ngày",
+            "Không cần làm gì chỉ cần rửa tay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người bị chứng xuất tiết khi đã lành bệnh phải chờ bao nhiêu ngày thanh tẩy trước khi dâng lễ vật?",
+          "options": [
+            "Chờ bảy ngày (7 ngày), giặt áo tắm nước chảy rồi dâng lễ vào ngày thứ tám",
+            "Chờ ba ngày",
+            "Chờ mười ngày",
+            "Chờ bốn mươi ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ vật dâng hiến thanh tẩy chứng xuất tiết vào ngày thứ tám là gì?",
+          "options": [
+            "Hai con chim gáy hoặc hai con chim bồ câu non (một đền tội, một toàn thiêu)",
+            "Một con chiên đực lớn",
+            "Một con bê sữa",
+            "Một ta-lăng đồng đỏ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người nam bị di tinh tự nhiên bị coi là thế nào?",
+          "options": [
+            "Bị ô uế cho đến chiều tối; phải tắm rửa toàn thân và giặt quần áo dính tinh dịch",
+            "Phải bị cách ly ngoài trại",
+            "Phải dâng chim bồ câu đền tội",
+            "Không bị ô uế gì cả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phụ nữ trong thời kỳ kinh nguyệt tự nhiên bị coi là ô uế trong bao nhiêu ngày?",
+          "options": [
+            "Bảy ngày (7 ngày kể từ lúc bắt đầu)",
+            "Ba ngày",
+            "Mười ngày",
+            "Mười bốn ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu một người nam giao hợp với phụ nữ đang có kinh nguyệt, người nam đó bị ảnh hưởng thế nào?",
+          "options": [
+            "Người nam bị ô uế trong bảy ngày, và mọi chiếc giường ông nằm đều bị ô uế theo",
+            "Người nam bị xử phạt tử hình",
+            "Người nam bị phạt tiền nộp đền tạm",
+            "Không bị ảnh hưởng gì nếu tắm rửa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu phụ nữ bị băng huyết chảy máu liên tục ngoài chu kỳ kinh thường, luật quy định thế nào?",
+          "options": [
+            "Bị ô uế suốt thời gian xuất huyết giống như trong thời kỳ kinh nguyệt thường",
+            "Phải lập tức cách ly ngoài doanh trại",
+            "Phải chịu phép cắt bì đặc biệt",
+            "Vẫn được phép vào đền tạm tế lễ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi người nữ lành bệnh băng huyết xuất tiết, bà phải làm gì để thanh tẩy dâng lễ vật?",
+          "options": [
+            "Chờ bảy ngày thanh sạch, ngày thứ tám dâng hai con chim gáy hoặc bồ câu non tại cửa đền tạm",
+            "Chỉ cần tắm rửa bằng nước ngọt",
+            "Dâng một con chiên cái một tuổi",
+            "Ăn chay đền tội mười ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích Chúa phán dạy lề luật về các vết xuất tiết sinh học là gì?",
+          "options": [
+            "Để giữ con cái Ít-ra-en tránh xa sự ô uế tâm thể, kẻo họ làm ô uế Đền Tạm của Ta ngự giữa họ mà phải chết",
+            "Để hạn chế quan hệ tình dục thời hoang địa",
+            "Để giữ gìn sức khỏe sinh sản dân chúng",
+            "Để tăng thêm thu nhập lễ vật tư tế"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "questions": [
+        {
+          "text": "Thượng tế A-hác-rôn được phép vào Nơi Cực Thánh phía sau bức màn ngăn mấy lần trong năm?",
+          "options": [
+            "Mỗi năm một lần duy nhất vào Ngày Xá Tội (Yom Kippur)",
+            "Hàng tuần vào ngày sa-bát",
+            "Mỗi tháng một lần vào trăng tròn",
+            "Tự do vào bất cứ lúc nào cần dâng hương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngày Xá Tội (Yom Kippur) được quy định tổ chức vào ngày mấy tháng mấy âm lịch Do Thái?",
+          "options": [
+            "Ngày mồng mười tháng thứ bảy (tháng Tishri)",
+            "Ngày rằm tháng giêng",
+            "Ngày mồng một tháng chạp",
+            "Ngày hai mươi lăm tháng chạp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai con vật dâng làm lễ tế tạ tội cho toàn cộng đồng dân chúng trong Ngày Xá Tội là gì?",
+          "options": [
+            "Hai con dê đực (dê tế tạ tội)",
+            "Hai con bò tơ",
+            "Hai con chiên đực",
+            "Hai con chim bồ câu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "A-hác-rôn làm hành động gì để phân định nhiệm vụ cho hai con dê đực?",
+          "options": [
+            "Bốc thăm: một thăm dành cho ĐỨC CHÚA, một thăm dành cho thần Azazel (dê gánh tội)",
+            "Đánh dấu sơn màu đỏ đen lên sừng dê",
+            "Cân trọng lượng hai con dê",
+            "Cho dân chọn lựa con dê họ thích"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con dê trúng thăm 'dành cho ĐỨC CHÚA' được xử lý thế nào?",
+          "options": [
+            "Được sát tế làm lễ tế tạ tội cho dân chúng dâng máu vào Nơi Cực Thánh",
+            "Được thả tự do ngoài đồng",
+            "Được nuôi dưỡng cẩn thận trong đền tạm",
+            "Đem nướng thịt cho tư tế ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con dê trúng thăm 'dành cho Azazel' (dê gánh tội) được xử lý thế nào trong nghi lễ?",
+          "options": [
+            "Thượng tế đặt hai tay lên đầu dê xưng thú mọi tội lỗi dân, rồi đuổi dê sống thả vào hoang địa mang tội đi",
+            "Được sát tế ngay bên cạnh bàn thờ đồng",
+            "Đem thiêu hủy hoàn toàn ngoài doanh trại",
+            "Đem bán lấy tiền vàng dâng cúng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Máu con bò tế đền tội cho chính tư tế và máu con dê tế cho dân được thượng tế rảy vào đâu trong Nơi Cực Thánh?",
+          "options": [
+            "Rảy ngón tay lên phía trước nắp xá tội của Hòm Bia Giao Ước về phía đông bảy lần",
+            "Rảy lên các bức tường gỗ bọc vàng",
+            "Đổ xuống đất chân hòm bia",
+            "Bôi lên quần áo phẩm phục tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trang phục thượng tế mặc khi vào Nơi Cực Thánh cử hành nghi thức Ngày Xá Tội là gì?",
+          "options": [
+            "Áo thụng lanh trắng thánh thiện đơn giản (sau khi tắm rửa sạch sẽ)",
+            "Áo ê-phốt dát vàng lộng lẫy đội mũ triều thiên",
+            "Áo choàng lam chàm thêu quả lựu chuông vàng",
+            "Khố da thú thô sơ thành kính"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Yêu cầu bắt buộc đối với toàn thể dân chúng trong Ngày Xá Tội là gì?",
+          "options": [
+            "Phải ăn chay (hãm mình) và nghỉ làm việc hoàn toàn dẫu là dân bản địa hay ngoại kiều",
+            "Tổ chức tiệc ăn mừng hân hoan",
+            "Đi diễu hành xung quanh đền tạm",
+            "Dâng cúng toàn bộ súc vật đầu lòng của năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi thức dê gánh tội (Scapegoat) mang ý nghĩa biểu tượng thần học gì trong Kinh Thánh?",
+          "options": [
+            "Tội lỗi của cộng đoàn được cất bỏ hoàn toàn và mang đi thật xa khuất mắt Thiên Chúa",
+            "Chứng minh sự tôn trọng động vật hoang dã",
+            "Thử thách lòng tin của dân chúng",
+            "Đền bù thiệt hại vật chất cho đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "questions": [
+        {
+          "text": "Luật quy định súc vật (bò, chiên, dê) muốn sát tế làm thực phẩm phải mang đến đâu đầu tiên?",
+          "options": [
+            "Phải mang đến cửa Lều Hội Ngộ để tư tế dâng mỡ làm lễ hòa bình trước; cấm tự ý sát tế ngoài đồng",
+            "Được sát tế tại lều riêng tùy ý",
+            "Mang lên đỉnh núi Xi-nai",
+            "Mang sang đất Ai Cập bán"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ cố tình sát tế súc vật ngoài Đền Tạm không trình dâng lên Chúa bị kết tội gì?",
+          "options": [
+            "Bị kết tội nợ máu (sát nhân) và phải bị khai trừ khỏi dân chúng của mình",
+            "Bị phạt nộp mười con chiên",
+            "Bị phạt làm nô lệ 1 năm",
+            "Không bị tội gì chỉ bị cảnh cáo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích cấm tự ý sát tế ngoài đồng nhằm ngăn chặn hành vi thờ hình tượng nào?",
+          "options": [
+            "Để dân không còn dâng hiến tế cho các tà thần hình dê hoang dã (quỷ dê) ngoài đồng nữa",
+            "Ngăn chặn việc trộm cắp súc vật",
+            "Để tư tế dễ dàng thu mỡ súc vật",
+            "Để bảo vệ môi trường doanh trại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Máu của súc vật săn bắn được (thú rừng, chim thanh sạch) phải xử lý thế nào khi giết?",
+          "options": [
+            "Phải đổ máu xuống đất và lấy bụi đất lấp kín che phủ máu lại",
+            "Đem hứng vào bình dâng lên đền tạm",
+            "Đem bôi lên bốn sừng bàn thờ",
+            "Để nguyên cho máu khô tự nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao luật cấm ăn huyết (máu) lại được nhấn mạnh liên tục cho cả ngoại kiều?",
+          "options": [
+            "Vì sự sống của mọi xác thịt là máu của nó; ai ăn máu sẽ bị khai trừ",
+            "Vì máu gây bệnh truyền nhiễm nguy hiểm",
+            "Vì máu có mùi vị tanh hôi khó ăn",
+            "Vì máu là biểu tượng của chiến tranh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người ăn thịt con vật tự chết (nghẹt) hoặc bị thú xé xác phải làm gì để thanh tẩy?",
+          "options": [
+            "Phải giặt quần áo, tắm rửa nước sạch và bị ô uế cho đến chiều tối",
+            "Phải dâng một con dê đền tội",
+            "Bị cách ly ngoài trại bảy ngày",
+            "Bị xử tử hình vì tội phạm luật ăn máu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chuyện gì xảy ra nếu người ăn thịt súc vật chết không chịu tắm rửa giặt quần áo thanh tẩy?",
+          "options": [
+            "Người đó phải gánh chịu hậu quả tội lỗi của mình bị phạt chết",
+            "Không có chuyện gì xảy ra",
+            "Chỉ bị mọi người xa lánh",
+            "Bị phạt tiền bạc nộp đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Máu súc vật tế trên bàn thờ đồng có chức năng thần học gì đối với con người?",
+          "options": [
+            "Máu dùng để cử hành nghi thức chuộc mạng đền tội cho sinh mệnh các ngươi trước nhan Chúa",
+            "Làm đẹp trang trí bàn thờ",
+            "Để tư tế làm lễ xức dầu thánh hiến",
+            "Để tẩy sạch vết bẩn trên đá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngoại kiều sinh sống giữa người Ít-ra-en có phải tuân giữ luật cấm ăn máu không?",
+          "options": [
+            "Có, luật cấm ăn máu áp dụng cho cả người Ít-ra-en bản địa và ngoại kiều cư ngụ",
+            "Không, người nước ngoài được phép ăn tự do",
+            "Chỉ áp dụng cho ngoại kiều làm việc đền tạm",
+            "Chỉ cấm ăn máu vào ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa điểm quy định đổ máu con vật săn bắn được là ở đâu?",
+          "options": [
+            "Đổ trực tiếp xuống đất nơi sát hại con vật",
+            "Mang về cửa Lều Hội Ngộ đổ",
+            "Đổ xuống sông hoặc hồ nước gần nhất",
+            "Đổ vào hố tro đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "questions": [
+        {
+          "text": "Thiên Chúa cấm dân Ít-ra-en bắt chước lối sống hủ tục tình dục của hai miền đất nào?",
+          "options": [
+            "Đất Ai Cập (nơi họ ra đi) và đất Ca-na-an (nơi họ sắp đến định cư)",
+            "Xứ Ma-đi-an và xứ Ba-by-lon",
+            "Xứ Mô-áp và xứ Ê-đôm",
+            "Vùng Lưỡng Hà và vùng Hy Lạp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật cấm quan hệ tình dục với người thân cận quy định thế nào về huyết thống?",
+          "options": [
+            "Cấm tuyệt đối quan hệ với những người ruột thịt họ hàng gần (như cha mẹ, chị em, con cái...)",
+            "Cho phép kết hôn giữa anh chị em họ gần",
+            "Cho phép lấy vợ của cha sau khi cha qua đời",
+            "Chỉ cấm kết hôn với người cùng chi tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cấm quan hệ với phụ nữ vào thời điểm sinh lý nào của họ?",
+          "options": [
+            "Cấm quan hệ khi người nữ đang trong thời kỳ kinh nguyệt ô uế",
+            "Khi người nữ đang mang thai",
+            "Vào ngày sa-bát thánh",
+            "Khi người nữ chưa dâng lễ tạ ơn sinh con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội ác dâng con cái mình làm tế lễ thiêu sống cho tà thần nào của người Ca-na-an bị cấm tột bực?",
+          "options": [
+            "Tế thần Mô-lê (Molech / Moloch)",
+            "Thờ thần Ba-al",
+            "Thờ thần A-sê-ra",
+            "Thờ tượng bò vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật cấm hành vi tình dục đồng tính nam quy định thế nào ở chương 18?",
+          "options": [
+            "Không được giao hợp với người nam như giao hợp với người nữ; đó là điều ghê tởm",
+            "Chỉ bị phạt tiền đền tạm",
+            "Được phép nếu cả hai đồng thuận tự nguyện",
+            "Bị cách ly ngoài doanh trại một năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội ác giao hợp với thú vật (Bestiality) quy định hình phạt thế nào?",
+          "options": [
+            "Cấm tuyệt đối cả nam và nữ giao hợp với súc vật; đó là điều quái gở ô uế cực độ",
+            "Chỉ bị phạt roi cảnh cáo",
+            "Phải dâng tế lễ bò tơ đền tội",
+            "Không bị phạt nặng nếu là súc vật nhà"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa cảnh báo miền đất Ca-na-an sẽ làm gì đối với các cư dân phạm những tội ghê tởm này?",
+          "options": [
+            "Đất sẽ nôn mửa (trục xuất) các cư dân đó ra khỏi đất giống như nôn mửa dân tộc đi trước",
+            "Đất sẽ bị hạn hán sa mạc hóa vĩnh viễn",
+            "Đất sẽ nứt ra nuốt chửng nhà cửa họ",
+            "Đất sẽ hóa thành đầm lầy máu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bất cứ ai phạm những điều ghê tởm loạn luân tình dục này bị xử lý thế nào?",
+          "options": [
+            "Kẻ phạm tội sẽ bị khai trừ (diệt trừ) khỏi dân tộc của mình",
+            "Phải nộp phạt một trăm si-clơ vàng",
+            "Phải đi làm nô dịch suốt đời",
+            "Được tha thứ nếu tự nguyện cắt bì lại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Chúa phán: 'Ta là ĐỨC CHÚA, Thiên Chúa của các ngươi' được lập lại liên tục để làm gì?",
+          "options": [
+            "Để nhấn mạnh uy quyền tối cao của Đấng ban luật đòi hỏi sự vâng phục thánh thiện tuyệt đối",
+            "Để dân nhớ tên Chúa",
+            "Để tư tế ghi chép vào bia đá",
+            "Để xua đuổi các tư tế thần ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật cấm ngoại tình quy định thế nào đối với vợ người láng giềng?",
+          "options": [
+            "Cấm tuyệt đối giao hợp với vợ người láng giềng làm ô uế chính mình",
+            "Chỉ được phép nếu chồng cô ta đồng ý",
+            "Được phép nếu chồng cô ta đã qua đời lâu năm",
+            "Bị phạt đền bù súc vật cho người chồng"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "questions": [
+        {
+          "text": "Lời kêu gọi hành động cốt lõi của chương 19 về sự thánh thiện là gì?",
+          "options": [
+            "Hãy nên thánh, vì Ta, ĐỨC CHÚA, Thiên Chúa của các ngươi, là Đấng Thánh",
+            "Hãy đi đánh bại dân Ca-na-an",
+            "Hãy tích lũy nhiều vàng bạc đền tạm",
+            "Hãy vâng lời Mô-sê tuyệt đối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mỗi người phải kính sợ ai đầu tiên trong gia đình theo chương 19?",
+          "options": [
+            "Kính sợ mẹ và cha mình, và giữ các ngày sa-bát của Chúa",
+            "Kính trọng anh chị lớn",
+            "Kính sợ thầy tư tế thượng tế",
+            "Kính trọng nhạc phụ Mô-sê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật gặt lúa hoang dã yêu cầu chủ ruộng phải chừa lại phần nào cho người nghèo và ngoại kiều?",
+          "options": [
+            "Cấm gặt sát tận rìa ruộng và cấm mót những bông lúa sót, trái nho rụng",
+            "Chỉ chừa lại rơm rạ khô",
+            "Phải dâng hiến toàn bộ lúa góc ruộng cho tư tế",
+            "Cho người nghèo tự do gặt hái trước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật lao động quy định thế nào về việc trả tiền công cho người làm thuê?",
+          "options": [
+            "Không được giữ tiền công của người làm thuê qua đêm cho đến sáng hôm sau",
+            "Được trả chậm trong vòng một tuần",
+            "Có thể trả bằng thực phẩm thay tiền",
+            "Chỉ trả tiền công vào ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật nhân đạo cấm đối xử tàn ác thế nào với người khuyết tật (mù, điếc)?",
+          "options": [
+            "Không được nguyền rủa người điếc, không được đặt chướng ngại vật trước mặt người mù",
+            "Không được cho người mù đi chăn súc vật",
+            "Bắt buộc phải nuôi dưỡng họ suốt đời",
+            "Không được cho người khuyết tật vào đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật xét xử công minh cấm thiên vị đối tượng nào khi phân xử kiện tụng?",
+          "options": [
+            "Không được thiên vị người nghèo, cũng không được nể mặt người giàu có thế lực",
+            "Phải luôn ưu tiên bênh vực người nghèo",
+            "Ưu tiên nghe theo lời người giàu có",
+            "Chỉ phán quyết lợi ích cho tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời răn dạy đạo đức xã hội nổi tiếng nhất được trích dẫn nhiều trong Tân Ước nằm ở câu 18 là gì?",
+          "options": [
+            "Ngươi phải yêu đồng loại như chính mình (Love your neighbor as yourself)",
+            "Mắt đền mắt răng đền răng",
+            "Hãy tha thứ cho kẻ thù bảy mươi lần bảy",
+            "Đừng làm điều mình ghét cho người khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định lai tạo nông nghiệp cấm gieo trồng và mặc trang phục thế nào?",
+          "options": [
+            "Cấm gieo hai loại hạt giống trong cùng ruộng, cấm mặc áo dệt bằng hai chất liệu sợi (len pha lanh)",
+            "Cấm trồng cây ăn quả quá cao",
+            "Cấm mặc y phục thêu chỉ màu sặc sỡ",
+            "Cấm dùng bò kéo cày chung với lừa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cây ăn quả mới trồng trong đất hứa phải kiêng trái không được ăn trong bao lâu?",
+          "options": [
+            "Ba năm đầu coi là chưa cắt bì cấm ăn; năm thứ tư dâng hiến cho Chúa; năm thứ năm mới được ăn",
+            "Một năm đầu",
+            "Mới ra trái được ăn ngay",
+            "Suốt đời chỉ dâng hiến không được ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định về đo lường thương mại yêu cầu đức tính gì của người buôn bán?",
+          "options": [
+            "Phải có cân đúng, quả cân đúng, đấu đúng, lường đúng công bình",
+            "Được lấy lãi suất cao tùy ý",
+            "Cấm buôn bán với người ngoại bang",
+            "Chỉ được dùng bạc si-clơ thánh điện giao dịch"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "questions": [
+        {
+          "text": "Kẻ nào dâng con mình tế thần Mô-lê thì phải bị trừng phạt thế nào?",
+          "options": [
+            "Dân chúng trong xứ phải ném đá chết kẻ đó",
+            "Bị trục xuất khỏi hoang địa vĩnh viễn",
+            "Phải nộp phạt một trăm con chiên đực",
+            "Bị cạo đầu bôi nhọ chịu nhục"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt cho kẻ chửi rủa (nguyền rủa) cha hoặc mẹ mình là gì?",
+          "options": [
+            "Kẻ đó phải bị xử tử; máu đổ xuống đầu kẻ đó",
+            "Bị đánh đòn ba mươi roi trước công đoàn",
+            "Bị phạt làm nô dịch cho cha mẹ một năm",
+            "Bị tịch thu toàn bộ quyền thừa kế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt cho tội ngoại tình giữa một người nam với vợ người láng giềng là gì?",
+          "options": [
+            "Cả người nam ngoại tình và người nữ ngoại tình đều phải bị xử tử",
+            "Chỉ người nữ bị ném đá chết",
+            "Người nam phải nộp phạt tiền cho người chồng",
+            "Bị trục xuất ra khỏi doanh trại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt cho kẻ làm nghề đồng bóng, bói toán quỷ thần là gì?",
+          "options": [
+            "Phải bị xử tử bằng cách ném đá chết",
+            "Bị phạt tiền đền tạm",
+            "Bị cắt lưỡi phạt tội dối trá",
+            "Bị xua đuổi sang xứ Ai Cập lại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu một người lấy vợ của cha mình, hình phạt dành cho cả hai là gì?",
+          "options": [
+            "Phải bị xử tử hình; họ phải gánh lấy máu của mình",
+            "Bị phạt roi cảnh cáo",
+            "Bị cách ly ngoài trại bảy ngày",
+            "Chỉ bị trục xuất người vợ kế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu một người nam nằm với một người nam khác như nằm với người nữ, hình phạt là gì?",
+          "options": [
+            "Cả hai phạm điều ghê tởm và phải bị xử tử hình",
+            "Chỉ bị phạt tiền bạc thuế",
+            "Bị phạt làm nô lệ phục dịch đền tạm",
+            "Được tha thứ nếu tự nguyện dâng lễ sửa lỗi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt cho kẻ giao hợp với súc vật (cả nam lẫn nữ) là gì?",
+          "options": [
+            "Kẻ đó phải bị xử tử hình, và con vật đó cũng phải bị giết chết",
+            "Chỉ giết con súc vật còn người được tha",
+            "Người phạm tội bị phạt roi còn vật bị đuổi đi",
+            "Bắt phạt nộp phạt tiền bằng giá trị con vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích Chúa tách biệt dân Ít-ra-en ra khỏi các dân tộc khác là gì?",
+          "options": [
+            "Để các ngươi thuộc về Ta, vì Ta là ĐỨC CHÚA, Đấng Thánh đã tách biệt các ngươi",
+            "Để họ đi xâm chiếm toàn bộ thế giới",
+            "Để họ trở thành dân tộc giàu có nhất",
+            "Để giữ gìn dòng dõi hoàng gia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa dặn dân phải phân biệt điều gì khi ăn uống hàng ngày?",
+          "options": [
+            "Phải phân biệt giữa súc vật thanh sạch và ô uế, chim thanh sạch và ô uế",
+            "Cấm ăn mọi loại rau quả đất Ca-na-an",
+            "Chỉ được ăn man-na không được ăn thịt",
+            "Chỉ được ăn thịt vào ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ lấy chị em gái ruột hoặc cùng cha khác mẹ của mình phạm tội loạn luân bị phạt thế nào?",
+          "options": [
+            "Đó là điều nhục nhã, cả hai phải bị diệt trừ trước mắt con cái dân tộc họ",
+            "Bị phạt tiền nộp đền tạm",
+            "Bị phạt làm nô dịch cho tư tế",
+            "Chỉ bị oán trách không bị phạt nặng"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "questions": [
+        {
+          "text": "Tư tế thường chỉ được phép làm mình ô uế chạm vào xác chết của những ai thân cận?",
+          "options": [
+            "Họ hàng ruột thịt gần nhất (như cha, mẹ, con trai, con gái, anh em và chị em ruột chưa chồng)",
+            "Bất kỳ ai trong chi tộc Lê-vi",
+            "Chỉ được chạm vào xác vợ ông",
+            "Cấm tuyệt đối không chạm xác bất kỳ ai kể cả cha mẹ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư tế cấm làm hành động cạo đầu chịu tang thế nào giống dân ngoại?",
+          "options": [
+            "Cấm cạo đầu trọc, cấm cạo rìa râu và cấm rạch da thịt chịu tang",
+            "Được phép cạo đầu nếu mặc áo vải thô",
+            "Bắt buộc phải cạo râu sạch sẽ hàng ngày",
+            "Được rạch da làm dấu thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư tế cấm kết hôn với đối tượng phụ nữ nào?",
+          "options": [
+            "Phụ nữ đi điếm, phụ nữ mất trinh hoặc phụ nữ bị chồng ly dị",
+            "Phụ nữ ngoại bang Ca-na-an",
+            "Phụ nữ thuộc chi tộc khác dòng Lê-vi",
+            "Phụ nữ quá góa chồng lớn tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thượng tế (tư tế đứng đầu được xức dầu đầu mặc phẩm phục) có được phép tự làm ô uế chịu tang cha mẹ không?",
+          "options": [
+            "Cấm tuyệt đối không được để tóc bù xù, không xé áo chịu tang và cấm lại gần xác chết dẫu là cha hay mẹ mình",
+            "Được phép vì là nghĩa vụ hiếu thảo",
+            "Chỉ được chịu tang cha không chịu tang mẹ",
+            "Chỉ được chịu tang ngoài thánh điện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thượng tế bắt buộc phải kết hôn với đối tượng phụ nữ nào để bảo vệ dòng dõi thánh?",
+          "options": [
+            "Một trinh nữ thuộc dòng tộc mình",
+            "Bất kỳ trinh nữ nào trong dân Ít-ra-en",
+            "Một người góa phụ của tư tế quá cố",
+            "Công chúa nước láng giềng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những người thuộc dòng dõi A-hác-rôn bị tật nguyền thể xác (mù, què, sứt môi, gù, lùn...) có được dâng lễ tế bàn thờ không?",
+          "options": [
+            "Cấm không được tiến lại gần dâng lễ vật thiêu nhan Chúa, để tránh làm ô uế thánh điện",
+            "Vẫn được phép dâng lễ bình thường",
+            "Chỉ được dâng lễ vào ngày sa-bát",
+            "Chỉ được xông hương thơm không được sát tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người dòng tư tế bị tật nguyền có được ăn của cực thánh (thịt tế lễ) dâng hiến không?",
+          "options": [
+            "Được phép ăn của cực thánh dành cho tư tế bình thường dẫu không được dâng lễ bàn thờ",
+            "Cấm không được ăn của thánh hiến",
+            "Chỉ được ăn bánh chay không được ăn thịt",
+            "Chỉ được ăn của thánh khi đã lành tật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con gái tư tế lấy chồng ngoại bang (người ngoài hàng tư tế) có được ăn của dâng hiến không?",
+          "options": [
+            "Cấm không được ăn của lễ dâng hiến thánh của cha cô",
+            "Vẫn được ăn bình thường",
+            "Được ăn nếu chồng cô đồng ý dâng lễ vật",
+            "Chỉ được ăn vào dịp lễ vượt qua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu con gái tư tế góa chồng hoặc bị ly dị, không có con và trở về ở nhà cha cô, cô được hưởng quyền lợi gì?",
+          "options": [
+            "Được ăn bánh trái dâng cúng của cha cô như thời con gái",
+            "Bị tước bỏ mọi quyền lợi ăn uống của tư tế",
+            "Phải đi làm thuê kiếm sống",
+            "Được chi tộc Lê-vi cấp trợ cấp riêng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội điếm của con gái tư tế bị xử phạt nghiêm khắc thế nào?",
+          "options": [
+            "Cô ta phải bị thiêu sống trong lửa vì làm ô danh dòng cha cô",
+            "Bị trục xuất khỏi doanh trại",
+            "Bị ném đá chết trước cửa đền tạm",
+            "Bị phạt làm nô dịch suốt đời"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "questions": [
+        {
+          "text": "Tư tế đang bị ô uế (phong hủi, xuất tiết, chạm xác chết) có được chạm vào của thánh hiến dâng lễ không?",
+          "options": [
+            "Cấm tuyệt đối không được ăn hay chạm của thánh cho đến khi được thanh tẩy; vi phạm sẽ bị diệt trừ",
+            "Được chạm nếu đã rửa tay chân",
+            "Chỉ được chạm vào ban ngày",
+            "Vẫn được phép ăn bình thường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khách lạ hoặc người làm thuê cho tư tế có được ăn của thánh hiến không?",
+          "options": [
+            "Cấm không được ăn của thánh hiến (chỉ người nhà tư tế mới được ăn)",
+            "Được ăn tự do",
+            "Được ăn nếu làm việc chăm chỉ",
+            "Chỉ được ăn bánh không được ăn thịt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nô lệ được tư tế bỏ tiền mua về hoặc sinh ra trong nhà ông có được ăn của thánh hiến không?",
+          "options": [
+            "Được phép ăn bánh trái dâng cúng của chủ mình",
+            "Cấm tuyệt đối không được ăn",
+            "Chỉ được ăn của dư thừa",
+            "Phải chịu cắt bì tư tế mới được ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu một người dân vô ý ăn mất của thánh hiến, người đó phải đền bù thế nào?",
+          "options": [
+            "Trả lại hiện vật tương đương cho tư tế cộng thêm một phần ngũ (20%) giá trị vật đó",
+            "Bị phạt roi năm mươi roi",
+            "Bị phạt làm nô lệ trừ nợ",
+            "Dâng một con bò tơ chuộc lỗi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Súc vật dâng làm lễ toàn thiêu hay lễ hòa bình khấn hứa phải đáp ứng tiêu chuẩn chất lượng nào?",
+          "options": [
+            "Phải hoàn hảo không tì vết, cấm dâng súc vật mù, què, gãy xương, tật nguyền",
+            "Dùng súc vật nào cũng được Chúa chấp nhận",
+            "Ưu tiên dâng súc vật béo mập dẫu bị mù",
+            "Có thể dâng con thú bị thú dữ cắn thương tích"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con vật tế lễ (bò, chiên, dê) phải ở với mẹ nó bao nhiêu ngày trước khi dâng hiến làm lễ?",
+          "options": [
+            "Ít nhất bảy ngày (ngày thứ tám trở đi mới được dâng hiến)",
+            "Hai ngày",
+            "Mười lăm ngày",
+            "Bốn mươi ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật nhân đạo cấm sát tế hai mẹ con súc vật thế nào trong cùng một ngày?",
+          "options": [
+            "Không được sát tế con vật mẹ và con của nó trong cùng một ngày",
+            "Được phép sát tế nếu dâng lễ tế khác nhau",
+            "Chỉ áp dụng đối với bò cái",
+            "Phải sát tế con con trước con mẹ sau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thịt hiến tế tạ ơn tạ ơn phải ăn hết lúc nào?",
+          "options": [
+            "Ăn hết trong ngày dâng cúng cấm để dành thịt đến sáng hôm sau",
+            "Được để dành đến ngày thứ ba",
+            "Ăn lúc nào tùy thích trong tuần",
+            "Đem chia cho người nghèo ngoài trại ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích tối hậu của việc tuân giữ các điều răn thánh thiện được Chúa nhắc lại là gì?",
+          "options": [
+            "Để Danh Thánh Ta không bị ô uế; Ta là ĐỨC CHÚA, Đấng thánh hóa các ngươi đưa các ngươi ra khỏi Ai Cập",
+            "Để dân được giàu có sung túc",
+            "Để duy trì hệ thống thuế tư tế",
+            "Để chuẩn bị chiến đấu Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tư tế có được phép tự ý nhận súc vật tật nguyền từ tay người ngoại bang để dâng lên bàn thờ Chúa không?",
+          "options": [
+            "Cấm tuyệt đối không được dâng súc vật tật nguyền từ người nước ngoài vì chúng bị biến dạng ô uế",
+            "Được phép dâng tế bình thường",
+            "Chỉ được dâng làm lễ toàn thiêu không làm lễ kỳ an",
+            "Được dâng nếu bọc vàng che vết tật"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "questions": [
+        {
+          "text": "Ngày lễ thánh hàng tuần đầu tiên được thiết lập trong chương 23 là ngày nào?",
+          "options": [
+            "Ngày Sa-bát (ngày thứ bảy nghỉ làm việc họp đại hội thánh)",
+            "Ngày thứ nhất trong tuần",
+            "Ngày trăng tròn",
+            "Ngày trăng non đầu tháng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ Vượt Qua bắt đầu vào thời điểm nào ngày nào của tháng thứ nhất?",
+          "options": [
+            "Vào chiều tối ngày mười bốn tháng thứ nhất",
+            "Ngày mồng một tháng giêng",
+            "Ngày rằm tháng bảy",
+            "Ngày mười lăm tháng chạp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ hội mùa gặt thổ sản đầu tiên yêu cầu dân mang gì đến trình tư tế thực hiện nghi thức lắc?",
+          "options": [
+            "Một bó lúa đầu mùa gặt hái đầu tiên",
+            "Một thúng quả vả chín",
+            "Một bình dầu ô-liu mới ép",
+            "Một con chiên con béo tốt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ Ngũ Tuần (Lễ các Tuần / Pentecost) được tổ chức sau bao nhiêu ngày kể từ ngày dâng bó lúa đầu mùa?",
+          "options": [
+            "Năm mươi ngày (50 ngày sau bảy tuần lễ trọn)",
+            "Bốn mươi ngày",
+            "Bảy ngày",
+            "Mười ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đặc trưng ngày mồng một tháng thứ bảy là ngày lễ gì thổi kèn vang dội?",
+          "options": [
+            "Lễ Tuyên Phong thổi kèn sừng cừu kêu gọi hội họp và nghỉ ngơi thánh hiến",
+            "Lễ lều tạm",
+            "Ngày xá tội toàn dân",
+            "Lễ vượt qua lần hai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngày Xá Tội (Yom Kippur) ngày mười tháng bảy yêu cầu dân làm gì về mặt thể xác?",
+          "options": [
+            "Phải ăn chay hãm mình hãm mình và nghỉ việc hoàn toàn; ai không ăn chay sẽ bị khai trừ",
+            "Ăn tiệc lớn tạ ơn",
+            "Tắm rửa bằng nước sông Nin",
+            "Đi diễu hành quanh đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ Lều Tạm (Festival of Tabernacles / Booths) được tổ chức vào ngày mấy tháng bảy và kéo dài bao lâu?",
+          "options": [
+            "Bắt đầu ngày mười lăm tháng bảy và kéo dài trong tám ngày",
+            "Ngày mồng một tháng bảy kéo dài ba ngày",
+            "Ngày mười tháng bảy kéo dài bảy ngày",
+            "Ngày hai mươi tháng bảy kéo dài mười ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en phải làm hành động sinh hoạt độc đáo nào trong suốt bảy ngày lễ Lều Tạm?",
+          "options": [
+            "Phải ở trong các lều lá dựng bằng cành chà là, cành cây rậm rạp để nhớ thời hoang địa",
+            "Ăn bánh không men liên tục",
+            "Ăn chay không ăn thịt súc vật",
+            "Đi chăn cừu ngoài sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ Ngũ Tuần dâng kèm theo hiến tế chay độc đáo nào có men?",
+          "options": [
+            "Hai ổ bánh mì nướng có men dâng làm bánh lắc đầu mùa dâng Chúa",
+            "Bánh ngọt tẩm mật ong",
+            "Bánh tráng phết dầu ô-liu",
+            "Không dâng bánh mì chỉ dâng lúa mạch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật mót lúa cho người nghèo được nhắc lại ở chương 23 nhằm mục đích xã hội gì?",
+          "options": [
+            "Để bày tỏ lòng thương xót chia sẻ hoa lợi mùa màng cho kẻ nghèo túng ngoại kiều dịp đại lễ",
+            "Để đất sạch sẽ dễ cày cấy vụ sau",
+            "Để tránh lãng phí nông sản dư thừa",
+            "Để nộp thuế nông sản cho đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "questions": [
+        {
+          "text": "Nguyên liệu dùng thắp chân đèn bảy nhánh trong Lều Hội Ngộ là dầu gì?",
+          "options": [
+            "Dầu ô-liu nguyên chất giã cối thu hoạch đầu mùa",
+            "Dầu mỡ súc vật tế hiến",
+            "Dầu hỏa tự nhiên sa mạc",
+            "Dầu thông thơm chưng cất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Có bao nhiêu chiếc bánh tiến xếp thành hai hàng trên bàn vàng ròng trước nhan Chúa?",
+          "options": [
+            "Mười hai chiếc bánh (12 chiếc đại diện 12 chi tộc)",
+            "Bảy chiếc bánh",
+            "Mười chiếc bánh",
+            "Hai mươi bốn chiếc bánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời gian thay bánh tiến mới trên bàn vàng quy định thế nào?",
+          "options": [
+            "Vào mỗi ngày sa-bát hàng tuần; bánh cũ dành riêng cho A-hác-rôn và các con ăn ở Nơi Thánh",
+            "Mỗi tháng một lần",
+            "Hàng ngày vào buổi sáng",
+            "Chỉ thay vào dịp lễ vượt qua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động tội lỗi nghiêm trọng nào con trai của người phụ nữ Ít-ra-en và người cha Ai Cập phạm phải trong trại?",
+          "options": [
+            "Đã xúc phạm nguyền rủa Danh Thánh Chúa trong một cuộc xô xát",
+            "Thờ lạy tượng tà thần ngoại bang",
+            "Ăn cắp bánh dâng tiến trên bàn vàng",
+            "Vi phạm luật nghỉ ngày sa-bát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những ai nghe thấy lời nguyền rủa xúc phạm Danh Chúa phải làm hành động gì trước khi kẻ đó bị phạt?",
+          "options": [
+            "Phải đặt tay lên đầu kẻ phạm tội làm chứng chứng thực tội lỗi của hắn",
+            "Phải xé áo chịu tang",
+            "Phải dâng lễ tế sửa lỗi bằng chiên",
+            "Phải ném đá vào chân hắn trước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho kẻ nguyền rủa xúc phạm Danh Thánh ĐỨC CHÚA là gì?",
+          "options": [
+            "Toàn thể cộng đoàn phải ném đá chết kẻ đó ngoài doanh trại",
+            "Bị trục xuất vĩnh viễn khỏi hoang địa",
+            "Bị cắt lưỡi và phạt tù đền tạm",
+            "Bị phạt làm nô lệ suốt đời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt cho kẻ đánh chết một người mạng đền mạng quy định thế nào?",
+          "options": [
+            "Kẻ đánh chết người phải bị xử tử hình",
+            "Phải nộp phạt tiền chuộc mạng",
+            "Phải đi làm nô lệ cho gia đình người chết",
+            "Bị trục xuất sang chi tộc khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật đền bù thiệt hại súc vật quy định thế nào nếu làm chết thú vật người khác?",
+          "options": [
+            "Phải đền mạng súc vật: thú đền thú",
+            "Chỉ cần trả tiền phạt đồng",
+            "Xin lỗi tư tế chuộc lỗi",
+            "Không phải làm gì vì lỗi vô ý"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy tắc bình đẳng luật pháp được Chúa phán nhấn mạnh thế nào?",
+          "options": [
+            "Chỉ một bộ luật duy nhất áp dụng bình đẳng cho cả ngoại kiều và người bản địa",
+            "Ngoại kiều chịu phạt nặng hơn người bản địa",
+            "Người bản địa được giảm án nhẹ hơn",
+            "Tư tế được miễn trừ mọi hình phạt thể xác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật phẩm dâng kèm trên mỗi hàng bánh tiến là gì?",
+          "options": [
+            "Hương trầm nguyên chất dâng làm lễ hỏa tế tưởng niệm",
+            "Dầu ô-liu và rượu nho dâng tưới",
+            "Muối trắng và hạt tiêu",
+            "Nhánh hương thảo khô"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "questions": [
+        {
+          "text": "Luật Năm Sa-bát đất nghỉ quy định thế nào đối với đất đai trồng trọt?",
+          "options": [
+            "Mỗi bảy năm, đất phải được nghỉ hoàn toàn một năm sa-bát, cấm gieo cấy gặt hái",
+            "Mỗi mười năm đất nghỉ một năm",
+            "Mỗi năm để đất trống ba tháng",
+            "Chỉ trồng trọt lúa mì cấm trồng rau quả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Năm Hân Hoan (Jubilee Year) được tổ chức sau chu kỳ bao nhiêu năm?",
+          "options": [
+            "Năm mươi năm (50 năm: sau bảy chu kỳ bảy năm sa-bát)",
+            "Bốn mươi năm",
+            "Bảy mươi năm",
+            "Một trăm năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Âm thanh báo hiệu bắt đầu Năm Hân Hoan được thổi vào ngày nào tháng nào?",
+          "options": [
+            "Tiếng kèn tù và vang dội khắp xứ vào Ngày Xá Tội ngày mười tháng bảy",
+            "Ngày mồng một tháng giêng",
+            "Đêm lễ vượt qua ngày mười bốn tháng mười hai",
+            "Ngày rằm tháng bảy Lễ Lều"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định giải phóng nhân đạo đặc biệt nào xảy ra trong Năm Hân Hoan?",
+          "options": [
+            "Giải phóng nô lệ Híp-ri, xóa nợ và hoàn trả mọi đất đai gia nghiệp về cho chủ cũ của dòng tộc",
+            "Miễn thuế đền tạm vĩnh viễn",
+            "Chia lại ruộng đất đều cho 12 chi tộc",
+            "Cho phép dân tự do di cư sang nước khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định chuộc lại đất đai gia nghiệp đã bán dựa trên giá trị tính toán nào?",
+          "options": [
+            "Dựa trên số năm gặt hái còn lại tính đến Năm Hân Hoan kế tiếp để định giá công bằng",
+            "Giá trị cố định mười si-clơ vàng một sào",
+            "Tùy ý thương lượng giữa hai bên",
+            "Do tư tế độc quyền định giá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhà ở trong thành phố có tường bao quanh có quyền chuộc lại trong bao lâu sau khi bán?",
+          "options": [
+            "Trong vòng một năm trọn kể từ ngày bán; sau một năm không chuộc thì thuộc về người mua vĩnh viễn",
+            "Được chuộc tự do bất kỳ lúc nào",
+            "Được trả lại tự động vào Năm Hân Hoan",
+            "Cấm không được bán vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đất đai và nhà cửa của chi tộc nào được quyền chuộc lại bất kỳ lúc nào không giới hạn thời gian?",
+          "options": [
+            "Chi tộc tư tế Lê-vi (đất đai đồng cỏ xung quanh các thành của họ)",
+            "Chi tộc hoàng gia Giu-đa",
+            "Chi tộc chiến binh Ép-ra-im",
+            "Chi tộc chăn nuôi du mục Ru-bên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Luật cấm lấy tiền lãi đối với anh em nghèo khổ quy định thế nào?",
+          "options": [
+            "Không được cho anh em vay lấy lãi tiền bạc hay lương thực; phải kính sợ Chúa giúp họ sống",
+            "Được lấy lãi suất thấp dưới 2%",
+            "Cấm cho người nghèo mượn lương thực",
+            "Bắt họ thế chấp nhà cửa lấy nợ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu một người anh em Híp-ri nghèo đến mức phải bán mình làm nô lệ cho ngươi, ngươi phải đối xử thế nào?",
+          "options": [
+            "Không được bắt họ làm việc như nô lệ nô dịch; phải đối xử như người làm thuê cư ngụ cho đến Năm Hân Hoan",
+            "Bắt họ làm việc khổ sai cực nhọc nhất",
+            "Được phép đánh đập nếu họ lười biếng",
+            "Bán họ sang nước khác lấy vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao người Ít-ra-en không được phép bị bán làm nô lệ vĩnh viễn?",
+          "options": [
+            "Vì họ là tôi tớ của Ta, Ta đã đưa họ ra khỏi Ai Cập; họ không được bán như bán nô lệ thường",
+            "Vì họ có sức khỏe yếu",
+            "Vì họ không quen làm việc nặng",
+            "Vì luật pháp quốc tế cấm đoán"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "questions": [
+        {
+          "text": "Lời hứa chúc phúc đầu tiên cho sự vâng phục tuân giữ các điều răn là gì?",
+          "options": [
+            "Mưa thuận gió hòa đúng mùa, đất đai trổ sinh hoa màu và cây cối đầy quả ngọt",
+            "Ban cho dân nhiều mỏ vàng bạc lớn",
+            "Cho họ bay lượn trên mây hoang địa",
+            "Không bao giờ phải làm việc đồng áng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hứa hẹn an ninh quốc phòng cho dân vâng phục được mô tả thế nào?",
+          "options": [
+            "Các ngươi sẽ sống an bình trong xứ; năm người đuổi trăm người, trăm người đuổi mười ngàn quân thù",
+            "Sẽ có tường thành vững chắc tự mọc lên",
+            "Chúa cho thiên sứ cầm gươm gác biên giới",
+            "Quân thù tự nguyện dâng nộp giang sơn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cam kết oai nghiêm nhất của Chúa về sự ngự trị giữa dân vâng lời là gì?",
+          "options": [
+            "Ta đặt Đền Tạm của Ta giữa các ngươi, Ta đi lại giữa các ngươi và làm Thiên Chúa các ngươi",
+            "Ta cho họ thấy mặt Ta hàng ngày",
+            "Ta cho Đền Tạm phát sáng chói lòa",
+            "Ta sẽ dẫn họ chinh phục toàn vũ trụ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngược lại, hình phạt kinh khiếp đầu tiên cho sự bất tuân nổi loạn chống luật Chúa là gì?",
+          "options": [
+            "Dịch bệnh kinh hoàng tàn hại mắt và làm hao mòn sức khỏe; các ngươi gieo hạt vô ích vì quân thù ăn hết",
+            "Mưa đá tàn phá nhà cửa",
+            "Động đất nuốt chửng doanh trại",
+            "Sông Nin cạn nước vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa đe dọa sẽ tăng mức hình phạt lên bao nhiêu lần nếu dân vẫn tiếp tục cứng lòng bất tuân?",
+          "options": [
+            "Gấp bảy lần (7 lần hình phạt vì tội lỗi các ngươi)",
+            "Gấp đôi hình phạt",
+            "Gấp mười lần",
+            "Gấp ba lần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt thiên nhiên tàn nhẫn nào giáng xuống mùa màng đất đai khi dân bất tuân?",
+          "options": [
+            "Ta làm trời cứng như sắt và đất lì như đồng; gieo cấy vô ích đất không sinh hoa màu",
+            "Lũ lụt ngập úng toàn bộ ruộng vườn",
+            "Cát sa mạc phủ kín đất trồng",
+            "Côn trùng bay phá hoại sạch rễ cây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thảm cảnh đói kém tột cùng được tiên báo thế nào khi Chúa bẻ gãy nguồn cung cấp bánh?",
+          "options": [
+            "Mười người phụ nữ nướng bánh chung trong một lò, và các ngươi ăn bánh mà không no bụng",
+            "Dân phải ăn cỏ khô sa mạc thay cơm",
+            "Phải mua bánh đắt đỏ từ Ai Cập",
+            "Dân phải cướp giật bánh dâng tiến đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hậu quả thảm khốc nhất về mặt chủ quyền quốc gia khi dân nổi loạn thờ thần giả là gì?",
+          "options": [
+            "Các ngươi bị tản mát lưu đày giữa các quốc gia dân ngoại, đất đai bị hoang vu thành trì đổ nát",
+            "Phải đóng thuế nặng cho tư tế thần bò",
+            "Bị bắt quay lại Ai Cập làm nô dịch vĩnh viễn",
+            "Quân đội tự động giải tán đầu hàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa hứa có hoàn toàn từ bỏ dân khi họ bị lưu đày ở đất thù nếu họ ăn năn thống hối không?",
+          "options": [
+            "Không từ bỏ hoàn toàn, Ta nhớ lại Giao ước với các tổ phụ Áp-ra-ham, I-xa-ác, Gia-cóp để thương xót họ",
+            "Có, Chúa từ bỏ vĩnh viễn lập dân mới",
+            "Bắt họ phải chịu phạt lưu đày ngàn năm mới tha",
+            "Đòi họ phải dâng nộp hòm bia giao ước chuộc lỗi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích tối hậu của các lời răn đe chúc dữ chúc lành ở chương 26 là gì?",
+          "options": [
+            "Kêu gọi dân giữ vững sự trung thành với Giao ước Xi-nai lề luật thánh thiện",
+            "Để thể hiện tính khí nghiêm khắc của Chúa",
+            "Để thợ thủ công tích cực xây đền tạm hơn",
+            "Để tăng thêm thu nhập tế lễ tư tế"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "questions": [
+        {
+          "text": "Luật khấn hứa hiến dâng (Votive Offerings) quy định giá trị tiền chuộc tương đương cho người nam từ 20 đến 60 tuổi dâng cho Chúa là bao nhiêu?",
+          "options": [
+            "Năm mươi si-clơ bạc (50 si-clơ theo giá thánh điện)",
+            "Mười si-clơ vàng",
+            "Ba mươi si-clơ bạc",
+            "Năm si-clơ đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giá trị tiền chuộc tương đương cho người nữ từ 20 đến 60 tuổi dâng cho Chúa là bao nhiêu?",
+          "options": [
+            "Ba mươi si-clơ bạc (30 si-clơ)",
+            "Mười lăm si-clơ bạc",
+            "Mười si-clơ vàng",
+            "Năm si-clơ bạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu người khấn dâng quá nghèo không đủ tiền đóng giá định sẵn, việc định giá xử lý ra sao?",
+          "options": [
+            "Phải trình diện trước tư tế và tư tế định giá tùy thuộc vào khả năng tài chính của người đó",
+            "Được miễn đóng tiền chuộc",
+            "Bắt buộc đi lao dịch đền tạm trừ nợ",
+            "Người láng giềng phải đóng thay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Súc vật đã hiến dâng làm lễ tế cho Chúa có được phép thay đổi tráo đổi con khác không?",
+          "options": [
+            "Cấm tuyệt đối không được tráo đổi súc vật dâng hiến; nếu đổi thì cả hai con đều thuộc về Chúa thánh hiến",
+            "Được phép đổi con tốt lấy con xấu hơn",
+            "Được đổi nếu đóng thêm tiền phạt 20%",
+            "Chỉ tư tế mới có quyền tráo đổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu chuộc lại nhà cửa đã hiến dâng cho Chúa, người chuộc phải đóng thêm bao nhiêu tiền phạt bổ sung?",
+          "options": [
+            "Phải nộp thêm một phần ngũ (20%) giá trị định sẵn của ngôi nhà",
+            "Không phải nộp thêm gì",
+            "Nộp thêm gấp đôi giá trị",
+            "Đóng thêm một con chiên đền tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các vật hiến dâng biệt hiến (Dedicated Things / Hiến dâng vĩnh viễn) có được phép chuộc lại hoặc bán đi không?",
+          "options": [
+            "Cấm tuyệt đối không được bán hay chuộc lại; mọi vật biệt hiến đều là của cực thánh thuộc về Chúa",
+            "Được chuộc nếu đóng thêm 50% tiền phạt",
+            "Được chuộc vào Năm Hân Hoan",
+            "Chỉ tư tế mới được phép bán"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thuế thập phân (Tithe) quy định dâng hiến bao nhiêu phần hoa lợi hoa quả và súc vật cho Chúa?",
+          "options": [
+            "Một phần mười (10% sản phẩm đất đai và bầy gia súc)",
+            "Một phần năm (20%)",
+            "Một phần ba (33%)",
+            "Một phần trăm (1%)"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cách thức đếm súc vật dâng thuế thập phân hàng năm thực hiện thế nào?",
+          "options": [
+            "Bắt bầy thú đi qua dưới gậy tư tế, con thứ mười đi qua thuộc về Chúa thánh hiến",
+            "Chọn mười con to béo nhất đàn",
+            "Cân tổng trọng lượng bầy gia súc lấy 10%",
+            "Để dân tự nguyện tự giác chọn con dâng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người dâng có được phép tuyển lựa con tốt con xấu khi nộp thuế thập phân súc vật không?",
+          "options": [
+            "Không được tuyển lựa con tốt hay xấu, cấm thay đổi; nếu thay đổi cả hai con đều thuộc về Chúa",
+            "Bắt buộc phải nộp con tốt nhất đàn",
+            "Được phép nộp con xấu yếu nhất để tiết kiệm",
+            "Chỉ dâng con đực không dâng con cái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi Thiên Chúa ban bố các mệnh lệnh trong sách Lê-vi cho Mô-sê là ở đâu?",
+          "options": [
+            "Tại núi Xi-nai (Sinai) dâng cho con cái Ít-ra-en",
+            "Trong hoang địa Ca-đê",
+            "Trong hoàng cung Ai Cập",
+            "Trên đường đi sang đất hứa Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

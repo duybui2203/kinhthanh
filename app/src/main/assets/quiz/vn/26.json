@@ -1,0 +1,846 @@
+{
+  "bookId": 26,
+  "bookName": "Diễm ca",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Câu tự mô tả nổi tiếng về diện mạo của cô dâu trong chương 1 câu 5 là gì?",
+          "options": [
+            "Tôi đen sạm nhưng duyên dáng, hỡi các thiếu nữ Giê-ru-sa-lem, như các lều trại Kê-đa",
+            "Tôi rực rỡ bọc vàng ròng lấp lánh như hoàng cung",
+            "Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống",
+            "Tôi bị cùi trắng trán sa mạc cách ly phòng biệt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người yêu ví cô dâu như bông hoa nào trong vườn Ai Cập câu 14?",
+          "options": [
+            "Như chùm hoa móng rồng (henna blossoms) ở vườn nho En-ghê-đi",
+            "Như đóa hồng bọc vàng ròng ngai vua Sa-lô-môn",
+            "Như nhành cây sồi khô giữa hoang mạc khô cằn",
+            "Không ví von chỉ chép là cô dâu rất xinh đẹp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mở đầu sách Diễm ca câu 2 cô dâu ước ao nụ hôn nào?",
+          "options": [
+            "Ước gì chàng hôn tôi bằng những nụ hôn của miệng chàng! Tình yêu chàng ngọt hơn rượu",
+            "Ước gì chàng ban cho tôi một vạn si-clơ vàng ròng",
+            "Ước gì chàng đưa tôi lên xe chiến kỵ binh Ba-tư",
+            "Không ước ao nụ hôn chỉ muốn cướp khiên vàng đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao cô dâu khuyên các bạn đừng nhìn vì làn da đen sạm của mình câu 6?",
+          "options": [
+            "Vì mặt trời đã làm tôi rám nắng, các con trai của mẹ tôi giận bắt canh vườn nho",
+            "Vì tôi bị phong cùi trắng trán sa mạc cách ly",
+            "Vì tôi cấm có tiền mua dầu thơm hảo hạng xức",
+            "Không có lý do làn da đen sạm là bẩm sinh cấm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người yêu ví cô dâu với con vật oai hùng nào của vua Pha-ra-on câu 9?",
+          "options": [
+            "Ta ví mình như tuấn mã kéo xe chiến của Pha-ra-on",
+            "Ta ví mình như sư tử dũng mãnh rừng hoang dã",
+            "Ta ví mình như bầy chiên cừu non ngoài hoang địa",
+            "Không ví với con vật nào chỉ khen dáng đi nhẹ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trần nhà và xà nhà của đôi uyên ương làm bằng gỗ gì câu 17?",
+          "options": [
+            "Xà nhà bằng gỗ bá hương, trần nhà bằng gỗ tùng",
+            "Làm bằng vàng ròng bọc ngọc báu rực rỡ vinh",
+            "Làm bằng lau sậy bùn đất hoang mạc hoang vu",
+            "Không nhắc chất liệu chỉ chép nhà tranh vách đất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cô dâu hỏi người yêu chăn bầy chiên nghỉ trưa ở đâu câu 7?",
+          "options": [
+            "Xin chỉ cho tôi biết chàng chăn bầy ở đâu, cho nghỉ trưa chỗ nào",
+            "Chàng chăn bầy ở Ai Cập dọc sông Nile xanh mát",
+            "Chàng chăn bầy ở hoang mạc cùi cách ly phòng biệt",
+            "Không hỏi han tự cô dâu biết tìm chàng ở quảng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đôi má và cổ của cô dâu được trang sức bằng gì câu 10-11?",
+          "options": [
+            "Đôi má đẹp với vòng trang sức, cổ đeo chuỗi ngọc; chúng ta sẽ làm khuyên vàng điểm bạc",
+            "Được xức dầu thơm đắt tiền vương triều Syria",
+            "Được che bằng khăn sô thô sám hối tội lỗi xưa",
+            "Không đeo gì để tự nhiên mộc mạc hoang dã xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi nhà vua ngự bàn tiệc, dầu thơm của cô dâu tỏa hương gì câu 12?",
+          "options": [
+            "Dầu cam tùng (spikenard) của tôi tỏa hương thơm ngào ngạt",
+            "Dầu ô-liu thối rữa đầy ruồi chết mất mùi thơm",
+            "Dầu mỏ đen đúa hôi thối bốc mùi sa mạc nóng",
+            "Không tỏa hương gì bàn tiệc cấm có dầu thơm dùng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa biểu trưng của sách Diễm ca (Song of Songs) truyền thống dạy gì?",
+          "options": [
+            "Diễn tả tình yêu nồng nàn giữa đôi lứa; biểu trưng cho tình yêu giao ước giữa Thiên Chúa và dân Ngài",
+            "Do Thái có số lượng vườn nho nhiều nhất thế giới",
+            "Sự nhút nhát của cô dâu trước mặt đức vua Sa-lô",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Cô dâu tự ví mình như những loài hoa nào ở Sharon và thung lũng câu 1?",
+          "options": [
+            "Tôi là bông hồng của Sa-rôn, hoa huệ của các thung lũng",
+            "Tôi là đóa hoa sen bọc vàng ròng lấp lánh ngai",
+            "Tôi là nhành hoa gai khô héo ngoài sa mạc nóng",
+            "Không tự ví chỉ chép mình là thiếu nữ bình thường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người yêu ví cô dâu như hoa huệ giữa loài cây nào câu 2?",
+          "options": [
+            "Như hoa huệ giữa bụi gai, người yêu ta giữa các thiếu nữ",
+            "Như hoa hồng giữa đám cỏ dại hoang vu sa mạc",
+            "Như nhành ô-liu xanh tươi giữa rừng cây bá hương",
+            "Không ví von chỉ khen cô dâu nổi bật nhất vùng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời mô tả thời tiết mùa đông đã qua để mời gọi cô dâu trỗi dậy câu 11-12?",
+          "options": [
+            "Kìa mùa đông đã qua, mưa đã dứt và biến mất; hoa lá nở trên đất, mùa ca hát đến",
+            "Mưa tuyết rơi sa mạc dầy đặc cấm đi lại được",
+            "Cơn giận lôi đình của nhà vua sắp đổ xuống thành",
+            "Không nhắc thời tiết chỉ mời đi dạo vườn nho ngon"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên bắt những con vật nhỏ phá hoại vườn nho câu 15 chép?",
+          "options": [
+            "Hãy bắt cho chúng tôi những con cáo, những con cáo nhỏ phá hoại vườn nho đang trổ hoa",
+            "Hãy bắn chết sư tử hoang dã gầm rú ngoài cửa",
+            "Hãy đuổi bầy chó đói lang thang rầm rì đêm thâu",
+            "Không khuyên bắt con gì để mặc thiên nhiên phát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khẳng định ngọt ngào của cô dâu về quyền sở hữu tình yêu câu 16?",
+          "options": [
+            "Người tôi yêu thuộc về tôi và tôi thuộc về người tôi yêu, chàng chăn bầy giữa hoa huệ",
+            "Người tôi yêu là vua Ba-tư oai hùng có xe chiến",
+            "Tôi thuộc về gia tộc tư tế Lê-vi dâng tế đàn",
+            "Không khẳng định chỉ ước ao được chàng cầu hôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tác giả ví người yêu như con vật nhanh nhẹn nào trên núi câu 9?",
+          "options": [
+            "Người tôi yêu giống như linh dương hay nai tơ nhanh nhẹn",
+            "Người tôi yêu giống sư tử dũng mãnh gầm vang núi",
+            "Người tôi yêu giống đại bàng bay lượn trên trời",
+            "Không ví giống con gì chỉ khen chàng đi đứng nhanh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cờ hiệu của người yêu che phủ trên cô dâu là gì câu 4 chép?",
+          "options": [
+            "Chàng đưa tôi vào phòng tiệc, cờ hiệu của chàng trên tôi là tình yêu",
+            "Cờ hiệu là khiên vàng lấp lánh oai hùng vương",
+            "Cờ hiệu là dấu chỉ cùi trắng trán cách ly biệt",
+            "Không có cờ hiệu nào chỉ dắt tay đi nhẹ nhàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cô dâu ước ao được người yêu đỡ đầu và ôm ấp thế nào câu 6?",
+          "options": [
+            "Tay trái chàng đỡ đầu tôi, tay phải chàng ôm lấy tôi",
+            "Tay chàng đeo khuyên vàng điểm bạc bọc ngọc báu",
+            "Chàng dùng cánh tay mạnh mẽ xua đuổi giặc ngoại",
+            "Không ôm ấp chỉ dắt tay đi dạo quảng trường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cô dâu van nài các thiếu nữ Giê-ru-sa-lem thề hứa điều gì câu 7?",
+          "options": [
+            "Đừng đánh thức, đừng khơi dậy tình yêu cho đến khi tình yêu tự nguyện",
+            "Hãy thề sẽ nộp mười ta-lăng bạc ký gửi nhà",
+            "Hãy thề sẽ tự sát tránh né sửa phạt giáo huấn",
+            "Không thề hứa gì chỉ khuyên đi ngủ sớm dưỡng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời mời gọi trỗi dậy đi dạo xuân chương 2?",
+          "options": [
+            "Mô tả sự khởi đầu tươi mới của tình yêu đôi lứa gắn liền với sự hồi sinh của thiên nhiên hoa lá",
+            "Do Thái có số lượng linh dương nhiều nhất vùng",
+            "Sự nhút nhát của cô dâu cấm dám trỗi dậy đi dạo",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Diễm ca chương 3 thảo luận là gì?",
+          "options": [
+            "Tìm kiếm ban đêm và kiệu khiên binh Sa-lô-môn",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu thơ tình yêu hoặc mô tả tiêu biểu chép trong Diễm ca chương 3 là?",
+          "options": [
+            "\"Trên giường tôi ban đêm, tôi tìm người lòng tôi yêu; tôi tìm chàng nhưng cấm gặp.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Diễm ca chương 3 ca ngợi hoặc mô tả tình yêu dựa trên chi tiết 'Tìm kiếm trên giường giường ban đêm đêm người tôi yêu cấm thấy?'",
+          "options": [
+            "Diễn tả vẻ đẹp hoặc hành động: Tìm kiếm trên giường giường ban đêm đêm người tôi yêu cấm thấy để làm nổi bật tình yêu đôi lứa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời ca ngợi về 'Tìm được chàng chàng nắm lấy cấm buông dẫn vào nhà mẹ' trong Diễm ca chương 3 chép là gì?",
+          "options": [
+            "Mô tả nét duyên dáng hoặc sự gắn kết: Tìm được chàng chàng nắm lấy cấm buông dẫn vào nhà mẹ vô cùng khăng khít nồng nàn",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Kiệu vua Sa-lô-môn Sa-lô-môn vây quanh sáu mươi chiến sĩ dũng' trong Diễm ca chương 3 diễn tả trạng thái nào?",
+          "options": [
+            "Diễn tả vẻ oai hùng oai phong hoặc sự cuốn hút: Kiệu vua Sa-lô-môn Sa-lô-môn vây quanh sáu mươi chiến sĩ dũng của đôi uyên ương",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Diễm ca chương 3, cụm từ 'Chiến sĩ đeo gươm gươm gươm chống lại nỗi kinh hoàng ban đêm' nói lên vẻ đẹp hay cảm xúc nào?",
+          "options": [
+            "Vẻ đẹp quyến rũ hoặc cảm xúc sâu sắc: Chiến sĩ đeo gươm gươm gươm chống lại nỗi kinh hoàng ban đêm lay động tâm hồn người yêu",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước ao hay hành vi liên quan đến 'Kiệu làm bằng gỗ gỗ Lebanon cột bạc bệ vàng bọc nhung hồng' ở Diễm ca chương 3 thể hiện ước vọng gì?",
+          "options": [
+            "Ước vọng ngọt ngào hoặc khao khát: Kiệu làm bằng gỗ gỗ Lebanon cột bạc bệ vàng bọc nhung hồng được thuộc về nhau trọn vẹn",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện phát ngôn chính trong Diễm ca chương 3 là ai?",
+          "options": [
+            "Cô dâu (thiếu nữ Shulamite) hoặc chàng rể (người chăn chiên/vua Sa-lô-môn)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình yêu đôi lứa trong Diễm ca chương 3 cam kết vượt qua thử thách nào?",
+          "options": [
+            "Sự xa cách, sự phai nhạt theo thời gian và thác lũ thử thách cuộc đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học nhân sinh sâu sắc của Diễm ca chương 3 đúc kết là gì?",
+          "options": [
+            "Tôn vinh vẻ đẹp của tình yêu đôi lứa tinh tuyền và lòng trung nghĩa vững bền qua: Tìm kiếm trên giường giường ban đêm đêm người tôi yêu cấm thấy",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Diễm ca chương 4 thảo luận là gì?",
+          "options": [
+            "Ca ngợi vẻ đẹp cô dâu và nguồn suối niêm phong",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu thơ tình yêu hoặc mô tả tiêu biểu chép trong Diễm ca chương 4 là?",
+          "options": [
+            "\"Em hoàn toàn xinh đẹp, người yêu của anh hỡi, cấm một tỳ vết nào nơi em.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Diễm ca chương 4 ca ngợi hoặc mô tả tình yêu dựa trên chi tiết 'Mắt em doves doves doves sau mạng che mặt tóc bầy dê?'",
+          "options": [
+            "Diễn tả vẻ đẹp hoặc hành động: Mắt em doves doves doves sau mạng che mặt tóc bầy dê để làm nổi bật tình yêu đôi lứa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời ca ngợi về 'Răng em trắng như bầy chiên chiên chiên mới hớt lông tắm về' trong Diễm ca chương 4 chép là gì?",
+          "options": [
+            "Mô tả nét duyên dáng hoặc sự gắn kết: Răng em trắng như bầy chiên chiên chiên mới hớt lông tắm về vô cùng khăng khít nồng nàn",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Môi em như chỉ chỉ đỏ đỏ má hồng như nửa quả lựu' trong Diễm ca chương 4 diễn tả trạng thái nào?",
+          "options": [
+            "Diễn tả vẻ oai hùng oai phong hoặc sự cuốn hút: Môi em như chỉ chỉ đỏ đỏ má hồng như nửa quả lựu của đôi uyên ương",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Diễm ca chương 4, cụm từ 'Em hoàn toàn xinh đẹp đẹp cấm tỳ vết Flawless Flawless' nói lên vẻ đẹp hay cảm xúc nào?",
+          "options": [
+            "Vẻ đẹp quyến rũ hoặc cảm xúc sâu sắc: Em hoàn toàn xinh đẹp đẹp cấm tỳ vết Flawless Flawless lay động tâm hồn người yêu",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước ao hay hành vi liên quan đến 'Vườn đóng kín kín nguồn suối niêm phong phong giếng nước nguồn' ở Diễm ca chương 4 thể hiện ước vọng gì?",
+          "options": [
+            "Ước vọng ngọt ngào hoặc khao khát: Vườn đóng kín kín nguồn suối niêm phong phong giếng nước nguồn được thuộc về nhau trọn vẹn",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện phát ngôn chính trong Diễm ca chương 4 là ai?",
+          "options": [
+            "Cô dâu (thiếu nữ Shulamite) hoặc chàng rể (người chăn chiên/vua Sa-lô-môn)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình yêu đôi lứa trong Diễm ca chương 4 cam kết vượt qua thử thách nào?",
+          "options": [
+            "Sự xa cách, sự phai nhạt theo thời gian và thác lũ thử thách cuộc đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học nhân sinh sâu sắc của Diễm ca chương 4 đúc kết là gì?",
+          "options": [
+            "Tôn vinh vẻ đẹp của tình yêu đôi lứa tinh tuyền và lòng trung nghĩa vững bền qua: Mắt em doves doves doves sau mạng che mặt tóc bầy dê",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Diễm ca chương 5 thảo luận là gì?",
+          "options": [
+            "Chàng gõ cửa ban đêm và vẻ đẹp người yêu rạng rỡ",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu thơ tình yêu hoặc mô tả tiêu biểu chép trong Diễm ca chương 5 là?",
+          "options": [
+            "\"Tôi ngủ nhưng lòng tôi thức; kìa tiếng người tôi yêu gõ cửa.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Diễm ca chương 5 ca ngợi hoặc mô tả tình yêu dựa trên chi tiết 'Tôi ngủ ngủ nhưng lòng thức thức tiếng người yêu gõ cửa?'",
+          "options": [
+            "Diễn tả vẻ đẹp hoặc hành động: Tôi ngủ ngủ nhưng lòng thức thức tiếng người yêu gõ cửa để làm nổi bật tình yêu đôi lứa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời ca ngợi về 'Mở cửa cửa người yêu đã lánh đi mất hồn bay đi' trong Diễm ca chương 5 chép là gì?",
+          "options": [
+            "Mô tả nét duyên dáng hoặc sự gắn kết: Mở cửa cửa người yêu đã lánh đi mất hồn bay đi vô cùng khăng khít nồng nàn",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Người tôi yêu trắng trắng trẻo trẻo rạng rỡ nổi bật vạn người' trong Diễm ca chương 5 diễn tả trạng thái nào?",
+          "options": [
+            "Diễn tả vẻ oai hùng oai phong hoặc sự cuốn hút: Người tôi yêu trắng trắng trẻo trẻo rạng rỡ nổi bật vạn người của đôi uyên ương",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Diễm ca chương 5, cụm từ 'Đầu chàng như vàng vàng ròng tóc quăn đen như quạ' nói lên vẻ đẹp hay cảm xúc nào?",
+          "options": [
+            "Vẻ đẹp quyến rũ hoặc cảm xúc sâu sắc: Đầu chàng như vàng vàng ròng tóc quăn đen như quạ lay động tâm hồn người yêu",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước ao hay hành vi liên quan đến 'Miệng chàng ngọt ngọt ngào ngào chàng hoàn toàn đáng yêu thương' ở Diễm ca chương 5 thể hiện ước vọng gì?",
+          "options": [
+            "Ước vọng ngọt ngào hoặc khao khát: Miệng chàng ngọt ngọt ngào ngào chàng hoàn toàn đáng yêu thương được thuộc về nhau trọn vẹn",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện phát ngôn chính trong Diễm ca chương 5 là ai?",
+          "options": [
+            "Cô dâu (thiếu nữ Shulamite) hoặc chàng rể (người chăn chiên/vua Sa-lô-môn)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình yêu đôi lứa trong Diễm ca chương 5 cam kết vượt qua thử thách nào?",
+          "options": [
+            "Sự xa cách, sự phai nhạt theo thời gian và thác lũ thử thách cuộc đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học nhân sinh sâu sắc của Diễm ca chương 5 đúc kết là gì?",
+          "options": [
+            "Tôn vinh vẻ đẹp của tình yêu đôi lứa tinh tuyền và lòng trung nghĩa vững bền qua: Tôi ngủ ngủ nhưng lòng thức thức tiếng người yêu gõ cửa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Diễm ca chương 6 thảo luận là gì?",
+          "options": [
+            "Sự thuộc về nhau và uy hùng như đạo binh cờ xí",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu thơ tình yêu hoặc mô tả tiêu biểu chép trong Diễm ca chương 6 là?",
+          "options": [
+            "\"Tôi thuộc về người tôi yêu, người tôi yêu thuộc về tôi, chàng chăn bầy giữa hoa huệ.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Diễm ca chương 6 ca ngợi hoặc mô tả tình yêu dựa trên chi tiết 'Tôi thuộc thuộc về người yêu người yêu thuộc về tôi chăn chiên?'",
+          "options": [
+            "Diễn tả vẻ đẹp hoặc hành động: Tôi thuộc thuộc về người yêu người yêu thuộc về tôi chăn chiên để làm nổi bật tình yêu đôi lứa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời ca ngợi về 'Em đẹp đẹp như Ti-rơ duyên dáng như Giê-ru-sa-lem' trong Diễm ca chương 6 chép là gì?",
+          "options": [
+            "Mô tả nét duyên dáng hoặc sự gắn kết: Em đẹp đẹp như Ti-rơ duyên dáng như Giê-ru-sa-lem vô cùng khăng khít nồng nàn",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Uy hùng hùng như đạo binh binh cờ xí cờ xí lẫm liệt' trong Diễm ca chương 6 diễn tả trạng thái nào?",
+          "options": [
+            "Diễn tả vẻ oai hùng oai phong hoặc sự cuốn hút: Uy hùng hùng như đạo binh binh cờ xí cờ xí lẫm liệt của đôi uyên ương",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Diễm ca chương 6, cụm từ 'Hãy lánh mắt mắt khỏi anh vì mắt em làm anh bối rối' nói lên vẻ đẹp hay cảm xúc nào?",
+          "options": [
+            "Vẻ đẹp quyến rũ hoặc cảm xúc sâu sắc: Hãy lánh mắt mắt khỏi anh vì mắt em làm anh bối rối lay động tâm hồn người yêu",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước ao hay hành vi liên quan đến 'Ai kia hiện hiện ra như rạng đông đẹp như mặt trăng' ở Diễm ca chương 6 thể hiện ước vọng gì?",
+          "options": [
+            "Ước vọng ngọt ngào hoặc khao khát: Ai kia hiện hiện ra như rạng đông đẹp như mặt trăng được thuộc về nhau trọn vẹn",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện phát ngôn chính trong Diễm ca chương 6 là ai?",
+          "options": [
+            "Cô dâu (thiếu nữ Shulamite) hoặc chàng rể (người chăn chiên/vua Sa-lô-môn)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình yêu đôi lứa trong Diễm ca chương 6 cam kết vượt qua thử thách nào?",
+          "options": [
+            "Sự xa cách, sự phai nhạt theo thời gian và thác lũ thử thách cuộc đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học nhân sinh sâu sắc của Diễm ca chương 6 đúc kết là gì?",
+          "options": [
+            "Tôn vinh vẻ đẹp của tình yêu đôi lứa tinh tuyền và lòng trung nghĩa vững bền qua: Tôi thuộc thuộc về người yêu người yêu thuộc về tôi chăn chiên",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Diễm ca chương 7 thảo luận là gì?",
+          "options": [
+            "Vẻ đẹp gót chân và hương thơm mũi thở nàng",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu thơ tình yêu hoặc mô tả tiêu biểu chép trong Diễm ca chương 7 là?",
+          "options": [
+            "\"Gót chân em trong giày sandals đẹp đẽ dường bao, hỡi con dòng quý tộc!\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Diễm ca chương 7 ca ngợi hoặc mô tả tình yêu dựa trên chi tiết 'Gót chân chân trong giày sandals sandals đẹp đẽ con quý tộc?'",
+          "options": [
+            "Diễn tả vẻ đẹp hoặc hành động: Gót chân chân trong giày sandals sandals đẹp đẽ con quý tộc để làm nổi bật tình yêu đôi lứa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời ca ngợi về 'Thân hình em em thanh mảnh như cây cọ chùm quả ngọt' trong Diễm ca chương 7 chép là gì?",
+          "options": [
+            "Mô tả nét duyên dáng hoặc sự gắn kết: Thân hình em em thanh mảnh như cây cọ chùm quả ngọt vô cùng khăng khít nồng nàn",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Hương thơm mũi mũi thở như hương táo táo má hồng mịn' trong Diễm ca chương 7 diễn tả trạng thái nào?",
+          "options": [
+            "Diễn tả vẻ oai hùng oai phong hoặc sự cuốn hút: Hương thơm mũi mũi thở như hương táo táo má hồng mịn của đôi uyên ương",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Diễm ca chương 7, cụm từ 'Miệng em như rượu rượu ngon ngọt chảy vào môi người ngủ ngủ' nói lên vẻ đẹp hay cảm xúc nào?",
+          "options": [
+            "Vẻ đẹp quyến rũ hoặc cảm xúc sâu sắc: Miệng em như rượu rượu ngon ngọt chảy vào môi người ngủ ngủ lay động tâm hồn người yêu",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước ao hay hành vi liên quan đến 'Chúng ta hãy dậy dậy sớm ra vườn nho xem hoa nở chưa' ở Diễm ca chương 7 thể hiện ước vọng gì?",
+          "options": [
+            "Ước vọng ngọt ngào hoặc khao khát: Chúng ta hãy dậy dậy sớm ra vườn nho xem hoa nở chưa được thuộc về nhau trọn vẹn",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện phát ngôn chính trong Diễm ca chương 7 là ai?",
+          "options": [
+            "Cô dâu (thiếu nữ Shulamite) hoặc chàng rể (người chăn chiên/vua Sa-lô-môn)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình yêu đôi lứa trong Diễm ca chương 7 cam kết vượt qua thử thách nào?",
+          "options": [
+            "Sự xa cách, sự phai nhạt theo thời gian và thác lũ thử thách cuộc đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học nhân sinh sâu sắc của Diễm ca chương 7 đúc kết là gì?",
+          "options": [
+            "Tôn vinh vẻ đẹp của tình yêu đôi lứa tinh tuyền và lòng trung nghĩa vững bền qua: Gót chân chân trong giày sandals sandals đẹp đẽ con quý tộc",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Diễm ca chương 8 thảo luận là gì?",
+          "options": [
+            "Tình yêu mạnh hơn cái chết và thác lũ cấm dập tắt",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu thơ tình yêu hoặc mô tả tiêu biểu chép trong Diễm ca chương 8 là?",
+          "options": [
+            "\"Tình yêu mạnh mẽ như cái chết, lòng ghen tuông hung tợn như âm phủ.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Diễm ca chương 8 ca ngợi hoặc mô tả tình yêu dựa trên chi tiết 'Tình yêu yêu mạnh như cái chết chết lòng ghen tợn âm phủ?'",
+          "options": [
+            "Diễn tả vẻ đẹp hoặc hành động: Tình yêu yêu mạnh như cái chết chết lòng ghen tợn âm phủ để làm nổi bật tình yêu đôi lứa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời ca ngợi về 'Thác lũ lũ cấm dập tắt tắt nổi tình yêu sông cấm nhấn chìm' trong Diễm ca chương 8 chép là gì?",
+          "options": [
+            "Mô tả nét duyên dáng hoặc sự gắn kết: Thác lũ lũ cấm dập tắt tắt nổi tình yêu sông cấm nhấn chìm vô cùng khăng khít nồng nàn",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Nếu ai hiến hiến của cải cải mua tình yêu sẽ bị khinh bỉ' trong Diễm ca chương 8 diễn tả trạng thái nào?",
+          "options": [
+            "Diễn tả vẻ oai hùng oai phong hoặc sự cuốn hút: Nếu ai hiến hiến của cải cải mua tình yêu sẽ bị khinh bỉ của đôi uyên ương",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Diễm ca chương 8, cụm từ 'Chúng ta có em em gái gái nhỏ nhỏ chưa có ngực ngực tròn' nói lên vẻ đẹp hay cảm xúc nào?",
+          "options": [
+            "Vẻ đẹp quyến rũ hoặc cảm xúc sâu sắc: Chúng ta có em em gái gái nhỏ nhỏ chưa có ngực ngực tròn lay động tâm hồn người yêu",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước ao hay hành vi liên quan đến 'Hãy mau mau lên người yêu yêu giống linh dương nai tơ núi đồi' ở Diễm ca chương 8 thể hiện ước vọng gì?",
+          "options": [
+            "Ước vọng ngọt ngào hoặc khao khát: Hãy mau mau lên người yêu yêu giống linh dương nai tơ núi đồi được thuộc về nhau trọn vẹn",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện phát ngôn chính trong Diễm ca chương 8 là ai?",
+          "options": [
+            "Cô dâu (thiếu nữ Shulamite) hoặc chàng rể (người chăn chiên/vua Sa-lô-môn)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình yêu đôi lứa trong Diễm ca chương 8 cam kết vượt qua thử thách nào?",
+          "options": [
+            "Sự xa cách, sự phai nhạt theo thời gian và thác lũ thử thách cuộc đời",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học nhân sinh sâu sắc của Diễm ca chương 8 đúc kết là gì?",
+          "options": [
+            "Tôn vinh vẻ đẹp của tình yêu đôi lứa tinh tuyền và lòng trung nghĩa vững bền qua: Tình yêu yêu mạnh như cái chết chết lòng ghen tợn âm phủ",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

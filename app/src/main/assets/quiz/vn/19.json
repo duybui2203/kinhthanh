@@ -1,0 +1,1056 @@
+{
+  "bookId": 19,
+  "bookName": "Ét-te",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Vua Ba-tư mở tiệc rượu xa hoa ngự trị tại kinh thành Susa cai trị 127 tỉnh là?",
+          "options": [
+            "Vua A-hát-suê-rô (Ahasuerus / Xerxes)",
+            "Vua Cyrus giải phóng phóng thích Do Thái xưa",
+            "Vua Darius ban sắc lệnh tìm thấy chiếu chỉ",
+            "Vua Xen-na-khê-ríp vua Assyria kiêu ngạo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hoàng hậu bị vua phế truất vì cự tuyệt mệnh lệnh đến khoe sắc đẹp tiệc rượu là?",
+          "options": [
+            "Hoàng hậu Vát-ti (Vashti)",
+            "Bà hoàng hậu Ét-te Do Thái thay thế sau",
+            "Thái hậu A-tha-li-a độc ác cướp ngôi xưa",
+            "Bà mẹ Anna khóc lóc oán trách Tobit mù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Độ dài thời gian bữa tiệc vua khoản đãi các quan quyền quý trong cung điện Susa câu 4?",
+          "options": [
+            "Một trăm tám mươi (180) ngày ngày ăn chơi tiệc tùng xa hoa",
+            "Bảy ngày chẵn",
+            "Mười bốn ngày ngày ăn uống hân hoan rực rỡ",
+            "Ba ngày chẵn ngắn ngủi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do quan cố vấn khuyên vua phế truất hoàng hậu Vashti chép câu 16-18 là gì?",
+          "options": [
+            "Tránh thói xấu phụ nữ khinh chồng khinh chồng khắp cả nước khi nghe gương Vashti",
+            "Vì bà Vashti ăn cắp của cải vàng bạc hoàng",
+            "Vì bà bị phong cùi trắng trán cách ly biệt",
+            "Để tịch thu toàn bộ tài sản góa phụ dâng vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sắc lệnh phế truất Vashti được gửi đi khắp nước viết bằng ngôn ngữ thế nào câu 22?",
+          "options": [
+            "Viết bằng chữ viết riêng từng tỉnh từng tỉnh và tiếng nói từng dân tộc",
+            "Viết bằng tiếng Do Thái để đe dọa các vương",
+            "Chỉ viết bằng tiếng Ba-tư cổ đại hoàng gia",
+            "Không gửi sắc lệnh chỉ loan tin truyền miệng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh kinh đô triều đình vua Ahasuerus mở tiệc chép câu 2 là?",
+          "options": [
+            "Kinh thành Su-sa (Susa vương đô Ba-tư)",
+            "Thành Babylon cổ đại bên sông Euphrates",
+            "Thành Giê-ru-sa-lem thủ đô nước thánh",
+            "Thành cảng biển Ty-rơ ngoại bang biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số tỉnh vua Ahasuerus cai trị kéo dài từ Ấn Độ đến Ethiopia câu 1?",
+          "options": [
+            "Một trăm hai mươi bảy (127) tỉnh tỉnh lỵ",
+            "Mười hai tỉnh đại diện chi tộc Do Thái",
+            "Năm mươi tỉnh",
+            "Bảy mươi tỉnh chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món đồ trang trí trên đầu hoàng hậu Vashti vua muốn bà đeo khi ra mắt tiệc câu 11?",
+          "options": [
+            "Vương miện hoàng hậu hoàng hậu (royal crown) để khoe vẻ đẹp bà",
+            "Một chiếc khiên vàng Sa-lô-môn đúc xưa cướp",
+            "Triều thiên lá ô-liu xanh tươi thanh khiết",
+            "Mặt nạ vàng ròng che kín khuôn mặt xinh đẹp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên quan cố vấn đầu triều đề xuất giải pháp phế truất Vashti câu 16 là?",
+          "options": [
+            "Me-mu-khan (Memukan)",
+            "Haman tể tướng độc ác muốn diệt Do Thái",
+            "Achior thủ lĩnh người Am-môn bị trói xích",
+            "Bagoas quan thái giám quản lý phòng rượu vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc phế truất Vashti mở đầu sách Ét-te chứng minh điều gì?",
+          "options": [
+            "Sự dẫn dắt dẫn dắt âm thầm của Chúa đặt để Esther vào hoàng cung giải cứu dân tộc",
+            "Sự độc đoán chuyên chế tàn bạo của vua Ba-tư",
+            "Quyền lợi của người phụ nữ bị chà đạp triều đình",
+            "Sự lỗi thời của giao ước vương quyền cũ hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Thi thiếu nữ Do Thái mồ côi xinh đẹp được tuyển chọn làm hoàng hậu mới Ba-tư là?",
+          "options": [
+            "Nàng Ét-te (Esther tên Do Thái là Ha-đát-sa / Hadassah)",
+            "Nàng Sarah con gái Raguel ở xứ Media trọ",
+            "Bà thái hậu A-tha-li-a độc ác bị chém đầu",
+            "Nữ tiên tri Kha-la vợ quan giữ phẩm phục"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người họ hàng nuôi dưỡng Esther chăm sóc dạy dỗ nàng từ nhỏ là ai?",
+          "options": [
+            "Mọt-đơ-khai (Mordecai con trai Gia-ia chi tộc Bên-gia-min)",
+            "Thầy tế lễ thượng tế Joakim lo việc đạo đền",
+            "Ahikar người quản thủ ấn tín hoàng gia Ba-tư",
+            "Gabael người giữ mười ta-lăng bạc ký gửi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lập công lớn của Mordecai được ghi chép vào sách sử ký vương triều chép câu 21-23 là?",
+          "options": [
+            "Phát hiện âm mưu âm mưu ám sát vua của hai thái giám Bigthan và Teresh",
+            "Cướp kho bạc hoàng cung chia cho người nghèo",
+            "Đập phá tượng vàng tà thần ngoại giáo Ba-al",
+            "Tìm thấy mười ta-lăng bạc ký gửi nhà Gabael"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ dẫn nghiêm khắc Mordecai dặn Esther khi nàng vào cung là gì câu 10?",
+          "options": [
+            "Cấm được tiết lộ tiết lộ nguồn gốc dòng dõi Do Thái của mình",
+            "Phải đòi vua ban khiên vàng bọc cung điện Do",
+            "Phải cự tuyệt cấm ăn thức ăn tinh sạch của cung",
+            "Đút lót tiền vàng cho thái giám Hegai để mua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vị thái giám tổng quản coi sóc các thiếu nữ tiến cung câu 3 chép là?",
+          "options": [
+            "Hê-gai (Hegai thái giám của vua)",
+            "Bagoas quan thái giám quản lý tiệc rượu riêng",
+            "Bithan thái giám nổi loạn ám sát vua hụt",
+            "Memukan cố vấn khuyên phế truất Vashti xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời gian chuẩn bị xức dầu thơm thanh tẩy của các thiếu nữ trước diện kiến vua câu 12?",
+          "options": [
+            "Mười hai (12) tháng tháng chẵn (6 tháng dầu mộc dược, 6 tháng hương liệu)",
+            "Bảy ngày chẵn ăn uống kiêng khem đền thánh",
+            "Ba năm chẵn học luật pháp Ba-tư triều đình",
+            "Không chuẩn bị được đưa vào diện kiến ngay lập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tháng hoàng hậu Esther được đưa vào cung diện kiến vua Ahasuerus câu 16?",
+          "options": [
+            "Tháng thứ mười mười (tháng Tê-bết năm thứ bảy triều vua)",
+            "Tháng giêng giêng dịp đại lễ Vượt Qua thánh",
+            "Tháng bảy mừng lễ Lều Tạm dâng tế đàn đồng",
+            "Tháng Ê-lul xây xong tường thành Giê-ru-sa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc tổ tông của Mordecai chép câu 5 thuộc dòng dõi nào?",
+          "options": [
+            "Chi tộc Bên-gia-min (Benjamite dòng dõi Kis)",
+            "Chi tộc Giu-đa hoàng gia dòng vua Đa-vít",
+            "Chi tộc Lê-vi phục dịch tế đàn đền thánh Chúa",
+            "Chi tộc Simeon báo oán bảo vệ danh dự em gái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món quà vua Ahasuerus ban tặng chúc mừng ngày Esther đăng quang hoàng hậu câu 18?",
+          "options": [
+            "Mở tiệc lớn đại tiệc đại tiệc Ét-te, miễn thuế các tỉnh, ban tặng quà dồi dào",
+            "Cho kỵ binh xe chiến Ba-tư diễu hành oai",
+            "Xây cung điện bọc vàng ròng rực rỡ lấp lánh",
+            "Cho chém đầu hai thái giám nổi loạn cứu mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự bảo bọc âm thầm và lập công của Mordecai chương 2 chép?",
+          "options": [
+            "Sự chuẩn bị chuẩn bị từng bước của Chúa; lòng trung thành của Mordecai gieo mầm cứu giải sau nầy",
+            "Do Do Thái có mưu mẹo đưa người vào cung điện",
+            "Sự nhút nhát của Esther cấm dám nhận Do Thái",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Kẻ thù ác độc tể tướng Ba-tư muốn tiêu diệt sạch toàn bộ dân Do Thái là?",
+          "options": [
+            "Ha-man (Haman con trai Hăm-mê-đa-tha người A-gác)",
+            "San-ba-lát kẻ thù xây thành Nê-hê-mi-a xưa",
+            "Tô-bi-a quan ngoại bang Am-môn thù địch",
+            "Át-mô-đê quỷ dữ ám sát chồng Sarah ở Media"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Haman nổi giận quyết định diệt chủng dân Do Thái câu 5-6 là gì?",
+          "options": [
+            "Vì Mọt-đơ-khai cự cự tuyệt cấm chịu quỳ lạy Haman trước cổng thành",
+            "Vì Do Thái cấm chịu đóng thuế thập phân vàng",
+            "Do Do Thái cướp kho báu bọc vàng đền thờ Ba",
+            "Vì Esther cự tuyệt cấm tiếp đón ông tại tiệc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình thức gieo xăm chọn ngày Haman thực hiện chọn tháng tàn sát Do Thái câu 7 là gì?",
+          "options": [
+            "Gieo Phổ (Pur / gieo xăm chọn ngày tháng)",
+            "Rút thăm chọn một phần mười dân số định cư",
+            "Hỏi ý kiến các tư tế tế thần ngoại bang Ba-al",
+            "Không gieo xăm chọn ngẫu nhiên ngày mai đánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngày tháng sắc lệnh tàn sát Do Thái được ấn định thực thi khắp Ba-tư câu 13?",
+          "options": [
+            "Ngày mười ba tháng mười hai mười hai (ngày 13 tháng Adar)",
+            "Ngày mười bốn tháng giêng dịp lễ Vượt Qua",
+            "Ngày mồng một tháng bảy dựng tế đàn dâng lễ",
+            "Ngày mồng ba tháng A-đác khánh thành đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món tiền vàng Haman hứa nộp vào kho tàng vua để đổi sắc lệnh diệt Do Thái câu 9?",
+          "options": [
+            "Mười ngàn (10.000) ta-lăng bạc ta-lăng bạc cống nộp kho tàng vua",
+            "Mười ta-lăng vàng nhỏ bé đền tạm cũ hoang",
+            "Một nghìn si-clơ đồng thau cũ rách nát thau",
+            "Không nộp tiền dùng vũ lực bắt vua ký sắc lệnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sắc lệnh diệt chủng ban bố khiến kinh thành Susa rơi vào trạng thái gì câu 15?",
+          "options": [
+            "Kinh thành Su-sa bối bối rối xôn xao lo sợ sầu muộn",
+            "Dân chúng múa hát reo hò vui mừng rực rỡ",
+            "Vua Ba-tư tự sát trong phòng riêng hối hận",
+            "Không có ảnh hưởng gì mọi người vẫn bình thường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên dòng dõi của Haman kẻ thù truyền kiếp Do Thái chép câu 1 là gì?",
+          "options": [
+            "Người A-gác (Agagite thuộc dòng dõi vua Amalek thù Do Thái xưa)",
+            "Người Babylon cổ đại bên sông Euphrates thù",
+            "Chi tộc Bên-gia-min hoàng gia kiêu ngạo bắn",
+            "Dân ngoại bang thành Ty-rơ cảng biển biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật phẩm ấn tín vua trao cho Haman để tùy nghi đóng dấu sắc lệnh câu 10?",
+          "options": [
+            "Chiếc nhẫn ấn tín ấn tín (royal signet ring) của đức vua",
+            "Chiếc khiên vàng Sa-lô-môn đúc xưa bị cướp",
+            "Vương trượng vàng quyền lực tối thượng Ba-tư",
+            "Không trao gì ban sắc lệnh viết sẵn chữ ký vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lập luận gian xảo Haman cáo buộc Do Thái trước vua Ahasuerus câu 8?",
+          "options": [
+            "Có một dân dân luật pháp khác biệt, cấm giữ luật pháp đức vua, cấm ích lợi cho vua",
+            "Dân Do Thái đang chế tạo kỵ binh xe chiến chiến",
+            "Dân Do Thái cướp hết vàng bạc bọc cung điện",
+            "Dân Do Thái bị phong cùi trắng lây lan dịch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thế lực ác độc Haman hoành hành chương 3 chép chứng minh?",
+          "options": [
+            "Mối đe đe dọa hủy diệt đức tin và dân Do Thái; sự kiêu ngạo của kẻ ác tìm cách tiêu diệt dân Chúa",
+            "Do Thái có số lượng kẻ thù đông đảo nhất Ba",
+            "Sự nhút nhát hèn hạ của vua Ba-tư nghe lời nịnh",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Phản ứng của Mordecai khi nghe tin sắc lệnh diệt chủng Do Thái ban ra câu 1-2 là?",
+          "options": [
+            "Xé áo mình, mặc áo sô áo sô tro, kêu la thảm thiết cổng thành",
+            "Nổi giận kéo kỵ binh xe chiến xông vào cung cứu",
+            "Đút lót mười ta-lăng bạc xin Haman tha mạng",
+            "Không làm gì chấp nhận chịu chết cùng toàn dân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thông điệp đanh thép Mordecai gửi giục giã Esther diện kiến vua cứu dân câu 14?",
+          "options": [
+            "Có biết đâu con lên ngôi hoàng hoàng hậu chính vì cơ hội cơ hội giải cứu này?",
+            "Hãy tự sát đi lánh nạn gieo mình xuống sông",
+            "Hãy nộp một vạn si-clơ vàng cho Haman xin tha",
+            "Không đi cấm được mạo hiểm giữ mạng sống hoàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời thề quyết tử nổi tiếng Esther tuyên bố trước khi mạo hiểm diện kiến vua câu 16?",
+          "options": [
+            "Nếu tôi phải chết phải chết, tôi chấp nhận chết (If I perish, I perish)",
+            "Tôi có kỵ binh xe chiến sắt oai hùng bảo vệ",
+            "Chúa sẽ tự dội sấm sét thiêu cháy sạch vua Ba",
+            "Không đi giữ mạng sống hoàng hậu vinh hoa cung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động kiêng ăn Esther yêu cầu toàn dân Do Thái ở Susa thực hiện cùng nàng câu 16?",
+          "options": [
+            "Kiêng ăn ba (3) ngày ngày đêm cấm ăn cấm uống cầu nguyện Chúa giúp",
+            "Kiêng ăn bảy ngày ăn bánh không men đại lễ Vượt",
+            "Kiêng ăn một ngày Sabát Sabát duy nhất ăn chay",
+            "Không kiêng ăn mở tiệc rượu dồi dào sức lực"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vấn đề pháp lý nguy hiểm khiến Esther e ngại khi vào diện kiến vua cấm xin câu 11?",
+          "options": [
+            "Ai tự ý vào sân trong gặp vua mà cấm được giơ vương trượng vàng trượng vàng sẽ bị xử tử",
+            "Vua cấm cho phép phụ nữ Do Thái bước chân vào",
+            "Hoàng hậu cũ Vashti sẽ đâm chết nàng giường",
+            "Sợ bị phong cùi trắng cách ly phòng biệt lập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên thái giám trung tín Esther dùng chuyển thông tin qua lại với Mordecai câu 5 là?",
+          "options": [
+            "Ha-thác (Hathach)",
+            "Bagoas quan thái giám tiệc rượu riêng tư",
+            "Hegai tổng quản các thiếu nữ tiến cung xưa",
+            "Memukan quan cố vấn đề xuất phế Vashti cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bức thư sắc lệnh tàn sát Mordecai gửi cho Esther để nàng xem chép câu 8?",
+          "options": [
+            "Bản sao bản sao sắc lệnh tàn sát công bố tại Susa để nàng biết sự thật",
+            "Bức thư tình vua Ba-tư gửi cho hoàng hậu cũ",
+            "Sách Luật Pháp Mô-sê nhận ở núi Sinai cũ",
+            "Không gửi thư chỉ truyền miệng tin tức thảm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả trạng thái tang chế của Do Thái khắp các tỉnh khi nghe sắc lệnh câu 3?",
+          "options": [
+            "Khóc lóc khóc lóc thảm thiết, ăn chay kiêng ăn, nhiều người nằm trên sô tro",
+            "Ăn uống no nê mừng rỡ thu dọn của cải trốn",
+            "Bị phong cùi trắng cách ly phòng biệt lập hoang",
+            "Không có tang chế mọi người vẫn múa hát vui"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Mordecai cấm được bước chân qua cổng hoàng cung Ba-tư câu 2 chép?",
+          "options": [
+            "Vì cấm ai mặc áo áo sô thô (tang chế) được vào cổng hoàng cung vua",
+            "Vì ông là người Do Thái bị cấm cửa hoàng gia",
+            "Do lính Ba-tư rút gươm trần canh phòng cẩn mật",
+            "Không có lý do tự ông đứng ngoài cổng than khóc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa lời kêu gọi của Mordecai đối với bổn phận của Esther chương 4 chép?",
+          "options": [
+            "Trách nhiệm bổn phận bổn phận của cá nhân trước vận mệnh dân tộc; đức tin cấm thỏa hiệp; chấp nhận hy sinh",
+            "Do Do Thái có số lượng anh hùng cứu nước nhiều",
+            "Sự nhút nhát của Esther lo sợ luật pháp cung",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Ngày thứ ba kiêng ăn, Esther mặc triều phục diện kiến vua nhận được điều gì?",
+          "options": [
+            "Vua đẹp lòng giơ vương trượng vàng trượng vàng ban ơn, cho phép nàng cầu xin",
+            "Vua nổi giận ra lệnh chém đầu nàng ngay tại sân",
+            "Vua bỏ trốn biệt xứ vì sợ bùa phép Do Thái",
+            "Không giơ trượng bắt nàng quỳ quỳ lạy sám hối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khôn ngoan Esther cầu xin vua Ahasuerus ban tặng tại tiệc rượu thứ nhất là?",
+          "options": [
+            "Xin mời vua và Haman đến dự tiệc rượu tiệc rượu thứ hai ngày mai nàng dọn",
+            "Xin tha mạng sống Do Thái chém đầu Haman ngay",
+            "Xin ban một vạn si-clơ vàng xây lại đền thờ",
+            "Không xin gì chỉ khuyên vua dẹp ngẫu tượng ngoại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động kiêu ngạo của Haman sau khi dự tiệc rượu hoàng hậu Esther dọn câu 9 là?",
+          "options": [
+            "Hớn hở kiêu ngạo kiêu ngạo khoe của, nổi điên thấy Mordecai cổng thành cấm quỳ lạy",
+            "Đút lót tiền vàng cho Esther xin làm bạn thân",
+            "Đập phá đền đồi cao bò vàng Bê-then Đan tạ",
+            "Bỏ trốn về nước Amalek lánh nạn trốn tránh Do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vợ Haman và bạn hữu xúi giục ông dựng món đồ tàn ác gì để hại Mordecai câu 14?",
+          "options": [
+            "Dựng giá treo cổ treo cổ cao 50 khuỷu để xin vua treo cổ Mordecai sáng mai",
+            "Đúc một con bò vàng bắt Mordecai quỳ lạy lạy",
+            "Đào sẵn huyệt mộ chôn sống Mordecai ban đêm",
+            "Không làm gì chỉ khuyên vua đày Mordecai hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hứa hẹn của vua Ahasuerus ban ơn cho hoàng hậu Esther chép câu 3 và 6?",
+          "options": [
+            "Dẫu xin một nửa nước một nửa nước (half the kingdom) trẫm cũng ban cho nàng",
+            "Cho nàng kỵ binh xe chiến Ba-tư oai hùng chiến",
+            "Chúa sẽ tự dội sấm sét thiêu cháy sạch giặc",
+            "Chúc nàng giàu sang tiền bạc ngập tràn cung điện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vợ của Haman xúi giục chồng dựng giá treo cổ cao 50 khuỷu câu 14 là?",
+          "options": [
+            "Bà Xê-rét (Zeresh)",
+            "Bà Edna mẹ Sarah ở xứ Media trọ nhà vợ",
+            "Bà Anna mẹ Tobias ở xứ Nineveh đi đày",
+            "Thái hậu A-tha-li-a độc ác bị chém đầu xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Haman tự hào khoe của cải gì với bạn hữu và vợ câu 11 chép?",
+          "options": [
+            "Khoe vinh quang giàu có giàu có, nhiều con trai, được cất nhắc lên trên quan trưởng",
+            "Khoe chiếc khiên vàng Sa-lô-môn đúc xưa bị cướp",
+            "Khoe kỵ binh chiến xa sắt oai hùng bảo vệ lều",
+            "Không khoe gì khóc lóc vì lo sợ bị cướp mất vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa điểm Esther đứng diện kiến vua Ba-tư chép câu 1 là gì?",
+          "options": [
+            "Sân trong sân trong của hoàng cung đối diện với ngai vàng của đức vua",
+            "Cổng thành Susa nơi Mordecai thường ngồi ngồi",
+            "Trong phòng tế lễ đền thánh Giê-ru-sa-lem",
+            "Không có địa điểm đứng thẳng ngoài vườn hoa vương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ của Haman khi bước ra khỏi hoàng cung tiệc rượu câu 9 chép?",
+          "options": [
+            "Lòng tràn đầy vui hân hoan hân hoan rực rỡ, nhưng nổi giận thấy Mordecai",
+            "Sợ hãi lo sợ bị ám sát chết dọc đường đi thồ",
+            "Bỏ trốn biệt xứ cấm dám đến dự tiệc ngày mai",
+            "Không vui vẻ chỉ lo tìm cách thu thuế thập phân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự khôn ngoan mưu mưu lược của Esther chương 5 chép dạy gì?",
+          "options": [
+            "Sự khôn ngoan kiên nhẫn kiên nhẫn hành động đúng thời điểm; thế lực ác sa bẫy kiêu ngạo của chính mình",
+            "Sức mạnh sắc đẹp hoàng hậu Do Thái vô địch Ba",
+            "Sự nhút nhát của vua Ba-tư trước hoàng hậu mới",
+            "Sự lỗi thời của giao ước đền tạm hoang dã Mô"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Sự việc xảy ra đêm vua cấm ngủ được lệnh mang sách gì ra đọc nghe công Mordecai?",
+          "options": [
+            "Sách sử ký sử ký biên niên triều đình chép công Mordecai cứu vua",
+            "Sách Luật Pháp Mô-sê nhận ở núi Sinai cổ",
+            "Sách sấm ngôn của tiên tri Giê-rê-mi-a khóc",
+            "Không đọc sách mở tiệc rượu ca hát vui chơi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Haman bước vào sân ngoài hoàng cung sáng sớm xin vua việc gì câu 4?",
+          "options": [
+            "Xin treo cổ Mordecai Mordecai trên giá treo cổ ông đã dựng sẵn cho ông",
+            "Xin nhận lại mười ta-lăng bạc ký gửi Gabael",
+            "Xin làm vua Ba-tư thay thế vua Ahasuerus oai",
+            "Không xin gì chỉ lo dâng lễ tế thần ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý tưởng kiêu ngạo Haman nghĩ bụng khi vua hỏi cách tôn vinh người vua muốn tri ân?",
+          "options": [
+            "Vua muốn tôn vinh ai ngoài ta ngoài ta? Haman tự nghĩ mình tôn vinh nên đề xuất lớn",
+            "Vua muốn tôn vinh Mordecai kẻ thù của ta",
+            "Vua muốn phong cùi trắng trán kẻ cự tuyệt lạy",
+            "Không nghĩ gì bối rối cấm biết trả lời đức vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt nhục nhã Haman phải thực hiện tôn vinh Mordecai theo lệnh vua câu 10-11 là?",
+          "options": [
+            "Mặc áo bào hoàng gia hoàng gia cho Mordecai, dẫn ngựa dạo thành hô to tôn vinh ông",
+            "Chém đầu Mordecai ngay trước mặt đức vua Ba",
+            "Tống giam Mordecai ngục tối cùm chân cùm tay",
+            "Không phạt tự Haman lên giá treo cổ chịu tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên đầy điềm xấu vợ Haman và bạn hữu nói với ông sau nhục nhã câu 13?",
+          "options": [
+            "Mordecai là dòng dõi Do Thái Do Thái, ông đã ngã trước ông sẽ bại hoàn toàn",
+            "Hãy dùng kỵ binh chiến xa sắt tiêu diệt ông lo",
+            "Chúa Do Thái đã dội sấm sét tiêu diệt nhà ta",
+            "Hãy nộp một vạn si-clơ vàng chuộc mạng sống ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai thái giám phản nghịch Mordecai đã tố cáo cứu vua chép sách sử ký câu 2?",
+          "options": [
+            "Bích-than (Bigthan) và Tê-rét (Teresh)",
+            "Hegai và Hathach thái giám hầu hạ hoàng hậu",
+            "San-ba-lát và Tô-bi-a quân thù xây thành thánh",
+            "Không chép tên chỉ chép hai người gác cửa cung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần thưởng Mordecai nhận được trước khi vua nghe đọc sách sử ký câu 3?",
+          "options": [
+            "Chưa được thưởng thưởng gì cả, cấm có chức tước hay phần thưởng nào ban",
+            "Được nhận mười ta-lăng bạc ký gửi nhà bạn",
+            "Nhận được một vạn khiên vàng Sa-lô-môn đúc",
+            "Bị tống giam ngục tối do Haman kiện cáo oan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con thú cưỡi đề xuất Haman nêu ra để tôn vinh người vua yêu câu 8 là?",
+          "options": [
+            "Con ngựa ngựa đức vua thường cưỡi, có đội vương miện hoàng gia trên đầu ngựa",
+            "Con lạc đà thồ mười ta-lăng bạc nặng trĩu",
+            "Con la hoàng gia oai vệ vương triều Ba-tư",
+            "Không dùng ngựa đi bộ diễu hành quanh kinh thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động Haman làm sau khi dẫn ngựa diễu hành xong tôn vinh Mordecai câu 12?",
+          "options": [
+            "Chạy vội về nhà về nhà khóc lóc, che đầu tủi nhục đau buồn thảm thương",
+            "Mở tiệc lớn ăn mừng cùng vợ Zeresh vui vẻ",
+            "Rút gươm đâm chết Mordecai báo thù nhục nhã",
+            "Không làm gì đi thẳng vào cung hầu hạ tiệc rượu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa bước ngoặt lịch sử kỳ diệu đêm vua cấm ngủ chương 6 chứng minh?",
+          "options": [
+            "Sự can thiệp thiệp siêu nhiên Chúa xoay chuyển tình thế cứu mạng người công chính; kiêu ngạo đi trước bại hoại",
+            "Quyền lực tối thượng của sách sử ký Ba-tư cổ",
+            "Sự ngu xuẩn của Haman tự chuốc nhục vào thân",
+            "Sự lỗi thời của giao ước đền tạm hoang dã Mô"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Lời cầu xin cứu mạng sống Do Thái hoàng hậu Esther vạch trần Haman tiệc rượu thứ hai là?",
+          "options": [
+            "Xin cứu mạng tôi mạng tôi và dân tộc tôi bị bán để hủy diệt; kẻ thù là Haman ác độc",
+            "Xin cho tôi kỵ binh xe chiến Ba-tư đánh thù",
+            "Xin ban mười vạn si-clơ vàng đền thờ bọc vàng",
+            "Không xin cứu Do Thái chỉ xin vua ban nửa nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động trừng trị thích đáng vua Ba-tư ra lệnh áp dụng cho ác ôn Haman câu 9 là?",
+          "options": [
+            "Treo cổ Haman Haman trên chính giá treo cổ hắn dựng cho Mordecai",
+            "Chém đầu Haman ngay lập tức bên bàn ăn tiệc rượu",
+            "Trục xuất Haman sang sa mạc hoang dã cùi cách ly",
+            "Tống giam Haman ngục tối cùm chân cùm tay vĩnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giá treo cổ Haman dựng cao bao nhiêu khuỷu chép câu 9 là?",
+          "options": [
+            "Năm mươi (50) khuỷu khuỷu tay cao ngất ngưởng dựng trước nhà Haman",
+            "Bảy mươi khuỷu",
+            "Mười khuỷu nhỏ bé đền tạm cũ hoang dã",
+            "Không chép chiều cao chỉ chép rất cao rộng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động van xin hèn hạ của Haman đối với hoàng hậu Esther khi vua nổi giận ra vườn câu 7-8?",
+          "options": [
+            "Sụp xuống giường nằm nằm của Esther khóc lóc van xin cứu mạng sống mình",
+            "Rút gươm khống chế hoàng hậu làm con tin trốn",
+            "Đút lót một vạn si-clơ vàng xin hoàng hậu tha",
+            "Bỏ chạy trốn biệt xứ sang Ai Cập hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên quan thái giám mách cho vua biết việc Haman dựng giá treo cổ Mordecai câu 9 là?",
+          "options": [
+            "Ha-rơ-vô-na (Harbona)",
+            "Hegai thái giám hầu hạ hoàng hậu Esther xưa",
+            "Hathach thái giám lo chuyển tin tức Mordecai",
+            "Bagoas quan thái giám tiệc rượu riêng tư vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cơn giận của vua Ahasuerus nguôi ngoai sau sự việc nào câu 10 chép?",
+          "options": [
+            "Sau khi treo treo cổ Haman xong trên giá treo cổ",
+            "Sau khi nhận mười ta-lăng bạc ký gửi Gabael",
+            "Sau khi Do Thái chịu phạt nộp vàng thập phân",
+            "Do hoàng hậu Esther múa hát khúc nhạc dịu dàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả trạng thái của vua khi nghe Esther báo tin bị bán để hủy diệt câu 5?",
+          "options": [
+            "Nổi giận nổi giận hỏi: Kẻ nào dám cả gan làm điều như thế trong lòng?",
+            "Sợ hãi bỏ chạy trốn lánh nạn cung điện Ba-tư",
+            "Khóc lóc oán trách Haman đã lừa dối mình ký",
+            "Không quan tâm cự tuyệt cấm thèm trả lời nàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Haman bị che mặt áp giải đi chôn cất/treo cổ câu 8 chép thế nào?",
+          "options": [
+            "Vừa dứt lời vua vua, lính hầu che mặt Haman áp giải đi treo cổ",
+            "Đeo xích đồng xích tay chân giải sang Babylon",
+            "Ném xác xuống suối Xết-rôn rác rưởi ngoài thành",
+            "Không che mặt Haman tự đi bộ ra giá treo cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Esther tố cáo Haman là người thế nào trước mặt đức vua câu 6 chép?",
+          "options": [
+            "Kẻ thù kẻ thù nghịch và kẻ hung ác độc địa nầy!",
+            "Người công chính tốt lành bị hiểu lầm oan uổng",
+            "Người chiến sĩ dũng mãnh bắn cung oai hùng Do",
+            "Kẻ đã đập phá đền đồi cao bò vàng Bê-then Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc tể tướng Haman bị treo cổ trên giá treo cổ chính mình dựng chương 7?",
+          "options": [
+            "Sự phán xét xét công lý gậy ông đập lưng ông; Chúa bảo vệ kẻ vô tội; ác giả ác báo",
+            "Sức mạnh chính trị của hoàng hậu Do Thái vô địch",
+            "Sự nhút nhát hèn hạ của Haman cầu xin phụ nữ",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Vua Ba-tư ban của cải của Haman cho ai và ban nhẫn ấn tín tể tướng cho ai?",
+          "options": [
+            "Ban tài sản cho Ét-te Ét-te, nhẫn ấn tín tể tướng cho Mọt-đơ-khai (Mordecai)",
+            "Ban cho hoàng hậu cũ Vashti tạ lỗi xưa kia",
+            "Tịch thu toàn bộ nộp kho tàng đền thờ Ba-al",
+            "Không ban cho ai đốt cháy sạch của cải tàn ác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sắc lệnh mới Mordecai viết đóng ấn vua gửi đi ban quyền gì cho Do Thái câu 11?",
+          "options": [
+            "Quyền tập hợp vũ vũ trang tự vệ tiêu diệt bất kỳ quân thù nào tấn công họ",
+            "Bắt phạt 12 chi tộc đóng thuế thập phân vàng",
+            "Trục xuất toàn bộ người ngoại bang ra khỏi Ba",
+            "Cấm Do Thái cấm được mang gươm giáo vũ khí"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do cấm thể hủy bỏ sắc lệnh tàn sát cũ của Haman đã ban hành chép câu 8?",
+          "options": [
+            "Vì sắc lệnh viết nhân danh vua vua đóng ấn ấn tín cấm thể hủy bỏ luật lệ Ba-tư",
+            "Vì Haman đã chết cấm ai sửa được chữ ký",
+            "Vì vua Ba-tư sợ hãi quỷ ghen Asmodeus phạt",
+            "Do Do Thái cấm chịu đóng tiền vàng chuộc luật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động khẩn cầu nước mắt của Esther diện kiến vua lần thứ hai câu 3 là gì?",
+          "options": [
+            "Sụp dưới chân vua vua khóc lóc xin vô hiệu hóa sắc lệnh ác độc của Haman",
+            "Xin cưới chồng mới giàu sang oai hùng vương triều",
+            "Đòi chém đầu vợ Haman Zeresh và con cái ông",
+            "Không khóc lóc đứng kiêu hãnh đòi chia nửa nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phương tiện chuyển sắc lệnh mới của Mordecai đi khắp 127 tỉnh câu 10 chép?",
+          "options": [
+            "Gửi các sứ giả sứ giả cưỡi ngựa nhanh, lạc đà thồ, lừa chạy nhanh hoàng gia",
+            "Gửi qua con chó trung thành chạy theo bảo vệ",
+            "Đi bộ vượt sa mạc hoang dã cùi cách ly phòng",
+            "Không gửi sắc lệnh loan tin bằng kèn thổi lớn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả y phục triều chính Mordecai mặc khi bước ra khỏi cung điện câu 15?",
+          "options": [
+            "Mặc hoàng bào bào xanh trắng, triều thiên vàng lớn, áo choàng vải gai mịn màu tím",
+            "Mặc áo sô thô tang chế rắc tro đầu than khóc",
+            "Mặc giáp sắt kỵ binh chiến xa Ba-tư oai hùng",
+            "Không mặc y phục sang trọng mặc áo thường dân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ hân hoan vui mừng của Do Thái khắp các tỉnh khi nhận sắc lệnh mới câu 16-17?",
+          "options": [
+            "Niềm vui rực rỡ rực rỡ, ánh sáng hạnh phúc, mở tiệc ăn mừng hân hoan lớn",
+            "Lo sợ bị quân thù vây đánh úp trả thù ác độc",
+            "Nổi giận đập phá đền đồi cao bò vàng Bê-then",
+            "Không quan tâm lặng lẽ cất giấu của cải trốn chạy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi gia nhập Do Thái của nhiều người ngoại bang chép câu 17 vì lý do gì?",
+          "options": [
+            "Vì lòng sợ sợ hãi người Do Thái bao trùm muôn dân ngoại bang lân cận",
+            "Vì họ yêu mến sắc đẹp hoàng hậu Esther Do",
+            "Vì họ muốn cướp vàng bạc Do Thái tích lũy",
+            "Do vua Ba-tư bắt buộc mọi dân tộc cải đạo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tháng sắc lệnh tự vệ mới của Mordecai được ký ban hành chép câu 9 là?",
+          "options": [
+            "Tháng thứ ba ba (tháng Sivan ngày 23 ban hành sắc lệnh)",
+            "Tháng giêng dịp đại lễ Vượt Qua thánh hiến",
+            "Tháng bảy mừng lễ Lều Tạm dâng tế đàn đồng",
+            "Tháng chạp chạp mừng lễ bánh không men long trọng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc ban hành sắc lệnh tự vệ mới chương 8 chứng minh điều gì?",
+          "options": [
+            "Sự xoay chuyển chuyển tình thế kỳ diệu của Chúa; niềm vui hạnh phúc thay tang chế sầu muộn của dân Chúa",
+            "Sức mạnh pháp lý tuyệt đối của triều đình Ba",
+            "Sự nhút nhát hèn hạ của dân ngoại bang sợ Do",
+            "Sự lỗi thời của giao ước đền tạm hoang dã Mô"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Ngày 13 tháng Adar, Do Thái tập hợp chiến đấu tiêu diệt bao nhiêu kẻ thù tại Susa câu 6?",
+          "options": [
+            "Năm trăm (500) người người tại kinh đô Susa bị tiêu diệt",
+            "Mười người chẵn chi tộc Bên-gia-min hoàng gia",
+            "Năm vạn người bộ binh quân thù Assyria",
+            "Không có ai bị giết chỉ có tiệc rượu liên hoan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng 10 con trai Haman chịu chung số phận thế nào chép câu 10, 14?",
+          "options": [
+            "Bị giết chết chết và bêu xác trên giá treo cổ theo lệnh vua ban",
+            "Được tha mạng sống đày sang xứ Mê-đi lánh",
+            "Nộp một vạn si-clơ vàng xin làm nô dịch cung",
+            "Không bị giết làm quan tể tướng thay cha Haman"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi Do Thái tuân giữ cự cự tuyệt đối với tài sản của kẻ thù bị giết câu 10, 15, 16 là?",
+          "options": [
+            "Quyết cấm cướp cướp của cải chiến lợi phẩm (chỉ chiến đấu tự vệ sinh mạng)",
+            "Cướp sạch vàng bạc mang về bọc lại tường đền",
+            "Dâng hiến toàn bộ tài sản cho vua Ba-tư oai",
+            "Không quan tâm của cải đốt cháy sạch trại lính"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại lễ hân hoan Do Thái thiết lập kỷ niệm giải thoát thảm họa diệt chủng là?",
+          "options": [
+            "Lễ Phổ-rịm (Festival of Purim ăn mừng gửi quà, giúp người nghèo hằng năm)",
+            "Đại lễ Vượt Qua long trọng dâng tế chiên con",
+            "Lễ Lều Tạm mừng mùa gặt lúa mạch ruộng cừu",
+            "Lễ khánh thành đền thờ bò vàng Bê-then Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số ngày Do Thái tổ chức ăn mừng lễ Purim hằng năm chép câu 21-22 là?",
+          "options": [
+            "Hai (2) ngày ngày (ngày 14 và 15 tháng Adar hằng năm hân hoan)",
+            "Bảy ngày chẵn ăn bánh không men đại lễ thánh",
+            "Ba ngày chẵn",
+            "Mười ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tổng số lượng kẻ thù Do Thái tiêu diệt tự vệ trong toàn đế quốc Ba-tư câu 16?",
+          "options": [
+            "Bảy mươi lăm ngàn (75.000) kẻ thù kẻ thù bị tiêu diệt trong các tỉnh",
+            "Mười ngàn người chẵn chi tộc Bên-gia-min",
+            "Năm vạn người",
+            "Một trăm ngàn người bộ binh Ba-tư thù địch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi nhân đạo bắt buộc trong ngày lễ Purim gửi đi Do Thái câu 22 chép?",
+          "options": [
+            "Gửi quà cáp quà cáp cho nhau, chia sẻ bố thí cho người nghèo túng túng",
+            "Bắt phạt người ngoại bang đóng thuế thập phân vàng",
+            "Trục xuất người nghèo ra ngoài cổng thành thánh",
+            "Không chia sẻ của cải giữ làm của riêng gia tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thư tín sắc lệnh thiết lập lễ Purim do ai viết gửi đi khắp các tỉnh câu 20, 29?",
+          "options": [
+            "Mọt-đơ-khai và hoàng hậu Ét-te Ét-te viết thư sắc lệnh chính thức",
+            "Vua Ba-tư Ahasuerus tự tay viết gửi các sứ giả",
+            "Thượng tế Joakim lo việc đạo đền thờ Giê-ru",
+            "Không viết thư chỉ loan truyền miệng giữ lễ cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa tên gọi lễ 'Purim' giải thích chép câu 24-26 là gì?",
+          "options": [
+            "Lấy từ chữ Phổ (Pur / xăm xăm) Haman đã gieo để chọn ngày diệt Do Thái",
+            "Ý nghĩa niềm vui niềm vui chiến thắng kỵ binh Ba",
+            "Tên con sông nơi Esther kiêng ăn cầu nguyện cứu",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự chiến thắng và thiết lập lễ Purim chương 9 chứng minh điều gì?",
+          "options": [
+            "Sự đảo ngược ngược tình thế kỳ diệu của Chúa; niềm vui hạnh phúc và bổn phận nhớ ơn cứu giải",
+            "Do Do Thái có hệ thống lễ hội kéo dài nhất thế",
+            "Sự nhút nhát hèn hạ của quân thù tháo chạy thục",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Chính sách kinh tế thuế khóa vua Ahasuerus ban hành trên toàn quốc câu 1 là?",
+          "options": [
+            "Đánh thuế thuế trên toàn đế quốc từ đất liền đến hải đảo xa xôi",
+            "Miễn thuế vĩnh viễn cho tất cả các tỉnh thành",
+            "Bắt Do Thái nộp một vạn si-clơ vàng phạt tội",
+            "Không đánh thuế chỉ thu gom ngựa chiến kỵ binh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mọt-đơ-khai được thăng tiến làm chức vụ gì tối cao trong triều đình Ba-tư câu 3?",
+          "options": [
+            "Tể tướng thứ hai thứ hai sau vua Ahasuerus, lãnh đạo Do Thái kính trọng",
+            "Quan trấn thủ Giu-đa hồi hương xây lại thành",
+            "Tướng chỉ huy kỵ binh chiến xa vệ binh hoàng",
+            "Thầy tế lễ thượng tế đền thờ Giê-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả uy tín và tấm lòng Mordecai làm cho dân tộc Do Thái chép câu 3?",
+          "options": [
+            "Tìm kiếm hạnh phúc hạnh phúc cho dân, đem lại bình an cho toàn thể dòng dõi mình",
+            "Tích lũy vàng bạc bọc lại đền thờ Chúa thánh",
+            "Tuyển chọn kỵ binh chiến xa sắt oai hùng bảo",
+            "Không quan tâm dân tự lo liệu cuộc sống riêng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi ghi chép các kỳ tích uy quyền của vua Ahasuerus và sự thăng tiến Mordecai câu 2?",
+          "options": [
+            "Sách Sử ký sử ký biên niên của các vua Mê-đi và Ba-tư",
+            "Sách Luật Pháp Mô-sê nhận ở núi Sinai cũ",
+            "Sách sấm ngôn của tiên tri Giê-rê-mi-a khóc",
+            "Không ghi chép chỉ truyền miệng trong dân gian"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đế quốc Ba-tư kéo dài từ đất liền đến địa điểm nào chép câu 1?",
+          "options": [
+            "Đến các hải hải đảo trùng khơi trùng khơi",
+            "Đến biên giới Ai Cập dọc sông Nile cổ đại",
+            "Đến hoang mạc hoang dã cùi cách ly phòng",
+            "Không có biên giới bao trùm toàn thế giới xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đánh giá uy tín Mordecai đối với cộng đồng Do Thái câu 3 chép?",
+          "options": [
+            "Được đông đảo anh em kính trọng kính trọng, được lòng toàn thể đồng bào Do Thái",
+            "Bị dân ghét bỏ vì thu thuế quá nặng nề Ba",
+            "Bị phong cùi trắng cách ly phòng biệt lập",
+            "Không có uy tín chỉ làm bù nhìn triều đình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua vĩ đại Ba-tư ban quyền lực tối cao cho Mordecai chép suốt sách là?",
+          "options": [
+            "Vua A-hát-suê-rô (Ahasuerus)",
+            "Vua Cyrus giải phóng phóng thích Do Thái xưa",
+            "Vua Darius ban sắc lệnh tìm thấy chiếu chỉ",
+            "Vua Xen-na-khê-ríp vua Assyria kiêu ngạo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chức tước chính thức Mordecai đảm nhận đứng sau vua Ba-tư câu 3 là?",
+          "options": [
+            "Nhân vật thứ hai thứ hai (second in rank) sau vua Ahasuerus",
+            "Hoàng tử kế vị hoàng gia vương triều Ba-tư",
+            "Tướng quân chỉ huy quân đội ngự lâm quân",
+            "Không có chức tước chỉ là thường dân làm quan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngôn ngữ Mordecai nói mang lại điều gì cho dòng dõi ông câu 3 chép?",
+          "options": [
+            "Nói lời hòa bình hòa bình bình an bình an cho toàn thể dòng dõi mình",
+            "Dạy tiếng Do Thái để đe dọa các vương triều",
+            "Chỉ nói tiếng Ba-tư cổ đại hoàng gia oai",
+            "Không phát biểu gì lặng lẽ trị vì tể tướng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa đoạn kết sách Ét-te chương 10 đúc kết bài học gì?",
+          "options": [
+            "Sự phục phục hưng và vinh quang của dân Chúa qua sự lãnh đạo công chính của Mordecai; Chúa bảo vệ dân Ngài",
+            "Quyền lực chính trị Ba-tư mạnh hơn đền thờ",
+            "Sự nhút nhát hèn hạ của vua Ba-tư đầu hàng",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

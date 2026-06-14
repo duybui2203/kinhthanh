@@ -1,0 +1,636 @@
+{
+  "bookId": 32,
+  "bookName": "Ba-rúc",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Ai là tác giả ghi chép cuộn sách Ba-rúc được đọc ở Ba-by-lon câu 1?",
+          "options": [
+            "Ba-rúc, con của Nê-ri-gia, cháu của Ma-a-xê-gia",
+            "Giê-rê-mi-a tiên tri thời vua Ê-dê-ki-a",
+            "Xô-rô-ba-ben quan tổng đốc Giu-đa hồi hương",
+            "Không ghi rõ danh tính tác giả chỉ chép thư gửi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của vua Giơ-khon-gia và dân chúng khi nghe đọc sách câu 5?",
+          "options": [
+            "Họ khóc lóc, ăn chay và khẩn cầu trước mặt Đức Chúa",
+            "Họ nổi giận dùng dao rạch sách quăng vào lò sưởi",
+            "Họ vui vẻ ca hát nhảy múa dâng rượu thơm mừng",
+            "Không phản ứng gì họ giải tán đi ngủ sớm dưỡng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân lưu đày gom góp tiền bạc gửi về Giê-ru-sa-lem làm gì câu 10?",
+          "options": [
+            "Để mua của lễ toàn thiêu, của lễ đền tội và dâng hương tế đàn",
+            "Để đúc tượng bò vàng thờ cúng đặt đền thờ tà",
+            "Để mua xe chiến kỵ binh Ba-tư chuẩn bị khởi nghĩa",
+            "Để trả nợ thuế thập phân cho vương triều Syria"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời thú tội nổi tiếng của dân ở chương 1 câu 15 chép?",
+          "options": [
+            "Sự công chính thuộc về Chúa là Thiên Chúa chúng ta, còn sự nhục nhã ê chề thuộc về chúng ta",
+            "Chúng tôi đã chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Chúng tôi bị phong cùi trắng trán cách ly sa mạc hoang",
+            "Không thú tội gì dân tự hào mình vô tội trước Chúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân chúng thú nhận đã cấm vâng nghe tiếng Chúa từ thời nào câu 19-20?",
+          "options": [
+            "Từ ngày Chúa đưa tổ tiên ra khỏi đất Ai Cập cho đến ngày nay",
+            "Từ thời vua Sa-lô-môn xây dựng xong ngôi đền thánh Do",
+            "Từ ngày kỵ binh Ba-tư sang cướp phá đền thờ Do Thái",
+            "Không thừa nhận mốc thời gian nào chỉ nói chung chung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tác phẩm Ba-rúc được viết bằng ngôn ngữ nào đầu tiên theo lịch sử?",
+          "options": [
+            "Tiếng Híp-ri (hoặc tiếng A-ram) sau đó dịch sang tiếng Hy Lạp",
+            "Tiếng Ba-tư cổ bọc vàng ròng trên da dê hoang",
+            "Tiếng Ai Cập cổ dọc sông Nile xanh ngát mát",
+            "Không rõ ngôn ngữ chỉ biết chép tay bản dịch La"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Họ gửi sách này về Giê-ru-sa-lem để đọc vào dịp nào câu 14?",
+          "options": [
+            "Để đọc tại nhà Đức Chúa vào ngày lễ hội và các ngày tập họp",
+            "Để đọc trước quảng trường khi giặc ngoại xâm tấn công",
+            "Để đọc khi tổ chức đám tang cho các vua chúa Do",
+            "Không có mục đích đọc chỉ gửi để lưu trữ đền thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đức Chúa đã báo trước tai họa nào qua Mô-sê câu 20?",
+          "options": [
+            "Đức Chúa đã giáng tai họa và lời nguyền rủa Ngài đã truyền qua Mô-sê tớ Chúa",
+            "Chúa ban cho dân nhiều khiên vàng lấp lánh oai hùng",
+            "Chúa phạt cùi trắng trán kẻ thù nghịch dòng dõi sa",
+            "Không báo trước tai họa nào hứa ban phúc lành vĩnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mỗi người trong dân đã chạy theo điều gì câu 22?",
+          "options": [
+            "Chạy theo lòng tà ác của mình, đi thờ các thần ngoại và làm điều ác",
+            "Chạy theo kỵ binh xe chiến Ba-tư học cách bắn cung",
+            "Chạy theo mười ta-lăng bạc ký gửi nhà bạn hữu phương",
+            "Không chạy theo gì sống an phận thủ thường hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thông điệp chính của chương 1 sách Ba-rúc răn dạy điều gì?",
+          "options": [
+            "Sự sám hối sâu sắc của dân lưu đày, nhìn nhận sự công thẳng của Chúa và cầu nguyện xin tha thứ tội khiên",
+            "Do Thái có số lượng sách cuộn nhiều nhất thế giới",
+            "Sự nhút nhát của dân lưu đày trước đức vua Ba-by",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Đức Chúa thực thi lời phán quyết thế nào đối với dân câu 1-2?",
+          "options": [
+            "Chúa giáng tai họa lớn chưa từng thấy dưới bầu trời trên Giê-ru-sa-lem",
+            "Chúa ban cho dân nhiều khiên vàng lấp lánh bảo vệ thành",
+            "Chúa phạt cùi trắng trán kẻ thù nghịch dòng dõi sa",
+            "Không có tai họa nào xảy ra dân sống thái bình an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thảm cảnh ghê rợn do đói kém cấm thức ăn được chép câu 3?",
+          "options": [
+            "Người ta ăn thịt con trai con gái mình trong cơn túng quẫn",
+            "Họ được chim cút nuôi dưỡng hoang mạc mát lạnh",
+            "Họ ăn bánh ngọt hương mật ong rơi từ trời cao xuống",
+            "Không có thảm cảnh chỉ ghi thiếu thốn chút ít nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đức Chúa cảnh giác dân về số phận chư hầu câu 4 chép?",
+          "options": [
+            "Chúa nộp dân làm tôi tớ chư hầu cho các vương quốc chung quanh",
+            "Chúa lập dân làm bá chủ muôn dân thống trị cõi đất",
+            "Chúa phạt chư hầu bị phong cùi trắng trán cách ly",
+            "Không chép về chư hầu chỉ kể chuyện buôn bán xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao dân bị hạ xuống thấp cấm được ngẩng lên câu 5?",
+          "options": [
+            "Vì chúng ta đã phạm tội phản nghịch, cấm chịu nghe tiếng Chúa",
+            "Vì chúng ta cấm có mười ta-lăng bạc ký gửi đền thờ Do",
+            "Vì kỵ binh Ba-tư đã càn quét cướp hết khiên vàng đền",
+            "Không có lý do tự nhiên dân bị suy sụp yếu thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời van lạy cầu khẩn của dân xin Chúa dủ lòng thương câu 14?",
+          "options": [
+            "Lạy Đức Chúa xin nghe lời cầu nguyện, xin cứu chúng con vì danh Ngài",
+            "Xin ban cho chúng con xe chiến kỵ binh phục hận Ai",
+            "Xin đập tan tượng bò vàng đặt đền thờ tà thần ngoại",
+            "Không cầu khẩn chỉ im lặng chịu đựng cơn giận Chúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai sẽ ca tụng Đức Chúa theo câu 17 chép?",
+          "options": [
+            "Không phải người chết dưới âm phủ, mà là người sống kiệt sức đói khát",
+            "Chỉ có các thiên thần Xê-ra-phin tung hô đền thánh",
+            "Bọn quân lính Ai Cập đóng dọc sông Nile thù địch Do",
+            "Người ngoại giáo thờ ngẫu tượng gỗ dát vàng bạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân tự nhận mình cầu khẩn cấm dựa vào điều gì câu 18?",
+          "options": [
+            "Chúng con cấm dựa vào công nghiệp tổ tiên mà dâng lời cầu khẩn",
+            "Chúng con cậy có mười ta-lăng bạc dâng cúng đền thánh",
+            "Chúng con cậy có xe chiến kỵ binh oai hùng oai phong",
+            "Không tự nhận gì tin có công đức cá nhân thừa thãi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa của Chúa về số sót lại sẽ sinh sôi câu 34-35?",
+          "options": [
+            "Ta sẽ đưa họ về đất Ta đã thề hứa, họ sẽ sinh sôi cấm bị giảm sút",
+            "Ta sẽ ban cho họ nhiều khiên vàng lấp lánh vinh hiển",
+            "Ta sẽ đày họ sang sa mạc hoang dã cùi cách ly phòng",
+            "Không hứa hẹn gì bắt họ chịu lưu đày vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giao ước vĩnh cửu Chúa sẽ thiết lập với dân câu 35?",
+          "options": [
+            "Ta sẽ lập với họ một giao ước vĩnh cửu: Ta làm Chúa họ, họ làm dân Ta",
+            "Giao ước sẽ đem nộp mười ta-lăng bạc cho đền thờ Do",
+            "Giao ước kỵ binh xe chiến Ba-tư bảo vệ vương triều",
+            "Không thiết lập giao ước nào xóa bỏ hoàn toàn giao"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học chương 2 sách Ba-rúc dạy chúng ta bài học gì?",
+          "options": [
+            "Thừa nhận hình phạt công thẳng của Chúa; kêu van thiết tha xin ơn tha thứ và hy vọng vào lời hứa khôi phục giao ước mới",
+            "Do Thái có số lượng bò vàng nhiều nhất thế giới",
+            "Sự kiêu ngạo của dân lưu đày trước vua Ba-by-lon",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Ba-rúc chương 3 thảo luận là gì?",
+          "options": [
+            "Nguồn gốc Khôn Ngoan và Chúa ban cho Gia-cóp",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu sấm ngôn hoặc lời răn đe tiêu biểu chép trong Ba-rúc chương 3 là?",
+          "options": [
+            "\"Đấng tìm ra mọi con đường khôn ngoan và ban cho Gia-cóp đầy tớ Ngài.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba-rúc chương 3 khuyên dạy đạo đức hay củng cố đức tin dựa trên hình ảnh 'Lạy Chúa toàn năng hồn hồn đau đớn đớn khốn cùng kêu cầu Ngài?'",
+          "options": [
+            "Bài học đức tin sâu sắc: Lạy Chúa toàn năng hồn hồn đau đớn đớn khốn cùng kêu cầu Ngài nhằm soi dẫn lòng dân trông cậy Chúa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn bảo liên quan đến 'Hãy nghe nghe bài học học sự sống sống học khôn ngoan để biết' trong Ba-rúc chương 3 chép là gì?",
+          "options": [
+            "Bài học đạo đức: Hãy nghe nghe bài học học sự sống sống học khôn ngoan để biết giúp đứng vững trước thử thách lưu đày nhục nhã",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng hoặc hiện tượng 'Ai đã đã tìm thấy nơi nơi ngự trị của Đức Khôn Ngoan store' trong Ba-rúc chương 3 cảnh báo điều gì?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Ai đã đã tìm thấy nơi nơi ngự trị của Đức Khôn Ngoan store khỏi những cám dỗ ngẫu tượng",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Ba-rúc chương 3, cụm từ 'Kẻ cậy vào vàng bạc bạc chết đi cõi âm phủ cấm ai nhớ' nói lên vẻ đẹp hay giá trị tinh thần nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị tinh thần: Kẻ cậy vào vàng bạc bạc chết đi cõi âm phủ cấm ai nhớ đem lại phúc lành từ Thiên Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn dạy bảo liên quan đến 'Chúa xuất xuất hiện hiện trên cõi đất đất sống sống giữa loài người' ở Ba-rúc chương 3 hướng lòng trung thành đến đức tin nào?",
+          "options": [
+            "Lời khuyên: Chúa xuất xuất hiện hiện trên cõi đất đất sống sống giữa loài người hướng trọn vẹn đức tin vào ĐỨC CHÚA độc nhất",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người khuyên răn răn dạy chính trong Ba-rúc chương 3 là ai?",
+          "options": [
+            "Tiên tri Ba-rúc (hoặc bức thư tiên tri Giê-rê-mi-a gửi dân lưu đày)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Ba-rúc chương 3 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự trở về trong vinh quang, ánh sáng công chính và sự bảo vệ vĩnh cửu của Chúa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Ba-rúc chương 3 đúc kết bài học gì?",
+          "options": [
+            "Tôn vinh Đức Khôn Ngoan đích thực đến từ Chúa và đả kích ngẫu tượng giả trá qua: Lạy Chúa toàn năng hồn hồn đau đớn đớn khốn cùng kêu cầu Ngài",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Ba-rúc chương 4 thảo luận là gì?",
+          "options": [
+            "Hãy can đảm lên hỡi con cái thành Giê-ru",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu sấm ngôn hoặc lời răn đe tiêu biểu chép trong Ba-rúc chương 4 là?",
+          "options": [
+            "\"Hãy can đảm lên, hỡi các con Ta, hãy kêu cầu cùng Thiên Chúa.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba-rúc chương 4 khuyên dạy đạo đức hay củng cố đức tin dựa trên hình ảnh 'Đức Khôn Ngoan Ngoan là cuốn sách mệnh lệnh lệnh của Chúa ban?'",
+          "options": [
+            "Bài học đức tin sâu sắc: Đức Khôn Ngoan Ngoan là cuốn sách mệnh lệnh lệnh của Chúa ban nhằm soi dẫn lòng dân trông cậy Chúa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn bảo liên quan đến 'Quay lại đi hỡi Gia-cóp Gia-cóp tiến về ánh sáng rạng rỡ' trong Ba-rúc chương 4 chép là gì?",
+          "options": [
+            "Bài học đạo đức: Quay lại đi hỡi Gia-cóp Gia-cóp tiến về ánh sáng rạng rỡ giúp đứng vững trước thử thách lưu đày nhục nhã",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng hoặc hiện tượng 'Ta nhìn thấy các con con bị lưu đày đày bởi vương quốc ngoại' trong Ba-rúc chương 4 cảnh báo điều gì?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Ta nhìn thấy các con con bị lưu đày đày bởi vương quốc ngoại khỏi những cám dỗ ngẫu tượng",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Ba-rúc chương 4, cụm từ 'Hãy can đảm can đảm kêu cầu cầu Chúa Ngài cứu cứu khỏi kẻ thù' nói lên vẻ đẹp hay giá trị tinh thần nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị tinh thần: Hãy can đảm can đảm kêu cầu cầu Chúa Ngài cứu cứu khỏi kẻ thù đem lại phúc lành từ Thiên Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn dạy bảo liên quan đến 'Giê-ru-sa-lem sầu sầu khổ cởi áo tang tang mặc áo vinh quang' ở Ba-rúc chương 4 hướng lòng trung thành đến đức tin nào?",
+          "options": [
+            "Lời khuyên: Giê-ru-sa-lem sầu sầu khổ cởi áo tang tang mặc áo vinh quang hướng trọn vẹn đức tin vào ĐỨC CHÚA độc nhất",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người khuyên răn răn dạy chính trong Ba-rúc chương 4 là ai?",
+          "options": [
+            "Tiên tri Ba-rúc (hoặc bức thư tiên tri Giê-rê-mi-a gửi dân lưu đày)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Ba-rúc chương 4 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự trở về trong vinh quang, ánh sáng công chính và sự bảo vệ vĩnh cửu của Chúa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Ba-rúc chương 4 đúc kết bài học gì?",
+          "options": [
+            "Tôn vinh Đức Khôn Ngoan đích thực đến từ Chúa và đả kích ngẫu tượng giả trá qua: Đức Khôn Ngoan Ngoan là cuốn sách mệnh lệnh lệnh của Chúa ban",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Ba-rúc chương 5 thảo luận là gì?",
+          "options": [
+            "Jerusalem mặc áo vinh quang và con cái về",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu sấm ngôn hoặc lời răn đe tiêu biểu chép trong Ba-rúc chương 5 là?",
+          "options": [
+            "\"Lạy Giê-ru-sa-lem, hãy cởi áo tang chế sầu khổ, mặc áo rực rỡ vinh quang.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba-rúc chương 5 khuyên dạy đạo đức hay củng cố đức tin dựa trên hình ảnh 'Cởi áo áo tang chế chế sầu khổ mặc áo rực rỡ vinh vinh quang?'",
+          "options": [
+            "Bài học đức tin sâu sắc: Cởi áo áo tang chế chế sầu khổ mặc áo rực rỡ vinh vinh quang nhằm soi dẫn lòng dân trông cậy Chúa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn bảo liên quan đến 'Đội triều thiên thiên vinh hiển hiển Đấng Hằng Hữu ban ban cho' trong Ba-rúc chương 5 chép là gì?",
+          "options": [
+            "Bài học đạo đức: Đội triều thiên thiên vinh hiển hiển Đấng Hằng Hữu ban ban cho giúp đứng vững trước thử thách lưu đày nhục nhã",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng hoặc hiện tượng 'Con cái con cái ngươi ngươi quy tụ từ đông tây theo lời phán' trong Ba-rúc chương 5 cảnh báo điều gì?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Con cái con cái ngươi ngươi quy tụ từ đông tây theo lời phán khỏi những cám dỗ ngẫu tượng",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Ba-rúc chương 5, cụm từ 'Chúa san san phẳng phẳng núi cao lấp thung lũng cho dân đi' nói lên vẻ đẹp hay giá trị tinh thần nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị tinh thần: Chúa san san phẳng phẳng núi cao lấp thung lũng cho dân đi đem lại phúc lành từ Thiên Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn dạy bảo liên quan đến 'Rừng xanh xanh tỏa tỏa hương bóng mát nâng niu bước chân đi' ở Ba-rúc chương 5 hướng lòng trung thành đến đức tin nào?",
+          "options": [
+            "Lời khuyên: Rừng xanh xanh tỏa tỏa hương bóng mát nâng niu bước chân đi hướng trọn vẹn đức tin vào ĐỨC CHÚA độc nhất",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người khuyên răn răn dạy chính trong Ba-rúc chương 5 là ai?",
+          "options": [
+            "Tiên tri Ba-rúc (hoặc bức thư tiên tri Giê-rê-mi-a gửi dân lưu đày)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Ba-rúc chương 5 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự trở về trong vinh quang, ánh sáng công chính và sự bảo vệ vĩnh cửu của Chúa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Ba-rúc chương 5 đúc kết bài học gì?",
+          "options": [
+            "Tôn vinh Đức Khôn Ngoan đích thực đến từ Chúa và đả kích ngẫu tượng giả trá qua: Cởi áo áo tang chế chế sầu khổ mặc áo rực rỡ vinh vinh quang",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Ba-rúc chương 6 thảo luận là gì?",
+          "options": [
+            "Thư của Giê-rê-mi-a đả kích ngẫu tượng gỗ",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu sấm ngôn hoặc lời răn đe tiêu biểu chép trong Ba-rúc chương 6 là?",
+          "options": [
+            "\"Thư tiên tri Giê-rê-mi-a gửi dân lưu đày: Đừng sợ các tượng thần gỗ dát vàng.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba-rúc chương 6 khuyên dạy đạo đức hay củng cố đức tin dựa trên hình ảnh 'Thư gửi gửi dân bị đày đày Ba-by-lon cảnh báo ngẫu tượng?'",
+          "options": [
+            "Bài học đức tin sâu sắc: Thư gửi gửi dân bị đày đày Ba-by-lon cảnh báo ngẫu tượng nhằm soi dẫn lòng dân trông cậy Chúa",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn bảo liên quan đến 'Tượng thần bằng gỗ gỗ phủ vàng bạc bạc cấm nói cấm đi đứng' trong Ba-rúc chương 6 chép là gì?",
+          "options": [
+            "Bài học đạo đức: Tượng thần bằng gỗ gỗ phủ vàng bạc bạc cấm nói cấm đi đứng giúp đứng vững trước thử thách lưu đày nhục nhã",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng hoặc hiện tượng 'Dơi quạ quạ chim én én bay đậu đầu tượng cấm biết cấm cảm' trong Ba-rúc chương 6 cảnh báo điều gì?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Dơi quạ quạ chim én én bay đậu đầu tượng cấm biết cấm cảm khỏi những cám dỗ ngẫu tượng",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Ba-rúc chương 6, cụm từ 'Người ta ta thắp đèn đèn cấm sáng rỉ sét cấm tự lau chùi' nói lên vẻ đẹp hay giá trị tinh thần nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị tinh thần: Người ta ta thắp đèn đèn cấm sáng rỉ sét cấm tự lau chùi đem lại phúc lành từ Thiên Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn dạy bảo liên quan đến 'Người công chính cấm thờ tượng tượng thần thần xứng đáng ca tụng' ở Ba-rúc chương 6 hướng lòng trung thành đến đức tin nào?",
+          "options": [
+            "Lời khuyên: Người công chính cấm thờ tượng tượng thần thần xứng đáng ca tụng hướng trọn vẹn đức tin vào ĐỨC CHÚA độc nhất",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người khuyên răn răn dạy chính trong Ba-rúc chương 6 là ai?",
+          "options": [
+            "Tiên tri Ba-rúc (hoặc bức thư tiên tri Giê-rê-mi-a gửi dân lưu đày)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Ba-rúc chương 6 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự trở về trong vinh quang, ánh sáng công chính và sự bảo vệ vĩnh cửu của Chúa",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Ba-rúc chương 6 đúc kết bài học gì?",
+          "options": [
+            "Tôn vinh Đức Khôn Ngoan đích thực đến từ Chúa và đả kích ngẫu tượng giả trá qua: Thư gửi gửi dân bị đày đày Ba-by-lon cảnh báo ngẫu tượng",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

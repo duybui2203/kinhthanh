@@ -1,0 +1,2001 @@
+{
+  "bookId": 27,
+  "bookName": "Khôn ngoan",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Lời khẳng định nổi tiếng về nguồn gốc cái chết trong chương 1 câu 13 là gì?",
+          "options": [
+            "Thiên Chúa cấm làm ra cái chết, cũng cấm vui mừng khi kẻ sống phải tiêu vong",
+            "Cái chết là do kỵ binh Ba-tư càn quét tiêu diệt",
+            "Cái chết là quà tặng ban thưởng cho kẻ tội lỗi",
+            "Không có cái chết con người sống bất tử vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đức Khôn Ngoan cấm ngụ trong lòng hạng người nào câu 4?",
+          "options": [
+            "Không ngụ trong lòng kẻ đầy mưu độc, cấm ở trong thân xác nô lệ cho tội lỗi",
+            "Không ngụ trong cung điện của vua chúa ngoại giáo",
+            "Không ngụ trong hoang mạc cùi cách ly biệt lập hoang",
+            "Không ngụ trong đền thờ Giê-ru-sa-lem Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người khuyên các bậc cai trị cõi đất thái độ nào câu 1?",
+          "options": [
+            "Hãy yêu chuộng công chính, hỡi những bậc cai trị cõi đất",
+            "Hãy đút lót thật nhiều vàng bạc cho hoàng cung",
+            "Hãy sắm sửa chiến xa kỵ binh Ba-tư thật nhiều",
+            "Không khuyên gì để mặc các vua chúa tự do làm ác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thần khí của Thiên Chúa được mô tả thế nào đối với vũ trụ câu 7?",
+          "options": [
+            "Thần khí của Chúa tràn ngập hoàn cầu, ôm ắp muôn vật",
+            "Thần khí Chúa giáng sét thiêu rụi hết cung điện",
+            "Thần khí Chúa trốn tránh cấm cho con người biết",
+            "Không có thần khí nào chỉ có luật tự nhiên trôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tác hại của việc nói lời lầm lỗi rầm rì cấm thoát khỏi đâu câu 10?",
+          "options": [
+            "Tai Chúa hằng nghe mọi sự, tiếng rì rầm cấm thể giấu kín",
+            "Sẽ bị phong cùi trắng trán sa mạc cách ly phòng",
+            "Sẽ bị quân cướp Can-đê cướp sạch hết của cải",
+            "Không hề gì Chúa nhân hậu bỏ qua hết lỗi lầm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ ác tự rước cái chết về mình bằng hành động nào câu 16?",
+          "options": [
+            "Bằng lời nói hành vi, coi cái chết là bạn nên kết giao",
+            "Bằng việc đắp tượng bò vàng thờ cúng đặt Bê-then",
+            "Bằng cách tự sát để trốn tránh đau khổ trần gian",
+            "Không tự rước cái chết đến ngẫu nhiên không lý"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thần khí uốn nắn sửa dạy sẽ tránh xa điều gì câu 5?",
+          "options": [
+            "Tránh xa sự giả dối giả dối, rời bỏ những ý nghĩ ngu xuẩn",
+            "Tránh xa khiên vàng Sa-lô-môn đúc vinh hiển",
+            "Tránh xa kỵ binh xe chiến Ba-tư hộ tống đi",
+            "Không tránh xa ở lại cứu vớt mọi kẻ gian ác dữ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người công chính cậy trông điều gì dẫu gặp chết chóc câu 15?",
+          "options": [
+            "Vì sự công chính công chính là bất tử bất tử",
+            "Cậy có mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Cậy được vua Ba-tư nâng đỡ vương triều thái",
+            "Không cậy gì chết là hết mất tích vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Miệng lưỡi nói lời vu khống hại ai câu 11 chép?",
+          "options": [
+            "Miệng nói lời vu khống vu khống tiêu diệt linh hồn mình",
+            "Tiêu diệt kỵ binh xe chiến Ba-tư oai hùng chiến",
+            "Phạt cùi trắng trán kẻ ác nhân sa mạc hoang dã",
+            "Không hại ai lời nói gió bay cấm để lại hậu quả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học chương 1 sách Khôn ngoan dạy chúng ta điều gì?",
+          "options": [
+            "Sự công chính dẫn đến sự sống bất tử; Thiên Chúa yêu chuộng sự sống và ghét sự giả trá",
+            "Do Thái có số lượng bậc cai trị nhiều nhất thế giới",
+            "Sự nhút nhát của con người lo sợ cái chết ập đến",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Kẻ ác suy luận lệch lạc về đời người ngắn ngủi thế nào câu 1?",
+          "options": [
+            "Đời ta ngắn ngủi sầu não sầu não, chết rồi cấm có đường về cấm ai giải thoát",
+            "Đời ta bọc vàng ròng lộng lẫy như cung điện vua",
+            "Đời ta có kỵ binh xe chiến Ba-tư bảo vệ mạng",
+            "Không suy luận gì sống vui vẻ thọ trăm tuổi an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mưu đồ kẻ ác muốn hãm hại người công chính vì lý do gì câu 12?",
+          "options": [
+            "Vì người công chính chống lại việc làm làm của ta, lên án tội lỗi ta",
+            "Vì người công chính cướp sạch khiên vàng đền thờ Do",
+            "Vì người công chính bị phong cùi trắng trán cách ly",
+            "Không có mưu đồ hãm hại họ sống hòa thuận thương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ ác muốn thử thách người công chính bằng hình phạt nhục nhã nào câu 20?",
+          "options": [
+            "Kết án cho y chết chết nhục nhã nhục nhã xem Chúa có cứu y cấm",
+            "Bắt y đóng thuế thập phân vàng vương triều Syria",
+            "Đày y sang hoang mạc cùi cách ly phòng biệt lập",
+            "Không phạt gì chỉ chế giễu lời nói của y thôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nguyên nhân khiến kẻ ác suy nghĩ sai lạc che mắt chúng câu 21?",
+          "options": [
+            "Chính sự độc độc ác ác ác của chúng đã che mắt làm chúng mù quáng",
+            "Do chúng cấm có mười ta-lăng bạc ký gửi Media",
+            "Do kỵ binh Ba-tư tấn công bất ngờ cướp phá thành",
+            "Không có nguyên nhân tự chúng thích làm ác dữ dội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thiên Chúa dựng nên con người để làm gì câu 23 chép?",
+          "options": [
+            "Thiên Chúa dựng nên con người để được bất bất tử tử, làm hình ảnh Ngài",
+            "Để con người đắp tượng bò vàng thờ cúng ngoại giáo",
+            "Để con người làm nô lệ vương triều Ai Cập cổ xưa",
+            "Không mục đích tự sinh tự diệt cát bụi cuộc đời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cái chết xâm nhập thế gian là do lỗi của ai câu 24?",
+          "options": [
+            "Do lòng ghen ghen tị tị của quỷ quỷ dữ dữ cái chết xâm nhập",
+            "Do kỵ binh Ba-tư tấn công bắn tên lửa thiêu",
+            "Do vua Sa-lô-môn đúc khiên đồng thay khiên vàng",
+            "Không do ai lỗi của tự nhiên tiến hóa sinh diệt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ ác tự coi mình sinh ra ngẫu nhiên cuộc đời thế nào câu 2?",
+          "options": [
+            "Ta sinh ra ngẫu ngẫu nhiên nhiên, rồi biến mất như sương mù sương mù gió cuốn",
+            "Ta sinh ra trong cung điện bọc vàng lấp lánh ngai",
+            "Ta sinh ra dưới bóng xe chiến kỵ binh oai hùng",
+            "Không tự coi sinh ra ngẫu nhiên tin có định mệnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ ác đề nghị hưởng lạc cuộc sống thế nào câu 6-7?",
+          "options": [
+            "Hãy tận hưởng của tốt tốt lành sẵn có, uống rượu ngon thơm phức hoa",
+            "Hãy cướp sạch khiên vàng đền thờ Do Thái tạ tội",
+            "Hãy tự sát đi trốn đau khổ cuộc đời sầu não",
+            "Không đề nghị sống khổ hạnh tu tâm tích đức lâu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ ác lên án người công chính tự xưng là gì câu 13 chép?",
+          "options": [
+            "Tự xưng có tri thức về Chúa, tự gọi mình là con con Chúa Chúa",
+            "Tự xưng có xe chiến kỵ binh Ba-tư bảo vệ mạng",
+            "Tự xưng được phong cùi trắng trán sa mạc cách",
+            "Không tự xưng gì chỉ im lặng chịu đựng đau khổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự mù quáng của kẻ ác trong chương 2 sách Khôn ngoan?",
+          "options": [
+            "Sự phơi bày bày triết lý duy vật hưởng lạc của kẻ ác; âm mưu bức hại người công chính và sự mù quáng trước số phận bất tử",
+            "Do Thái có số lượng rượu ngon nhiều nhất thế giới",
+            "Sự nhút nhát hèn hạ của kẻ ác lo sợ người lành",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 3 thảo luận là gì?",
+          "options": [
+            "Linh hồn người công chính và hy vọng bất tử",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 3 là?",
+          "options": [
+            "\"Linh hồn người công chính ở trong tay Thiên Chúa, cấm hình khổ nào chạm đến họ.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 3 răn dạy đạo đức dựa trên chi tiết lịch sử 'Linh hồn người công chính ở tay tay Chúa Chúa cấm đau đớn nào chạm?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Linh hồn người công chính ở tay tay Chúa Chúa cấm đau đớn nào chạm nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Sự chết của họ bị xem là tai tai họa họa tiêu vong vĩnh viễn' trong Khôn ngoan chương 3 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Sự chết của họ bị xem là tai tai họa họa tiêu vong vĩnh viễn giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Họ chịu chút thử thách thách sẽ nhận phần phúc phúc vô song lớn' trong Khôn ngoan chương 3 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Họ chịu chút thử thách thách sẽ nhận phần phúc phúc vô song lớn khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 3, cụm từ 'Như vàng vàng thử trong lửa lửa Chúa chấp nhận họ tế lễ' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Như vàng vàng thử trong lửa lửa Chúa chấp nhận họ tế lễ đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Người công chính sẽ sáng sáng ngời ngời như tia lửa bén rạ' ở Khôn ngoan chương 3 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Người công chính sẽ sáng sáng ngời ngời như tia lửa bén rạ hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 3 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 3 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 3 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Linh hồn người công chính ở tay tay Chúa Chúa cấm đau đớn nào chạm",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 4 thảo luận là gì?",
+          "options": [
+            "Thà cấm con mà có đức hạnh và cái chết sớm",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 4 là?",
+          "options": [
+            "\"Thà cấm con cái mà có đức hạnh tốt hơn có dòng dõi đông đúc gian tà.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 4 răn dạy đạo đức dựa trên chi tiết lịch sử 'Thà cấm con cái cái mà có đức đức hạnh hạnh tiếng thơm lưu muôn đời?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Thà cấm con cái cái mà có đức đức hạnh hạnh tiếng thơm lưu muôn đời nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Người công chính chết chết sớm sớm sẽ được an nghỉ nghỉ ngơi thái bình' trong Khôn ngoan chương 4 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Người công chính chết chết sớm sớm sẽ được an nghỉ nghỉ ngơi thái bình giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Chúa cất họ đi kẻo kẻo gian tà tà làm hư hỏng tâm hồn trong sạch' trong Khôn ngoan chương 4 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Chúa cất họ đi kẻo kẻo gian tà tà làm hư hỏng tâm hồn trong sạch khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 4, cụm từ 'Dòng dõi kẻ ác ác nhân nhân sẽ tiêu vong vĩnh viễn cấm chồi' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Dòng dõi kẻ ác ác nhân nhân sẽ tiêu vong vĩnh viễn cấm chồi đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Kẻ ác chết đi cấm ai nhớ đến lòng ngay lành xưa của chúng' ở Khôn ngoan chương 4 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Kẻ ác chết đi cấm ai nhớ đến lòng ngay lành xưa của chúng hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 4 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 4 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 4 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Thà cấm con cái cái mà có đức đức hạnh hạnh tiếng thơm lưu muôn đời",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 5 thảo luận là gì?",
+          "options": [
+            "Sự thất kinh của kẻ ác và phần thưởng người lành",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 5 là?",
+          "options": [
+            "\"Người công chính đứng dũng cảm trước mặt những kẻ đã bách hại mình.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 5 răn dạy đạo đức dựa trên chi tiết lịch sử 'Người công chính đứng dũng dũng cảm cảm đối diện kẻ bách hại xưa?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Người công chính đứng dũng dũng cảm cảm đối diện kẻ bách hại xưa nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Kẻ ác thấy y liền kinh hoàng hoàng rụng rời sầu sầu não não' trong Khôn ngoan chương 5 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Kẻ ác thấy y liền kinh hoàng hoàng rụng rời sầu sầu não não giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Đời người ác trôi qua qua nhanh như bóng bóng bay mũi tên bắn' trong Khôn ngoan chương 5 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Đời người ác trôi qua qua nhanh như bóng bóng bay mũi tên bắn khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 5, cụm từ 'Người công chính sống sống muôn đời muôn đời phần thưởng nơi Chúa' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Người công chính sống sống muôn đời muôn đời phần thưởng nơi Chúa đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Chúa sẽ lấy công chính chính làm giáp che ngực oai phong' ở Khôn ngoan chương 5 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Chúa sẽ lấy công chính chính làm giáp che ngực oai phong hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 5 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 5 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 5 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Người công chính đứng dũng dũng cảm cảm đối diện kẻ bách hại xưa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 6 thảo luận là gì?",
+          "options": [
+            "Lời khuyên răn các vua chúa tìm kiếm Khôn Ngoan",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 6 là?",
+          "options": [
+            "\"Hãy lắng nghe, hỡi các vua chúa, học khôn ngoan để cấm sa ngã.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 6 răn dạy đạo đức dựa trên chi tiết lịch sử 'Quyền bính vua chúa chúa do Chúa ban ban Ngài dò xét việc làm?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Quyền bính vua chúa chúa do Chúa ban ban Ngài dò xét việc làm nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Khôn ngoan chiếu sáng sáng cấm hề phai tàn tàn ai tìm thấy' trong Khôn ngoan chương 6 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Khôn ngoan chiếu sáng sáng cấm hề phai tàn tàn ai tìm thấy giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Ai thức dậy sớm sớm tìm tìm Khôn Ngoan sẽ cấm thất vọng đâu' trong Khôn ngoan chương 6 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Ai thức dậy sớm sớm tìm tìm Khôn Ngoan sẽ cấm thất vọng đâu khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 6, cụm từ 'Ước muốn Khôn Ngoan dẫn dẫn đến vương quốc vương quốc vững bền' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Ước muốn Khôn Ngoan dẫn dẫn đến vương quốc vương quốc vững bền đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Lắng nghe lời lời dạy dạy Khôn Ngoan sẽ nhận được phúc lành' ở Khôn ngoan chương 6 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Lắng nghe lời lời dạy dạy Khôn Ngoan sẽ nhận được phúc lành hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 6 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 6 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 6 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Quyền bính vua chúa chúa do Chúa ban ban Ngài dò xét việc làm",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 7 thảo luận là gì?",
+          "options": [
+            "Solomon mô tả thân phận mình và 21 thuộc tính",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 7 là?",
+          "options": [
+            "\"Tôi cầu xin và Thiên Chúa ban cho tôi tinh thần Khôn Ngoan.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 7 răn dạy đạo đức dựa trên chi tiết lịch sử 'Tôi chỉ là người phàm phàm phàm như mọi người cát bụi sinh?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Tôi chỉ là người phàm phàm phàm như mọi người cát bụi sinh nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Cầu khẩn tinh thần thần Khôn Ngoan Ngoan đến ngự trị lòng con' trong Khôn ngoan chương 7 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Cầu khẩn tinh thần thần Khôn Ngoan Ngoan đến ngự trị lòng con giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Bạc vàng thế giới giới chỉ là cát bụi cát bụi so với Khôn Ngoan' trong Khôn ngoan chương 7 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Bạc vàng thế giới giới chỉ là cát bụi cát bụi so với Khôn Ngoan khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 7, cụm từ 'Khôn ngoan có hai hai mươi mươi mốt mốt (21) thuộc tính thánh thiện' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Khôn ngoan có hai hai mươi mươi mốt mốt (21) thuộc tính thánh thiện đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Khôn ngoan là hơi hơi thở thở của quyền năng Thiên Chúa tối cao' ở Khôn ngoan chương 7 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Khôn ngoan là hơi hơi thở thở của quyền năng Thiên Chúa tối cao hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 7 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 7 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 7 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Tôi chỉ là người phàm phàm phàm như mọi người cát bụi sinh",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 8 thảo luận là gì?",
+          "options": [
+            "Solomon yêu chuộng Khôn Ngoan làm bạn đời",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 8 là?",
+          "options": [
+            "\"Tôi yêu mến Khôn Ngoan và tìm kiếm nàng từ thuở thanh xuân làm bạn đời.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 8 răn dạy đạo đức dựa trên chi tiết lịch sử 'Yêu chuộng Khôn Ngoan Ngoan muốn lấy nàng làm bạn bạn đời mình?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Yêu chuộng Khôn Ngoan Ngoan muốn lấy nàng làm bạn bạn đời mình nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Nàng dạy đức chừng chừng mực mực khôn ngoan công chính dũng cảm' trong Khôn ngoan chương 8 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Nàng dạy đức chừng chừng mực mực khôn ngoan công chính dũng cảm giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Nàng là niềm an an ủi ủi lúc gian truân sầu sầu não não' trong Khôn ngoan chương 8 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Nàng là niềm an an ủi ủi lúc gian truân sầu sầu não não khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 8, cụm từ 'Nàng đi vào nhà nhà tôi đem lại bình an yên tĩnh vui' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Nàng đi vào nhà nhà tôi đem lại bình an yên tĩnh vui đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Tôi hiểu rằng cấm cấm thể có Khôn Ngoan nếu Chúa cấm ban' ở Khôn ngoan chương 8 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Tôi hiểu rằng cấm cấm thể có Khôn Ngoan nếu Chúa cấm ban hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 8 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 8 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 8 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Yêu chuộng Khôn Ngoan Ngoan muốn lấy nàng làm bạn bạn đời mình",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 9 thảo luận là gì?",
+          "options": [
+            "Lời cầu xin Khôn Ngoan ngự bên ngai Chúa",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 9 là?",
+          "options": [
+            "\"Xin ban cho con Đức Khôn Ngoan hằng ngự bên ngai tòa của Ngài.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 9 răn dạy đạo đức dựa trên chi tiết lịch sử 'Chúa dùng lời lời phán phán tạo dựng vũ trụ muôn loài vạn?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Chúa dùng lời lời phán phán tạo dựng vũ trụ muôn loài vạn nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Xin ban Khôn Khôn Ngoan Ngoan hằng ngự bên ngai ngai thánh Ngài' trong Khôn ngoan chương 9 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Xin ban Khôn Khôn Ngoan Ngoan hằng ngự bên ngai ngai thánh Ngài giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Sai Khôn Ngoan từ trời trời thánh thánh xuống giúp con lao động' trong Khôn ngoan chương 9 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Sai Khôn Ngoan từ trời trời thánh thánh xuống giúp con lao động khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 9, cụm từ 'Ai biết được ý ý định định Thiên Chúa nếu Ngài cấm ban thần' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Ai biết được ý ý định định Thiên Chúa nếu Ngài cấm ban thần đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Con đường phàm nhân được sửa sửa thẳng thẳng thẳng nhờ Khôn Ngoan dạy' ở Khôn ngoan chương 9 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Con đường phàm nhân được sửa sửa thẳng thẳng thẳng nhờ Khôn Ngoan dạy hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 9 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 9 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 9 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Chúa dùng lời lời phán phán tạo dựng vũ trụ muôn loài vạn",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 10 thảo luận là gì?",
+          "options": [
+            "Đức Khôn Ngoan hướng dẫn các tổ phụ lịch sử",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 10 là?",
+          "options": [
+            "\"Khôn Ngoan đã gìn giữ cha đầu tiên của thế giới khi ông được tạo dựng.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 10 răn dạy đạo đức dựa trên chi tiết lịch sử 'Gìn giữ cha đầu đầu tiên tiên (Adam) cứu ông khỏi tội sa ngã?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Gìn giữ cha đầu đầu tiên tiên (Adam) cứu ông khỏi tội sa ngã nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Hướng dẫn người công chính chính (Noah) trên chiếc tàu gỗ vượt lụt' trong Khôn ngoan chương 10 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Hướng dẫn người công chính chính (Noah) trên chiếc tàu gỗ vượt lụt giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Cứu người lành lành (Lot) khỏi lửa thiêu hủy năm thành tội lỗi' trong Khôn ngoan chương 10 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Cứu người lành lành (Lot) khỏi lửa thiêu hủy năm thành tội lỗi khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 10, cụm từ 'Dẫn dắt Gia-cóp Gia-cóp trốn chạy ban cho thấy vương quốc' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Dẫn dắt Gia-cóp Gia-cóp trốn chạy ban cho thấy vương quốc đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Xuống huyệt mộ mộ cùng Giô-sép Giô-sép ban quyền trượng vương' ở Khôn ngoan chương 10 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Xuống huyệt mộ mộ cùng Giô-sép Giô-sép ban quyền trượng vương hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 10 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 10 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 10 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Gìn giữ cha đầu đầu tiên tiên (Adam) cứu ông khỏi tội sa ngã",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 11 thảo luận là gì?",
+          "options": [
+            "Chúa dẫn dắt trong hoang mạc và lòng thương xót muôn loài",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 11 là?",
+          "options": [
+            "\"Chúa thương xót mọi loài hiện hữu vì Chúa yêu thương sự sống.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 11 răn dạy đạo đức dựa trên chi tiết lịch sử 'Chúa biến nước sông sông thành máu máu phạt Ai Cập giết trẻ?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Chúa biến nước sông sông thành máu máu phạt Ai Cập giết trẻ nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Chúa ban nước nước từ đá đá tảng tảng cứu dân khát hoang mạc' trong Khôn ngoan chương 11 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Chúa ban nước nước từ đá đá tảng tảng cứu dân khát hoang mạc giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Chúa dùng vật phạt phạt kẻ ác ác cứu người người công chính' trong Khôn ngoan chương 11 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Chúa dùng vật phạt phạt kẻ ác ác cứu người người công chính khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 11, cụm từ 'Chúa nhắm mắt mắt bỏ qua lỗi lầm lỗi lầm để con người sám' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Chúa nhắm mắt mắt bỏ qua lỗi lầm lỗi lầm để con người sám đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Chúa yêu thương thương mọi loài hiện hữu hiện hữu cấm ghét bỏ gì' ở Khôn ngoan chương 11 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Chúa yêu thương thương mọi loài hiện hữu hiện hữu cấm ghét bỏ gì hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 11 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 11 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 11 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Chúa biến nước sông sông thành máu máu phạt Ai Cập giết trẻ",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 12 thảo luận là gì?",
+          "options": [
+            "Sự kiên nhẫn trừng phạt của Chúa và công lý nguồn",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 12 là?",
+          "options": [
+            "\"Quyền năng tối cao của Chúa là nguồn gốc của sự công chính.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 12 răn dạy đạo đức dựa trên chi tiết lịch sử 'Chúa phạt dân Ca-na-an Ca-na-an từ từ từ để họ sám hối tội?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Chúa phạt dân Ca-na-an Ca-na-an từ từ từ để họ sám hối tội nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Chúa làm chủ chủ quyền năng năng phán xét đầy lòng khoan dung' trong Khôn ngoan chương 12 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Chúa làm chủ chủ quyền năng năng phán xét đầy lòng khoan dung giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Sức mạnh Chúa Chúa là nguồn nguồn công chính công chính xét xử' trong Khôn ngoan chương 12 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Sức mạnh Chúa Chúa là nguồn nguồn công chính công chính xét xử khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 12, cụm từ 'Chúa sửa dạy dạy chúng con con để chúng con tin cậy Ngài' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Chúa sửa dạy dạy chúng con con để chúng con tin cậy Ngài đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Phạt kẻ gian ác ác bằng chính những vật vật chúng thờ lạy' ở Khôn ngoan chương 12 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Phạt kẻ gian ác ác bằng chính những vật vật chúng thờ lạy hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 12 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 12 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 12 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Chúa phạt dân Ca-na-an Ca-na-an từ từ từ để họ sám hối tội",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 13 thảo luận là gì?",
+          "options": [
+            "Sự ngu muội thờ thần thiên nhiên và ngẫu tượng gỗ",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 13 là?",
+          "options": [
+            "\"Khốn thay kẻ gọi những vật do tay người làm ra là thần.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 13 răn dạy đạo đức dựa trên chi tiết lịch sử 'Thờ lửa lửa gió gió sao sao coi là thần cai quản thế giới?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Thờ lửa lửa gió gió sao sao coi là thần cai quản thế giới nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Thờ ngẫu tượng tượng bằng gỗ gỗ mục nát do tay thợ đục đẽo' trong Khôn ngoan chương 13 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Thờ ngẫu tượng tượng bằng gỗ gỗ mục nát do tay thợ đục đẽo giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Kẻ cầu khấn khấn vật cấm cấm thở thở cấm biết cấm nghe hại' trong Khôn ngoan chương 13 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Kẻ cầu khấn khấn vật cấm cấm thở thở cấm biết cấm nghe hại khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 13, cụm từ 'Lấy khúc gỗ cong cong queo queo chạm trổ thờ lạy cầu bình' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Lấy khúc gỗ cong cong queo queo chạm trổ thờ lạy cầu bình đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Ngu muội muội cấm nhận biết Đấng Tạo Hóa từ kỳ công xem' ở Khôn ngoan chương 13 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Ngu muội muội cấm nhận biết Đấng Tạo Hóa từ kỳ công xem hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 13 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 13 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 13 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Thờ lửa lửa gió gió sao sao coi là thần cai quản thế giới",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 14 thảo luận là gì?",
+          "options": [
+            "Nguồn gốc ngẫu tượng và sự suy đồi đạo đức",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 14 là?",
+          "options": [
+            "\"Việc thờ cúng ngẫu tượng là khởi đầu và kết thúc của mọi sự dữ.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 14 răn dạy đạo đức dựa trên chi tiết lịch sử 'Lấy gỗ làm chiếc chiếc thuyền thuyền vượt biển tin cậy khôn ngoan?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Lấy gỗ làm chiếc chiếc thuyền thuyền vượt biển tin cậy khôn ngoan nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Ngẫu tượng tượng làm ra ra do lòng kiêu ngạo con người phàm' trong Khôn ngoan chương 14 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Ngẫu tượng tượng làm ra ra do lòng kiêu ngạo con người phàm giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Thờ cúng ngẫu tượng tượng là khởi đầu khởi đầu mọi gian tà dữ' trong Khôn ngoan chương 14 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Thờ cúng ngẫu tượng tượng là khởi đầu khởi đầu mọi gian tà dữ khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 14, cụm từ 'Đạo đức suy đồi đồi giết người ngoại tình tráo trác dối' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Đạo đức suy đồi đồi giết người ngoại tình tráo trác dối đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Lời thề dối dối trá trá cấm thoát khỏi công lý trừng phạt' ở Khôn ngoan chương 14 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Lời thề dối dối trá trá cấm thoát khỏi công lý trừng phạt hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 14 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 14 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 14 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Lấy gỗ làm chiếc chiếc thuyền thuyền vượt biển tin cậy khôn ngoan",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 15 thảo luận là gì?",
+          "options": [
+            "Đức tin cậy trông true God và thợ gốm ngu muội",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 15 là?",
+          "options": [
+            "\"Nhận biết Ngài là sự công chính trọn vẹn, nguồn sự sống.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 15 răn dạy đạo đức dựa trên chi tiết lịch sử 'Thiên Chúa ta từ từ bi bi chân thật thật chậm giận cai trị?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Thiên Chúa ta từ từ bi bi chân thật thật chậm giận cai trị nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Nhận biết Chúa Chúa là sự công chính công chính trọn vẹn sống' trong Khôn ngoan chương 15 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Nhận biết Chúa Chúa là sự công chính công chính trọn vẹn sống giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Kẻ nhào đất gốm gốm đắp tượng thần giả dối cấm biết linh' trong Khôn ngoan chương 15 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Kẻ nhào đất gốm gốm đắp tượng thần giả dối cấm biết linh khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 15, cụm từ 'Lấy mạng sống sống ngắn ngủi ngủi làm đồ chơi kiếm lời tà' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Lấy mạng sống sống ngắn ngủi ngủi làm đồ chơi kiếm lời tà đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Chúng thờ mọi thần thần ngoại bang bang có mắt cấm thấy tai' ở Khôn ngoan chương 15 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Chúng thờ mọi thần thần ngoại bang bang có mắt cấm thấy tai hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 15 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 15 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 15 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Thiên Chúa ta từ từ bi bi chân thật thật chậm giận cai trị",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 16 thảo luận là gì?",
+          "options": [
+            "Rắn đồng chữa lành và chim cút ban thưởng",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 16 là?",
+          "options": [
+            "\"Ai quay nhìn rắn đồng thì được cứu, cấm phải nhờ vật y nhìn.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 16 răn dạy đạo đức dựa trên chi tiết lịch sử 'Phạt Ai Cập bằng sâu bọ bọ côn trùng trùng cắn chết đói?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Phạt Ai Cập bằng sâu bọ bọ côn trùng trùng cắn chết đói nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Ban cho Ít-ra-en chim chim cút cút ngon ngọt làm lương thực' trong Khôn ngoan chương 16 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Ban cho Ít-ra-en chim chim cút cút ngon ngọt làm lương thực giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Dùng rắn độc độc cắn phạt nhưng ban biểu tượng tượng cứu cứu' trong Khôn ngoan chương 16 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Dùng rắn độc độc cắn phạt nhưng ban biểu tượng tượng cứu cứu khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 16, cụm từ 'Rắn đồng đồng là dấu dấu chỉ cứu độ hướng về Chúa cứu' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Rắn đồng đồng là dấu dấu chỉ cứu độ hướng về Chúa cứu đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Lửa cháy cháy trong nước nước phạt Ai Cập sấm sét thiêu' ở Khôn ngoan chương 16 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Lửa cháy cháy trong nước nước phạt Ai Cập sấm sét thiêu hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 16 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 16 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 16 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Phạt Ai Cập bằng sâu bọ bọ côn trùng trùng cắn chết đói",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 17 thảo luận là gì?",
+          "options": [
+            "Bóng tối bao trùm Ai Cập và lương tâm cắn rứt",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 17 là?",
+          "options": [
+            "\"Kẻ ác bị giam cầm trong bóng tối âm u, run sợ vì bóng quẩn.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 17 răn dạy đạo đức dựa trên chi tiết lịch sử 'Bóng tối tối tăm tăm giam cầm Ai Cập hình phạt dài lâu?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Bóng tối tối tăm tăm giam cầm Ai Cập hình phạt dài lâu nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Lương tâm tâm cắn rứt rứt tự vẽ ra bao nỗi kinh hoàng' trong Khôn ngoan chương 17 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Lương tâm tâm cắn rứt rứt tự vẽ ra bao nỗi kinh hoàng giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Chúng nghe tiếng tiếng rầm rì rầm rì ma quỷ làm sợ hãi hồn' trong Khôn ngoan chương 17 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Chúng nghe tiếng tiếng rầm rì rầm rì ma quỷ làm sợ hãi hồn khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 17, cụm từ 'Lửa tự cháy cháy lên bừng bừng làm chúng kinh hoàng chạy' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Lửa tự cháy cháy lên bừng bừng làm chúng kinh hoàng chạy đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Ánh sáng chiếu chiếu tỏa tỏa bên dân Chúa cấm chịu tối' ở Khôn ngoan chương 17 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Ánh sáng chiếu chiếu tỏa tỏa bên dân Chúa cấm chịu tối hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 17 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 17 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 17 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Bóng tối tối tăm tăm giam cầm Ai Cập hình phạt dài lâu",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 18 thảo luận là gì?",
+          "options": [
+            "Cột lửa soi đường và thiên thần hủy diệt đêm thâu",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 18 là?",
+          "options": [
+            "\"Lời toàn năng của Chúa từ trời cao ngự xuống như chiến sĩ mãnh liệt.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 18 răn dạy đạo đức dựa trên chi tiết lịch sử 'Cột lửa lửa soi đường đường dẫn Ít-ra-en qua hoang mạc tối?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Cột lửa lửa soi đường đường dẫn Ít-ra-en qua hoang mạc tối nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Lời toàn năng năng của Chúa Chúa từ trời cao ngự xuống đêm' trong Khôn ngoan chương 18 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Lời toàn năng năng của Chúa Chúa từ trời cao ngự xuống đêm giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Đêm thánh thánh giết sạch các con đầu lòng lòng của Ai Cập' trong Khôn ngoan chương 18 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Đêm thánh thánh giết sạch các con đầu lòng lòng của Ai Cập khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 18, cụm từ 'Aaron mặc áo áo phẩm phục phục dâng hương giải thoát cơn giận' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Aaron mặc áo áo phẩm phục phục dâng hương giải thoát cơn giận đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Kẻ thù phải công nhận nhận dân Chúa Chúa là con Thiên Chúa' ở Khôn ngoan chương 18 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Kẻ thù phải công nhận nhận dân Chúa Chúa là con Thiên Chúa hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 18 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 18 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 18 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Cột lửa lửa soi đường đường dẫn Ít-ra-en qua hoang mạc tối",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Khôn ngoan chương 19 thảo luận là gì?",
+          "options": [
+            "Vượt Biển Đỏ oai hùng và tạo vật đổi mới phục vụ dân",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khôn ngoan hoặc triết lý tiêu biểu chép trong Khôn ngoan chương 19 là?",
+          "options": [
+            "\"Biển Đỏ biến thành con đường phẳng lặng trơn tru cho dân đi qua.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khôn ngoan chương 19 răn dạy đạo đức dựa trên chi tiết lịch sử 'Biển Đỏ Đỏ biến thành con con đường đường phẳng lặng cỏ xanh tươi?'",
+          "options": [
+            "Răn dạy đạo đức hoặc sự thật đức tin: Biển Đỏ Đỏ biến thành con con đường đường phẳng lặng cỏ xanh tươi nhằm giúp người trẻ trung tín",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Dân đi qua như ngựa ngựa chạy chạy mừng rỡ ca tụng Chúa cứu' trong Khôn ngoan chương 19 chép là gì?",
+          "options": [
+            "Bài học thực tiễn: Dân đi qua như ngựa ngựa chạy chạy mừng rỡ ca tụng Chúa cứu giúp đứng vững trước thử thách cuộc đời",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Tạo vật vật đổi mới mới phục vụ mệnh lệnh Chúa che chở dân' trong Khôn ngoan chương 19 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo hoặc nâng đỡ tinh thần: Tạo vật vật đổi mới mới phục vụ mệnh lệnh Chúa che chở dân khỏi những sai lầm ngu muội",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Khôn ngoan chương 19, cụm từ 'Nước hóa hóa thành đất đất khô khô lửa cấm đốt cháy thịt chiên' nói lên đức tính hay giá trị nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị thiêng liêng: Nước hóa hóa thành đất đất khô khô lửa cấm đốt cháy thịt chiên đem lại ơn cứu độ từ Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ước nguyện hay khuyên răn liên quan đến 'Chúa tôn vinh vinh dân dân Ngài mọi lúc mọi nơi cấm bỏ rơi' ở Khôn ngoan chương 19 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Chúa tôn vinh vinh dân dân Ngài mọi lúc mọi nơi cấm bỏ rơi hướng lòng trung thành kính sợ Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên bảo răn dạy chính trong Khôn ngoan chương 19 hướng đến ai?",
+          "options": [
+            "Các vua chúa quan quyền cai trị địa cầu và thế hệ trẻ Do Thái",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa ban ơn trong Khôn ngoan chương 19 cam kết điều gì cho kẻ trung tín?",
+          "options": [
+            "Sự bảo vệ linh hồn, niềm hy vọng bất tử và phần thưởng vững bền từ ĐỨC CHÚA",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Khôn ngoan chương 19 đúc kết bài học gì?",
+          "options": [
+            "Khẳng định Thiên Chúa dẫn dắt lịch sử và cứu độ kẻ công chính qua: Biển Đỏ Đỏ biến thành con con đường đường phẳng lặng cỏ xanh tươi",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

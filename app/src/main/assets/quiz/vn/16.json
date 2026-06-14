@@ -1,0 +1,1371 @@
+{
+  "bookId": 16,
+  "bookName": "Nê-hê-mi-a",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Nê-hê-mi-a làm chức vụ gì trong cung điện hoàng gia Ba-tư tại kinh đô Su-sa?",
+          "options": [
+            "Quan tửu chính (quan dâng rượu cho đức vua)",
+            "Thư ký triều đình chép sử biên niên",
+            "Tướng chỉ huy kỵ binh chiến xa vệ binh",
+            "Tư tế thượng tế lo dâng lễ tế đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người anh em báo tin cho Nê-hê-mi-a biết tường thành Giê-ru-sa-lem điêu tàn cổng bị cháy là?",
+          "options": [
+            "Kha-na-ni (Hanani)",
+            "Ét-ra nhà thông luật dòng tư tế",
+            "Xô-rô-ba-ben quan trấn thủ Giu-đa",
+            "Thượng tế Ê-li-a-síp đền thờ thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động đầu tiên của Nê-hê-mi-a ngay khi nghe tin thành thánh điêu tàn chép câu 4?",
+          "options": [
+            "Khóc lóc khóc lóc, kiêng ăn kiêng ăn và cầu nguyện sám hối xưng tội nhiều ngày",
+            "Nổi giận đòi kéo kỵ binh về chiến đấu ngay",
+            "Gửi thư ngỏ tố cáo kẻ thù ngoại bang biên",
+            "Mở tiệc rượu lớn cầu xin tà thần cứu mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong lời cầu nguyện, Nê-hê-mi-a xin Chúa nhớ lại lời hứa ban cho đầy tớ Ngài là ai?",
+          "options": [
+            "Mô-sê (Moses lời hứa tập hợp dân Do Thái từ bốn phương)",
+            "Đa-vít triều đại vương quyền vững mạnh",
+            "Áp-ra-ham dòng dõi đông đúc như cát biển",
+            "Sa-lô-môn đền thờ bọc vàng ròng rực rỡ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nội dung lời sám hối của Nê-hê-mi-a chép câu 6 thừa nhận điều gì?",
+          "options": [
+            "Tôi và nhà cha tôi đã phạm tội phạm tội chống lại Ngài",
+            "Chúng tôi cấm có kỵ binh xe chiến chống giặc",
+            "Do Thái cấm có tiền đóng thuế Ba-tư phạt",
+            "Tường thành sụp đổ hoàn toàn do động đất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nê-hê-mi-a xin Chúa ban cho ông ơn huệ gì ở đoạn kết chương 1 chép?",
+          "options": [
+            "Cho đầy tớ Ngài được ơn trước mặt người nầy (vua Artaxerxes)",
+            "Cho tôi của cải vàng bạc bọc lại đền thờ",
+            "Cho tôi máy bắn đá bắn cung chiến đấu giặc",
+            "Cho tôi làm vua trị vì Giê-ru-sa-lem thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kinh đô vương triều Ba-tư nơi Nê-hê-mi-a đang phục vụ hoàng cung chép câu 1 là?",
+          "options": [
+            "Kinh thành Su-sa (Susa vương đô Ba-tư)",
+            "Thủ đô Babylon cổ đại bên sông Euphrates",
+            "Thành Giê-ru-sa-lem thủ đô mới Do Thái",
+            "Thành cảng biển Ty-rơ biên giới ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tháng Nê-hê-mi-a nhận được tin xấu từ người anh em Kha-na-ni câu 1 chép?",
+          "options": [
+            "Tháng Kít-lêu (Kislev năm thứ 20 triều Artaxerxes)",
+            "Tháng Ê-lul xây xong tường thành thánh",
+            "Tháng giêng dịp đại lễ Vượt Qua thánh",
+            "Tháng bảy mừng lễ Lều Tạm dâng tế đàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nê-hê-mi-a mô tả Chúa là Thiên Chúa thế nào trong lời cầu nguyện câu 5?",
+          "options": [
+            "Thiên Chúa vĩ đại và đáng kính sợ đáng kính sợ, giữ giao ước và lòng nhân từ",
+            "Thiên Chúa hay dội sấm sét tiêu diệt thù",
+            "Thiên Chúa chỉ ngự đồi cao hoang dã Mô-sê",
+            "Thiên Chúa yêu thích vàng ròng bọc đền thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Nê-hê-mi-a xưng tội sám hối thay cho dân tộc chương 1 chứng minh?",
+          "options": [
+            "Trách nhiệm liên đới liên đới của cá nhân đối với tội lỗi cộng đồng; sự tin cậy tuyệt đối lời Chúa",
+            "Sự nhút nhát hèn yếu của quan dâng rượu vua",
+            "Tính chất bất khả kháng của tường thành sụp",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Hành động khôn ngoan Nê-hê-mi-a làm thầm lặng trước khi trả lời vua Ba-tư câu 4 là?",
+          "options": [
+            "Cầu nguyện cầu nguyện với Thiên Chúa trên trời (xin Chúa ban ơn ban lời nói)",
+            "Rút gươm tự sát cổng hoàng cung lánh nạn",
+            "Đút lót tiền vàng cho hoàng hậu ngồi cạnh",
+            "Khóc lóc kêu xin hoàng tử cứu mạng sống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Ba-tư cử ai đi cùng hộ tống bảo vệ Nê-hê-mi-a về nước xây thành câu 9?",
+          "options": [
+            "Các quan chỉ huy quân đội và kỵ binh kỵ binh hộ tống",
+            "Các tư tế Lê-vi nhạc sĩ ca hát đi đường",
+            "Hàng vạn lạc đà thồ của cải vàng bạc đi",
+            "Không cử ai đi ông tự đi bộ một mình về"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động khảo sát tường thành bí mật Nê-hê-mi-a làm khi về thành câu 12 là?",
+          "options": [
+            "Ban đêm cưỡi con thú con thú duy nhất đi vòng quanh khảo sát tường đổ nát",
+            "Tập hợp dân chúng nổi loạn chém đầu quan trấn",
+            "Đến đền thờ sụp lạy xin bò vàng giúp đỡ",
+            "Gửi sứ giả đi xin giảng hòa với San-ba-lát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bọn gian ác đầu tiên chế giễu tố cáo Nê-hê-mi-a nổi loạn xây thành là ai câu 19?",
+          "options": [
+            "San-ba-lát (Sanballat), Tô-bi-a (Tobiah) và Ghê-sem (Geshem)",
+            "Thượng tế Ê-li-a-síp và tư tế Lê-vi đền",
+            "Các quan tổng đốc tỉnh bờ tây sông Euphrates",
+            "Dân Do Thái nghèo xơ xác ruộng vườn ngoại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu nói đanh thép Nê-hê-mi-a trả lời bọn gian ác chế giễu câu 20 là gì?",
+          "options": [
+            "Thiên Chúa trên trời sẽ ban ban cho chúng tôi thành công; các ngươi cấm có phần",
+            "Hãy dâng bò vàng tạ tội vương triều Ba-tư",
+            "Chúng tôi có kỵ binh chiến xa sắt mạnh vô địch",
+            "Chúng tôi sẽ nộp một vạn si-clơ vàng xin tha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tháng Nê-hê-mi-a dâng rượu cho vua Ba-tư chép đầu chương 2 là?",
+          "options": [
+            "Tháng Ni-xan (Nisan năm thứ 20 triều Artaxerxes)",
+            "Tháng Ê-lul dọn rác đền thờ cũ hoang",
+            "Tháng bảy dịp đại lễ Lều Tạm thánh hiến",
+            "Tháng chạp chạp mừng lễ Vượt Qua long trọng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do vua Ba-tư đồng ý cho Nê-hê-mi-a về nước xây thành câu 8 chép là?",
+          "options": [
+            "Vì bàn tay nhân lành nhân lành của Thiên Chúa phù hộ tôi đẹp lòng vua",
+            "Vì ông gả công chúa cưới vua Ba-tư oai",
+            "Vì Do Thái nộp một vạn si-clơ vàng ròng",
+            "Do kỵ binh chiến xa sắt hoàng gia nổi loạn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh cổng thành nơi Nê-hê-mi-a bắt đầu đi ra ban đêm câu 13 là?",
+          "options": [
+            "Cổng Trũng (Valley Gate cổng thung lũng)",
+            "Cổng Chiên thượng tế Ê-li-a-síp xây dựng",
+            "Cổng Ngựa hoàng cung Giu-đa cũ gác đền",
+            "Cổng Nước nơi Ét-ra đọc Luật Pháp sau nầy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật hoàng gia Ba-tư ngồi cạnh vua khi Nê-hê-mi-a dâng rượu cầu xin là ai?",
+          "options": [
+            "Hoàng hậu (Queen ngồi cạnh đức vua lúc đó)",
+            "Thái hậu A-tha-li-a độc ác cướp ngôi xưa",
+            "Công chúa nước Ai Cập cổ đại dọc sông Nile",
+            "Thái tử vương triều Ba-tư chuẩn bị kế vị"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Nê-hê-mi-a đi khảo sát bí mật ban đêm chương 2 chứng minh?",
+          "options": [
+            "Sự khôn ngoan khôn ngoan cẩn trọng lập kế hoạch thực tế trước khi phát động dân chúng hành động",
+            "Sự nhút nhát sợ hãi kẻ thù phát hiện ban ngày",
+            "Sự yếu kém về phương tiện quân sự bảo vệ vua",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Thầy tế lễ thượng tế cùng anh em tư tế xây dựng khánh thành Cổng Chiên đầu chương là?",
+          "options": [
+            "Thượng tế Ê-li-a-síp (Eliashib)",
+            "Thượng tế Hin-ki-a tìm thấy sách Luật Pháp",
+            "Tư tế U-ri-a xây bàn thờ ngoại giáo Damas",
+            "Tư tế Giê-hô-gia-đa bảo vệ vua Giô-át xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhóm quý tộc từ chối cự cự tuyệt ghé vai gánh vác công việc của chủ mình câu 5 là?",
+          "options": [
+            "Các quý tộc thành Tê-cô-a (noble Tekoites cự tuyệt việc)",
+            "Toàn bộ chi tộc Bên-gia-min hoàng gia cũ",
+            "Các tư tế Lê-vi bị phong cùi cách ly",
+            "Các ca sĩ nhạc sĩ đền thờ dòng dõi A-sáp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên cổng thành được tu sửa xây cất lại chép câu 3 là cổng nào?",
+          "options": [
+            "Cổng Cá (Fish Gate do con cháu Sen-na-a xây dựng)",
+            "Cổng Nước nơi Ét-ra đọc sách Luật Pháp sau",
+            "Cổng Phân nơi đổ rác rưởi thung lũng Hinnom",
+            "Cổng Giếng nơi gần ao Siloam vương cung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cổng thành nào được xây dựng lại có cánh khóa chốt then chép câu 14 là?",
+          "options": [
+            "Cổng Phân (Dung Gate do Man-ki-gia cai quản)",
+            "Cổng Chiên thượng tế Ê-li-a-síp xây dựng",
+            "Cổng Cũ do Gia-đa và Mê-su-lam tu sửa",
+            "Cổng Ngựa do các tư tế xây dựng trước cửa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đoạn tường thành gần Ao Xi-lô-am vườn vua do ai tu sửa câu 15?",
+          "options": [
+            "Sa-lun (Shallun con trai Côn-hô-xê cai quản)",
+            "Ét-ra nhà thông luật dòng tư tế Aaron",
+            "Nê-hê-mi-a quan dâng rượu vua Ba-tư xưa",
+            "Xô-rô-ba-ben quan trấn thủ Giu-đa hồi hương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trách nhiệm tu sửa đoạn tường thành trước cửa nhà mình câu 28 giao cho ai?",
+          "options": [
+            "Các tư tế (mỗi người sửa đoạn trước nhà riêng mình)",
+            "Toàn bộ chi tộc Bên-gia-min hoàng gia gác",
+            "Các chiến binh dũng sĩ dũng cảm đi ngựa thồ",
+            "Không giao ai bắt ngoại kiều ngoại bang xây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên cổng thành nơi sửa chữa chép câu 26 gần khu vực đền thờ lính canh?",
+          "options": [
+            "Cổng Nước (Water Gate hướng về phía đông đền)",
+            "Cổng Chiên nơi dâng tế chiên cừu đền tạm",
+            "Cổng Míp-cát cổng kiểm điểm lính canh hoàng",
+            "Cổng Trũng cổng thung lũng hướng tây thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ làm việc hết lòng hăng hái của Ba-rút con Xáp-bai câu 20 chép là?",
+          "options": [
+            "Hăng hái hăng hái tu sửa đoạn tường từ góc thành đến cửa Ê-li-a-síp",
+            "Nhút nhát bỏ cuộc cự tuyệt cấm thèm ghé vai",
+            "Nộp một vạn si-clơ vàng xin miễn phu dịch",
+            "Bị quân thù ám sát chết dọc đường đi thồ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghề nghiệp đặc biệt của một số người tham gia xây thành câu 8 chép?",
+          "options": [
+            "Thợ đúc vàng và thợ chế tạo dầu thơm hương liệu",
+            "Tướng chỉ huy kỵ binh chiến xa Ba-tư oai",
+            "Ca sĩ nhạc sĩ ca đoàn Lê-vi gác cổng",
+            "Không có nghề nghiệp chỉ là nô lệ Ba-tư"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chép chi tiết danh sách người xây thành từng đoạn chương 3 chứng minh?",
+          "options": [
+            "Sự chung lòng chung lòng gánh vác; mỗi người góp một phần nhỏ xây dựng bảo vệ cộng đồng",
+            "Do Thái có hệ thống phân công lao động kém",
+            "Sự bất lực của Nê-hê-mi-a cấm tự xây được thành",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Lời giễu cợt độc địa của Tô-bi-a về chất lượng bức tường đá Do Thái xây dựng câu 3?",
+          "options": [
+            "Dẫu chúng xây thành bằng đá, một con cáo cáo leo lên cũng đổ sập bức tường!",
+            "Bức tường bọc vàng ròng sẽ bị sét đánh sập",
+            "Kỵ binh chiến xa sắt sẽ đâm thủng ngay lập",
+            "Hãy dâng bò vàng tạ tội vương triều Ba-tư"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Biện pháp phòng vệ Nê-hê-mi-a tổ chức cho công nhân xây thành câu 16-17 là?",
+          "options": [
+            "Một tay làm việc, một tay cầm vũ khí vũ khí; một nửa làm việc một nửa canh gác",
+            "Bỏ chạy trốn hết vào Đền Thờ đóng chặt cửa",
+            "Xin vua Ba-tư ban mười vạn kỵ binh sang canh",
+            "Đút lót tiền vàng cho San-ba-lát cầu hòa thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người luôn đi sát Nê-hê-mi-a để báo động tập hợp quân chiến đấu khi gặp nguy là ai câu 18?",
+          "options": [
+            "Thợ thổi kèn kèn (thổi kèn sừng cừu báo động tập hợp)",
+            "Thư ký triều đình mang sách Luật Pháp đọc",
+            "Tướng chỉ huy kỵ binh chiến xa vệ binh",
+            "Tư tế thượng tế dâng lễ chuộc tội đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khích lệ đức tin Nê-hê-mi-a nói với các thủ lĩnh chiến sĩ Do Thái câu 14?",
+          "options": [
+            "Hãy nhớ đến Chúa là Đấng vĩ đại đáng kính sợ đáng kính sợ; hãy chiến đấu vì gia đình",
+            "Chúng ta có vũ khí máy bắn đá mạnh vô địch",
+            "Chúa sẽ tự dội sấm sét tiêu diệt quân thù",
+            "Hãy nộp một vạn si-clơ vàng chuộc mạng sống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Liên minh các nhóm dân ngoại âm mưu kéo đến tấn công Giê-ru-sa-lem câu 7 chép?",
+          "options": [
+            "San-ba-lát, Tô-bi-a, dân Ả-rập, dân Am-môn Am-môn và dân Ách-đốt liên minh",
+            "Vương quốc Ai Cập cổ đại dọc sông Nile thù",
+            "Đế quốc Assyria dọc sông Nineveh cống vàng",
+            "Không có liên minh chỉ có vài tên cướp nhỏ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quyết định của Nê-hê-mi-a và toàn dân trước âm mưu tấn công của kẻ thù câu 9?",
+          "options": [
+            "Chúng tôi cầu nguyện cầu nguyện và lập lính canh gác ngày đêm phòng thủ",
+            "Đầu hàng nộp thành xin làm nô dịch phu dịch",
+            "Bỏ trốn sang sa mạc hoang dã cùi cách ly",
+            "Không làm gì tin cậy Chúa tự động dẹp giặc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiếng kêu ca nản lòng của dân Giu-đa về đất đá đổ nát câu 10 chép là gì?",
+          "options": [
+            "Sức lực người khiêng đất đã mòn đã mòn, đất đá đổ nát quá nhiều cấm tự xây thành nổi",
+            "Chúng tôi đói khát cấm có bánh nho ăn đường",
+            "Kẻ thù quá đông kỵ binh xe chiến quá mạnh",
+            "Chúng tôi bị phong cùi trắng tay chân run rẩy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ thị Nê-hê-mi-a ban ra về việc ngủ lại đêm của công nhân câu 22 chép?",
+          "options": [
+            "Mọi người phải ngủ lại đêm lại đêm ở Giê-ru-sa-lem để gác đêm canh phòng",
+            "Hãy trở về nhà mình ở các thành biên ải",
+            "Trốn chạy vào Đền Thờ ngủ cạnh Hòm Bia thánh",
+            "Không ngủ đi tuần tra suốt đêm cấm được nghỉ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mức độ cảnh giác cao độ của Nê-hê-mi-a và thuộc hạ khi đi tắm giặt câu 23?",
+          "options": [
+            "Ai nấy đều cầm sẵn vũ khí sẵn vũ khí trong tay dẫu đi tắm rửa nước",
+            "Cởi bỏ giáp sắt mặc áo gai mịn ngủ ngon",
+            "Giao vũ khí cho lính gác Ba-tư giữ hộ",
+            "Không cầm vũ khí chỉ cầm chậu xô đựng nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc vừa xây thành vừa sẵn sàng chiến đấu chương 4 dạy bài học gì?",
+          "options": [
+            "Sự kết hợp giữa cầu nguyện cầu nguyện và canh phòng hành động thực tế; đức tin đi đôi bảo vệ",
+            "Do Thái quá nhát gan cấm dám đánh giặc giáp",
+            "Sức mạnh của việc xây thành bằng đá đẽo núi",
+            "Sự kết thúc hoàn toàn giao ước đền tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Nỗi oan khiên đau lòng dân nghèo Do Thái oán than oán trách đồng bào mình là gì?",
+          "options": [
+            "Bị cho vay nặng lãi nặng lãi, cầm cố ruộng đất bắt con cái làm nô lệ đóng thuế",
+            "Bị buộc thờ bò vàng Bê-then Đan tháng tám",
+            "Bị cấm cấm cho vào Đền Thờ cầu nguyện Chúa",
+            "Bị trục xuất sang xứ Mô-áp ruộng cừu hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động nổi giận chính trực Nê-hê-mi-a thực hiện khiển trách quý tộc là gì câu 6-7?",
+          "options": [
+            "Nổi giận trách trách mắng các quý tộc: Các ngươi bắt anh em mình nộp lãi sao?",
+            "Chém đầu ngay tên quý tộc đầu sỏ cho vay lãi",
+            "Bỏ trốn về Ba-tư cự tuyệt cấm thèm làm quan",
+            "Nộp một vạn si-clơ vàng xin lỗi nhà giàu Do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nê-hê-mi-a bắt các quý tộc thề trả lại ruộng đất xóa nợ trước sự chứng kiến của ai?",
+          "options": [
+            "Bắt họ thề trước mặt các tư tế tư tế (phủi vạt áo nguyền rủa kẻ cự thề)",
+            "Trước mặt vua Ba-tư Artaxerxes ngự trị",
+            "Trước mặt bò vàng đúc Bê-then Đan tà thần",
+            "Không bắt thề chỉ viết giao ước giấy tờ đơn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tấm gương từ bỏ quyền lợi Nê-hê-mi-a làm gương trong suốt 12 năm làm quan trấn thủ là?",
+          "options": [
+            "Không nhận bổng bộc bổng lộc lương bổng dành cho quan trấn thủ để giảm gánh nặng",
+            "Không ăn súc vật tế lễ đền thờ tư tế Lê-vi",
+            "Không lấy vợ cấm sinh con nối dõi hoàng tộc Do",
+            "Không xây cung điện chỉ ngủ lều tạm hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng người Nê-hê-mi-a nuôi ăn hằng ngày tại bàn ăn của mình chép câu 17 là?",
+          "options": [
+            "Một trăm năm mươi (150) người người Do Thái và các quan trưởng cùng khách ngoại",
+            "Mười tư tế Lê-vi gác cổng đền thờ Chúa",
+            "Năm trăm chiến sĩ dũng cảm Bên-gia-min",
+            "Không nuôi ai ông ăn uống một mình cô độc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động phủi vạt áo Nê-hê-mi-a làm câu 13 mang ý nghĩa nguyền rủa gì?",
+          "options": [
+            "Ai cấm thực hiện thề nguyện nguyện nầy sẽ bị Chúa phủi sạch nhà cửa công lao",
+            "Tường thành sẽ sụp sụp nứt đất nuốt chửng",
+            "Kẻ đó sẽ bị cùi cùi trắng tay chân run rẩy",
+            "Sự kết thúc hoàn toàn vương quyền Đa-vít Giu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khoản thuế nặng dân chúng phải vay tiền nộp cho đức vua Ba-tư chép câu 4 là?",
+          "options": [
+            "Thuế đóng cho đức vua đức vua Ba-tư cống nộp hằng năm",
+            "Thuế thập phân lúa mì dâng tư tế đền thờ",
+            "Tiền đền tội nộp cho tà thần ngoại bang Ba-al",
+            "Không nộp thuế chỉ nộp phu dịch đẽo đá xây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm Nê-hê-mi-a trị vì làm quan trấn thủ xứ Giu-đa chép câu 14 là?",
+          "options": [
+            "Mười hai (12) năm năm (từ năm thứ 20 đến năm thứ 32 triều Artaxerxes)",
+            "Bốn mươi năm trọn",
+            "Năm mươi hai năm",
+            "Ba năm chẵn ngắn ngũi trị vì"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Nê-hê-mi-a cầu khấn Chúa nhớ đến công lao ông làm cho dân câu 19 chép?",
+          "options": [
+            "Lạy Thiên Chúa tôi tôi, xin nhớ đến những gì tôi làm cho dân nầy mà ban ơn",
+            "Xin ban kỵ binh chiến xa sắt tiêu diệt giặc",
+            "Xin biến toàn bộ tường thành này thành vàng ròng",
+            "Không cầu xin gì chỉ lo làm việc công chính"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc giải quyết bất công xã hội chương 5 dạy bài học gì?",
+          "options": [
+            "Sự công chính công chính xã hội và yêu thương anh em là điều kiện để Chúa chúc phúc công việc",
+            "Sức mạnh kinh tế của quý tộc Do Thái giàu có",
+            "Sự hèn nhát của dân nghèo cấm dám đấu tranh",
+            "Sự lỗi thời của giao ước vương quyền Đa-vít"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Địa danh thung lũng kẻ thù dụ dỗ Nê-hê-mi-a ra họp 4 lần để ám sát ông là?",
+          "options": [
+            "Thung lũng Ô-nô (Plain of Ono)",
+            "Thung lũng Rơ-pha-im thung lũng khổng lồ cũ",
+            "Thung lũng Muối biên giới nước Ê-đôm thù",
+            "Thung lũng Ghi-hôn nguồn nước ngọt Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiên tri giả được kẻ thù thuê dụ Nê-hê-mi-a trốn vào Đền Thờ phạm tội thánh sợ hãi là?",
+          "options": [
+            "Sê-ma-gia (Shemaiah con trai Đê-lai-a)",
+            "Mi-khê-a con Dím-la tiên tri bị tống giam xưa",
+            "Kha-na-ni thị nhân triều đại A-sa cũ hoang",
+            "Xa-kha-ri-a tiên tri bị ném đá chết đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời gian hoàn thành tường thành Giê-ru-sa-lem kỷ lục chỉ trong bao nhiêu ngày?",
+          "options": [
+            "Năm mươi hai (52) ngày ngày hoàn thành (ngày 25 tháng Ê-lul)",
+            "Bốn mươi ngày chẵn",
+            "Mười hai ngày chẵn",
+            "Ba năm chẵn khởi công xây dựng xong"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu nói nổi tiếng khẳng định khí phách dũng cảm Nê-hê-mi-a cự tuyệt trốn đền câu 11?",
+          "options": [
+            "Một người như tôi như tôi mà phải trốn chạy sao? Vào đền thờ lánh nạn cứu mạng ư? Không!",
+            "Hãy dâng bò vàng tạ tội vương triều Ba-tư",
+            "Tôi có kỵ binh chiến xa sắt oai hùng bảo vệ",
+            "Nộp một vạn si-clơ vàng xin lỗi kẻ thù ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tháng hoàn thành xây dựng tường thành Giê-ru-sa-lem câu 15 chép là?",
+          "options": [
+            "Tháng Ê-lul (Elul ngày 25 hoàn thành tường thành)",
+            "Tháng Ni-xan dâng rượu cho vua Ba-tư xưa",
+            "Tháng bảy dịp đại lễ Lều Tạm thánh hiến",
+            "Tháng chạp chạp mừng lễ Vượt Qua long trọng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thủ đoạn nham hiểm gửi thư ngỏ ngỏ tố cáo Nê-hê-mi-a định làm vua của San-ba-lát câu 5-6?",
+          "options": [
+            "Gửi thư ngỏ tố cáo: Ngươi định nổi loạn nổi loạn lập mình làm vua nên mới xây thành",
+            "Đốt cháy sạch vách đá đền thờ Chúa bằng đồng",
+            "Bắt tư tế Lê-vi thờ bò vàng Bê-then Đan",
+            "Không gửi thư chỉ cho thuộc hạ ám sát hụt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời Nê-hê-mi-a cầu xin Chúa thêm sức lực khi kẻ thù đe dọa câu 9 chép?",
+          "options": [
+            "Lạy Chúa, xin làm cho tay tôi mạnh tay tôi mạnh mẽ lên!",
+            "Xin ban kỵ binh chiến xa sắt oai hùng chiến",
+            "Xin dội sấm sét tiêu diệt quân thù ngoại bang",
+            "Không cầu xin gì chỉ kiên quyết làm việc tiếp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhóm đối tượng Do Thái thông đồng thư từ mật thiết với Tô-bi-a câu 17-18 là?",
+          "options": [
+            "Các quý tộc quý tộc Giu-đa thông gia liên kết gửi thư cho Tô-bi-a",
+            "Toàn bộ chi tộc Bên-gia-min hoàng gia cũ",
+            "Các tư tế Lê-vi bị phong cùi cách ly hoang",
+            "Các chiến binh dũng sĩ dũng cảm bảo vệ thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của các nước dân ngoại xung quanh khi tường thành hoàn thành câu 16?",
+          "options": [
+            "Họ khiếp sợ khiếp sợ, mất hết nhu khí vì nhận biết công việc hoàn thành nhờ Thiên Chúa",
+            "Họ nổi giận kéo quân tấn công tiêu diệt thành",
+            "Họ gửi một vạn si-clơ vàng chúc mừng đền thờ",
+            "Không quan tâm lặng lẽ bỏ đi cấm thèm nhìn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự hoàn thành tường thành nhanh chóng trong 52 ngày chương 6 chứng minh?",
+          "options": [
+            "Quyền năng và sự giúp giúp đỡ của Chúa đáp lại sự kiên trì dũng cảm của người lãnh đạo trung thành",
+            "Do Thái có thợ đẽo đá giỏi nhất thế giới",
+            "Sự nhút nhát hèn hạ của bọn San-ba-lát sợ hãi",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Nhân vật được Nê-hê-mi-a giao quyền trực tiếp cai quản bảo vệ thành Giê-ru-sa-lem là?",
+          "options": [
+            "Kha-na-ni em trai em trai ông và Kha-na-nia quan đề đốc ngự lâm",
+            "Ét-ra nhà thông luật dòng tư tế Aaron cổ",
+            "Xô-rô-ba-ben quan trấn thủ Giu-đa hồi hương",
+            "Thượng tế Ê-li-a-síp đền thờ thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định mở cửa thành bảo vệ Giê-ru-sa-lem Nê-hê-mi-a ra lệnh câu 3 là gì?",
+          "options": [
+            "Chỉ mở cửa thành khi mặt trời mặt trời đã nóng; đóng then gài cửa lúc lính gác còn đứng",
+            "Mở cửa suốt ngày đêm cho dân ngoại tự do vào",
+            "Chỉ mở cửa ngày Sabát dâng tế lễ đền thờ",
+            "Không mở cửa đóng chặt thành vĩnh viễn bảo vệ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sách Nê-hê-mi-a tìm thấy để thống kê gia phả dân Do Thái câu 5 chép là?",
+          "options": [
+            "Sách gia phả gia phả của đoàn người hồi hương đầu tiên đi cùng Xô-rô-ba-ben",
+            "Sách Luật Pháp Mô-sê nhận ở núi Sinai cũ",
+            "Sách biên niên sử vương triều Đa-vít hoàng",
+            "Sách sấm ngôn của tiên tri Giê-rê-mi-a cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả dân số thành thánh Giê-ru-sa-lem lúc bấy giờ chép câu 4 là gì?",
+          "options": [
+            "Thành rộng lớn lớn nhưng dân số thưa thớt, nhà cửa chưa xây dựng lại nhiều",
+            "Thành nhỏ bé dân đông nghẹt cấm có chỗ chen chân",
+            "Nhà cửa khang trang nguy nga tráng lệ bọc vàng",
+            "Không có nhà cửa dân sống trong lều tạm hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tổng số lượng tiền vàng bạc cống nộp các tộc trưởng dâng hiến kho tàng câu 70-72?",
+          "options": [
+            "20.000 đác-ích vàng, 2.200 mi-nơ bạc bạc cống hiến (quan trấn thủ dâng 1.000 đác-ích)",
+            "Mười ta-lăng vàng nhỏ bé đền tạm cũ hoang",
+            "Một nghìn si-clơ đồng thau cũ rách nát",
+            "Không dâng hiến gì dùng của cải cướp được xây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhóm người bị loại khỏi chức tế lễ vì cấm tìm thấy tên gia phả chép câu 63-64 là?",
+          "options": [
+            "Các con cháu Hô-ba-gia, Hắc-cốt và Bác-xi-lai Bác-xi-lai (bị xem là ô uế loại ra)",
+            "Toàn bộ chi tộc Bên-gia-min hoàng gia cũ",
+            "Các ca sĩ nhạc sĩ đền thờ dòng dõi A-sáp",
+            "Những người cưới vợ ngoại bang Ai Cập cổ đại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lực lượng bảo vệ canh gác thành Giê-ru-sa-lem được tuyển chọn từ đâu câu 3 chép?",
+          "options": [
+            "Dân cư Giê-ru-sa-lem Giê-ru-sa-lem (chia phiên gác trước cửa nhà riêng mình)",
+            "Kỵ binh chiến xa Ba-tư gửi sang bảo vệ",
+            "Lính tinh nhuệ Bên-gia-min thiện nghệ bắn",
+            "Không tuyển lính tự quan đề đốc Kha-na-nia gác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tổng số lượng người hồi hương chép câu 66 giống sách Ét-ra là bao nhiêu?",
+          "options": [
+            "Bốn mươi hai ngàn ba trăm sáu mươi (42.360) người người Do Thái",
+            "Mười ngàn chiến sĩ tuyển chọn Bên-gia-min",
+            "Năm mươi vạn người bộ binh bộ",
+            "Không chép số lượng chỉ chép rất nhiều"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ dẫn Nê-hê-mi-a ban ra về việc lính gác đêm chép câu 3 là gì?",
+          "options": [
+            "Chỉ định phiên gác gác cho dân cư, người đứng gác, người gác trước nhà mình",
+            "Cho lính nghỉ ngơi ngủ ngon cấm cần gác đêm",
+            "Thuê lính ngoại bang gác thay dân Do Thái",
+            "Không gác đêm đóng chặt cửa thành khóa then"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc tra cứu gia phả và củng cố lính gác chương 7 chứng minh?",
+          "options": [
+            "Thiết lập trật trật tự trị an bảo vệ thành quả xây dựng; khẳng định căn tính thánh khiết cộng đồng",
+            "Sự yếu kém của chính quyền Nê-hê-mi-a lo sợ",
+            "Do Thái có số lượng ngựa chiến nhiều nhất Ba",
+            "Sự lỗi thời của giao ước đền tạm hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Nhà thông luật Ét-ra đứng trên bục gỗ đọc sách Luật Pháp Chúa tại địa điểm nào?",
+          "options": [
+            "Công trường trước Cổng Nước Cổng Nước (đọc từ sáng sớm đến giữa trưa)",
+            "Trong Nơi Cực Thánh bên cạnh Hòm Bia thánh",
+            "Trên bức tường thành cao cổng thành Giê-ru-sa-lem",
+            "Trên ngai vàng ngà voi bọc vàng ròng vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của toàn dân Do Thái khi nghe Ét-ra mở sách Luật Pháp ra câu 5-6 là?",
+          "options": [
+            "Đồng thanh đứng dậy đứng dậy, giơ tay hô: A-men! A-men! quỳ lạy sụp mặt đất khóc lóc",
+            "Nổi giận xé sách ném đá thượng tế Hin-ki-a",
+            "Trục xuất Ét-ra ra ngoài thành lánh nạn cùi",
+            "Bỏ chạy trốn biệt xứ vì sợ dịch bệnh phạt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khích lệ nổi tiếng Nê-hê-mi-a nói an ủi dân chúng đang khóc lóc câu 10 là?",
+          "options": [
+            "Đừng buồn thảm, vì sự vui vẻ sự vui vẻ nơi ĐỨC CHÚA là sức mạnh của anh em!",
+            "Hãy chuẩn bị kỵ binh chiến xa sắt đánh thù",
+            "Chúa sẽ tự dội sấm sét thiêu cháy sạch quân",
+            "Hãy nộp một vạn si-clơ vàng chuộc lỗi tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lễ hội long trọng dân chúng tìm thấy trong Luật Pháp và đi hái lá cây ăn mừng là?",
+          "options": [
+            "Lễ Lều Tạm (Festival of Shelters ăn mừng làm lều trên mái nhà ngoài sân)",
+            "Đại lễ Vượt Qua long trọng dâng tế chiên con",
+            "Lễ Ngũ Tuần dâng hiến súc vật đầu mùa ruộng",
+            "Lễ khánh thành đền thờ bò vàng Bê-then Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời gian đọc sách Luật Pháp hằng ngày suốt tuần lễ Lều Tạm chép câu 18 là?",
+          "options": [
+            "Đọc hằng ngày hằng ngày, từ ngày thứ nhất cho đến ngày cuối cùng",
+            "Chỉ đọc một lần ngày Sabát Sabát đầu tuần",
+            "Không đọc sách chỉ ăn uống liên hoan vui vẻ",
+            "Đọc lúc nửa đêm khi mọi người đã đi ngủ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị trí bục gỗ Ét-ra đứng đọc Luật Pháp Mô-sê câu 4 chép là?",
+          "options": [
+            "Bục gỗ cao cao làm sẵn cho việc nầy đứng trên cao trước mặt dân",
+            "Bục đồng Sa-lô-môn đúc giữa sân đền thờ",
+            "Ngai vàng hoàng cung Giu-đa bọc vàng ròng",
+            "Không có bục đứng thẳng dưới đất đất đai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người giúp dân hiểu Luật Pháp bằng cách giải thích ý nghĩa khi đọc câu 7-8?",
+          "options": [
+            "Các người Lê-vi Lê-vi (giải nghĩa rõ ràng dịch nghĩa cho dân hiểu)",
+            "Thư ký Sa-phan triều đại Giô-si-a xưa",
+            "Tướng chỉ huy quân đội Giô-áp vương triều cũ",
+            "Đầy tớ Ghê-kha-xi bị phong cùi trắng xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Những loại lá cây dân đi hái về dựng lều tạm chép câu 15 gồm gì?",
+          "options": [
+            "Lá ô-liu, ô-liu rừng, sim, chà là chà là, lá cây rậm rạp làm lều",
+            "Lá cây sồi lớn rừng Ép-ra-im hoang hoang",
+            "Lá keo gai Sinai đền tạm Mô-sê xưa gác",
+            "Không dùng lá cây dùng vải lều vải gai mịn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đánh giá mức độ long trọng của lễ Lều Tạm triều Nê-hê-mi-a câu 17 chép?",
+          "options": [
+            "Từ thời Giô-suê Giô-suê con trai Nun cấm có dịp nào Israel ăn mừng lớn như thế",
+            "Vui vẻ hơn dịp khánh thành đền thờ Sa-lô-môn",
+            "Chỉ là lễ tạm bợ lo sợ kẻ thù vây đánh",
+            "Không có niềm vui chỉ có khóc lóc sám hối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc đọc hiểu Luật Pháp đem lại niềm vui chương 8 dạy gì?",
+          "options": [
+            "Lời Chúa là nguồn nguồn sức mạnh tinh thần; sự hiểu biết lời Chúa đem lại sám hối chân thật và niềm vui thánh nhật",
+            "Do Do Thái có hệ thống giáo dục Luật Pháp tốt",
+            "Sự nhút nhát của dân chúng khóc lóc lo sợ",
+            "Sự lỗi thời của giao ước vương quyền Đa-vít"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Ngày dân Do Thái tập hợp ăn chay, mặc áo sô thô sám hối biệt lập ngoại bang là?",
+          "options": [
+            "Ngày hai mươi bốn (24) tháng bảy bảy (sau lễ Lều Tạm)",
+            "Ngày mười bốn tháng giêng dịp Vượt Qua thánh",
+            "Ngày mồng một tháng bảy dựng bàn thờ dâng",
+            "Không chép ngày chỉ chép ngày SabátSabát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời gian dân Do Thái đứng nghe đọc Luật Pháp và thời gian xưng tội thờ phượng tương ứng câu 3?",
+          "options": [
+            "Một phần tư (1/4) ngày đọc Luật Pháp, một phần tư (1/4) ngày xưng tội xưng tội thờ phượng Chúa",
+            "Suốt ngày đêm liên tục cấm ngủ nghỉ ngơi",
+            "Một tiếng đồng hồ nhỏ bé đền tạm cũ hoang",
+            "Không chép thời gian cụ thể chỉ chép rất lâu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nội dung lời cầu nguyện sám hối lịch sử Lê-vi nhắc lại giao ước đầu tiên Chúa lập với ai?",
+          "options": [
+            "Áp-ra-ham (Abraham đổi tên từ Áp-ram, ban xứ Canaan)",
+            "Mô-sê giải phóng Do Thái khỏi Ai Cập cũ",
+            "Đa-vít triều đại vương quyền vững mạnh vương",
+            "Sa-lô-môn xây đền thờ bọc vàng ròng rách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ thời hoang mạc hoang dã được người Lê-vi nhắc lại ca ngợi Chúa câu 20-21 là?",
+          "options": [
+            "Ban man-na man-na từ trời, ban nước từ vách đá, áo quần cấm mòn, chân cấm sưng suốt 40 năm",
+            "Ban xe chiến chiến xa sắt đánh quân thù oai",
+            "Biến cát sa mạc thành vàng ròng rực rỡ",
+            "Không ban phép lạ bắt họ tự lo liệu thức ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội lỗi bò vàng đúc thời Mô-sê lên núi nhận luật pháp được nhắc lại câu 18 là gì?",
+          "options": [
+            "Đúc tượng con bò con bò vàng bảo: Đây là thần dẫn ngươi ra khỏi Ai Cập",
+            "Đập vỡ Hòm Bia Giao Ước lấy vàng bọc lều",
+            "Trục xuất tư tế dòng Lê-vi ra ngoài sa mạc",
+            "Thờ thần cá Dagon của dân Phi-li-tinh thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mây cột lửa dẫn đường ban ngày đêm thời hoang mạc chép câu 19 khẳng định điều gì?",
+          "options": [
+            "Chúa cấm lìa bỏ lìa bỏ họ dẫu họ phạm tội thờ bò vàng nhờ lòng thương xót Chúa",
+            "Cột lửa thiêu cháy sạch những kẻ nổi loạn",
+            "Đèn dầu vàng ròng soi sáng cho dân đi đêm",
+            "Không dẫn đường bắt họ tự mò mẫm lối đi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động kết thúc buổi cầu nguyện sám hối toàn dân Do Thái cam kết câu 38 là?",
+          "options": [
+            "Lập một cam kết cam kết bằng văn bản đóng ấn ký tên (thủ lĩnh tư tế Lê-vi đóng ấn)",
+            "Quyên góp tiền vàng bọc lại toàn bộ đền thờ",
+            "Lấy kỵ binh chiến xa sắt đánh quân thù ngoại",
+            "Không cam kết chỉ đi về nhà lều mình ăn uống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên thần khí Chúa ban xuống chỉ dẫn dạy dỗ Do Thái thời hoang mạc câu 20 chép?",
+          "options": [
+            "Thần khí tốt lành tốt lành của Chúa (Your good Spirit)",
+            "Thần nói dối nhập vào miệng tiên tri giả",
+            "Thần gió sa mạc thổi mát lòng dân chúng",
+            "Thần lửa thiêu đốt của lễ toàn thiêu dâng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đất đai màu mỡ thành trì kiên cố Chúa ban cho Do Thái thời Giô-suê câu 25 chép?",
+          "options": [
+            "Chiếm các thành kiên kiên cố, đất đai màu mỡ, nhà đầy của cải, giếng đào vườn nho",
+            "Nhận được một vạn khiên vàng Sa-lô-môn đúc",
+            "Chỉ nhận đất hoang mạc cát nóng cấm trồng trọt",
+            "Bị cướp sạch đưa sang Ba-by-lon làm phu dịch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa lời cầu nguyện sám hối lịch sử chương 9 dạy bài học gì?",
+          "options": [
+            "Sự thành tín thành tín nhân từ Chúa đối lập với sự phản bội liên tục của con người; kêu gọi sám hối quay về",
+            "Quyền lực chính trị của đế quốc Ba-tư ban",
+            "Sự nhút nhát hèn yếu của dân Do Thái đi đày",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Ai là người đứng đầu danh sách ký tên đóng ấn vào giao ước cam kết mới câu 1?",
+          "options": [
+            "Nê-hê-mi-a quan trấn thủ quan trấn thủ (con trai Hác-ca-li-a)",
+            "Ét-ra nhà thông luật dòng tư tế Aaron cổ",
+            "Thượng tế Ê-li-a-síp đền thờ thánh",
+            "Xô-rô-ba-ben quan trấn thủ Giu-đa hồi hương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cam kết hôn nhân đầu tiên chép trong nội dung giao ước câu 30 là gì?",
+          "options": [
+            "Quyết cấm gả con gả con gái cho dân ngoại bang, cấm cưới con gái họ cho con trai mình",
+            "Chỉ cưới phụ nữ nước Ai Cập cổ đại dòng",
+            "Bắt phạt người ngoại bang đóng thuế thập phân",
+            "Không kết hôn cấm sinh con nối dõi hoàng tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cam kết ngày Sabát và năm Sabát chép trong giao ước câu 31 là gì?",
+          "options": [
+            "Không mua bán mua bán ngày Sabát; bỏ tô thuế ruộng đất năm thứ bảy nghỉ đất",
+            "Đóng cửa thành vĩnh viễn cấm cho ai ra vào",
+            "Chỉ bán lúa mì cho thợ Ty-rơ ngoại bang biên",
+            "Không giữ Sabát Sabát chỉ dâng tế lễ hằng ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khoản thuế thập phân đóng góp hằng năm cam kết lo việc phụng tự đền thờ câu 32 là?",
+          "options": [
+            "Một phần ba (1/3) si-clơ si-clơ bạc mỗi người hằng năm",
+            "Mười si-clơ vàng ròng bọc đai cung điện",
+            "Năm nghìn si-clơ đồng thau cũ rách nát",
+            "Không đóng tiền chỉ đóng góp súc vật tế đàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cam kết dâng hoa quả đầu mùa đầu mùa cừu đầu lòng dâng cho ai câu 35-36?",
+          "options": [
+            "Dâng cho các tư tế phục dịch phục dịch trong Đền Thờ Chúa",
+            "Dâng cho quan trấn thủ Nê-hê-mi-a hoàng cung",
+            "Dâng cho dân nghèo xơ xác ruộng vườn Do Thái",
+            "Không dâng súc vật dâng hiến cho tà thần ngoại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trách nhiệm vận chuyển củi dâng lên bàn thờ tế lễ câu 34 được quyết định bằng cách nào?",
+          "options": [
+            "Bắt thăm bắt thăm phân chia phiên thứ các gia tộc mang củi dâng đền",
+            "Giao cho lính Ba-tư thồ lạc đà mang đến",
+            "Bắt ngoại kiều ngoại bang đốn củi mang nộp",
+            "Không dùng củi dùng dầu thau đốt hương đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa quyết tâm kết thúc nội dung giao ước chương 10 chép câu 39?",
+          "options": [
+            "Chúng tôi sẽ cấm cấm bỏ bê Đền Thờ của Thiên Chúa chúng tôi",
+            "Chúng tôi sẽ xây bức tường thành cao bọc vàng",
+            "Chúng tôi sẽ diệt sạch quân thù ngoại bang biên",
+            "Không hứa gì lặng lẽ ra về nhà lều mình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người đi theo giám sát việc thu thuế thập phân của người Lê-vi câu 38?",
+          "options": [
+            "Một tư tế dòng Aaron dòng Aaron đi cùng người Lê-vi thu thuế thập phân",
+            "Thư ký Sa-phan triều đại Giô-si-a xưa gác",
+            "Tướng chỉ huy quân đội Giô-áp hoàng gia cũ",
+            "Đầy tớ Ghê-kha-xi bị phong cùi trắng xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi cất giữ của dâng hiến lúa mì rượu mới dầu ô-liu chép câu 39?",
+          "options": [
+            "Trong các phòng phòng kho đền thờ thánh bên khí cụ đền thờ",
+            "Xây pháo đài Si-ôn Thành Đa-vít kiên cố gác",
+            "Trong hoàng cung vương triều Ba-tư kinh thành",
+            "Không có kho chứa bắt tư tế tự mang về nhà riêng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc đóng ấn cam kết giao ước chương 10 chứng minh điều gì?",
+          "options": [
+            "Sự tự nguyện tự nguyện vâng phục; cụ thể hóa đức tin bằng hành động dâng hiến thực tế cuộc sống",
+            "Quyền lực hành chính của quan trấn thủ Nê-hê",
+            "Sự nhút nhát của dân cấm dám giữ tiền bạc riêng",
+            "Sự lỗi thời của giao ước đền tạm hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Tỷ lệ rút thăm chọn dân số lên định cư củng cố thủ đô Giê-ru-sa-lem là?",
+          "options": [
+            "Một phần mười (1/10) dân số dân số rút thăm định cư thành thánh, 9/10 ở các thành khác",
+            "Một nửa dân số",
+            "Toàn bộ dân Do Thái phải định cư thành thánh",
+            "Không rút thăm tự nguyện tùy chọn nơi ở"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ dân chúng đối với những người tình nguyện định cư Giê-ru-sa-lem câu 2?",
+          "options": [
+            "Dân chúng chúc lành chúc lành cho ai tự nguyện định cư thành thánh",
+            "Nổi giận ném đá cự tuyệt đuổi đi biệt xứ",
+            "Bắt phạt họ nộp một vạn si-clơ vàng ròng",
+            "Không có thái độ gì đứng xem im lặng ngạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị trí định cư chính thức của các thủ lĩnh vương quốc chép câu 1 là?",
+          "options": [
+            "Định cư tại Giê-ru-sa-lem (Jerusalem thành thánh thủ đô)",
+            "Định cư tại các thành lũy phòng thủ biên ải",
+            "Định cư tại xứ Babylon hoang vu đi đày cũ",
+            "Định cư tại đồi cao Ghi-vơ-on ruộng cừu hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhánh Lê-vi phụ trách công việc bên ngoài Đền Thờ sửa sang hành chính câu 16 là?",
+          "options": [
+            "Sáp-tê-vai và Giô-xa-bát Giô-xa-bát (quản lý công việc bên ngoài đền)",
+            "Thượng tế A-ma-ri-a lo việc đạo đền thờ",
+            "Tướng chỉ huy quân đội Giô-áp vương triều cũ",
+            "Đầy tớ Ghê-kha-xi bị phong cùi trắng xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ca sĩ trưởng ban nhạc phụ trách dâng lời tạ ơn ca hát lúc cầu nguyện câu 17 là?",
+          "options": [
+            "Mat-ta-ni-a (Mattaniah con trai Mi-kha ca sĩ dòng A-sáp)",
+            "Hê-man nhạc sư ca nhạc dòng Cô-hát vương",
+            "Ê-than ca sĩ dòng Mê-ra-ri thánh điện",
+            "Tư tế Xa-đốc dòng thượng tế Aaron cổ đại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng tư tế phục dịch đền thờ định cư tại Giê-ru-sa-lem chép câu 12 là?",
+          "options": [
+            "Tám trăm hai mươi hai (822) người người tư tế làm việc đền thờ",
+            "Mười hai người",
+            "Năm mươi người Lê-vi nhạc sĩ ca hát ngợi",
+            "Không chép số lượng chỉ chép rất nhiều"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người quản lý Lê-vi chịu trách nhiệm phục vụ đền thờ định cư tại thành thánh câu 18?",
+          "options": [
+            "Hai trăm bốn mươi tư (244) người Lê-vi Lê-vi định cư thành thánh",
+            "Mười người Lê-vi nhỏ bé đền tạm cũ hoang",
+            "Một nghìn người Lê-vi",
+            "Không có người Lê-vi nào định cư thành thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhóm đối tượng Nê-thi-nim (người hầu cận đền thờ) định cư tại khu vực nào câu 21?",
+          "options": [
+            "Định cư tại đồi Ô-phin Ô-phin (Ophel do Xi-kha và Ghi-sơ-pa quản lý)",
+            "Định cư tại Thành Đa-vít hoàng cung cũ",
+            "Định cư tại thung lũng Muối biên giới Ê-đôm",
+            "Định cư tại thành cảng Gia-phô biên giới biển"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ thị của đức vua Ba-tư ban ra về khẩu phần ăn hằng ngày của ca sĩ câu 23?",
+          "options": [
+            "Có sắc lệnh của vua vua quy định khẩu phần hằng ngày cho ca sĩ đền thờ",
+            "Cấm ca sĩ cấm cho ăn bắt nhịn đói hát ca",
+            "Bắt ca sĩ tự mua thức ăn cấm cấp từ kho",
+            "Không quan tâm tự ca sĩ lo liệu khẩu phần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc tái định cư củng cố dân số Giê-ru-sa-lem chương 11 chứng minh?",
+          "options": [
+            "Sự hồi sinh hồi sinh của thành thánh; chuẩn bị tiềm lực quốc phòng dân số bảo vệ thủ đô Do Thái",
+            "Do Thái có số lượng nhà đất nhiều cấm ai ở",
+            "Sự nhút nhát hèn hạ của dân cấm dám ở biên ải",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Nghi lễ long trọng Nê-hê-mi-a tổ chức khánh thành công trình tường thành là gì?",
+          "options": [
+            "Lễ khánh thành khánh thành tường thành (diễu hành ca hát dâng lễ tế vui mừng lớn)",
+            "Lễ khánh thành đền thờ bò vàng Bê-then Đan",
+            "Lễ Vượt Qua long trọng dâng tế chiên con",
+            "Lễ dâng hương tế lễ tà thần Ba-al ngoại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nê-hê-mi-a chia ca đoàn thành hai đoàn lớn đi diễu hành trên mặt tường thành theo hướng?",
+          "options": [
+            "Hai hướng ngược nhau ngược nhau (một đoàn hướng nam cổng phân, một đoàn đi hướng bắc)",
+            "Đi vòng quanh đền thờ ba vòng liên tục",
+            "Đi xuống sông Gio-đan tắm rửa thánh hóa",
+            "Không đi diễu hành đứng im ca hát một chỗ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mức độ vui mừng hân hoan của Giê-ru-sa-lem khánh thành tường thành câu 43 chép?",
+          "options": [
+            "Chúa ban niềm vui lớn; tiếng vui mừng của Giê-ru-sa-lem nghe thấu từ xa nghe thấu từ xa",
+            "Dân chúng lo sợ giặc kéo sang đánh bại thành",
+            "Khóc lóc đau buồn vì tường thành quá thô sơ",
+            "Không có tiếng reo mừng chỉ có im lặng ngột"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người dẫn đầu đoàn diễu hành thứ nhất đi trên mặt tường thành hướng cổng phân câu 36 là?",
+          "options": [
+            "Ét-ra nhà thông luật thông luật (Ezra đi đầu đoàn thứ nhất)",
+            "Nê-hê-mi-a quan dâng rượu đi đầu đoàn thứ",
+            "Xô-rô-ba-ben quan trấn thủ Giu-đa hồi hương",
+            "Thượng tế Ê-li-a-síp đền thờ thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đoàn diễu hành thứ hai đi theo hướng ngược lại đi cùng ai chép câu 38?",
+          "options": [
+            "Tôi (Nê-hê-mi-a) đi cùng một nửa một nửa dân chúng đi trên tường thành",
+            "Chỉ có các chiến sĩ dũng cảm Bên-gia-min",
+            "Các tư tế Lê-vi bị phong cùi cách ly hoang",
+            "Các sứ giả ngoại bang lân cận Ba-tư gác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhạc trưởng chỉ huy ca đoàn Lê-vi hát ca vang dội khánh thành tường thành câu 42?",
+          "options": [
+            "Kha-sơ-ra-hi-a (Jezrahiah nhạc trưởng chỉ huy)",
+            "Hê-man nhạc sư ca nhạc dòng Cô-hát vương",
+            "Ê-than ca sĩ dòng Mê-ra-ri thánh điện",
+            "Tư tế Xa-đốc dòng thượng tế Aaron cổ đại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Danh sách các tư tế Lê-vi hồi hương đầu tiên chép đầu chương 12 đi cùng ai?",
+          "options": [
+            "Đi cùng Xô-rô-ba-ben Xô-rô-ba-ben và Giê-su-a (các tư tế Lê-vi hồi hương)",
+            "Đi cùng Ét-ra nhà thông luật dòng tư tế",
+            "Đi cùng Nê-hê-mi-a quan dâng rượu vua Ba",
+            "Không đi cùng ai tự họ đi bộ về thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quyết định bổ nhiệm người cai quản các phòng kho chứa của dâng thập phân câu 44?",
+          "options": [
+            "Bổ nhiệm người người quản lý kho lúa mì rượu mới dầu ô-liu dâng cho tư tế",
+            "Bắt phạt dân nộp thêm vàng bạc cho quan trấn",
+            "Trục xuất toàn bộ ca sĩ Lê-vi ra ngoài thành",
+            "Không bổ nhiệm ai để kho tự mở cửa tự do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhóm ca sĩ Lê-vi phục vụ ca hát ngợi khen giữ cửa đền theo quy chế của ai câu 45?",
+          "options": [
+            "Theo lệnh Đa-vít Đa-vít và Sa-lô-môn con ông quy định",
+            "Theo luật của Mô-sê Mô-sê nhận ở Sinai",
+            "Theo sắc lệnh của vua Artaxerxes Ba-tư",
+            "Tự ca đoàn nghĩ ra cách chia phiên gác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc diễu hành trên mặt tường thành khánh thành chương 12 chứng minh gì?",
+          "options": [
+            "Thánh hiến công trình tường thành thành; tôn vinh Chúa đã che chở bảo vệ thành thánh bình an",
+            "Do Thái có bức tường thành rộng nhất thế giới",
+            "Sự nhút nhát hèn hạ của lính gác Ba-tư sợ hãi",
+            "Sự lỗi thời của giao ước vương quyền Đa-vít"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Cải cách kiên quyết của Nê-hê-mi-a đối với gian ác Tô-bi-a cướp phòng đền thờ là?",
+          "options": [
+            "Quăng sạch đồ đạc đồ đạc của Tô-bi-a ra ngoài phòng đền thờ, ra lệnh thanh tẩy phòng",
+            "Chém đầu Tô-bi-a ngay bên bàn thờ đồng đền",
+            "Trục xuất Ê-li-a-síp tư tế phản bội ngục tối",
+            "Không làm gì chấp nhận cho Tô-bi-a ở đền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Biện pháp kiên quyết Nê-hê-mi-a thực hiện để giữ ngày Sabát cấm cho buôn bán buôn bán là?",
+          "options": [
+            "Đóng chặt cửa thành cửa thành trước ngày Sabát, xua đuổi thương buôn ngủ ngoài thành",
+            "Bắt phạt thương buôn nộp một vạn si-clơ vàng",
+            "Cho kỵ binh chiến xa sắt bắn chết thương buôn",
+            "Không đóng cửa thành buôn bán tự do thoải mái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động trừng phạt mạnh mẽ Nê-hê-mi-a áp dụng cho kẻ cưới vợ ngoại bang câu 25?",
+          "options": [
+            "Trách mắng, nguyền rủa nguyền rủa, đánh đập đánh đập họ, giật tóc họ, bắt thề từ bỏ vợ",
+            "Chém đầu tống giam ngục tối cùm chân họ",
+            "Trục xuất toàn bộ gia tộc sang nước Ai Cập",
+            "Không trừng phạt chỉ khuyên can giữ đạo đức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm Nê-hê-mi-a vắng mặt tại Giê-ru-sa-lem quay về Ba-tư chép câu 6 là?",
+          "options": [
+            "Năm thứ ba mươi hai mươi hai triều vua Artaxerxes (vắng mặt quay về trình diện)",
+            "Mười năm chẵn",
+            "Bảy năm chẵn",
+            "Ba năm chẵn ngắn ngủi vắng mặt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội lỗi bỏ bê người Lê-vi cấm dâng thập phân nuôi ăn khiến họ bỏ đền đi làm ruộng câu 10?",
+          "options": [
+            "Các khẩu phần người Lê-vi Lê-vi cấm được cấp phát, họ phải bỏ đền về ruộng cày cấy",
+            "Họ bị phong cùi trắng cách ly phòng biệt lập",
+            "Họ bị quân ngoại bang bắt đi đày làm phu dịch",
+            "Do vua cấm cho phép tư tế Lê-vi tế đàn nữa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua vĩ đại Do Thái được Nê-hê-mi-a dẫn chứng sa ngã do vợ ngoại bang câu 26 là?",
+          "options": [
+            "Vua Sa-lô-môn (Solomon dẫu khôn ngoan vẫn sa ngã thờ tà thần do vợ ngoại quyến)",
+            "Vua Đa-vít cha ông chiếm đóng cung điện cũ",
+            "Vua Rô-vô-am đúc khiên đồng thay khiên vàng",
+            "Vua Hezekiah đón sứ giả Ba-by-lon kiêu ngạo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động trục xuất cháu thượng tế Ê-li-a-síp cưới con gái San-ba-lát câu 28?",
+          "options": [
+            "Tôi đuổi hắn đuổi hắn ra khỏi tôi vì làm ô uế chức tế tư dòng Aaron",
+            "Chém đầu hắn ngay trước bàn thờ đồng đền thờ",
+            "Tống giam hắn ngục tối cùm chân cùm tay",
+            "Không trục xuất cho hắn tiếp tục làm tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khẩn nguyện nhắc lại liên tục của Nê-hê-mi-a ở kết thúc các đoạn cải cách câu 14, 22, 31?",
+          "options": [
+            "Lạy Chúa, xin nhớ đến nhớ đến tôi và đoái thương tôi theo lòng nhân từ đại lượng Ngài",
+            "Xin dội sấm sét tiêu diệt quân thù ngoại bang",
+            "Xin ban kỵ binh chiến xa sắt bảo vệ hoàng cung",
+            "Không cầu xin gì tin cậy Chúa tự động thưởng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngôn ngữ các con của kẻ cưới vợ ngoại bang cấm biết nói tiếng Do Thái câu 24 là?",
+          "options": [
+            "Nói tiếng Ách-đốt (Ashdod tiếng ngoại bang), cấm biết nói tiếng Do Thái Giu-đê",
+            "Nói tiếng Ai Cập cổ đại dọc sông Nile thù",
+            "Nói tiếng Hy Lạp cổ đại của đế quốc xưa",
+            "Nói tiếng Babylon lưu đày hoang vu sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự cải cách nghiêm khắc triệt để của Nê-hê-mi-a chương 13 chép dạy gì?",
+          "options": [
+            "Bảo vệ sự thánh thánh khiết và biệt lập của dân Chúa; cảnh giác sự thỏa hiệp và suy đồi đạo đức",
+            "Sức mạnh chuyên chế vô hạn của quan trấn thủ Do",
+            "Sự dã man của luật hôn nhân hoàng gia Giu-đa",
+            "Sự kết thúc hoàn toàn giao ước đền thờ cũ hoang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

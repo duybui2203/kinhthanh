@@ -1,0 +1,2526 @@
+{
+  "bookId": 6,
+  "bookName": "Giô-suê",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Lời hứa bảo vệ của Chúa dành cho ông Giô-suê khi nhận chức thay thế Mô-sê ở câu 5 là gì?",
+          "options": [
+            "Ta sẽ ở với ngươi như đã ở với Mô-sê; Ta sẽ không bỏ rơi ngươi, không ruồng bỏ ngươi",
+            "Ta sẽ ban cho ngươi sống thọ một trăm năm mươi tuổi",
+            "Ta sẽ tự tay tiêu diệt quân Ca-na-an trong một ngày",
+            "Ngươi được phép tự ý sửa đổi luật pháp Mô-sê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu khẩu hiệu khích lệ tinh thần được lặp lại nhiều lần dành cho Giô-suê là gì?",
+          "options": [
+            "Hãy mạnh bạo và can đảm lên (Be strong and courageous)",
+            "Hãy xây dựng đền thờ vàng ngay lập tức",
+            "Hãy tuyển chọn những chiến binh to khỏe nhất",
+            "Hãy rút lui phòng thủ Ghinh-gát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cuốn sách luật pháp Mô-sê để lại yêu cầu Giô-suê phải làm gì hàng ngày?",
+          "options": [
+            "Miệng không ngừng đọc, ngày đêm suy ngẫm suy ngẫm để lo thi hành đúng mọi điều chép",
+            "Nhờ tư tế Lê-vi lược bỏ bớt các luật khó giữ",
+            "Chép ra nhiều bản đem đốt lấy tro uống nhớ lâu",
+            "Chỉ đọc cuốn sách vào ngày sa-bát thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê ra lệnh cho các thủ lĩnh chuẩn bị lương thực vượt sông Gio-đan sau bao nhiêu ngày?",
+          "options": [
+            "Ba ngày (3 ngày chuẩn bị vượt sông)",
+            "Bảy ngày",
+            "Mười ngày",
+            "Bốn mươi ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhiệm vụ đi lính được Giô-suê nhắc nhở hai chi tộc và nửa chi tộc phía đông sông Gio-đan thực hiện là gì?",
+          "options": [
+            "Chiến binh phải mang vũ khí đi tiên phong vượt sông chiến đấu cùng anh em cho đến khi xong xuôi",
+            "Họ chỉ cần đóng thuế vàng bạc đền tạm thay đi lính",
+            "Họ cử một nửa số thanh niên đi còn người già ở lại chăn súc",
+            "Họ được định cư an toàn không cần đi chiến đấu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân chúng cam kết vâng lời Giô-suê với điều kiện nào?",
+          "options": [
+            "Chỉ xin ĐỨC CHÚA, Thiên Chúa của ông, ở với ông như đã ở với Mô-sê Mô-sê",
+            "Ông phải ban cho họ nhiều chiến lợi phẩm vàng bạc",
+            "Ông không được phạt họ khi họ lầm bầm oán trách",
+            "Tư tế Ê-la-da phải làm chứng chúc lành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho kẻ phản loạn không vâng nghe lời Giô-suê truyền dạy là gì?",
+          "options": [
+            "Kẻ đó phải bị xử tử hình xử tử hình",
+            "Bị phạt roi ba mươi roi trước công đoàn",
+            "Bị tịch thu toàn bộ đất đai súc vật",
+            "Bị trục xuất ra ngoài hoang địa biệt xứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sông lớn ranh giới tự nhiên ngăn cách dân Ít-ra-en và đất hứa Ca-na-an là sông gì?",
+          "options": [
+            "Sông Gio-đan (Jordan River)",
+            "Sông Nin Ai Cập",
+            "Sông Ơ-phơ-rát",
+            "Sông Ki-sôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Danh hiệu Mô-sê được gọi sau khi ông qua đời là gì?",
+          "options": [
+            "Tôi trung của ĐỨC CHÚA (Servant of the LORD)",
+            "Thầy tư tế tối cao",
+            "Vua vĩ đại của Ít-ra-en",
+            "Ngôn sứ tiên tri vĩ đại nhất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao việc Giô-suê tuân giữ sách luật pháp lại quyết định sự thành bại của ông?",
+          "options": [
+            "Vì vâng lời Chúa là nguồn gốc mọi sự thành công thành công và thịnh vượng của ông",
+            "Vì sách luật chứa bản đồ quân sự Ca-na-an",
+            "Vì sách luật có chép bùa phép đánh bại kẻ thù",
+            "Để ông chứng tỏ uy quyền với dân chúng"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Giô-suê bí mật sai mấy thám tử từ Sít-tim đi do thám thành Giê-ri-khô?",
+          "options": [
+            "Hai thám tử (2 thám tử bí mật)",
+            "Mười hai thám tử chi tộc",
+            "Mười thám tử",
+            "Một mình tướng Giô-suê đi do thám"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người kỹ nữ đón tiếp và che giấu các thám tử Ít-ra-en tại Giê-ri-khô là ai?",
+          "options": [
+            "Bà Ra-háp (Rahab)",
+            "Bà Đê-bô-ra",
+            "Bà Xíp-pô-ra",
+            "Bà Ru-tơ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ra-háp đã giấu các thám tử ở vị trí nào trong nhà bà khi lính truy tìm?",
+          "options": [
+            "Dưới những cọc cọng lanh xếp trên mái nhà mái nhà",
+            "Trong hầm tối chứa rượu nho",
+            "Hóa trang họ thành người chăn cừu",
+            "Giấu trong buồng ngủ riêng tư gia đình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời tuyên xưng đức tin nổi tiếng của Ra-háp về Thiên Chúa Ít-ra-en ở câu 11 là gì?",
+          "options": [
+            "ĐỨC CHÚA, Thiên Chúa của các ông, là Thiên Chúa trên trời cao và dưới đất thấp",
+            "Chúa của các ông là thần chiến tranh mạnh mẽ nhất",
+            "Tôi tin Chúa vì Người cho man-na từ trời",
+            "Tôi thờ thần mặt trời Ai Cập giống các ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dấu hiệu nhận diện bảo đảm an toàn cho gia đình Ra-háp khi quân Ít-ra-en đánh chiếm thành là gì?",
+          "options": [
+            "Sợi dây chỉ màu đỏ thắm (scarlet cord) buộc ở cửa sổ nhà bà",
+            "Một vết máu bôi lên khung cửa nhà",
+            "Một lá cờ chi tộc Giu-đa cắm trước cổng",
+            "Ngôi nhà bà phải đóng kín cửa sơn trắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ra-háp yêu cầu gia đình bà phải làm gì trong ngày đánh thành để được sống sót?",
+          "options": [
+            "Tất cả phải tập trung bên trong nhà bà bà, cấm không được đi ra ngoài đường",
+            "Phải chạy trốn sang doanh trại Ghinh-gát trước",
+            "Phải mặc y phục màu trắng đầu hàng",
+            "Phải tự tay mở cửa thành cho quân Ít-ra-en"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các thám tử phải trốn tránh trên núi bao nhiêu ngày trước khi lính truy đuổi quay về?",
+          "options": [
+            "Ba ngày (3 ngày trốn trên núi)",
+            "Bảy ngày",
+            "Mười ngày",
+            "Bốn mươi ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Báo cáo lạc quan của hai thám tử trình lên Giô-suê khi trở về là gì?",
+          "options": [
+            "ĐỨC CHÚA đã nộp cả xứ vào tay chúng ta; cư dân trong xứ đều rụng rời kinh hãi",
+            "Quân địch quá mạnh thành trì kiên cố chúng ta không đánh nổi",
+            "Chúng ta cần liên minh quân sự với vua Ê-đôm",
+            "Thành Giê-ri-khô trống rỗng không có lính gác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị trí địa lý nhà của kỹ nữ Ra-háp nằm ở đâu trong thành?",
+          "options": [
+            "Nhà bà sát vách tường thành tường thành, bà ở ngay trên tường thành",
+            "Ở trung tâm quảng trường chợ Giê-ri-khô",
+            "Sát hoàng cung vua Giê-ri-khô",
+            "Bên ngoài ngoại ô thành trì hoang vắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ra-háp đã mách lính vua Giê-ri-khô đi tìm các thám tử theo hướng nào để đánh lạc hướng?",
+          "options": [
+            "Hướng đi về phía các bến vượt sông Gio-đan sông Gio-đan",
+            "Hướng lên núi đá phía tây",
+            "Hướng sang vương quốc Mô-áp",
+            "Hướng đi Ai Cập quay lại"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Khoảng cách an toàn bắt buộc dân chúng phải giữ phía sau Hòm Bia Giao Ước khi hành quân là bao nhiêu?",
+          "options": [
+            "Khoảng hai ngàn thước (2.000 cubits)",
+            "Một ngàn thước",
+            "Năm trăm thước",
+            "Không giới hạn đi sát bên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người có nhiệm vụ khiêng vác Hòm Bia Giao Ước đi trước mở đường vượt sông?",
+          "options": [
+            "Các tư tế dòng Lê-vi (priests carrying the Ark)",
+            "Các chiến binh dũng cảm nhất chi tộc Giu-đa",
+            "Bản thân Mô-sê và Giô-suê",
+            "Mười hai thủ lĩnh chi tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ vượt sông Gio-đan xảy ra vào thời điểm nông nghiệp nào trong năm?",
+          "options": [
+            "Vào mùa gặt gặt (nước sông Gio-đan dâng cao tràn ngập hai bờ)",
+            "Vào mùa đông khô cạn nước suối",
+            "Vào mùa hạn hán sông trơ cát",
+            "Vào ngày đại hội hành hương Lễ Lều Tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tượng kỳ lạ xảy ra với dòng nước sông Gio-đan khi bàn chân các tư tế chạm vào nước sông là gì?",
+          "options": [
+            "Nước từ thượng nguồn dừng lại dựng đứng như một con đập, nước phía dưới chảy mất cạn kiệt",
+            "Sông lập tức đóng băng cứng ngắc cho dân đi qua",
+            "Nước sông hóa thành màu đỏ như máu Ai Cập",
+            "Đất nứt ra nuốt chửng dòng sông biến mất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dòng nước sông Gio-đan từ thượng nguồn dồn lại dựng đứng tại địa danh thành nào?",
+          "options": [
+            "Thành A-đam (Adam cạnh thành Xa-rơ-than)",
+            "Thành Giê-ri-khô",
+            "Thành Sít-tim",
+            "Thành Ghinh-gát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các tư tế khiêng Hòm Bia đứng ở vị trí nào suốt thời gian toàn dân đi qua sông?",
+          "options": [
+            "Đứng vững trên đất khô giữa lòng sông khô ráo cho đến khi toàn dân qua hết",
+            "Họ đi tiên phong sang bờ bên kia trước đứng chờ",
+            "Họ đi bọc hậu phía sau dân chúng",
+            "Họ đứng trên thuyền lớn giữ Hòm Bia an toàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa tôn vinh Giô-suê trước mắt toàn dân qua việc gì?",
+          "options": [
+            "Làm phép lạ vượt sông Gio-đan chứng tỏ Chúa ở cùng ông như đã ở cùng Mô-sê",
+            "Cho cột mây hiện xuống bao phủ đầu ông",
+            "Cho gậy phép của ông nở hoa hạnh nhân",
+            "Ban cho ông chiến xa vàng rực rỡ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Yêu cầu Giô-suê dặn dân chúng chuẩn bị tâm linh trước ngày vượt sông là gì?",
+          "options": [
+            "Hãy hiến thánh (thanh tẩy) bản thân vì ngày mai Chúa sẽ làm phép lạ giữa các ngươi",
+            "Hãy ăn chay cầu nguyện suốt đêm",
+            "Hãy dâng hiến tế súc vật đền tội bàn thờ",
+            "Hãy cạo đầu cạo râu tang chế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa của việc Hòm Bia Giao Ước đi trước mở đường vượt sông là gì?",
+          "options": [
+            "Biểu thị Thiên Chúa tối cao đi trước dẫn dắt chiến đấu mở đường cho dân Người",
+            "Để Hòm Bia không bị dính nước sông",
+            "Vì các tư tế đi bộ chậm hơn chiến binh",
+            "Theo quy tắc hành quân hoàng gia Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Toàn dân Ít-ra-en vượt sông Gio-đan trên vật liệu mặt đất thế nào?",
+          "options": [
+            "Đi qua trên đất khô ráo khô ráo lòng sông cạn sạch nước",
+            "Đi qua trên cầu phao quân sự tự chế",
+            "Vượt sông bằng thuyền gỗ cướp được",
+            "Lội nước ngập ngang ngực"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Theo lệnh Chúa, Giô-suê chọn bao nhiêu người lấy đá từ lòng sông Gio-đan làm kỷ niệm?",
+          "options": [
+            "Mười hai người (12 người đại diện cho 12 chi tộc)",
+            "Hai mươi bốn người bô lão",
+            "Chỉ chọn hai thám tử Giê-ri-khô",
+            "Các tư tế dòng Lê-vi tự khiêng đá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mười hai tảng đá lấy từ lòng sông Gio-đan được dựng ở địa danh nào trạm đóng trại đầu tiên?",
+          "options": [
+            "Tại Ghinh-gát (Gilgal phía đông thành Giê-ri-khô)",
+            "Tại Sít-tim",
+            "Tại đỉnh núi Nê-bô",
+            "Tại thung lũng A-khô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê còn dựng một nhóm 12 tảng đá khác ở vị trí đặc biệt nào?",
+          "options": [
+            "Ngay giữa lòng sông Gio-đan nơi các tư tế khiêng Hòm Bia đứng đứng vững",
+            "Trên đỉnh núi Ê-van viết luật bôi vôi",
+            "Tại lều hội ngộ đền tạm trung tâm",
+            "Cổng thành Giê-ri-khô chiến bại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa giáo dục của 12 tảng đá kỷ niệm tại Ghinh-gát cho thế hệ tương lai hỏi là gì?",
+          "options": [
+            "Để làm chứng tích: Nước sông Gio-đan đã rẽ ra trước Hòm Bia Giao Ước của Chúa khi dân vượt sông",
+            "Để làm đá đẽo xây dựng bàn thờ đồng mới",
+            "Làm cột mốc ranh giới chi tộc chia đất",
+            "Để làm tường thành phòng thủ quân thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng chiến binh trang bị vũ khí của hai chi tộc rưỡi tiên phong vượt sông Gio-đan là bao nhiêu?",
+          "options": [
+            "Khoảng bốn mươi ngàn người (40.000 chiến binh tiên phong)",
+            "Mười ngàn người",
+            "Một trăm ngàn người",
+            "Năm ngàn người chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tượng xảy ra với dòng nước sông Gio-đan khi các tư tế khiêng Hòm Bia bước chân lên bờ sông phía Ca-na-an là gì?",
+          "options": [
+            "Nước sông Gio-đan lập tức trở lại vị trí cũ và tràn bờ như trước khi vượt",
+            "Dòng sông khô cạn vĩnh viễn không có nước nữa",
+            "Sông dâng sóng lớn cuốn trôi lính Ca-na-an",
+            "Sông biến thành đầm lầy muối diêm sinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en vượt sông Gio-đan và đóng trại tại Ghinh-gát vào ngày tháng nào?",
+          "options": [
+            "Ngày mồng mười tháng giêng (10 tháng 1 năm Do Thái)",
+            "Ngày mười lăm tháng giêng lễ vượt qua",
+            "Ngày mồng một tháng bảy lễ kèn thổi",
+            "Ngày mười tháng bảy ngày xá tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ của dân chúng đối với Giô-suê sau phép lạ vượt sông Gio-đan vĩ đại là gì?",
+          "options": [
+            "Họ kính sợ ông suốt đời ông như đã từng kính sợ ông Mô-sê",
+            "Họ oán trách ông vì đường đi quá mệt mỏi",
+            "Họ coi ông là thần linh giáng thế thờ lạy",
+            "Họ đòi lập tư tế Ê-la-da làm thủ lĩnh tối cao"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ vượt sông Gio-đan rẽ nước được Mô-sê/Giô-suê ví giống phép lạ lịch sử nào 40 năm trước?",
+          "options": [
+            "Phép lạ rẽ nước Biển Đỏ (Red Sea) cứu dân thoát Ai Cập",
+            "Phép lạ hóa nước ngọt từ đá Ca-đê",
+            "Phép lạ mưa man-na chim cút sa mạc",
+            "Phép lạ dập tắt ngọn lửa phạt Táp-bê-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích tối hậu của các phép lạ vượt sông được ghi nhận ở câu 24 đối với các dân ngoại bang là gì?",
+          "options": [
+            "Để mọi dân tộc trên mặt đất biết bàn tay Chúa oai hùng; và để các ngươi kính sợ Chúa vĩnh viễn",
+            "Để dọa dẫm quân địch đầu hàng không cần đánh",
+            "Để phô trương sức mạnh quân sự Ít-ra-en",
+            "Để tư tế Lê-vi dễ dàng thu thuế"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Thái độ của các vua A-mô-ri và Ca-na-an khi nghe tin Chúa rẽ nước sông Gio-đan cho Ít-ra-en vượt qua là gì?",
+          "options": [
+            "Lòng dạ họ rụng rời kinh hãi, không còn nhuệ khí tinh thần đối đầu Ít-ra-en",
+            "Họ lập liên minh tấn công Ghinh-gát bất ngờ",
+            "Họ dâng vàng bạc xin hòa nhập quốc tịch Do Thái",
+            "Họ thuê pháp sư nguyền rủa dòng sông Gio-đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa ra lệnh cho Giô-suê làm nghi thức gì cho toàn bộ nam giới sinh ra trong hoang địa?",
+          "options": [
+            "Dùng dao bằng đá thạch anh làm phép cắt bì cắt bì lần thứ hai cho dân",
+            "Làm phép rửa thanh tẩy bằng nước sông Gio-đan",
+            "Xức dầu thánh hiến phong làm chiến sĩ Chúa",
+            "Bắt họ ăn bánh không men nướng cát nóng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao thế hệ nam giới trẻ tuổi sinh ra hoang địa chưa được cắt bì suốt 40 năm?",
+          "options": [
+            "Vì thế hệ cũ rời Ai Cập đã qua đời, còn con cái sinh dọc đường hoang địa chưa được cắt bì",
+            "Vì họ thiếu dao đá sắc nhọn sa mạc",
+            "Vì luật Mô-sê cấm cắt bì khi đang di chuyển hoang địa",
+            "Vì tư tế A-hác-rôn bỏ quên luật lệ cắt bì"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh Ghinh-gát (Gilgal) mang ý nghĩa giải thích lời phán nào của Chúa?",
+          "options": [
+            "Hôm nay Ta đã lăn khỏi (cất khỏi) các ngươi nỗi nhơ nhục của người Ai Cập",
+            "Nơi dòng nước sông Gio-đan rẽ ra làm đôi",
+            "Đồi đá thạch anh làm dao cắt bì thánh",
+            "Nơi man-na ngừng rơi nuôi dưỡng dân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân Ít-ra-en mừng Lễ Vượt Qua đầu tiên tại Ca-na-an (Ghinh-gát) vào ngày tháng nào?",
+          "options": [
+            "Chiều ngày mười bốn tháng giêng (14 tháng 1 Do Thái Do Thái)",
+            "Ngày mồng mười tháng giêng đóng trại",
+            "Ngày mười lăm tháng giêng ăn bánh không men",
+            "Ngày mồng một tháng bảy thổi kèn đại lễ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự kiện nông nghiệp thiêng liêng nào kết thúc vĩnh viễn vào ngày hôm sau lễ vượt qua?",
+          "options": [
+            "Man-na ngừng rơi ngừng rơi từ trời; dân bắt đầu ăn thổ sản đất Ca-na-an",
+            "Mưa đá ngưng rụng tàn phá ruộng vườn",
+            "Nguồn nước từ tảng đá Ca-đê cạn kiệt",
+            "Cột mây cột lửa biến mất bầu trời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật oai nghiêm cầm gươm trần tay đứng đối diện Giô-suê gần Giê-ri-khô tự xưng là ai?",
+          "options": [
+            "Tổng lãnh binh của ĐỨC CHÚA (Commander of the army of the LORD)",
+            "Vua nước Ê-đôm đi tuần tra biên giới",
+            "Hồn ma của Mô-sê hiện về dặn dò",
+            "Pháp sư Ba-la-am chặn đường nguyền rủa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sứ thần Chúa yêu cầu Giô-suê làm hành động tôn kính nào giống Mô-sê tại bụi gai cháy?",
+          "options": [
+            "Cởi dép (giày) ra khỏi chân vì nơi ngươi đang đứng là đất thánh",
+            "Dâng lễ tế toàn thiêu một con chiên đực",
+            "Quỳ sụp xuống lạy sứ thần ba lạy",
+            "Trao cây gậy phép chỉ huy cho sứ thần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên đồi nơi thực hiện nghi thức cắt bì tập thể cho dân tại Ghinh-gát là gì?",
+          "options": [
+            "Ghi-vơ-át Ha-a-ra-lốt (Gibeah Haaraloth nghĩa là Đồi bao quy đầu)",
+            "Núi Nê-bô",
+            "Núi Ê-van",
+            "Đồi Ba-mốt Ba-al"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học của việc cắt bì và ăn lễ vượt qua trước khi đánh thành Giê-ri-khô là gì?",
+          "options": [
+            "Tái khẳng định giao ước đức tin; chuẩn bị tư thế tâm linh dân thánh trước trận chiến của Chúa",
+            "Để lính chiến đấu khỏe mạnh thể xác hơn",
+            "Theo tập tục truyền thống quân sự Ai Cập cổ",
+            "Để làm hài lòng kỹ nữ Ra-háp đồng minh"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Chiến thuật kỳ lạ Chúa truyền để đánh hạ thành Giê-ri-khô đóng cửa cẩn mật là gì?",
+          "options": [
+            "Đi vòng quanh thành mỗi ngày một lần trong sáu ngày; ngày thứ bảy đi bảy lần reo hò chiến thắng",
+            "Dùng chiến xa sắt húc sập tường thành ban đêm",
+            "Châm lửa thiêu cháy cửa thành từ ngoài",
+            "Đào đường hầm ngầm xâm nhập lòng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng tư tế đi trước Hòm Bia thổi kèn tù và (ram's horns) là bao nhiêu?",
+          "options": [
+            "Bảy tư tế thổi bảy chiếc kèn kèn tù và",
+            "Mười hai tư tế chi tộc",
+            "Hai tư tế thổi kèn bạc",
+            "Không có tư tế nào thổi kèn chỉ im lặng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Yêu cầu nghiêm ngặt đối với dân chúng khi đi vòng quanh thành trong sáu ngày đầu là gì?",
+          "options": [
+            "Cấm la hét, cấm phát ra tiếng động, cấm hé môi nói nửa lời; giữ im lặng tuyệt đối",
+            "Đồng thanh hát các bài ca chiến thắng suốt đường",
+            "Vừa đi vừa ném đá vào tường thành trêu tức",
+            "Chỉ tư tế Lê-vi được phép nói chuyện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tượng xảy ra ở ngày thứ bảy khi tiếng kèn vang dài và toàn dân hô lớn tiếng reo hò reo hò là gì?",
+          "options": [
+            "Tường thành Giê-ri-khô sụp đổ hoàn toàn hoàn toàn; dân xông thẳng vào chiếm thành",
+            "Một trận động đất nuốt chửng hoàng cung vua",
+            "Cột lửa từ trời thiêu rụi toàn bộ lính gác thành",
+            "Quân thù tự nguyện mở cửa thành đầu hàng xin tha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định đối với dân cư và tài sản bên trong thành Giê-ri-khô bị hiến tế tiêu diệt là gì?",
+          "options": [
+            "Giết sạch nam phụ lão ấu súc vật, thiêu hủy thành; chỉ giữ vàng bạc đồng sắt nộp kho đền tạm",
+            "Tha mạng toàn bộ phụ nữ trẻ con bắt làm nô dịch",
+            "Được lấy chia đều của cải làm giàu gia đình chiến sĩ",
+            "Chỉ thiêu hủy đền thờ thần ngoại còn lại tha mạng dân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là những người trong thành Giê-ri-khô được cứu sống hoàn toàn đúng giao ước thám tử?",
+          "options": [
+            "Kỹ nữ Ra-háp và toàn bộ gia đình gia đình bà cư ngụ trong nhà bà",
+            "Vua thành Giê-ri-khô và hoàng gia đầu hàng",
+            "Những người nghèo khổ làm thuê đốn củi",
+            "Không một ai sống sót tất cả bị tiêu diệt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời nguyền rủa nghiêm khắc của Giô-suê dành cho kẻ nào có ý định xây dựng lại thành Giê-ri-khô là gì?",
+          "options": [
+            "Phải mất con cả khi đặt nền, mất con út khi dựng cửa thành dựng cửa thành xây lại",
+            "Kẻ đó bị phạt phong cùi trắng ngay lập tức",
+            "Gia đình kẻ đó sẽ bị sét đánh thiêu hủy",
+            "Kẻ đó phải bị ném đá chết ngoài cổng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người đưa kỹ nữ Ra-háp và gia đình ra ngoài an toàn trước khi châm lửa đốt thành?",
+          "options": [
+            "Chính hai thám tử trẻ tuổi đã được bà che giấu che giấu trước đây",
+            "Đích thân tướng Giô-suê",
+            "Hội đồng tư tế dòng Lê-vi khiêng bia",
+            "Các bô lão trưởng tộc chi tộc Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật liệu kim loại quý báu cướp được từ Giê-ri-khô được cất giữ ở đâu?",
+          "options": [
+            "Nộp vào kho tàng của Nhà ĐỨC CHÚA (treasure of the LORD's house)",
+            "Chia đều cho 12 chi tộc làm của riêng",
+            "Đúc thành tượng bò vàng trang trí đền tạm",
+            "Tướng Giô-suê giữ riêng làm ngân sách chiến tranh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa chiến thắng Giê-ri-khô không dùng vũ lực thông thường là gì?",
+          "options": [
+            "Khẳng định chiến thắng thuộc về quyền năng đức tin và sự vâng phục mệnh lệnh Chúa tối cao",
+            "Chứng minh tường thành Giê-ri-khô xây dựng kém chất lượng",
+            "Vì quân Ca-na-an quá nhút nhát không dám đánh",
+            "Do kỹ nữ Ra-háp phản quốc mở cửa ngầm thành"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Ai là người phạm tội nghiêm trọng lén lút lấy đồ hiến tế bị nguyền rủa tại Giê-ri-khô?",
+          "options": [
+            "A-khan (Achan) con ông Các-mi thuộc chi tộc Giu-đa Giu-đa",
+            "Cô-rê dòng Lê-vi nổi loạn",
+            "Xim-ri thủ lĩnh tộc Si-môn",
+            "Con trai cả của tướng Giô-suê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hậu quả quân sự đầu tiên giáng xuống Ít-ra-en do tội lỗi của A-khan là gì?",
+          "options": [
+            "Thảm bại nhục nhã trước thành A-i (Ai), bị giết 36 người, quân sĩ rụng rời kinh hãi",
+            "Bị quân Mô-áp đánh úp cướp Hòm Bia Giao Ước",
+            "Hạn hán xảy ra làm khô cạn nguồn nước Ghinh-gát",
+            "Dịch bệnh bùng phát giết chết ba ngàn người chiến sĩ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng quân Ít-ra-en được cử đi đánh thành A-i ban đầu bị thất bại là bao nhiêu?",
+          "options": [
+            "Khoảng ba ngàn người (3.000 quân chiến đấu)",
+            "Mười ngàn người",
+            "Năm trăm người",
+            "Toàn bộ nam giới từ 20 tuổi trở lên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng đau đớn khóc lóc của Giô-suê trước thất bại thành A-i là gì?",
+          "options": [
+            "Xé áo mình, úp mặt xuống đất trước Hòm Bia cho đến chiều tối cùng bô lão rắc tro lên đầu",
+            "Nổi giận chém đầu các tướng chỉ huy trận",
+            "Tuyên bố hủy bỏ chiến dịch chiếm Ca-na-an quay về",
+            "Bắt dân ăn chay sám hối ba ngày đêm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa vạch trần lý do thất bại quân sự của Ít-ra-en trước thành A-i là gì?",
+          "options": [
+            "Ít-ra-en đã phạm tội; họ đã ăn cắp đồ hiến tế bị nguyền rủa và giấu trong hành lý hành lý",
+            "Vì quân lính thiếu vũ khí gươm giáo sắt",
+            "Vì Giô-suê chưa dâng hiến súc vật chuộc tội",
+            "Vì dân chúng lầm bầm oán trách man-na hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tang vật tội ác A-khan ăn cắp chôn giấu dưới lều gồm những vật phẩm gì?",
+          "options": [
+            "Một áo choàng xứ Sin-a đẹp, hai trăm si-clơ bạc và một thỏi vàng nặng năm mươi si-clơ",
+            "Một tượng bò vàng nhỏ bọc ngọc",
+            "Bình dầu xức thánh và đai áo ê-phốt tư tế",
+            "Mười si-clơ bạc thánh điện cướp đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phương pháp bốc thăm tìm ra tội nhân A-khan được tiến hành theo trật tự nào?",
+          "options": [
+            "Bốc thăm từ chi tộc, đến thị tộc, gia tộc và cuối cùng là cá nhân A-khan",
+            "Tướng Giô-suê tự chỉ định nghi phạm nghi ngờ",
+            "Nhờ tư tế Ê-la-da bói toán U-rim",
+            "Dân chúng tự bỏ phiếu tố giác tội phạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi thi hành án phạt ném đá chết và thiêu hủy hoàn toàn gia đình tài sản A-khan tên là gì?",
+          "options": [
+            "Thung lũng A-khô (Valley of Achor nghĩa là Khốn khổ / Tai họa)",
+            "Núi Ê-van",
+            "Cổng thành Giê-ri-khô",
+            "Thảo nguyên Mô-áp bên sông Gio-đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động cuối cùng đè lên xác A-khan sau khi bị ném đá thiêu hủy là gì?",
+          "options": [
+            "Dựng lên một đống đá lớn (vẫn còn tồn tại cho đến ngày nay)",
+            "Đốt hương trầm xông thơm tẩy uế đất đai",
+            "Xây dựng một bàn thờ đồng nhỏ ghi nhớ tội",
+            "Rải muối trắng diêm sinh xóa sạch dấu vết lều"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa giáo dục nghiêm khắc của sự kiện A-khan phạm tội là gì?",
+          "options": [
+            "Tội lỗi cá nhân ảnh hưởng nghiêm trọng đến sự sống còn cộng đoàn; đòi hỏi tính thánh hiến tuyệt đối",
+            "Cảnh cáo dân tránh việc trộm cắp vàng bạc đền tạm",
+            "Chứng minh sự công minh tối cao của tòa án Giô-suê",
+            "Để răn đe chi tộc Giu-đa không được tự mãn kiêu ngạo"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Chiến thuật quân sự Giô-suê dùng để đánh chiếm thành A-i lần thứ hai thành công là gì?",
+          "options": [
+            "Chiến thuật phục binh phục kích phía sau thành kết hợp nghi binh tấn công dụ địch ra ngoài",
+            "Đi vòng quanh thành giống Giê-ri-khô bảy ngày",
+            "Châm lửa thiêu hủy thành từ ngoài bằng chiến xa",
+            "Bao vây cắt nguồn nước ngọt thành phố dài ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng chiến binh tinh nhuệ được cử đi phục kích phía tây thành A-i ban đêm là bao nhiêu?",
+          "options": [
+            "Ba mươi ngàn chiến binh (30.000 người mai phục)",
+            "Mười ngàn người",
+            "Năm ngàn người",
+            "Ba ngàn người chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiệu lệnh cho phục binh xông vào chiếm thành phóng hỏa là hành động nào của Giô-suê?",
+          "options": [
+            "Giơ cao ngọn giáo (spear) trong tay về phía thành A-i",
+            "Thổi kèn tù và vang dội ba tiếng dài",
+            "Châm lửa đốt đống củi khô đầu dốc",
+            "Reo hò vang trời hô lớn tiếng chiến đấu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng cư dân thành A-i bị tiêu diệt hoàn toàn sau trận chiến là bao nhiêu người?",
+          "options": [
+            "Mười hai ngàn người (12.000 người nam phụ lão ấu)",
+            "Ba mươi ngàn người",
+            "Năm ngàn người",
+            "Không thống kê cụ thể"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt dành cho vua thành A-i bị bắt sống làm tù binh là gì?",
+          "options": [
+            "Treo cổ trên cây cho đến chiều tối; hạ xác chôn cổng thành dưới đống đá lớn",
+            "Chém đầu công khai trước mắt toàn dân",
+            "Bắt làm nô lệ đền tạm chăn súc vật vĩnh viễn",
+            "Phạt nộp phạt tiền vàng dâng Chúa chuộc mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến lợi phẩm súc vật tài sản thành A-i có được phép dân giữ làm của riêng không?",
+          "options": [
+            "Có, súc vật và tài sản được phép chia nhau làm chiến lợi phẩm theo lệnh Chúa Chúa",
+            "Cấm tuyệt đối phải hiến tế tiêu hủy hoàn toàn giống Giê-ri-khô",
+            "Chỉ các tư tế Lê-vi mới được hưởng dùng tài sản đó",
+            "Dâng nộp toàn bộ làm quỹ đền tạm trung tâm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê đã dựng bàn thờ Chúa ở ngọn núi nào sau chiến thắng thành A-i?",
+          "options": [
+            "Núi Ê-van (Mount Ebal nơi Mô-sê dặn dựng bàn thờ đá)",
+            "Núi Gơ-ri-dim",
+            "Núi Xi-nai",
+            "Núi Nê-bô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê đã làm gì trên các tảng đá bàn thờ núi Ê-van trước toàn dân?",
+          "options": [
+            "Viết sao chép bản luật pháp Mô-sê và đọc toàn bộ lời chúc phúc chúc dữ chúc dữ",
+            "Đúc tượng rắn đồng treo lên cột cao",
+            "Khắc tên 12 chi tộc Do Thái ghi nhớ",
+            "Cất giấu vàng bạc chiến lợi phẩm cướp được"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật liệu xây dựng bàn thờ đá trên núi Ê-van tuân giữ luật Mô-sê thế nào?",
+          "options": [
+            "Xây bằng đá tự nhiên nguyên khối chưa từng dùng công cụ sắt đẽo gọt chạm chạm",
+            "Xây bằng gạch nung lò Ai Cập cổ",
+            "Xây dựng đền tạm bằng gỗ keo bọc vàng",
+            "Dùng đá lát cẩm thạch bọc xung quanh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại hội toàn dân đọc luật pháp trên núi Ê-van bao gồm cả đối tượng xã hội nào tham dự?",
+          "options": [
+            "Toàn thể cộng đoàn, phụ nữ, trẻ em và cả ngoại kiều cư ngụ giữa họ họ",
+            "Chỉ nam giới chiến binh từ 20 tuổi trở lên",
+            "Chỉ hàng tư tế dòng Lê-vi và bô lão kỳ mục",
+            "Cấm phụ nữ và trẻ em tham dự nghi lễ thánh"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Cư dân thành phố nào dùng mưu kế lừa gạt Giô-suê để xin lập ước hòa bình sống sót?",
+          "options": [
+            "Cư dân thành Ghi-vơ-on (Gibeonites người Khi-vi)",
+            "Cư dân thành Giê-ri-khô",
+            "Cư dân thành A-i",
+            "Cư dân vương quốc Mô-áp ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mưu kế hóa trang lừa gạt của người Ghi-vơ-on bao gồm những chi tiết vật dụng nào?",
+          "options": [
+            "Mặc quần áo rách nát, giày vá víu, mang bao tải cũ, bầu rượu nho rách và bánh mốc khô mốc khô",
+            "Hóa trang thành người chăn cừu dòng tộc Ê-sau",
+            "Đeo trang sức vàng giả xin đầu hàng",
+            "Mang theo binh khí gãy hỏng xin nộp phạt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người Ghi-vơ-on tự xưng là từ đâu đến để lừa gạt ban lãnh đạo Ít-ra-en?",
+          "options": [
+            "Từ một phương trời rất xa xôi đến vì nghe Danh Chúa làm phép lạ Ai Cập",
+            "Từ miền nam đất hứa Ca-na-an trù phú",
+            "Từ hoàng cung vua Ai Cập đi tị nạn",
+            "Từ vùng sa mạc Xi-nai hoang vu cát nóng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sai lầm nghiêm trọng của Giô-suê và các thủ lĩnh khi tiếp đón phái đoàn Ghi-vơ-on là gì?",
+          "options": [
+            "Họ ăn lương thực của người Ghi-vơ-on mà không hỏi ý kiến ĐỨC CHÚA (không dò hỏi ý Chúa)",
+            "Họ tịch thu toàn bộ vàng bạc của họ bắt giam",
+            "Họ cho phép họ vào doanh trại xem Hòm Bia",
+            "Họ gả con gái chi tộc cho họ làm vợ liên minh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sau bao nhiêu ngày lập ước hòa bình, Ít-ra-en phát hiện họ là láng giềng gần bên?",
+          "options": [
+            "Ba ngày (3 ngày phát hiện sự thật)",
+            "Bảy ngày",
+            "Mười ngày",
+            "Một tháng trọn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao dân chúng Ít-ra-en lầm bầm oán trách các thủ lĩnh khi biết bị lừa dối?",
+          "options": [
+            "Vì dân muốn giết chết họ cướp của cải, nhưng các thủ lĩnh cấm vì đã thề nhân danh Chúa",
+            "Vì các thủ lĩnh chia chiến lợi phẩm không đều",
+            "Vì sợ bị dịch bệnh nguyền rủa lây lan lều",
+            "Vì người Ghi-vơ-on không chịu cắt bì chịu luật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê quyết định xử phạt người Ghi-vơ-on thế nào về vị thế xã hội dịch vụ?",
+          "options": [
+            "Tha mạng nhưng phạt làm nô dịch đốn củi và xách nước cho cộng đoàn và bàn thờ Chúa vĩnh viễn",
+            "Trục xuất toàn bộ họ ra ngoài biên giới hoang địa",
+            "Bắt phạt nộp một trăm si-clơ vàng thuế hàng năm",
+            "Bắt họ chịu phép cắt bì làm binh lính phụ tá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người Ghi-vơ-on giải thích lý do họ phải dùng mưu kế lừa gạt là gì?",
+          "options": [
+            "Vì họ nghe biết Chúa lệnh tiêu diệt hết cư dân xứ nầy; họ lo sợ mất tính mạng mạng",
+            "Vì họ muốn cướp Hòm Bia Giao Ước bí mật",
+            "Vì họ thích đạo thờ Chúa độc thần giao ước",
+            "Vì vua thành Giê-ri-khô ép buộc họ đi do thám"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mối quan hệ cam kết lập ước hòa bình giữa hai bên được ký kết gọi là gì?",
+          "options": [
+            "Hòa ước lập giao ước hòa bình (cắt máu ăn thề nhân danh Chúa)",
+            "Hiệp ước liên minh quân sự chống vua miền bắc",
+            "Hợp đồng kinh tế thương mại biên giới",
+            "Hiến pháp tôn giáo sáp nhập giáo dân ngoại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành Ghi-vơ-on được mô tả thế nào về quy mô thành trì thời đó?",
+          "options": [
+            "Một thành lớn như vương đô, lớn hơn thành A-i và chiến binh của họ rất dũng mãnh dũng mãnh",
+            "Một làng quê nghèo nàn chăn súc vật nhỏ",
+            "Một thành trì đổ nát hoang tàn không tường bao",
+            "Kinh đô lớn nhất miền bắc Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Vua thành Giê-ru-sa-lem liên minh với 4 vua A-mô-ri tấn công thành Ghi-vơ-on tên là gì?",
+          "options": [
+            "A-đô-ni-xê-đéc (Adoni-zedek vua Giê-ru-sa-lem cổ)",
+            "Vua Xi-hôn",
+            "Vua Og Ba-san",
+            "Vua Ba-lác Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do liên minh năm vua A-mô-ri quyết định trừng phạt thành Ghi-vơ-on là gì?",
+          "options": [
+            "Vì Ghi-vơ-on đã hàng và lập ước hòa bình với Giô-suê và Ít-ra-en",
+            "Vì Ghi-vơ-on cướp mỏ đồng biên giới của họ",
+            "Vì Ghi-vơ-on muốn giành ngôi bá chủ Ca-na-an",
+            "Vì người Ghi-vơ-on đổi đạo thờ bò vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa làm phép lạ thiên nhiên giáng xuống trút chết nhiều quân địch hơn gươm giáo Ít-ra-en là gì?",
+          "options": [
+            "Cơn mưa đá khổng lồ (hailstones) từ trời dội xuống đầu quân thù chạy trốn",
+            "Một trận động đất nuốt chửng quân trại địch",
+            "Lửa diêm sinh thiêu cháy quân địch thung lũng",
+            "Nước lũ sông Gio-đan tràn bờ cuốn trôi địch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu nguyện lịch sử độc nhất vô nhị của Giô-suê bắt thực thể vũ trụ nào dừng lại?",
+          "options": [
+            "Mặt trời dừng lại trên Ghi-vơ-on, Mặt trăng đứng yên trên thung lũng Ai-gia-lôn",
+            "Dòng sông Gio-đan ngưng chảy ngược thượng nguồn",
+            "Cột mây khổng lồ đứng im che mát quân sĩ",
+            "Sét đánh thiêu rụi kinh đô Giê-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mặt trời đứng yên giữa trời không lặn trong khoảng thời gian bao lâu?",
+          "options": [
+            "Gần một ngày trọn (nearly a full day kéo dài ngày chiến thắng)",
+            "Khoảng ba giờ đồng hồ",
+            "Suốt một tuần lễ liên tục",
+            "Chỉ một tiếng rồi lặn ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Năm vua A-mô-ri chiến bại trốn tránh bên trong địa danh hang đá nào?",
+          "options": [
+            "Hang đá Ma-khe-đah (Cave of Makkedah)",
+            "Hang đá A-đu-lam",
+            "Hang đá núi Xi-nai hoang vu",
+            "Hang đá thung lũng A-khô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi thức chiến thắng oai phong Giô-suê bảo các tướng lãnh làm trên cổ năm vua là gì?",
+          "options": [
+            "Đặt bàn chân lên cổ các vua bại trận biểu thị sự khuất phục chiến thắng hoàn toàn",
+            "Cạo trọc đầu cắt rìa râu năm vua nhục nhã",
+            "Bắt họ quỳ lạy Hòm Bia Giao Ước tạ tội",
+            "Cho họ uống nước suối suối đắng thanh lọc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt xử tử năm vua A-mô-ri bị bắt giữ là gì?",
+          "options": [
+            "Xử tử hình treo cổ trên năm cây gỗ cho đến chiều tối chôn hang đá trốn",
+            "Chém đầu bằng gươm tuốt trần ngay cổng thành",
+            "Trục xuất họ sang Ai Cập làm nô lệ vĩnh viễn",
+            "Phạt nộp phạt một ngàn si-clơ vàng chuộc mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê thực hiện hành quân đêm bất ngờ đánh cứu Ghi-vơ-on khởi hành từ đâu?",
+          "options": [
+            "Từ doanh trại Ghinh-gát (Gilgal hành quân suốt đêm)",
+            "Từ bờ sông Gio-đan đóng trại",
+            "Từ thành cổ Giê-ri-khô",
+            "Từ thung lũng A-khô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự kiện mặt trời dừng lại trong lịch sử đức tin là gì?",
+          "options": [
+            "Chứng minh Chúa nghe lời cầu nguyện của con người, chính Chúa chiến đấu bảo vệ Ít-ra-en",
+            "Chứng tỏ Giô-suê có phép thuật điều khiển thiên văn",
+            "Để chiến sĩ có thêm thời gian thu dọn vàng bạc",
+            "Để tư tế Lê-vi kịp dâng lễ tế chiều tối"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Vua vương quốc miền bắc đứng đầu liên minh chống Ít-ra-en tên là gì và cai trị thành nào?",
+          "options": [
+            "Vua Gia-vin (Jabin) cai trị thành Kha-xo (Hazor kinh đô miền bắc)",
+            "Vua A-đô-ni-xê-đéc Giê-ru-sa-lem",
+            "Vua Ốc xứ Ba-san khổng lồ",
+            "Vua Xi-hôn nước Hét-bôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy mô quân đội liên minh miền bắc Ca-na-an tập hợp được miêu tả thế nào?",
+          "options": [
+            "Đông đúc như cát bờ biển (multitude like sand on the seashore) cùng nhiều ngựa chiến xe chiến",
+            "Khoảng mười ngàn lính bộ binh nhẹ",
+            "Không có chiến xa chỉ có lính chăn súc",
+            "Chỉ bằng một nửa quân số Ít-ra-en"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa điểm nguồn nước nơi liên minh quân miền bắc đóng trại dàn trận chiến đấu là gì?",
+          "options": [
+            "Nguồn nước Mê-rôm (Waters of Merom)",
+            "Sông Gio-đan bến vượt",
+            "Nguồn suối ngọt Ca-đê hoang địa",
+            "Biển hồ Kơ-ne-rét Ga-li-lê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa truyền lệnh cho Giô-suê phải xử lý ngựa và chiến xa cướp được của địch thế nào?",
+          "options": [
+            "Cắt gân chân ngựa và thiêu hủy chiến xa bằng lửa lửa (cấm cất giữ làm phương tiện kiêu ngạo)",
+            "Mang ngựa về Ai Cập bán lấy vàng bạc",
+            "Nuôi dưỡng ngựa dùng làm lực lượng kỵ binh Do Thái",
+            "Dâng nộp ngựa làm súc vật tế lễ toàn thiêu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận thành Kha-xo (Hazor) đầu sỏ liên minh miền bắc sau khi bị chiếm đóng là gì?",
+          "options": [
+            "Giết sạch dân cư bằng gươm và phóng hỏa thiêu rụi thành hoàn toàn",
+            "Chỉ tịch thu tài sản tha mạng người bắt nộp thuế",
+            "Cho phép họ đầu hàng giữ nguyên thành trì",
+            "Trở thành thành phố ẩn nấp tư tế Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ít-ra-en có thiêu hủy các thành trì xây trên đồi cao miền bắc khác không?",
+          "options": [
+            "Không, họ chỉ thiêu rụi thành Kha-xo còn các thành khác giữ nguyên đóng chiếm",
+            "Họ đốt sạch toàn bộ thành trì miền bắc hoang tàn",
+            "Họ giao cho người Ghi-vơ-on trông coi",
+            "Họ đập vỡ tường thành rồi bỏ đi Ghinh-gát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bộ tộc người khổng lồ hung tợn bị Giô-suê tiêu diệt sạch khỏi vùng núi Ca-na-an tên là gì?",
+          "options": [
+            "Dân A-nác-rim (Anakim người khổng lồ vùng núi)",
+            "Dân A-ma-lếch",
+            "Dân Mô-áp ngoại bang",
+            "Dân Khi-vi thành Ghi-vơ-on"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người khổng lồ A-nác-rim chỉ còn sót lại ở những thành phố Phi-li-tinh nào bờ biển?",
+          "options": [
+            "Gát (Gath), Ga-sa (Gaza) và Át-đốt (Ashdod)",
+            "Giê-ru-sa-lem, Giê-ri-khô, A-i",
+            "Hét-bôn, Ba-san, Ê-đơ-rê-i",
+            "Sít-tim, Ghinh-gát, Ca-đê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kết luận ở cuối chương 11 ghi nhận tình trạng chiến sự miền Ca-na-an thế nào?",
+          "options": [
+            "Xứ sở được bình yên bình yên vô sự không còn chiến tranh chiến đấu định cư chia đất",
+            "Chiến tranh kéo dài liên tục không dứt",
+            "Dân Do Thái bị đánh bại phải rút lui Gio-đan",
+            "Chúa cấm chia đất bắt dân đi lang thang hoang địa tiếp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Chúa làm cho tâm lòng các vua Ca-na-an cứng cỏi quyết định giao chiến với Ít-ra-en là gì?",
+          "options": [
+            "Để họ bị tiêu diệt hoàn toàn hoàn toàn không được thương xót đúng lệnh Chúa truyền Mô-sê",
+            "Vì họ muốn cướp vàng bạc trang sức dân Do Thái",
+            "Vì họ tin tưởng bùa phép pháp sư tiên tri giả",
+            "Vì họ ghét đạo thờ Chúa độc thần giao ước"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Số lượng vua bị đánh bại ở phía đông sông Gio-đan thời ông Mô-sê chỉ huy là bao nhiêu?",
+          "options": [
+            "Hai vua (Xi-hôn nước Hét-bôn và Ốc vương quốc Ba-san)",
+            "Mười hai vua chi tộc",
+            "Năm vua liên minh A-mô-ri",
+            "Không có vua nào bị đánh bại đông Gio-đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tổng số lượng vua Ca-na-an bị Giô-suê đánh bại ở phía tây sông Gio-đan liệt kê là bao nhiêu?",
+          "options": [
+            "Ba mươi mốt vua (31 kings bại trận)",
+            "Mười hai vua",
+            "Hai mươi vua chẵn",
+            "Năm mươi vua lớn nhỏ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua đầu tiên bị Giô-suê đánh bại phía tây sông Gio-đan mở màn chiến thắng là vua thành nào?",
+          "options": [
+            "Vua thành Giê-ri-khô (king of Jericho)",
+            "Vua thành A-i",
+            "Vua thành Giê-ru-sa-lem",
+            "Vua thành Kha-xo miền bắc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua thứ hai trong danh sách bị Giô-suê đánh bại là vua thành nào?",
+          "options": [
+            "Vua thành A-i (king of Ai cạnh Bê-then)",
+            "Vua thành Kép-rôn",
+            "Vua thành La-khis",
+            "Vua thành Ghi-vơ-on"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vùng đất phía đông sông Gio-đan chiếm được từ hai vua đã được Mô-sê chia cho những ai?",
+          "options": [
+            "Chi tộc Ru-bên, Gát và nửa chi tộc Man-na-se làm sản nghiệp",
+            "Chi tộc Giu-đa, Bên-gia-min và Lê-vi",
+            "Tất cả 12 chi tộc bốc thăm chia đều",
+            "Giữ làm đất công đền tạm chăn cừu tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ranh giới địa lý phía nam của vùng đất chiếm được phía đông sông Gio-đan giáp với thung lũng nào?",
+          "options": [
+            "Thung lũng sông A-nôn (Arnon Valley)",
+            "Sông Nin Ai Cập",
+            "Sông Ki-sôn",
+            "Sông Giáp-bốc biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ranh giới địa lý phía bắc của vùng đất chiếm được phía đông sông Gio-đan vươn tới núi nào?",
+          "options": [
+            "Núi Khe-môn (Mount Hermon)",
+            "Núi Xi-nai",
+            "Núi Ho",
+            "Núi Mô-ri-gia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người chỉ huy đánh bại vương quốc của vua Ốc xứ Ba-san khổng lồ cổ đại?",
+          "options": [
+            "Mô-sê tôi trung của Chúa (Moses)",
+            "Tướng Giô-suê",
+            "Tư tế Ê-la-da",
+            "Chiến binh Ca-lếp trẻ tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị thế địa lý của 31 vua bại trận nằm ở phía nào của sông Gio-đan?",
+          "options": [
+            "Ở phía Tây sông Gio-đan (đất Ca-na-an chính thức)",
+            "Ở phía Đông sông Gio-đan",
+            "Vùng sa mạc Xi-nai hoang vu",
+            "Bên bờ sông Nin Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích cuốn danh sách 31 vua bại trận chép chi tiết ở chương 12 là gì?",
+          "options": [
+            "Ghi nhận lịch sử hoàn thành lời hứa của Chúa; khẳng định sự thành tín tuyệt đối của giao ước",
+            "Để phô trương thành tích quân sự của Giô-suê",
+            "Làm tài liệu giảng dạy sử học đền thờ Do Thái",
+            "Để tư tế Lê-vi tính toán thuế đất chi tộc"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Chúa dặn ông Giô-suê khi ông đã già cao tuổi phải làm gì đối với miền đất hứa chưa đánh chiếm hết?",
+          "options": [
+            "Phân chia miền đất nầy làm sản nghiệp sản nghiệp cho chín chi tộc và nửa chi tộc Man-na-se",
+            "Tiếp tục dẫn quân ra trận chiến đấu cho đến chết",
+            "Ký hòa ước nhường đất cho dân bản địa Ca-na-an",
+            "Nhờ tư tế Lê-vi cai quản toàn bộ đất đai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc nào hoàn toàn không được Mô-sê chia phần sản nghiệp đất đai phía đông sông Gio-đan?",
+          "options": [
+            "Chi tộc Lê-vi (tribe of Levi vì chính các lễ dâng Chúa là sản nghiệp của họ)",
+            "Chi tộc Ru-bên",
+            "Chi tộc Gát",
+            "Nửa chi tộc Man-na-se"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật pháp sư ngoại bang nào bị quân Ít-ra-en dùng gươm giết chết được nhắc lại ở chương 13?",
+          "options": [
+            "Pháp sư Ba-la-am (Balaam) con ông Bơ-o",
+            "Vua Ba-lác Mô-áp",
+            "Thủ lĩnh Cô-rê phản loạn",
+            "Vua Xi-hôn nước Hét-bôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ranh giới đất đai chia cho chi tộc Gát phía đông Gio-đan bao gồm vùng đất nổi tiếng nào?",
+          "options": [
+            "Một nửa vùng đất Ga-la-át (Gilead) chăn nuôi",
+            "Đồng bằng Giê-ri-khô thành chà là",
+            "Toàn bộ vương quốc vua Ốc xứ Ba-san",
+            "Sa mạc hoang địa Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đất đai chi tộc Ru-bên nhận đóng trại bao gồm kinh đô của vua Xi-hôn tên là gì?",
+          "options": [
+            "Thành Hét-bôn (Heshbon)",
+            "Thành Kha-xo",
+            "Thành Giê-ru-sa-lem",
+            "Thành Ma-khe-đah"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nửa chi tộc Man-na-se nhận đất phía đông sông Gio-đan là dòng dõi của ai?",
+          "options": [
+            "Dòng dõi Ma-khia (Machir) con Man-na-se",
+            "Dòng dõi Ép-ra-im em trai",
+            "Dòng dõi tư tế Ê-la-da",
+            "Dòng dõi Ghẹt-sôm con Mô-sê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao việc nhắc lại phân chia đất đông sông Gio-đan của Mô-sê lại quan trọng ở chương 13?",
+          "options": [
+            "Để hợp pháp hóa quyền sở hữu đất đai của hai chi tộc rưỡi đã cam kết hoàn thành nghĩa vụ chiến đấu",
+            "Để Mô-sê không bị dân chúng lãng quên",
+            "Để chuẩn bị xây dựng Hòm Bia mới",
+            "Theo yêu cầu bốc thăm lại đất đai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thung lũng sông ranh giới phía nam đất chia cho chi tộc Ru-bên là gì?",
+          "options": [
+            "Thung lũng sông A-nôn (Arnon)",
+            "Sông Gio-đan",
+            "Sông Nin Ai Cập",
+            "Sông Giáp-bốc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đặc quyền về sản nghiệp của người Lê-vi được nhắc lại thế nào ở câu 33?",
+          "options": [
+            "Chính ĐỨC CHÚA, Thiên Chúa của Ít-ra-en, là sản nghiệp của họ của họ",
+            "Họ được dâng một phần mười số vàng bạc cướp được",
+            "Họ được chia thành phố rộng lớn nhất Ca-na-an",
+            "Họ được làm vua cai trị tâm linh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua vương quốc Ba-san khổng lồ có đất đai chia cho nửa Man-na-se tên là gì?",
+          "options": [
+            "Vua Ốc (Og vương quốc Ba-san)",
+            "Vua Xi-hôn",
+            "Vua Gia-vin Kha-xo",
+            "Vua A-rát"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Ai là ba người chủ trì phái đoàn bốc thăm chia đất hứa Ca-na-an cho các chi tộc?",
+          "options": [
+            "Tư tế Ê-la-da, tướng Giô-suê và các thủ lãnh gia tộc các chi tộc",
+            "Ông Mô-sê, thượng tế A-hác-rôn và kỳ mục",
+            "Mười hai phán quan bô lão tự họp chia",
+            "Đích thân Thiên Chúa hiện xuống tự chia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật trung thành nào đến Ghinh-gát đòi phần sản nghiệp đất đai Chúa hứa 45 năm trước?",
+          "options": [
+            "Thủ lĩnh Ca-lếp (Caleb) con ông Giơ-phun-nê",
+            "Quan tướng Giô-suê",
+            "Tư tế Phi-nê-ha",
+            "Thủ lĩnh Nác-sôn chi tộc Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ca-lếp nhắc lại sự kiện lịch sử nào tại Ca-đê-ba-nê-a khi ông đi do thám Ca-na-an?",
+          "options": [
+            "Tôi đã báo cáo trung thực theo lương tâm hết lòng đi theo Chúa dẫu mười thám tử kia làm nản lòng dân",
+            "Tôi đã tự tay giết chết khổng lồ Anak",
+            "Tôi đã cướp được bản đồ chia đất của Ca-na-an",
+            "Tôi đã ngăn cản dân đúc tượng bò vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tuổi đời của Ca-lếp khi ông đến xin chia đất Hép-rôn làm sản nghiệp là bao nhiêu?",
+          "options": [
+            "Tám mươi lăm tuổi (85 tuổi vẫn khỏe mạnh dũng mãnh)",
+            "Bốn mươi tuổi",
+            "Bốn mươi lăm tuổi",
+            "Một trăm tuổi tròn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ca-lếp tự đánh giá sức khỏe thể chất chiến đấu của mình ở tuổi 85 thế nào?",
+          "options": [
+            "Tôi vẫn khỏe mạnh dũng mãnh dũng mãnh như lúc 40 tuổi đi do thám sẵn sàng ra trận",
+            "Tôi đã già yếu không thể tự đi bộ cày ruộng",
+            "Tôi cần con trai chiến đấu thay thế tôi",
+            "Tôi bị phong cùi nhẹ tay chân run rẩy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vùng đất đồi núi đá cao có dân khổng lồ Anakim sinh sống Ca-lếp xin chinh phục là gì?",
+          "options": [
+            "Vùng núi Hép-rôn (Hebron / Kiriath-arba)",
+            "Thung lũng Ê-sơ-côn",
+            "Thành trì Giê-ri-khô",
+            "Vùng núi Ê-van viết luật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên cổ của thành Hép-rôn nghĩa là thành phố của vị anh hùng lớn nhất dân Anakim là gì?",
+          "options": [
+            "Ki-ri-át A-bá (Kiriath-arba)",
+            "Ki-ri-át Xê-pher",
+            "Thim-nát-xê-rách",
+            "Si-lô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động chúc lành của Giô-suê dành cho Ca-lếp khi chia đất là gì?",
+          "options": [
+            "Giô-suê chúc phúc cho Ca-lếp và trao Hép-rôn cho ông làm sản nghiệp sản nghiệp",
+            "Giô-suê bắt ông nộp mười si-clơ vàng thuế đất",
+            "Giô-suê cự tuyệt đòi bốc thăm công bằng",
+            "Giô-suê xức dầu phong ông làm vua Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Ca-lếp được nhận đất đai đặc cách không cần qua bốc thăm chung?",
+          "options": [
+            "Vì ông đã hoàn toàn trung thành đi theo ĐỨC CHÚA, Thiên Chúa của Ít-ra-en",
+            "Vì ông là người cao tuổi nhất doanh trại",
+            "Vì ông là họ hàng thân thuộc của tướng Giô-suê",
+            "Vì ông đóng góp nhiều vàng bạc cho đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khoảng thời gian lang thang hoang địa kể từ khi Chúa hứa ban đất cho Ca-lếp đến nay là bao lâu?",
+          "options": [
+            "Bốn mươi lăm năm (45 năm trung tín)",
+            "Bốn mươi năm trọn",
+            "Ba mươi tám năm",
+            "Mười năm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "Chi tộc lớn nào nhận phần đất sản nghiệp đầu tiên phía tây sông Gio-đan?",
+          "options": [
+            "Chi tộc Giu-đa (tribe of Judah)",
+            "Chi tộc Ép-ra-im",
+            "Chi tộc Bên-gia-min",
+            "Chi tộc Si-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ranh giới biên giới phía Đông của đất chi tộc Giu-đa giáp với nguồn nước nào?",
+          "options": [
+            "Biển Muối (Dead Sea / Biển Chết) cho đến cửa sông Gio-đan",
+            "Biển Lớn Địa Trung Hải",
+            "Dòng sông Nin Ai Cập",
+            "Hồ nước ngọt Ga-li-lê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ca-lếp đã treo giải thưởng gì cho chiến binh nào đánh chiếm được thành Đê-bi (Kiriath-sepher)?",
+          "options": [
+            "Sẽ gả con gái Ạc-sa (Achsah) làm vợ làm vợ cưới gả",
+            "Sẽ tặng một hòm vàng chiếm được thành",
+            "Sẽ chia một nửa đất đai Hép-rôn làm sản nghiệp",
+            "Sẽ phong làm chỉ huy quân đội chi tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến binh dũng cảm cháu Ca-lếp đã chiếm được thành Đê-bi cưới con gái ông là ai?",
+          "options": [
+            "Ốt-ni-ên (Othniel) con ông Cơ-nát em Ca-lếp",
+            "Giô-suê con ông Nun",
+            "Ca-lếp con ông Giơ-phun-nê",
+            "Nác-sôn con Am-mi-na-đáp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món quà cưới bổ sung Ạc-sa xin cha Ca-lếp ban tặng kèm đất đai miền nam khô cằn là gì?",
+          "options": [
+            "Nguồn nước ngầm trên cao và nguồn nước ngầm dưới thấp dưới thấp (suối nước ngọt)",
+            "Mười con lừa bọc yên quý",
+            "Một hòm trang sức vàng Ai Cập",
+            "Một bầy cừu trắng một tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bộ tộc bản địa cư ngụ thành Giê-ru-sa-lem mà chi tộc Giu-đa không thể trục xuất được là dân gì?",
+          "options": [
+            "Người Giê-vu-si (Jebusites sống chung với dân Giu-đa tại Giê-ru-sa-lem)",
+            "Người Philistine",
+            "Người A-ma-lếch",
+            "Người Khi-vi thành Ghi-vơ-on"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố đồi núi đá cao Hép-rôn thuộc ranh giới đất đai chi tộc nào?",
+          "options": [
+            "Chi tộc Giu-đa (Judah)",
+            "Chi tộc Bên-gia-min",
+            "Chi tộc Ép-ra-im",
+            "Chi tộc Si-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên gọi khác của thành Hép-rôn trong cựu ước là gì?",
+          "options": [
+            "Ki-ri-át A-bá (Kiriath-arba)",
+            "Ki-ri-át Xê-pher",
+            "Đê-bi",
+            "Gia-đe"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Biên giới phía Tây của chi tộc Giu-đa chạm tới đại dương nào?",
+          "options": [
+            "Biển Lớn (Địa Trung Hải) và vùng ven biển",
+            "Biển Chết",
+            "Biển Đỏ",
+            "Hồ Ga-li-lê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng ba con trai người khổng lồ Anak bị Ca-lếp đánh đuổi khỏi Hép-rôn là ai?",
+          "options": [
+            "Sê-sai, A-khi-man và Tôn-mai (con của Anak)",
+            "Vua Xi-hôn, Ốc và A-rát",
+            "A-đô-ni-xê-đéc và liên minh",
+            "Cô-rê, Đa-than và A-vi-ram"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "questions": [
+        {
+          "text": "Con cái ông Giô-sép (Ép-ra-im và Man-na-se) nhận phần đất bốc thăm bắt đầu từ sông nào?",
+          "options": [
+            "Sông Gio-đan (Jordan River đối diện Giê-ri-khô)",
+            "Sông Nin Ai Cập",
+            "Sông Ơ-phơ-rát",
+            "Sông Ki-sôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ranh giới đất đai chia cho chi tộc Ép-ra-im có đi qua thành phố tôn giáo nổi tiếng nào?",
+          "options": [
+            "Thành phố Bê-then (Bethel / Lu-dơ)",
+            "Thành phố Giê-ru-sa-lem",
+            "Thành phố Hép-rôn",
+            "Thành phố Giê-ri-khô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc Ép-ra-im phạm sai lầm gì đối với người Ca-na-an cư ngụ tại Ghe-ze?",
+          "options": [
+            "Họ không trục xuất được người Ca-na-an; bắt họ làm nô dịch đóng thuế nô dịch đóng thuế",
+            "Họ liên minh kết hôn tự do thờ thần ngoại bang",
+            "Họ bị người Ca-na-an đánh đuổi cướp đất",
+            "Họ nộp phạt tiền vàng xin người Ca-na-an cho ở nhờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh Ghe-ze nằm ở biên giới phía nào của chi tộc Ép-ra-im?",
+          "options": [
+            "Biên giới phía Tây",
+            "Biên giới phía Đông",
+            "Biên giới phía Nam",
+            "Biên giới phía Bắc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên của thành phố biên giới quan trọng nơi chia đất Ép-ra-im giáp Man-na-se là gì?",
+          "options": [
+            "Ta-a-nát Si-lô (Taanath-shiloh)",
+            "Giê-ri-khô",
+            "Bê-then",
+            "Ghe-ze"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Họ hàng con cái Giô-sép đại diện cho mấy chi tộc chính?",
+          "options": [
+            "Hai chi tộc (Ép-ra-im và Man-na-se dòng Giô-sép)",
+            "Một chi tộc duy nhất",
+            "Ba chi tộc lớn",
+            "Không có chi tộc nào"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị thế địa lý đất đai chi tộc Ép-ra-im nằm ở vùng nào Ca-na-an?",
+          "options": [
+            "Vùng trung tâm đồi núi đồi núi Ca-na-an",
+            "Vùng bờ biển Địa Trung Hải phía nam",
+            "Vùng sa mạc hoang dã phía nam",
+            "Phía đông sông Gio-đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người Ca-na-an sống ở Ghe-ze tiếp tục sống chung với Ép-ra-im cho đến thời điểm nào?",
+          "options": [
+            "Cho đến ngày nay (vẫn làm nô lệ chịu thuế đóng thuế)",
+            "Cho đến khi vua Sa-lô-môn phá hủy thành",
+            "Cho đến Năm Hân Hoan kế tiếp",
+            "Họ tự bỏ đi sau mười năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh giếng nước nóng hoặc dòng suối ngọt biên giới Ép-ra-im phía đông là gì?",
+          "options": [
+            "Nguồn nước Na-a-ra (Naarah)",
+            "Nước Mê-ri-va",
+            "Nước ngọt Ê-lim",
+            "Giếng nước Bê-e"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chia đất cho con cái Giô-sép đầu tiên đại diện điều gì?",
+          "options": [
+            "Tôn kính vị thế ưu tiên của dòng dõi Giô-sép người cứu sống cả dòng họ bên Ai Cập",
+            "Vì quân số chiến binh Giô-sép đông nhất",
+            "Vì Giô-suê là người thuộc chi tộc Ép-ra-im ưu ái",
+            "Theo hình thức bốc thăm ngẫu nhiên hoàn toàn"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "questions": [
+        {
+          "text": "Chi tộc Man-na-se nhận đất đai sản nghiệp bốc thăm dựa trên tư cách con trưởng của ai?",
+          "options": [
+            "Man-na-se là con trưởng trưởng của ông Giô-sép (Joseph)",
+            "Con trưởng của ông Ru-bên",
+            "Con trưởng của tư tế Lê-vi",
+            "Con trưởng của vua Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi thức chia đất cho các con gái của nhân vật nào chết không có con trai được thực hiện ở Man-na-se?",
+          "options": [
+            "Các con gái ông Xơ-lóp-khát (Zelophehad) thừa kế đất đai theo luật Chúa truyền Mô-sê",
+            "Các con gái ông Ca-lếp",
+            "Các con gái ông Cô-rê",
+            "Các con gái thượng tế A-hác-rôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con cái Giô-sép than phiền với Giô-suê về vấn đề sản nghiệp đất đai thế nào?",
+          "options": [
+            "Chúng tôi là dân đông đúc, tại sao ông chỉ chia cho chúng tôi một phần đất bốc thăm nhỏ chật hẹp?",
+            "Đất đai phía đông Gio-đan tốt hơn đất Ca-na-an",
+            "Tư tế Lê-vi thu thuế thập phân quá cao",
+            "Dân Ca-na-an quá nghèo khổ không có vàng cướp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phương tiện quân sự cực kỳ lợi hại của dân Ca-na-an thung lũng khiến con cái Giô-sép lo ngại là gì?",
+          "options": [
+            "Chiến xa bằng sắt (iron chariots vương quốc Ca-na-an)",
+            "Khiên giáp bằng vàng ròng Ai Cập",
+            "Ngựa chiến khổng lồ vùng núi",
+            "Bẫy cát ngầm sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên mạnh mẽ và thách thức của Giô-suê dành cho con cái Giô-sép than phiền là gì?",
+          "options": [
+            "Các ngươi là dân đông thế mạnh; hãy tự lên khai phá vùng rừng núi rừng núi và đánh đuổi Ca-na-an dẫu họ có xe sắt",
+            "Tôi sẽ chia thêm đất của chi tộc Giu-đa cho các người",
+            "Hãy xin Chúa dội mưa đá tiêu diệt chúng hộ",
+            "Hãy ký hòa ước nộp thuế cho dân Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thung lũng nơi dân Ca-na-an sở hữu chiến xa sắt sinh sống là gì?",
+          "options": [
+            "Thung lũng Gít-rơ-ên (Jezreel)",
+            "Thung lũng Ê-sơ-côn",
+            "Thung lũng A-khô",
+            "Thung lũng Ai-gia-lôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia tộc Man-na-se nhận đất phía đông Gio-đan do chiến binh dũng mãnh nào chỉ huy?",
+          "options": [
+            "Gia tộc Ma-khia (Machir) cha của Ga-la-át",
+            "Gia tộc Ép-ra-im",
+            "Gia tộc tư tế Phi-nê-ha",
+            "Gia tộc Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Man-na-se có trục xuất được cư dân các thành phố biên giới Ta-a-nác và Mơ-gít-đô không?",
+          "options": [
+            "Không trục xuất được; người Ca-na-an quyết tâm bám trụ bám trụ sống ở đất đó",
+            "Họ tiêu diệt sạch thành trì phóng hỏa",
+            "Họ cho người Ghi-vơ-on vào chiếm thành",
+            "Người Ca-na-an tự bỏ đi sang bờ biển"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi Ít-ra-en lớn mạnh lên cường thịnh, họ đối xử thế nào với người Ca-na-an sống sót?",
+          "options": [
+            "Bắt họ làm nô dịch lao động khổ sai, dẫu không trục xuất được hoàn toàn",
+            "Miễn thuế cho họ sống tự do buôn bán",
+            "Trục xuất toàn bộ họ sang Ai Cập làm nô lệ",
+            "Tự nguyện học hỏi thờ thần ngẫu tượng của họ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng con gái của Xơ-lóp-khát nhận đất thừa kế là bao nhiêu người?",
+          "options": [
+            "Năm con gái (Mác-la, Thi-chah, Khốt-lah, Min-cah, Ni-ah)",
+            "Ba con gái",
+            "Bảy con gái",
+            "Mười con gái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "questions": [
+        {
+          "text": "Toàn thể cộng đoàn Ít-ra-en tụ họp dựng Lều Hội Ngộ (Tabernacle) tại địa danh nào?",
+          "options": [
+            "Tại thành Si-lô (Shiloh trung tâm tôn giáo đầu tiên)",
+            "Tại Ghinh-gát đóng trại cũ",
+            "Tại thành Giê-ri-khô",
+            "Dưới chân núi Ê-van"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Có bao nhiêu chi tộc Ít-ra-en vẫn chưa nhận được sản nghiệp đất đai khi đóng trại ở Si-lô?",
+          "options": [
+            "Bảy chi tộc (7 chi tộc chưa chia đất)",
+            "Chín chi tộc",
+            "Ba chi tộc",
+            "Năm chi tộc rưỡi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê cử phái đoàn đi khảo sát chia đất thành mấy phần viết vào sách?",
+          "options": [
+            "Chia thành bảy phần (7 phần đất khảo sát ghi chép)",
+            "Chia thành mười hai phần chi tộc",
+            "Chia thành ba phần vùng lớn",
+            "Không chia tự bốc thăm ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mỗi chi tộc cử bao nhiêu người tham gia phái đoàn đi khảo sát đo đạc đất đai?",
+          "options": [
+            "Mỗi chi tộc cử ba người (3 người mỗi chi tộc tổng cộng 21 người)",
+            "Cử một thủ lãnh duy nhất",
+            "Cử mười bô lão kỳ mục",
+            "Tướng Giô-suê tự dẫn phái đoàn đi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi thực hiện nghi thức bốc thăm chia đất cho bảy chi tộc trước mặt Chúa là ở đâu?",
+          "options": [
+            "Tại Si-lô (Shiloh) trước cửa Lều Hội Ngộ",
+            "Tại Ghinh-gát bàn thờ đồng",
+            "Trong lòng sông Gio-đan khô ráo",
+            "Trên đỉnh núi Nê-bô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc đầu tiên nhận phần đất bốc thăm tại Si-lô là chi tộc nào?",
+          "options": [
+            "Chi tộc Bên-gia-min (tribe of Benjamin)",
+            "Chi tộc Si-môn",
+            "Chi tộc Đan",
+            "Chi tộc Náp-ta-li"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị trí địa lý phần đất chi tộc Bên-gia-min nằm kẹp giữa hai thế lực chi tộc nào?",
+          "options": [
+            "Nằm giữa chi tộc Giu-đa ở phía nam và chi tộc Giô-sép ở phía bắc",
+            "Nằm sát bờ biển Địa Trung Hải phía tây",
+            "Phía đông sông Gio-đan giáp Ê-đôm",
+            "Sát biên giới Ai Cập cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố kiên cố nổi tiếng nằm trong ranh giới đất chi tộc Bên-gia-min là gì?",
+          "options": [
+            "Thành Giê-ru-sa-lem (Jebus / Jerusalem) và Giê-ri-khô",
+            "Thành Kha-xo miền bắc",
+            "Thành Hép-rôn núi đá",
+            "Thành Si-lô trung tâm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người Bên-gia-min có trục xuất được người Giê-vu-si ra khỏi Giê-ru-sa-lem thời đó không?",
+          "options": [
+            "Không, người Giê-vu-si vẫn sống chung với người Bên-gia-min tại Giê-ru-sa-lem",
+            "Có, họ thiêu rụi thành phố phóng hỏa",
+            "Họ bắt người Giê-vu-si làm nô lệ đốn củi",
+            "Người Giê-vu-si tự nguyện dâng thành xin hòa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chọn Si-lô làm nơi đóng trại dựng Lều Hội Ngộ là gì?",
+          "options": [
+            "Thiết lập trung tâm tôn giáo thiêng liêng thống nhất, ổn định đời sống đức tin dân giao ước",
+            "Vì Si-lô là thành phố kiên cố có sẵn tường thành",
+            "Vì Si-lô nằm sát sông Gio-đan dễ thanh tẩy",
+            "Theo bản đồ quy hoạch đất đai của Mô-sê"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "questions": [
+        {
+          "text": "Chi tộc thứ hai nhận phần đất bốc thăm tại Si-lô nằm bên trong đất chi tộc Giu-đa là ai?",
+          "options": [
+            "Chi tộc Si-môn (tribe of Simeon vì đất Giu-đa quá rộng so với quân số)",
+            "Chi tộc Bên-gia-min",
+            "Chi tộc Đan",
+            "Chi tộc A-sê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc nào nhận phần đất bốc thăm cuối cùng (thứ bảy) Ca-na-an?",
+          "options": [
+            "Chi tộc Đan (tribe of Dan)",
+            "Chi tộc Náp-ta-li",
+            "Chi tộc A-sê",
+            "Chi tộc Y-xa-kha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố đặc biệt nào toàn dân Ít-ra-en đồng lòng tặng riêng cho ông Giô-suê làm sản nghiệp?",
+          "options": [
+            "Thành Thim-nát-xê-rách (Timnath-serah) ở vùng núi Ép-ra-im",
+            "Thành Giê-ri-khô thành chà là",
+            "Thành Hép-rôn núi đá",
+            "Thành Si-lô trung tâm đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê đã làm gì với thành Thim-nát-xê-rách khi nhận được?",
+          "options": [
+            "Ông xây dựng lại thành trì và định cư sinh sống tại đó định cư sinh sống",
+            "Ông hiến tế dâng Chúa làm thành tư tế Lê-vi",
+            "Ông đem bán lấy tiền vàng chia cho người nghèo",
+            "Ông bỏ hoang làm nơi chăn súc vật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh núi nơi chi tộc Náp-ta-li nhận phần đất biên giới phía bắc giáp Li-băng là gì?",
+          "options": [
+            "Núi Ta-bo (Mount Tabor)",
+            "Núi Xi-nai",
+            "Núi Ê-van",
+            "Núi Nê-bô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc Đan do đất đai chật hẹp ban đầu đã đi lên phía bắc đánh chiếm thành phố nào đổi tên thành Đan?",
+          "options": [
+            "Thành phố Lê-sêm (Leshem / Laish đổi tên thành Dan)",
+            "Thành Kha-xo",
+            "Thành Ghe-ze",
+            "Thành Đê-bi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc A-sê nhận phần đất dọc theo bờ biển Địa Trung Hải phía bắc giáp thành phố cảng nào?",
+          "options": [
+            "Thành Ty-rơ (Tyre) và Xi-đôn",
+            "Thành Memphis Ai Cập",
+            "Thành Giô-phê",
+            "Thành Ga-sa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Việc hoàn thành chia đất đai sản nghiệp được xác nhận thực hiện tại địa danh nào?",
+          "options": [
+            "Tại Si-lô (Shiloh) trước cửa Lều Hội Ngộ",
+            "Tại Ghinh-gát đóng trại",
+            "Tại thung lũng Si-khem",
+            "Trên đỉnh núi Ê-van"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người trực tiếp bốc thăm chia đất cùng tướng Giô-suê tại Si-lô?",
+          "options": [
+            "Tư tế thượng tế Ê-la-da Ê-la-da con A-hác-rôn",
+            "Tư tế Phi-nê-ha con Ê-la-da",
+            "Quan tướng Ca-lếp",
+            "Mười hai thủ lĩnh chi tộc tự chia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa của việc toàn dân tặng thành phố sản nghiệp riêng cho Giô-suê là gì?",
+          "options": [
+            "Thể hiện lòng biết ơn sâu xa đối với công lao lãnh đạo vĩ đại dũng cảm của ông",
+            "Vì Giô-suê không có con trai thừa kế đất đai",
+            "Vì ông đòi hỏi quyền lợi hoàng gia cai trị",
+            "Theo quy tắc phân chia tài sản quân sự Ai Cập cổ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "questions": [
+        {
+          "text": "Số lượng Thành Ẩn Nấp (Cities of Refuge) được chỉ định chính thức là bao nhiêu?",
+          "options": [
+            "Sáu thành ẩn nấp (3 thành phía tây, 3 thành phía đông sông Gio-đan)",
+            "Mười hai thành",
+            "Ba thành",
+            "Bốn mươi tám thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành ẩn nấp Kê-đét ở vùng Ga-li-lê thuộc về chi tộc nào quản lý?",
+          "options": [
+            "Chi tộc Náp-ta-li (Naphtali)",
+            "Chi tộc Giu-đa",
+            "Chi tộc Ép-ra-im",
+            "Chi tộc Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành ẩn nấp Si-khem ở miền đồi núi thuộc về chi tộc nào quản lý?",
+          "options": [
+            "Chi tộc Ép-ra-im (Ephraim)",
+            "Chi tộc Bên-gia-min",
+            "Chi tộc Man-na-se",
+            "Chi tộc Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành ẩn nấp Hép-rôn ở miền đồi núi phía nam thuộc về chi tộc nào quản lý?",
+          "options": [
+            "Chi tộc Giu-đa (Judah)",
+            "Chi tộc Si-môn",
+            "Chi tộc Gát",
+            "Chi tộc Ru-bên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba thành ẩn nấp phía đông sông Gio-đan được Mô-sê chỉ định trước đây là những thành nào?",
+          "options": [
+            "Bê-xe (Ru-bên), Ra-mốt (Gát) và Gô-lan (Man-na-se)",
+            "Kê-đét, Si-khem, Hép-rôn",
+            "Giê-ri-khô, A-i, Giê-ru-sa-lem",
+            "Si-lô, Ghinh-gát, Sít-tim"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ ngộ sát trốn vào thành ẩn nấp phải đứng ở vị trí nào giải thích sự việc trước bô lão?",
+          "options": [
+            "Đứng ngoài lối vào cổng thành trình bày sự việc trước bô lão cổng thành",
+            "Vào thẳng đền thờ ôm lấy sừng bàn thờ đồng",
+            "Trình diện tư tế thượng tế tại Si-lô trước",
+            "Nhờ gia đình nạn nhân dẫn vào bảo lãnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu người trả thù máu đuổi theo đến thành ẩn nấp, bô lão thành đó phải xử lý ra sao?",
+          "options": [
+            "Cấm giao nộp kẻ ngộ sát kẻ ngộ sát vì hắn vô ý giết người không thù ghét trước",
+            "Phải nộp kẻ ngộ sát để đổi lấy hòa bình thành",
+            "Bắt kẻ ngộ sát nộp phạt tiền chuộc mạng",
+            "Trục xuất kẻ ngộ sát ra ngoài cổng thành tự vệ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời điểm kẻ ngộ sát được phép tự do rời thành ẩn nấp quay về nhà mình an toàn là khi nào?",
+          "options": [
+            "Sau cái chết của vị Thượng Tế đương nhiệm đương nhiệm (khi vị đó qua đời)",
+            "Sau Năm Hân Hoan kế tiếp bắt đầu",
+            "Sau mười năm trốn lánh thành công",
+            "Khi gia đình người bị hại tha thứ bằng văn bản"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành ẩn nấp có áp dụng bảo vệ cho ngoại kiều cư ngụ Do Thái không?",
+          "options": [
+            "Có, áp dụng cho cả người Ít-ra-en bản địa, ngoại kiều và khách vãng lai",
+            "Không, chỉ áp dụng cho người bản địa Do Thái",
+            "Chỉ bảo vệ tư tế dòng Lê-vi phạm lỗi",
+            "Chỉ bảo vệ ngoại kiều làm công việc đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân đạo tối cao của luật Thành Ẩn Nấp là gì?",
+          "options": [
+            "Ngăn chặn vòng xoáy trả thù máu tàn nhẫn, bảo vệ công lý tư pháp văn minh Chúa ban",
+            "Để làm kho dự trữ lương thực cho tư tế Lê-vi",
+            "Để cách ly những người mắc bệnh truyền nhiễm nguy hiểm",
+            "Để thành lập các căn cứ quân sự biên giới kiên cố"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "questions": [
+        {
+          "text": "Người Lê-vi nhận sản nghiệp thành phố từ các chi tộc khác bằng hình thức bốc thăm tại đâu?",
+          "options": [
+            "Tại thành Si-lô (Shiloh) trước cửa Lều Hội Ngộ",
+            "Tại Ghinh-gát đóng trại",
+            "Trong lòng sông Gio-đan",
+            "Trên đỉnh núi Ê-van"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tổng số lượng thành phố kèm đồng cỏ chăn nuôi cấp cho người Lê-vi định cư là bao nhiêu?",
+          "options": [
+            "Bốn mươi tám thành phố (48 thành phố cùng đồng cỏ chăn nuôi)",
+            "Mười hai thành phố",
+            "Hai mươi bốn thành phố",
+            "Ba mươi sáu thành phố"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con cháu tư tế A-hác-rôn (dòng Ca-hát Lê-vi) nhận bao nhiêu thành trong phần đất Giu-đa Simeon?",
+          "options": [
+            "Mười ba thành phố (13 thành phố)",
+            "Mười thành",
+            "Tám thành",
+            "Bốn thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy tắc trích thành phố của các chi tộc cấp cho người Lê-vi dựa trên tiêu chuẩn nào?",
+          "options": [
+            "Chi tộc nào đất rộng hiến nhiều thành, chi tộc nào đất hẹp hiến ít thành thành",
+            "Tất cả 12 chi tộc hiến số lượng thành bằng nhau",
+            "Tướng Giô-suê tự ý chỉ định thành phố hiến",
+            "Chỉ chi tộc Giu-đa và Giô-sép hiến thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kết luận vinh quang về sự ứng nghiệm lời hứa của Chúa ở cuối chương 21 là gì?",
+          "options": [
+            "Không một lời hứa tốt đẹp nào Chúa phán... bị thất bại; tất cả đều ứng nghiệm ứng nghiệm trọn vẹn",
+            "Dân Do Thái vẫn còn nhiều khó khăn chiến tranh",
+            "Chúa đòi hỏi dân phải xây dựng đền thờ đá ngay",
+            "Lời hứa chỉ thực hiện được một nửa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa ban phúc lành gì cho quốc phòng Ít-ra-en đối với kẻ thù xung quanh?",
+          "options": [
+            "Chúa ban cho họ được bình an vô sự mọi bề mọi bề đúng lời thề tổ phụ",
+            "Họ phải chịu làm nô dịch đóng thuế cho nước khác",
+            "Quân thù tiêu diệt sạch lực lượng quân Do Thái",
+            "Chúa bắt họ phải đi chinh phục toàn thế giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người Lê-vi có được quyền trồng trọt nông nghiệp lúa mì trên đất đồng cỏ của thành không?",
+          "options": [
+            "Không, đất đồng cỏ chỉ dành riêng chăn nuôi gia súc súc vật của họ cấm canh tác",
+            "Được phép trồng trọt thoải mái tự do",
+            "Phải chia một nửa hoa lợi nông sản cho chi tộc chủ",
+            "Chỉ được phép trồng ô-liu thắp đèn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia tộc Lê-vi dòng Ca-hát nhận đất đai bao gồm thành ẩn nấp nổi tiếng nào phía tây?",
+          "options": [
+            "Thành ẩn nấp Si-khem và Hép-rôn",
+            "Thành ẩn nấp Kê-đét Ga-li-lê",
+            "Thành ẩn nấp Bê-xe cao nguyên",
+            "Thành ẩn nấp Gô-lan xứ Ba-san"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia tộc Lê-vi dòng Ghẹt-sôn nhận đất đai bao gồm thành ẩn nấp nổi tiếng nào phía đông?",
+          "options": [
+            "Thành ẩn nấp Gô-lan (Golan) xứ Ba-san",
+            "Thành ẩn nấp Ra-mốt Ga-la-át",
+            "Thành ẩn nấp Bê-xe",
+            "Thành ẩn nấp Si-khem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Gia tộc Lê-vi dòng Mê-ra-ri nhận đất đai bao gồm thành ẩn nấp nổi tiếng nào phía đông?",
+          "options": [
+            "Thành ẩn nấp Bê-xe (Bezer) và Ra-mốt Ga-la-át",
+            "Thành ẩn nấp Kê-đét",
+            "Thành ẩn nấp Hép-rôn",
+            "Thành ẩn nấp Si-khem"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "questions": [
+        {
+          "text": "Giô-suê khen ngợi chúc phúc cho chiến binh hai chi tộc rưỡi và cho phép họ làm gì?",
+          "options": [
+            "Cho phép trở về đất sản nghiệp phía đông sông Gio-đan với nhiều của cải chiến lợi phẩm",
+            "Bắt họ tiếp tục ở lại bảo vệ đền tạm Si-lô vĩnh viễn",
+            "Phạt họ nộp một nửa số vàng cướp được làm quỹ đền",
+            "Phong chức tư tế dòng Lê-vi phụ tá cho họ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động bất ngờ hai chi tộc rưỡi làm bên bờ sông Gio-đan trên đường về quê là gì?",
+          "options": [
+            "Xây dựng một bàn thờ lớn nổi bật nổi bật bên sông Gio-đan",
+            "Đúc một tượng bò vàng tưởng nhớ Ai Cập",
+            "Châm lửa thiêu hủy cầu phao quân sự",
+            "Tự ý chia đất đai biên giới không báo Giô-suê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng lo sợ nổi giận của cộng đoàn Ít-ra-en tại Si-lô khi nghe tin bàn thờ là gì?",
+          "options": [
+            "Tập hợp toàn quân chuẩn bị đi gây chiến tấn công họ vì lo sợ họ phản đạo nổi loạn chống Chúa",
+            "Họ gửi vàng bạc đóng góp xây bàn thờ chung",
+            "Họ cử tiên tri đến chúc phúc bàn thờ mới",
+            "Họ giữ im lặng không quan tâm vì xa xôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người dẫn đầu phái đoàn đi điều tra sự việc bàn thờ bên sông Gio-đan?",
+          "options": [
+            "Tư tế Phi-nê-ha (Phinehas) con Ê-la-da cùng mười thủ lĩnh mười chi tộc",
+            "Đích thân tướng Giô-suê",
+            "Thủ lĩnh Ca-lếp con Giơ-phun-nê",
+            "Hai thám tử Giê-ri-khô cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai chi tộc rưỡi đã giải thích mục đích xây dựng bàn thờ lớn bên sông để làm gì?",
+          "options": [
+            "Không phải để dâng lễ tế, mà làm nhân chứng (Ê-đơ / Witness) chứng minh con cháu họ cũng thờ Chúa",
+            "Để dâng lễ tế toàn thiêu thay thế đền tạm Si-lô",
+            "Để cúng bái tà thần ngoại bang Mô-báp",
+            "Làm pháo đài quân sự canh phòng biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên gọi đặt cho bàn thờ chứng nhân bên sông Gio-đan là gì?",
+          "options": [
+            "Bàn thờ Ê-đơ (Ed nghĩa là Chứng nhân / Nhân chứng)",
+            "Bàn thờ Ba-al-Phê-o",
+            "Bàn thờ Xi-nai",
+            "Bàn thờ Mê-ri-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của tư tế Phi-nê-ha và phái đoàn khi nghe lời giải thích là gì?",
+          "options": [
+            "Họ hài lòng vui mừng vui vẻ và tạ ơn Thiên Chúa vì không có tội phản nghịch",
+            "Họ nổi giận đập phá bàn thờ ngay lập tức",
+            "Họ bắt bô lão hai chi tộc rưỡi nộp phạt tiền",
+            "Họ ép buộc họ phải tháo dỡ bàn thờ trong ba ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tội ác lịch sử nào Phi-nê-ha nhắc lại để cảnh báo hậu quả phản nghịch của bàn thờ?",
+          "options": [
+            "Tội ác thờ tà thần Ba-al-Phê-o gây dịch chết 24.000 người hoang địa",
+            "Tội đúc tượng bò vàng núi Xi-nai",
+            "Tội nổi loạn của Cô-rê thách thức tư tế",
+            "Tội ác ăn cắp đồ hiến tế của A-khan thung lũng A-khô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thiêng liêng của bàn thờ Ê-đơ đối với sự thống nhất đức tin Do Thái là gì?",
+          "options": [
+            "Gắn kết tâm linh đồng bào hai bên bờ sông; khẳng định ĐỨC CHÚA là Thiên Chúa duy nhất chung",
+            "Để làm kho chứa lương thực cúng tế địa phương",
+            "Để phân chia ranh giới lãnh thổ địa lý rõ ràng",
+            "Không có ý nghĩa tâm linh chỉ là công trình đá kỷ niệm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai chi tộc rưỡi cam kết dâng hiến tế lễ toàn thiêu ở đâu vĩnh viễn?",
+          "options": [
+            "Chỉ dâng lễ tế tại Lều Hội Ngộ Si-lô Si-lô trước nhan Chúa đúng luật Mô-sê",
+            "Được phép dâng lễ tại bàn thờ Ê-đơ mới xây",
+            "Chỉ dâng lễ trên núi Ê-van",
+            "Không dâng hiến tế lễ nữa miễn trừ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "questions": [
+        {
+          "text": "Lời dặn dò đầu tiên của Giô-suê khi triệu tập bô lão kỳ mục lúc ông đã già yếu là gì?",
+          "options": [
+            "Hãy mạnh mẽ và lo tuân giữ giữ đúng mọi điều viết trong sách luật Mô-sê",
+            "Hãy chuẩn bị tuyển quân chiến binh đánh Ai Cập",
+            "Hãy xây dựng hoàng cung kiên cố cho vua tương lai",
+            "Hãy hủy bỏ bớt các luật lệ khó giữ hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định nghiêm ngặt cấm giao tế đối với dân bản địa Ca-na-an còn sót lại là gì?",
+          "options": [
+            "Cấm kết giao, cấm nhắc đến danh thần của họ, cấm thề nhân danh thần ngoại thần ngoại",
+            "Cho phép kết hôn tự do để đồng hóa văn hóa",
+            "Được phép mời họ vào thờ Chúa chung đền tạm Si-lô",
+            "Bắt họ nộp bạc đóng thuế buôn bán tự do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định nghiêm cấm về hôn nhân đối với dân ngoại bang Ca-na-an là gì?",
+          "options": [
+            "Cấm tuyệt đối kết hôn kết hôn (cưới con gái họ hoặc gả con gái mình cho họ) tránh lệch lòng",
+            "Được phép cưới vợ ngoại bang không gả con gái",
+            "Chỉ cấm kết hôn với người Mô-áp còn Ca-na-an được phép",
+            "Được tự do cưới gả nếu họ chịu phép cắt bì Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cảnh báo hậu quả nếu dân phản bội Chúa kết giao kết hôn với dân ngoại Ca-na-an là gì?",
+          "options": [
+            "Họ sẽ là lưới bẫy, là gai chọc vào mắt hông các ngươi cho đến khi các ngươi tiêu vong tiêu vong khỏi đất tốt nầy",
+            "Họ sẽ liên minh cướp phá đền tạm Si-lô",
+            "Chúa giáng mưa diêm sinh thiêu cháy nhà cửa",
+            "Dân Do Thái bị phong cùi trắng thê thảm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê khẳng định đức tính thành tín của Chúa về lời hứa đất hứa thế nào ở câu 14?",
+          "options": [
+            "Không một lời hứa nào của Chúa bị thất bại; tất cả đều ứng nghiệm ứng nghiệm trọn vẹn cho các anh",
+            "Lời hứa chỉ thực hiện được một phần nhỏ",
+            "Chúa thay đổi lời hứa vì dân phản nghịch",
+            "Chúa đòi hỏi dân phải nộp nhiều vàng bạc chuộc lỗi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt tối hậu nếu dân phản bội giao ước đi thờ thần ngoại bang Ca-na-an là gì?",
+          "options": [
+            "Cơn giận Chúa bùng lên và các anh sẽ tiêu vong tiêu vong nhanh chóng khỏi miền đất tốt đẹp Chúa ban",
+            "Chỉ bị phạt hạn hán cạn nước ruộng một năm",
+            "Bị trục xuất quay lại Ai Cập làm nô lệ vĩnh viễn",
+            "Phải nộp toàn bộ tài sản vàng bạc đền tạm chuộc mạng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sách luật pháp Mô-sê được Giô-suê nhắc lại làm vai trò gì cho đời sống dân?",
+          "options": [
+            "Là cẩm nang nguồn sống duy nhất hướng dẫn đức tin đạo đức hằng ngày hằng ngày cho dân",
+            "Là sách lịch sử để đọc tham khảo giải trí",
+            "Chỉ dùng cho hàng tư tế Lê-vi tra cứu nghi lễ",
+            "Giô-suê tự giữ cấm dân chúng tiếp cận đọc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là Đấng thực sự chiến đấu cho Ít-ra-en đánh bại các dân tộc Ca-na-an?",
+          "options": [
+            "Chính ĐỨC CHÚA, Thiên Chúa của các anh các anh chiến đấu cho các anh đúng lời hứa",
+            "Tướng Giô-suê dũng cảm chỉ huy chiến thuật giỏi",
+            "Chiến binh Ca-lếp khổng lồ dũng mãnh",
+            "Lực lượng chiến xa sắt tự chế tạo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng quân địch một người Ít-ra-en có thể đuổi đánh nhờ Chúa chiến đấu hộ là bao nhiêu?",
+          "options": [
+            "Một người đuổi đánh một ngàn quân địch ngàn quân địch",
+            "Một người đánh thắng mười người",
+            "Một người đánh bại một trăm lính Ca-na-an",
+            "Không có tỷ lệ cụ thể"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khuyên bảo tối hậu Giô-suê dặn dân giữ gìn tâm hồn ở câu 11 là gì?",
+          "options": [
+            "Hãy hết sức cẩn thận giữ tâm hồn để yêu mến yêu mến ĐỨC CHÚA Thiên Chúa của các anh",
+            "Hãy tích lũy thật nhiều súc vật vàng bạc",
+            "Hãy cảnh phòng biên giới cẩn mật đề phòng thù",
+            "Hãy đóng góp đầy đủ thuế thập phân Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "questions": [
+        {
+          "text": "Giô-suê triệu tập đại hội toàn thể chi tộc Ít-ra-en tại địa danh lịch sử nào để lập giao ước cuối?",
+          "options": [
+            "Tại thung lũng Si-khem (Shechem)",
+            "Tại Ghinh-gát đóng trại",
+            "Tại thành Si-lô đền tạm",
+            "Dưới chân núi Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tổ phụ cổ đại của dòng họ Do Thái (như Tha-rê cha Áp-ra-ham) xưa kia bên kia sông sông Ơ-phơ-rát thờ thần nào?",
+          "options": [
+            "Thờ các thần ngoại bang (other gods thần giả ngoại giáo)",
+            "Thờ một mình ĐỨC CHÚA độc thần",
+            "Thờ tượng bò vàng Ai Cập",
+            "Không thờ thần nào vô thần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời kêu gọi nổi tiếng quyết định chọn lựa đối tượng thờ phượng của Giô-suê ở câu 15 là gì?",
+          "options": [
+            "Nếu các ngươi không muốn thờ ĐỨC CHÚA... Ta và gia đình ta sẽ phụng thờ ĐỨC CHÚA",
+            "Hãy đi thờ thần ngoại bang Ca-na-an tự do",
+            "Hãy xây dựng bàn thờ riêng tại lều gia đình",
+            "Tôi sẽ làm vua cai trị các người vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng đồng thanh thề tuyên bố của dân chúng trước lời kêu gọi của Giô-suê là gì?",
+          "options": [
+            "Không đời nào chúng tôi bỏ ĐỨC CHÚA để thờ các thần khác! Chúng tôi sẽ thờ ĐỨC CHÚA",
+            "Chúng tôi muốn thờ thần ngoại để được mùa nho",
+            "Chúng tôi xin quay lại Ai Cập thờ thần Ra",
+            "Để chúng tôi suy nghĩ bốc thăm quyết định sau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê đã viết lời giao ước của dân vào cuốn sách nào và làm nghi thức gì kỷ niệm?",
+          "options": [
+            "Viết vào sách Luật của Thiên Chúa; dựng một tảng đá lớn dưới cây sồi cây sồi làm chứng",
+            "Khắc mười điều răn lên hai bia đá mới",
+            "Viết thư gửi cho tư tế Ê-la-da cất giữ",
+            "Đốt sách luật lấy tro hòa nước rải quanh thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-suê tôi trung của Chúa qua đời ở độ tuổi bao nhiêu và được chôn cất ở đâu?",
+          "options": [
+            "Một trăm mười tuổi (110 tuổi); chôn cất tại đất sản nghiệp Thim-nát-xê-rách",
+            "Một trăm hai mươi tuổi; chôn núi Nê-bô",
+            "Một trăm tuổi; chôn cất tại thung lũng Si-khem",
+            "Tám mươi tuổi; chôn cất ngoài hoang địa Xin"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hài cốt của nhân vật lịch sử nào mang từ Ai Cập được chôn cất tại Si-khem?",
+          "options": [
+            "Hài cốt ông Giô-sép (Joseph con Gia-cóp)",
+            "Hài cốt ông Mô-sê tôi trung",
+            "Hài cốt thượng tế A-hác-rôn",
+            "Hài cốt tổ phụ Áp-ra-ham"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị tư tế thượng tế kế vị A-hác-rôn qua đời chôn cất tại đồi núi Ép-ra-im là ai?",
+          "options": [
+            "Tư tế Ê-la-da (Eleazar chôn cất tại đồi Phi-nê-ha con ông)",
+            "Tư tế I-tha-ma",
+            "Tư tế Phi-nê-ha",
+            "Tiên tri Sa-mu-ên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình trạng đức tin tôn giáo của dân Ít-ra-en suốt thời Giô-suê và thế hệ bô lão còn sống thế nào?",
+          "options": [
+            "Dân phụng thờ ĐỨC CHÚA suốt đời Giô-suê và đời các bô lão bô lão biết việc Chúa làm",
+            "Dân lập tức phản bội thờ thần Ba-al-Phê-o ngay",
+            "Dân chia rẽ chiến tranh nội bộ tôn giáo",
+            "Họ phá hủy hoàn toàn Lều Hội Ngộ Si-lô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa tảng đá lớn dựng dưới cây sồi Si-khem được Giô-suê giải thích ở câu 27 là gì?",
+          "options": [
+            "Đá nầy nghe hết mọi lời Chúa phán; đá nầy sẽ làm chứng chứng chống lại các ngươi nếu phản bội",
+            "Để làm đá kê xây dựng đền thờ trung tâm",
+            "Để ghi danh 12 chi tộc Do Thái chiến thắng",
+            "Làm bia mộ chôn cất thi hài Giô-suê sau nầy"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

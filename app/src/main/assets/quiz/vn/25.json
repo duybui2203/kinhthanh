@@ -1,0 +1,1266 @@
+{
+  "bookId": 25,
+  "bookName": "Giảng viên",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Khẳng định nổi tiếng mở đầu chương 1 sách Giảng viên về cuộc đời là gì câu 2?",
+          "options": [
+            "Phù vân, quả là phù vân, mọi sự đều là phù vân!",
+            "Mọi sự đều được bọc vàng ròng lấp lánh cung",
+            "Kỵ binh xe chiến Ba-tư oai hùng bảo vệ mạng",
+            "Chúc kẻ thù bị phong cùi trắng trán sa mạc cách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chu kỳ tự nhiên nào được tác giả mô tả cấm hề thay đổi câu 5?",
+          "options": [
+            "Mặt trời mọc rồi lặn, vội vã trở về nơi nó mọc lên",
+            "Mưa tuyết rơi sa mạc rồi hóa thành vàng ròng",
+            "Sông Gio-đan rút lui trôi mất tích hoang vu",
+            "Không có chu kỳ tự nhiên nào thay đổi mãi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu nói nổi tiếng về sự đổi mới dưới ánh mặt trời câu 9 chép?",
+          "options": [
+            "Không có gì mới dưới ánh mặt trời (nothing new under the sun)",
+            "Chỉ có khiên vàng Sa-lô-môn đúc mới lấp lánh",
+            "Mỗi ngày là một ngày lễ Sabát thiêng liêng",
+            "Không có gì cũ mọi sự đều đổi mới mỗi ngày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người viết tự nhận mình là ai, trị vì ở Giê-ru-sa-lem câu 1?",
+          "options": [
+            "Lời của Giảng viên, con vua Đa-vít, vua Giê-ru-sa-lem",
+            "Lời của tiên tri Giê-rê-mi-a than thở khóc",
+            "Lời của hoàng hậu Esther Do Thái cứu mạng dân",
+            "Lời của tư tế Lê-vi Aaron dâng lễ đàn đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tác giả ví việc tìm kiếm khôn ngoan ngoài Chúa giống hành động nào câu 14?",
+          "options": [
+            "Chạy theo xe cát, bắt bóng thổi gió (chasing after wind)",
+            "Đi tìm mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Bắt phạt 12 chi tộc đóng thuế thập phân vàng",
+            "Không ví von chỉ chép là việc làm bổ ích trí"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ có nhiều khôn ngoan tri thức thì gặt kết quả gì câu 18 chép?",
+          "options": [
+            "Càng nhiều khôn ngoan càng nhiều sầu não sầu não, thêm tri thức thêm đau khổ",
+            "Sẽ nhận được nhiều vàng bạc cung điện vương triều",
+            "Sẽ bị phong cùi trắng cách ly phòng biệt lập",
+            "Sẽ sống vui tươi hạnh phúc cấm chút lo âu đời"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cái gì cong queo cấm thể làm cho thẳng câu 15 chép?",
+          "options": [
+            "Cái gì đã cong queo cong queo cấm thể làm cho thẳng được",
+            "Cái khiên đồng thau đúc thay khiên vàng Sa-lô",
+            "Cây trượng sắt đập tan các nước như bình gốm",
+            "Không nhắc vật cong chỉ chép lòng người tà ác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trí óc con người có bao giờ no thỏa mắt nhìn tai nghe câu 8?",
+          "options": [
+            "Mắt cấm bao giờ thỏa nhìn nhìn, tai cấm bao giờ chán nghe",
+            "Mắt thỏa mãn khi thấy vàng bạc lấp lánh cung",
+            "Tai chán nghe vì tiếng sấm sét nổ vang trời",
+            "Không nhắc mắt tai chỉ chép lòng người đầy tham"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sông ngòi chảy về đâu dẫu cấm bao giờ đầy câu 7 chép?",
+          "options": [
+            "Mọi sông ngòi đều chảy ra biển biển lớn, nhưng biển cấm bao giờ đầy",
+            "Chảy vào bồn ép rượu tràn ngập rượu mới vương",
+            "Chảy vào hoang mạc hoang dã cùi cách ly phòng",
+            "Không chảy đi đâu chảy ngầm lòng đất tối tăm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học chương 1 sách Giảng viên dạy chúng ta bài học gì?",
+          "options": [
+            "Sự hữu hạn hạn, phù vân của cuộc sống phàm trần nếu thiếu vắng Thiên Chúa Đấng Thiết Lập",
+            "Do Thái có số lượng sông ngòi chảy ra biển nhiều",
+            "Sự nhút nhát của con người lo sợ thế gian biến",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Giảng viên tự kiểm chứng thú vui xa hoa xây dựng lâu đài trồng vườn rồi kết luận câu 11?",
+          "options": [
+            "Mọi sự đều là phù vân, bắt bóng thổi gió, cấm lợi lộc gì dưới mặt trời",
+            "Mọi sự đều rực rỡ bọc vàng ròng lấp lánh cung",
+            "Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Fate (số phận chung) của người khôn và kẻ ngu Giảng viên nhận ra câu 14-16?",
+          "options": [
+            "Số phận chung chung chung chờ đợi cả hai: đều phải chết chết đi như nhau",
+            "Người khôn sẽ lên thiên đàng, kẻ ngu xuống địa",
+            "Người khôn được bọc vàng chôn cất lăng mộ đá",
+            "Không có số phận chung người khôn sống thọ mãi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Việc hưởng dùng ăn uống vui vẻ trong lao động Giảng viên ví là quà tặng từ ai câu 24?",
+          "options": [
+            "Đó là hồng ân hồng ân do tay Thiên Chúa ban tặng ban tặng",
+            "Đó là do sức mạnh kỵ binh Ba-tư cướp bóc được",
+            "Đó là quà tặng của tể tướng vương triều Syria",
+            "Không từ ai tự con người làm ra hưởng thụ lấy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người làm vui lòng Chúa sẽ nhận được điều gì câu 26 chép?",
+          "options": [
+            "Chúa ban khôn khôn ngoan ngoan, tri thức và niềm vui hoan hỷ",
+            "Chúa ban mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Chúa phạt cùi trắng trán kẻ ác nhân sa mạc",
+            "Không ban gì bắt chịu đau khổ gác đống tro"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận kẻ tội lỗi thu gom của cải Chúa định đoạt câu 26?",
+          "options": [
+            "Bắt gom góp tích tích lũy lũy để trao lại cho người đẹp lòng Chúa",
+            "Bắt nộp khiên vàng Sa-lô-môn đúc thay khiên",
+            "Bắt phạt 12 chi tộc đóng thuế thập phân vàng",
+            "Không can thiệp để mặc họ giàu sang phú quý"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên thử nghiệm tiếng cười hoan lạc rồi kết luận câu 2?",
+          "options": [
+            "Tiếng cười là điên điên cuồng cuồng, hoan lạc có ích chi đâu?",
+            "Tiếng cười làm rạng rỡ như khiên vàng đền thờ",
+            "Tiếng cười thu hút kỵ binh Ba-tư hộ tống đi",
+            "Không kết luận gì cười đùa suốt ngày vui vẻ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên tích lũy vàng bạc báu vật các vua chúa câu 8 chép?",
+          "options": [
+            "Thâu góp vàng vàng bạc bạc báu vật của các vua chúa vương quốc",
+            "Cướp khiên vàng đền thờ Giê-ru-sa-lem mang về",
+            "Nhận mười ta-lăng bạc ký gửi xứ Media cổ xưa",
+            "Không thâu góp chỉ sống nghèo khổ lều cỏ tranh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mắt Giảng viên ước ao điều gì Ngài có từ chối cấm câu 10?",
+          "options": [
+            "Mắt ao ước điều gì tôi cấm cấm từ chối chối từ chối, lòng hưởng niềm vui",
+            "Ước được phong cùi trắng trán kẻ thù con sa",
+            "Ước được tự sát để trốn tránh đau khổ cuộc",
+            "Không ao ước gì sống khổ hạnh đống tro tàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Giảng viên đâm ra chán ghét cuộc đời câu 17 chép?",
+          "options": [
+            "Vì việc làm dưới mặt trời đối với tôi là sầu sầu não não, mọi sự phù vân",
+            "Vì cấm được làm vua trị vì vương triều Syria",
+            "Vì bị phong cùi trắng cách ly phòng biệt lập",
+            "Không chán ghét vẫn yêu đời vui vẻ hưởng lạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự nhận thức về tính phù vân của thành tựu chương 2?",
+          "options": [
+            "Sự cảnh tỉnh tỉnh: của cải thành công phàm trần cấm mang lại hạnh phúc thật dẫu khôn hay ngu",
+            "Do Thái có số lượng lâu đài vườn nho nhiều nhất",
+            "Sự nhút nhát hèn hạ của Giảng viên muốn tự sát",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Khẳng định nổi tiếng mở đầu chương 3 về thời buổi cuộc đời là?",
+          "options": [
+            "Ở dưới bầu trời, mọi sự đều có thời thời buổi buổi, mọi việc có kỳ hạn",
+            "Mọi sự đều được Chúa ban khiên vàng bọc cung",
+            "Mọi sự đều phải trôi qua sa mạc nóng hoang",
+            "Không có thời buổi mọi sự diễn ra ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cặp phạm trù đối lập đầu tiên mở đầu danh sách thời kỳ câu 2?",
+          "options": [
+            "Có thời thời sinh sinh ra ra, có thời chết chết đi đi; thời trồng cây thời nhổ cây",
+            "Có thời dâng bò vàng, thời đập phá bò vàng thờ",
+            "Có thời cưỡi ngựa chiến, thời đi bộ hoang địa",
+            "Không có cặp đối lập chỉ chép thời gian trôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa đã đặt cái gì vào lòng con người câu 11 chép?",
+          "options": [
+            "Đặt ý niệm về vĩnh vĩnh cửu cửu (eternity) vào lòng con người phàm trần",
+            "Đặt mười ta-lăng bạc ký gửi nhà bạn hữu Media",
+            "Đặt khiên vàng Sa-lô-môn đúc thay khiên đồng Do",
+            "Không đặt gì để mặc con người ngu muội cát bụi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận con người và thú vật Giảng viên ví có gì khác biệt hơi thở câu 19?",
+          "options": [
+            "Số phận như nhau: cùng chung chung một một hơi thở hơi thở, người cấm hơn thú",
+            "Người có linh hồn bất tử, thú vật biến mất vĩnh",
+            "Người được chôn lăng mộ bọc vàng, thú ném sông",
+            "Không có hơi thở giống nhau người hơn thú ngàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa làm mọi sự đẹp đẽ vào thời điểm nào câu 11 chép?",
+          "options": [
+            "Ngài làm mọi sự đẹp đẽ trong thời thời buổi buổi của nó của nó",
+            "Ngài ban khiên vàng bọc ngai vương triều vinh",
+            "Ngài phong cùi trắng trán kẻ ác nhân sa mạc",
+            "Không làm gì đẹp đẽ để mặc thế gian hỗn độn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con người và thú vật đều từ cát bụi mà ra rồi trở về đâu câu 20?",
+          "options": [
+            "Đều từ bụi bụi đất đất mà ra, đều trở về bụi bụi đất đất cát",
+            "Đều bay lên thiên đàng ngự trị cung điện vàng",
+            "Đều trôi dạt ra hoang mạc hoang dã cùi cách ly",
+            "Không đi đâu biến mất vĩnh viễn khoảng cấm cấm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai biết được thần khí con người đi lên cao dẫu thần khí thú đi xuống câu 21?",
+          "options": [
+            "Ai biết biết được thần khí con người đi lên cao?",
+            "Chỉ có các tư tế Lê-vi dâng tế đàn đồng biết",
+            "Chỉ có kỵ binh xe chiến Ba-tư oai hùng biết",
+            "Không ai thèm biết tự nó đi theo lề luật tự"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích Chúa làm mọi sự vững bền muôn đời để con người làm gì câu 14?",
+          "options": [
+            "Để con người kính kính sợ sợ trước mặt Ngài kính tôn",
+            "Để con người cướp khiên vàng đền thờ Do Thái",
+            "Để con người đắp tượng bò vàng thờ cúng đặt",
+            "Không mục đích tự Chúa muốn thể hiện quyền năng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên khuyên con người thái độ tốt nhất trong ngày đời câu 12-13?",
+          "options": [
+            "Vui mừng mừng và làm làm lành lành, ăn uống hưởng phúc từ công lao mình",
+            "Lo sợ khóc lóc ăn áo sô thô sám hối tội lỗi",
+            "Trốn chạy sang sa mạc hoang dã cùi cách ly phòng",
+            "Không khuyên gì để mặc con người tự do lo lắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học bài ca thời gian chương 3 sách Giảng viên?",
+          "options": [
+            "Sự chấp nhận nhận trật tự thời gian Chúa an bài; khát vọng vĩnh cửu của phàm nhân dẫu thân xác bụi đất",
+            "Do Thái có số lượng đồng cỏ trồng cây nhiều nhất",
+            "Sự nhút nhát hèn hạ của phàm nhân trước cái chết",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Lời khuyên răn về tình bạn hữu tương trợ 'Hai người hơn một' câu 9 chép?",
+          "options": [
+            "Hai người hai người hơn một hơn một, vì họ được công lao tốt đẹp khi cùng làm",
+            "Hai người sẽ bị phong cùi trắng trán sa mạc",
+            "Hai người cướp được khiên vàng Sa-lô-môn đúc",
+            "Không khuyên tương trợ khuyên sống cô độc một mình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sợi dây liên kết bền chặt khó bị đứt Giảng viên ví câu 12?",
+          "options": [
+            "Sợi dây dây ba tao ba tao (threefold cord) cấm dễ đứt đứt phăng",
+            "Sợi xích đồng thau đúc sẵn đền thờ Do Thái",
+            "Dây cương ngựa chiến kỵ binh Ba-tư oai hùng",
+            "Không ví von chỉ chép tình anh em gắn bó bền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ cô độc cấm có ai bên cạnh chịu hậu quả gì khi ngã câu 10?",
+          "options": [
+            "Khốn khốn cho kẻ cô độc ngã cấm có ai nâng đỡ dậy!",
+            "Sẽ được kỵ binh Ba-tư cứu mạng đưa về nhà",
+            "Sẽ bị phong cùi trắng cách ly phòng biệt lập",
+            "Không sao tự mình gượng dậy đi tiếp sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự đố kỵ ghen tị giữa người và láng giềng Giảng viên ví câu 4 chép?",
+          "options": [
+            "Mọi lao lao động lao động thành công đều do ghen tị ghen tị láng giềng, phù vân",
+            "Được bọc vàng ròng rực rỡ lấp lánh cung điện",
+            "Thu hút kỵ binh Ba-tư cướp bóc đền thánh Giê",
+            "Không có ghen tị mọi người sống yêu thương chan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ ngu xuẩn khoanh tay chịu đói Giảng viên mô tả câu 5?",
+          "options": [
+            "Kẻ ngu xuẩn khoanh khoanh tay tay tự ăn thịt mình nghèo đói",
+            "Đắp tượng bò vàng đặt đền thờ tạ tội Do Thái",
+            "Bắt phạt 12 chi tộc đóng thuế thập phân vàng",
+            "Không khoanh tay đi làm việc chăm chỉ ruộng đồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên ví đứa trẻ nghèo khôn ngoan hơn ai câu 13?",
+          "options": [
+            "Hơn vị vua già già nua ngu ngu xuẩn xuẩn cấm biết nghe khuyên bảo",
+            "Hơn tư tế Lê-vi dâng tế đàn đồng đền thánh",
+            "Hơn dũng sĩ dũng mãnh bảo vệ thành Jerusalem",
+            "Không ví von chỉ chép trẻ em nghèo chịu khổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai người nằm chung sẽ nhận được lợi ích gì câu 11?",
+          "options": [
+            "Sẽ được ấm ấm áp áp, còn một người nằm sao ấm được?",
+            "Sẽ bị phong cùi trắng cách ly phòng biệt lập",
+            "Sẽ nhận được mười ta-lăng bạc ký gửi nhà",
+            "Không có ấm áp nằm lạnh lẽo sa mạc gió bão"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nỗi khổ của người cô độc cấm có con cái anh em câu 8?",
+          "options": [
+            "Lao động cấm ngừng ngừng mắt cấm no thỏa của cải cấm biết vì ai làm",
+            "Được ban khiên vàng bọc cung điện vinh hiển",
+            "Bị phong cùi trắng cách ly phòng biệt lập hoang",
+            "Không khổ sở sống tự do thoải mái cấm vướng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên thấy cảnh bách hại áp bức dưới mặt trời câu 1 chép?",
+          "options": [
+            "Kẻ bị áp bức áp bức khóc lóc cấm ai an ủi, quyền lực tay kẻ bách hại",
+            "Chúa Do Thái dội sấm sét thiêu cháy sạch lều",
+            "Kỵ binh Ba-tư hộ tống họ đi lánh nạn sa mạc",
+            "Không có bách hại mọi người sống bình an công"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa lời dạy về sự tương trợ và tình bạn chương 4?",
+          "options": [
+            "Bác bỏ bác bỏ lối sống ích kỷ cô độc; đề cao giá trị của sự hiệp thông tương trợ 'Hai người hơn một'",
+            "Do Thái có số lượng sợi dây ba tao nhiều nhất",
+            "Sự nhút nhát của kẻ cô độc lo sợ ngã quỵ sa",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Lời khuyên khi bước vào đền thờ Thiên Chúa câu 1 chép là?",
+          "options": [
+            "Hãy giữ giữ chân chân chân khi đến nhà Thiên Chúa, nghe hơn dâng tế ngu muội",
+            "Hãy mang khiên vàng Sa-lô-môn đúc dâng cúng",
+            "Hãy quỳ lạy tượng bò vàng thờ cúng đặt Bê-then",
+            "Không khuyên gì tự do đi lại cười nói lớn tiếng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên về việc mở miệng hứa nguyện thề hứa trước Chúa câu 2?",
+          "options": [
+            "Đừng vội vội vàng vàng mở miệng miệng, lòng chớ vội thốt lời trước Chúa, hãy ít lời",
+            "Hãy thề sẽ nộp mười ta-lăng bạc ký gửi nhà",
+            "Hãy thề sẽ tự sát nếu cấm được Chúa nhậm lời",
+            "Không khuyên chép hãy thề hứa thật nhiều thật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ yêu tiền bạc báu vật sẽ gặt kết quả gì Giảng viên khẳng định câu 10?",
+          "options": [
+            "Kẻ yêu tiền tiền cấm bao giờ no tiền tiền, yêu của cải cấm bao giờ thỏa thu nhập",
+            "Sẽ trở nên hạnh phúc nhất thế giới vương triều",
+            "Sẽ bị phong cùi trắng trán cách ly biệt lập",
+            "Không khẳng định tiền bạc mang lại mọi sự an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự ngủ ngon của người lao động đối lập kẻ giàu có câu 12?",
+          "options": [
+            "Người lao động ngủ ngon ngon dẫu ăn ít hay nhiều, kẻ giàu cấm ngủ được vì của",
+            "Kẻ giàu ngủ ngon trên đệm ấm bọc vàng ròng",
+            "Kẻ lao động cấm được ngủ phải thức đêm làm việc",
+            "Không đối lập cả hai đều mất ngủ vì lo lắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con người sinh ra trần truồng thế nào khi qua đời câu 15 chép?",
+          "options": [
+            "Sinh ra trần trần truồng truồng thế nào, ra đi đi trần truồng thế ấy cấm mang gì",
+            "Ra đi mang theo mười ta-lăng bạc nặng trĩu",
+            "Ra đi được bọc vàng ròng lấp lánh cung điện",
+            "Không ra đi trần truồng mặc áo phẩm phục sang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nếu con hứa nguyện với Thiên Chúa đừng làm điều gì câu 4?",
+          "options": [
+            "Đừng trì trì hoãn hoãn hoãn hoàn thành lời hứa, Chúa cấm ưa kẻ ngu xuẩn",
+            "Hãy quên đi lời hứa cấm cần hoàn thành gì",
+            "Hãy nộp tiền vàng xin tha thề hứa dối trá",
+            "Không nhắc lời hứa chỉ khuyên đừng thề nguyền"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao cấm được để miệng lưỡi làm thân xác phạm tội câu 6 chép?",
+          "options": [
+            "Đừng để miệng làm thân xác phạm tội tội, chớ nói trước sứ giả là lầm lỡ",
+            "Kẻ thù sẽ chém đầu ngươi treo giá cao 50",
+            "Chúa sẽ phong cùi trắng trán ngươi sa mạc",
+            "Không nhắc miệng miệng chỉ chép lòng dạ gian ác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Của cải của người giàu bị mất đi do việc gì câu 14 chép?",
+          "options": [
+            "Mất đi vì tai tai họa họa họa xấu, con cái sinh ra cấm có gì trong tay",
+            "Mất vì quân cướp Can-đê xông vào cướp phá",
+            "Mất vì đóng thuế thập phân vàng đền thờ Do",
+            "Không mất đi càng tích lũy giàu sang phú quý"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người được Chúa ban của cải và quyền hưởng dùng câu 19?",
+          "options": [
+            "Được Chúa ban giàu giàu có có tài sản sản, được quyền ăn uống vui vẻ hưởng lộc",
+            "Được ban kỵ binh xe chiến Ba-tư oai hùng hộ",
+            "Bị phong cùi trắng cách ly phòng biệt lập hoang",
+            "Không ban gì bắt chịu nghèo đói khổ sở gác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa lời khuyên kính sợ Chúa và coi nhẹ tiền bạc chương 5?",
+          "options": [
+            "Sự cảnh tỉnh tỉnh về lòng tham của cải; kêu gọi thái độ tôn kính đền thánh Chúa và trân trọng hạnh phúc giản đơn",
+            "Do Thái có số lượng đền thờ lớn nhất thế giới",
+            "Sự nhút nhát hèn hạ của phàm nhân sợ hãi lời hứa",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Giảng viên chương 6 thảo luận là gì?",
+          "options": [
+            "Nỗi khổ người có của cấm hưởng và thai sẩy",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn hoặc triết lý tiêu biểu chép trong Giảng viên chương 6 là?",
+          "options": [
+            "\"Một người được Thiên Chúa ban của cải danh vọng nhưng cấm được hưởng dùng.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên chương 6 khuyên răn con người tránh tai họa nào qua hình ảnh 'Chúa ban giàu giàu có có danh vọng danh vọng nhưng cấm cho hưởng dùng dùng người lạ ăn?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Chúa ban giàu giàu có có danh vọng danh vọng nhưng cấm cho hưởng dùng dùng người lạ ăn để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Một thai thai sẩy sẩy sẩy còn tốt số hơn kẻ sống thọ thọ trăm tuổi cấm vui' trong Giảng viên chương 6 chép là gì?",
+          "options": [
+            "Giáo huấn nhân sinh: Một thai thai sẩy sẩy sẩy còn tốt số hơn kẻ sống thọ thọ trăm tuổi cấm vui giúp hiểu rõ giá trị cuộc sống",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Mọi lao lao khổ khổ khổ của phàm nhân chỉ vì miệng miệng cấm bao giờ no' trong Giảng viên chương 6 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Mọi lao lao khổ khổ khổ của phàm nhân chỉ vì miệng miệng cấm bao giờ no dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giảng viên chương 6, cụm từ 'Kẻ khôn ngoan ngoan hơn kẻ ngu dại dại điều gì cuộc đời?' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Kẻ khôn ngoan ngoan hơn kẻ ngu dại dại điều gì cuộc đời? mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Ai biết biết điều điều gì là tốt tốt cho con người trong ngày phù vân?' ở Giảng viên chương 6 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Ai biết biết điều điều gì là tốt tốt cho con người trong ngày phù vân? để gìn giữ sự công chính kính sợ Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Giảng viên chương 6 hướng đến đối tượng nào?",
+          "options": [
+            "Người tìm kiếm lẽ thật, người biết lắng nghe để sống khôn ngoan",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Giảng viên chương 6 cam kết đem lại điều gì?",
+          "options": [
+            "Sự thanh thản, nhận biết giới hạn phàm nhân trước ĐỨC CHÚA tối cao",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Giảng viên chương 6 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi kính sợ Thiên Chúa và tuân giữ điều răn Ngài qua: Chúa ban giàu giàu có có danh vọng danh vọng nhưng cấm cho hưởng dùng dùng người lạ ăn",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Giảng viên chương 7 thảo luận là gì?",
+          "options": [
+            "Tiếng thơm, nhà tang chế và sự chừng mực khôn ngoan",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn hoặc triết lý tiêu biểu chép trong Giảng viên chương 7 là?",
+          "options": [
+            "\"Danh tiếng tốt quý hơn dầu thơm đắt tiền, ngày chết hơn ngày sinh.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên chương 7 khuyên răn con người tránh tai họa nào qua hình ảnh 'Tiếng thơm quý hơn dầu thơm dầu thơm đắt tiền vương triều?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Tiếng thơm quý hơn dầu thơm dầu thơm đắt tiền vương triều để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Thà đi đến nhà nhà tang tang chế chế hơn đến nhà yến tiệc' trong Giảng viên chương 7 chép là gì?",
+          "options": [
+            "Giáo huấn nhân sinh: Thà đi đến nhà nhà tang tang chế chế hơn đến nhà yến tiệc giúp hiểu rõ giá trị cuộc sống",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Chúa dựng phàm phàm nhân nhân ngay thẳng ngay thẳng họ tự tìm nhiều mưu' trong Giảng viên chương 7 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Chúa dựng phàm phàm nhân nhân ngay thẳng ngay thẳng họ tự tìm nhiều mưu dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giảng viên chương 7, cụm từ 'Đừng công chính quá quá mức mức cũng đừng tỏ ra khôn ngoan quá' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Đừng công chính quá quá mức mức cũng đừng tỏ ra khôn ngoan quá mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Lời khiển khiển trách trách trách người khôn tốt hơn ca hát kẻ ngu' ở Giảng viên chương 7 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Lời khiển khiển trách trách trách người khôn tốt hơn ca hát kẻ ngu để gìn giữ sự công chính kính sợ Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Giảng viên chương 7 hướng đến đối tượng nào?",
+          "options": [
+            "Người tìm kiếm lẽ thật, người biết lắng nghe để sống khôn ngoan",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Giảng viên chương 7 cam kết đem lại điều gì?",
+          "options": [
+            "Sự thanh thản, nhận biết giới hạn phàm nhân trước ĐỨC CHÚA tối cao",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Giảng viên chương 7 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi kính sợ Thiên Chúa và tuân giữ điều răn Ngài qua: Tiếng thơm quý hơn dầu thơm dầu thơm đắt tiền vương triều",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Giảng viên chương 8 thảo luận là gì?",
+          "options": [
+            "Tuân phục vương quyền và công việc Chúa sâu nhiệm",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn hoặc triết lý tiêu biểu chép trong Giảng viên chương 8 là?",
+          "options": [
+            "\"Hãy tuân giữ mệnh lệnh của nhà vua vì lời thề hứa trước Thiên Chúa.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên chương 8 khuyên răn con người tránh tai họa nào qua hình ảnh 'Hãy giữ lệnh nhà nhà vua vua vì lời thề hứa trước Chúa?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Hãy giữ lệnh nhà nhà vua vua vì lời thề hứa trước Chúa để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Kẻ ác ác được chôn cất chôn cất đàng hoàng người lành bị quên' trong Giảng viên chương 8 chép là gì?",
+          "options": [
+            "Giáo huấn nhân sinh: Kẻ ác ác được chôn cất chôn cất đàng hoàng người lành bị quên giúp hiểu rõ giá trị cuộc sống",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Bản án án kẻ ác ác cấm thi hành nhanh nên lòng người đầy ác' trong Giảng viên chương 8 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Bản án án kẻ ác ác cấm thi hành nhanh nên lòng người đầy ác dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giảng viên chương 8, cụm từ 'Kẻ kính sợ Thiên Chúa Chúa sẽ được hạnh phúc tốt lành' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Kẻ kính sợ Thiên Chúa Chúa sẽ được hạnh phúc tốt lành mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Loài người phàm phàm nhân nhân cấm thể tìm thấu công việc Chúa' ở Giảng viên chương 8 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Loài người phàm phàm nhân nhân cấm thể tìm thấu công việc Chúa để gìn giữ sự công chính kính sợ Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Giảng viên chương 8 hướng đến đối tượng nào?",
+          "options": [
+            "Người tìm kiếm lẽ thật, người biết lắng nghe để sống khôn ngoan",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Giảng viên chương 8 cam kết đem lại điều gì?",
+          "options": [
+            "Sự thanh thản, nhận biết giới hạn phàm nhân trước ĐỨC CHÚA tối cao",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Giảng viên chương 8 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi kính sợ Thiên Chúa và tuân giữ điều răn Ngài qua: Hãy giữ lệnh nhà nhà vua vua vì lời thề hứa trước Chúa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Giảng viên chương 9 thảo luận là gì?",
+          "options": [
+            "Số phận chung và niềm vui cuộc sống giản đơn",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn hoặc triết lý tiêu biểu chép trong Giảng viên chương 9 là?",
+          "options": [
+            "\"Một con chó sống còn tốt hơn một con sư tử chết.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên chương 9 khuyên răn con người tránh tai họa nào qua hình ảnh 'Con chó chó sống sống tốt hơn con sư tử sư tử chết?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Con chó chó sống sống tốt hơn con sư tử sư tử chết để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Hãy ăn bánh bánh với niềm vui vui, uống rượu với lòng hân hoan' trong Giảng viên chương 9 chép là gì?",
+          "options": [
+            "Giáo huấn nhân sinh: Hãy ăn bánh bánh với niềm vui vui, uống rượu với lòng hân hoan giúp hiểu rõ giá trị cuộc sống",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Mặc áo trắng trắng luôn luôn, dầu thơm cấm thiếu trên đầu đầu' trong Giảng viên chương 9 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Mặc áo trắng trắng luôn luôn, dầu thơm cấm thiếu trên đầu đầu dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giảng viên chương 9, cụm từ 'Hãy vui hưởng cuộc sống với người vợ vợ yêu yêu dấu suốt ngày phù' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Hãy vui hưởng cuộc sống với người vợ vợ yêu yêu dấu suốt ngày phù mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Khôn ngoan tốt hơn sức mạnh mạnh khôn người nghèo bị khinh' ở Giảng viên chương 9 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Khôn ngoan tốt hơn sức mạnh mạnh khôn người nghèo bị khinh để gìn giữ sự công chính kính sợ Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Giảng viên chương 9 hướng đến đối tượng nào?",
+          "options": [
+            "Người tìm kiếm lẽ thật, người biết lắng nghe để sống khôn ngoan",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Giảng viên chương 9 cam kết đem lại điều gì?",
+          "options": [
+            "Sự thanh thản, nhận biết giới hạn phàm nhân trước ĐỨC CHÚA tối cao",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Giảng viên chương 9 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi kính sợ Thiên Chúa và tuân giữ điều răn Ngài qua: Con chó chó sống sống tốt hơn con sư tử sư tử chết",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Giảng viên chương 10 thảo luận là gì?",
+          "options": [
+            "Sự điên rồ của kẻ ngu và chim trời mách lẻo",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn hoặc triết lý tiêu biểu chép trong Giảng viên chương 10 là?",
+          "options": [
+            "\"Ruồi chết làm thối rữa bình dầu thơm, một chút điên rồ phá hủy khôn ngoan.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên chương 10 khuyên răn con người tránh tai họa nào qua hình ảnh 'Ruồi chết chết làm thối thối bình dầu thơm người chế tạo?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Ruồi chết chết làm thối thối bình dầu thơm người chế tạo để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Kẻ điên rồ rồ đi đường thiếu trí khôn khôn ai cũng biết' trong Giảng viên chương 10 chép là gì?",
+          "options": [
+            "Giáo huấn nhân sinh: Kẻ điên rồ rồ đi đường thiếu trí khôn khôn ai cũng biết giúp hiểu rõ giá trị cuộc sống",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Kẻ đào hố hố tự sa sa xuống hố rắn cắn kẻ phá tường' trong Giảng viên chương 10 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Kẻ đào hố hố tự sa sa xuống hố rắn cắn kẻ phá tường dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giảng viên chương 10, cụm từ 'Đất nước khốn khổ có vua trẻ trẻ con con quan lớn tiệc buổi sáng' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Đất nước khốn khổ có vua trẻ trẻ con con quan lớn tiệc buổi sáng mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Đừng nguyền nguyền rủa rủa nhà vua giường ngủ chim trời mách' ở Giảng viên chương 10 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Đừng nguyền nguyền rủa rủa nhà vua giường ngủ chim trời mách để gìn giữ sự công chính kính sợ Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Giảng viên chương 10 hướng đến đối tượng nào?",
+          "options": [
+            "Người tìm kiếm lẽ thật, người biết lắng nghe để sống khôn ngoan",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Giảng viên chương 10 cam kết đem lại điều gì?",
+          "options": [
+            "Sự thanh thản, nhận biết giới hạn phàm nhân trước ĐỨC CHÚA tối cao",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Giảng viên chương 10 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi kính sợ Thiên Chúa và tuân giữ điều răn Ngài qua: Ruồi chết chết làm thối thối bình dầu thơm người chế tạo",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Giảng viên chương 11 thảo luận là gì?",
+          "options": [
+            "Gieo bánh trên mặt nước và nhớ Đấng Tạo Hóa tuổi xuân",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn hoặc triết lý tiêu biểu chép trong Giảng viên chương 11 là?",
+          "options": [
+            "\"Hãy gieo bánh ngươi trên mặt nước, sau nhiều ngày ngươi sẽ tìm lại được.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên chương 11 khuyên răn con người tránh tai họa nào qua hình ảnh 'Hãy gieo bánh bánh trên mặt mặt nước nước tìm lại được sau?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Hãy gieo bánh bánh trên mặt mặt nước nước tìm lại được sau để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Chia phần cho bảy bảy hay tám tám người cấm biết tai họa nào' trong Giảng viên chương 11 chép là gì?",
+          "options": [
+            "Giáo huấn nhân sinh: Chia phần cho bảy bảy hay tám tám người cấm biết tai họa nào giúp hiểu rõ giá trị cuộc sống",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Sáng sớm sớm gieo hạt hạt chiều tối tối đừng ngừng tay làm' trong Giảng viên chương 11 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Sáng sớm sớm gieo hạt hạt chiều tối tối đừng ngừng tay làm dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giảng viên chương 11, cụm từ 'Ánh sáng ngọt ngào ngào mắt nhìn thấy mặt trời mặt trời vui' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Ánh sáng ngọt ngào ngào mắt nhìn thấy mặt trời mặt trời vui mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Hãy nhớ đến Đấng Tạo Hóa Hóa thời tuổi tuổi thanh xuân xuân' ở Giảng viên chương 11 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Hãy nhớ đến Đấng Tạo Hóa Hóa thời tuổi tuổi thanh xuân xuân để gìn giữ sự công chính kính sợ Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Giảng viên chương 11 hướng đến đối tượng nào?",
+          "options": [
+            "Người tìm kiếm lẽ thật, người biết lắng nghe để sống khôn ngoan",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Giảng viên chương 11 cam kết đem lại điều gì?",
+          "options": [
+            "Sự thanh thản, nhận biết giới hạn phàm nhân trước ĐỨC CHÚA tối cao",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Giảng viên chương 11 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi kính sợ Thiên Chúa và tuân giữ điều răn Ngài qua: Hãy gieo bánh bánh trên mặt mặt nước nước tìm lại được sau",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Giảng viên chương 12 thảo luận là gì?",
+          "options": [
+            "Tuổi già xế bóng và bổn phận kính sợ Chúa",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu châm ngôn hoặc triết lý tiêu biểu chép trong Giảng viên chương 12 là?",
+          "options": [
+            "\"Kính sợ Thiên Chúa và tuân giữ các điều răn của Ngài, đó là toàn bộ bổn phận con người.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giảng viên chương 12 khuyên răn con người tránh tai họa nào qua hình ảnh 'Trước khi dây bạc bạc đứt đứt, chén vàng vàng vỡ vỡ vụn?'",
+          "options": [
+            "Lời dạy tránh cạm bẫy dựa trên hình ảnh: Trước khi dây bạc bạc đứt đứt, chén vàng vàng vỡ vỡ vụn để đạt khôn ngoan",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời răn dạy về 'Bụi cát trở về đất đất cát thần khí về với Thiên Chúa Chúa' trong Giảng viên chương 12 chép là gì?",
+          "options": [
+            "Giáo huấn nhân sinh: Bụi cát trở về đất đất cát thần khí về với Thiên Chúa Chúa giúp hiểu rõ giá trị cuộc sống",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Giảng viên tìm lời lời chân chân thật thật thật viết lời ngay thẳng' trong Giảng viên chương 12 cảnh báo trạng thái nào?",
+          "options": [
+            "Cảnh báo trạng thái hoặc thói xấu: Giảng viên tìm lời lời chân chân thật thật thật viết lời ngay thẳng dẫn đến sụp đổ thất bại",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Giảng viên chương 12, cụm từ 'Đọc sách nhiều nhiều mệt mỏi mỏi xác thịt cấm bao giờ cùng' nói lên đức tính tốt đẹp nào?",
+          "options": [
+            "Đức tính tốt hoặc giá trị: Đọc sách nhiều nhiều mệt mỏi mỏi xác thịt cấm bao giờ cùng mang lại phước lành vinh hiển Chúa",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khuyên răn hành vi ứng xử liên quan đến 'Kính sợ Thiên Chúa Chúa tuân giữ điều răn răn bổn phận con người' ở Giảng viên chương 12 dạy điều gì?",
+          "options": [
+            "Lời khuyên: Kính sợ Thiên Chúa Chúa tuân giữ điều răn răn bổn phận con người để gìn giữ sự công chính kính sợ Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại diện khuyên răn dạy dỗ chính trong Giảng viên chương 12 hướng đến đối tượng nào?",
+          "options": [
+            "Người tìm kiếm lẽ thật, người biết lắng nghe để sống khôn ngoan",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối sống thông minh khôn ngoan Giảng viên chương 12 cam kết đem lại điều gì?",
+          "options": [
+            "Sự thanh thản, nhận biết giới hạn phàm nhân trước ĐỨC CHÚA tối cao",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa nhân sinh sâu sắc của Giảng viên chương 12 đúc kết bài học gì?",
+          "options": [
+            "Kêu gọi kính sợ Thiên Chúa và tuân giữ điều răn Ngài qua: Trước khi dây bạc bạc đứt đứt, chén vàng vàng vỡ vỡ vụn",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

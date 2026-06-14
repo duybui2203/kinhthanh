@@ -1,0 +1,2211 @@
+{
+  "bookId": 7,
+  "bookName": "Thủ lãnh",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Chi tộc nào được Chúa chỉ định đi tiên phong đánh dân Ca-na-an sau cái chết của Giô-suê?",
+          "options": [
+            "Chi tộc Giu-đa (Judah đi cùng chi tộc Si-môn)",
+            "Chi tộc Ép-ra-im",
+            "Chi tộc Lê-vi tư tế",
+            "Chi tộc Ru-bên trưởng nam"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua ngoại bang bại trận bị cắt ngón tay ngón chân cái làm nhục thề báo ứng là ai?",
+          "options": [
+            "Vua A-đô-ni-bê-zéc (Adoni-bezek)",
+            "Vua Xi-hôn nước Hét-bôn",
+            "Vua Ốc xứ Ba-san",
+            "Vua Gia-vin thành Kha-xo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến binh dũng cảm nào chiếm được thành Đê-bi cưới con gái Ca-lếp là bà Ạc-sa?",
+          "options": [
+            "Ông Ốt-ni-ên (Othniel) con ông Cơ-nát",
+            "Tướng Giô-suê con ông Nun",
+            "Ông Ca-lếp con Giơ-phun-nê",
+            "Thủ lĩnh Nác-sôn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do chi tộc Giu-đa chiếm đóng miền núi mà thất bại không đuổi được dân thung lũng là gì?",
+          "options": [
+            "Vì cư dân thung lũng sở hữu các chiến xa bằng sắt (iron chariots)",
+            "Vì quân địch đông gấp mười lần họ",
+            "Vì Chúa cấm họ đánh chiếm đồng bằng",
+            "Vì quân Giu-đa thiếu vũ khí gươm giáo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố Hép-rôn núi đá được trao đặc cách cho ai làm sản nghiệp dòng tộc?",
+          "options": [
+            "Ông Ca-lếp (Caleb) tôi trung của Chúa",
+            "Tư tế Ê-la-da con A-hác-rôn",
+            "Tướng Giô-suê lãnh đạo cũ",
+            "Chi tộc Bên-gia-min đóng trại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con cái người Kê-nê nhạc phụ Mô-sê đi cùng chi tộc Giu-đa định cư tại hoang địa nào?",
+          "options": [
+            "Hoang địa Giu-đa ở phía nam A-rát",
+            "Sa mạc hoang dã Xi-nai",
+            "Vùng núi Ép-ra-im",
+            "Thảo nguyên Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc Bên-gia-min không thể trục xuất bộ tộc bản địa nào ra khỏi Giê-ru-sa-lem?",
+          "options": [
+            "Người Giê-vu-si (Jebusites sống chung với họ tại Giê-ru-sa-lem)",
+            "Người Philistine",
+            "Người A-ma-lếch",
+            "Người Khi-vi thành Ghi-vơ-on"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhà Giô-sép đánh chiếm thành Bê-then (Lu-dơ) nhờ sự giúp đỡ của ai?",
+          "options": [
+            "Một người đàn ông chỉ lối ngầm vào thành thành (được tha mạng cả nhà)",
+            "Hai thám tử Giê-ri-khô cũ chỉ đường",
+            "Một trận động đất làm sập tường thành Bê-then",
+            "Sự tiếp tế lương thực của người Ghi-vơ-on"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sai lầm chung của các chi tộc khác (Man-na-se, Ép-ra-im, Dơ-vu-lun, A-sê...) chép ở chương 1 là gì?",
+          "options": [
+            "Không trục xuất hết người Ca-na-an; chấp nhận sống chung bắt họ làm nô dịch đóng thuế đóng thuế",
+            "Họ tự nguyện dâng nộp vàng bạc cầu hòa",
+            "Họ bỏ đạo đi thờ thần ngoại ngay lập tức",
+            "Họ chia rẽ đánh nhau tranh giành của cải"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc nào bị người A-mô-ri dồn ép bắt ở trên núi cao cấm không cho xuống thung lũng?",
+          "options": [
+            "Chi tộc Đan (tribe of Dan)",
+            "Chi tộc Náp-ta-li",
+            "Chi tộc A-sê",
+            "Chi tộc Y-xa-kha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Sứ thần của Chúa đi lên từ Ghinh-gát đến Bô-khim trách phạt dân tội lỗi gì?",
+          "options": [
+            "Vì dân đã lập ước với cư dân bản địa, không phá hủy bàn thờ tà thần ngoại của họ",
+            "Vì dân bỏ bê không dâng lễ vượt qua hàng năm",
+            "Vì dân lén lút đúc bò vàng thờ lạy sa mạc",
+            "Vì dân không chịu cắt bì cho con cái sinh ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên địa danh Bô-khim (Bochim) mang ý nghĩa giải thích hành động nào của dân?",
+          "options": [
+            "Nơi dân khóc lóc khóc lóc lớn tiếng hối lỗi trước lời trách phạt của sứ thần",
+            "Nơi dân dựng bàn thờ đá bôi vôi viết luật",
+            "Nơi man-na ngừng rơi vĩnh viễn bầu trời",
+            "Đồi đá thạch anh làm dao cắt bì tập thể"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sách ghi nhận toàn dân Ít-ra-en phụng thờ Chúa trung thành suốt cuộc đời của ai?",
+          "options": [
+            "Suốt cuộc đời ông Giô-suê và thế hệ bô lão chứng kiến việc Chúa làm",
+            "Suốt đời Mô-sê tôi trung của Chúa",
+            "Suốt đời thượng tế Ê-la-da con A-hác-rôn",
+            "Vĩnh viễn không bao giờ phản bội Chúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tuổi thọ của tướng Giô-suê khi ông qua đời được chôn tại Thim-nát-xê-rách là bao nhiêu?",
+          "options": [
+            "Một trăm mười tuổi (110 tuổi)",
+            "Một trăm hai mươi tuổi",
+            "Tám mươi tuổi",
+            "Một trăm tuổi tròn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên các thần ngẫu tượng tà thần ngoại bang dân Do Thái đi thờ cúng phản đạo là gì?",
+          "options": [
+            "Thần Ba-al (Baal) và các thần nữ Át-ta-rê (Ashtaroth)",
+            "Tượng bò vàng Ai Cập cổ đại",
+            "Thần Mô-lê Mô-áp cúng con sống",
+            "Hình khắc rắn đồng Mô-sê đúc cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa giải quyết sự phản nghịch của dân bằng cách phó họ vào tay đối tượng nào?",
+          "options": [
+            "Phó họ vào tay quân thù cướp bóc cướp bóc xung quanh giày xéo hạ nhục",
+            "Chúa cho thiên sứ cầm gươm lửa diệt họ ngay",
+            "Chúa giáng mưa diêm sinh thiêu hủy nhà cửa lều",
+            "Bắt họ quay lại làm nô lệ Ai Cập vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật cứu độ đặc biệt Chúa dấy lên để giải cứu dân khỏi tay kẻ cướp bóc gọi là gì?",
+          "options": [
+            "Các vị Thủ Lãnh (Phán quan / Judges giải cứu cứu dân)",
+            "Các tư tế thượng tế dòng Lê-vi",
+            "Các vị Vua hoàng gia cai trị",
+            "Các sứ thần trời xuống chiến đấu hộ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ tôn giáo của dân Ít-ra-en sau khi mỗi vị Thủ Lãnh qua đời thế nào?",
+          "options": [
+            "Họ lại sa ngã phạm tội phạm tội tệ hại hơn thế hệ cha ông đi thờ thần ngoại bang",
+            "Họ tiếp tục trung thành giữ luật pháp vững vàng",
+            "Họ dâng lễ tế bò tơ chuộc tội đền tạm Si-lô",
+            "Họ lập con trai thủ lĩnh lên làm vua nối dõi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa quyết định cấm không trục xuất các dân Ca-na-an còn sót lại nữa nhằm mục đích gì?",
+          "options": [
+            "Để dùng họ thử thách thử thách lòng tin trung thành giữ luật của dân Ít-ra-en",
+            "Để bắt họ làm nô lệ đốn củi xách nước vĩnh viễn",
+            "Để tăng thêm sự giàu sang súc vật Ca-na-an Do Thái",
+            "Vì quân đội Ít-ra-en quá yếu kém không đánh nổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa của Sứ thần Chúa về số phận dân bản địa nếu dân phạm giao ước là gì?",
+          "options": [
+            "Chúng sẽ là cái gai nhọn chọc vào hông các ngươi, thần của chúng là cái bẫy bẫy hại các ngươi",
+            "Chúng sẽ làm nô lệ đóng thuế cho các ngươi vĩnh viễn",
+            "Chúng sẽ tự nguyện rời xứ sang nước khác ở",
+            "Chúng sẽ tiêu diệt sạch lực lượng quân Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Ai là vị Thủ Lãnh đầu tiên được Chúa dấy lên giải cứu dân khỏi vua xứ A-ram?",
+          "options": [
+            "Ông Ốt-ni-ên (Othniel) con Cơ-nát cháu Ca-lếp",
+            "Ông Ê-hút người Bên-gia-min",
+            "Ông Sam-ga chiến sĩ chăn bò",
+            "Gideon chiến sĩ dũng cảm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đất nước được bình an vô sự bao nhiêu năm dưới thời Thủ Lãnh Ốt-ni-ên?",
+          "options": [
+            "Bốn mươi năm (40 năm bình an)",
+            "Tám mươi năm",
+            "Hai mươi năm",
+            "Mười năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thủ Lãnh thứ hai Ê-hút có đặc điểm thể lý độc đáo nào?",
+          "options": [
+            "Người thuận tay trái (left-handed người Bên-gia-min)",
+            "Người bị què một chân từ nhỏ",
+            "Người khổng lồ to cao lực lưỡng",
+            "Người bị câm điếc bẩm sinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vua Mô-áp béo phì áp bức Ít-ra-en bị Ê-hút ám sát tên là gì?",
+          "options": [
+            "Vua Éc-lôn (Eglon king of Moab)",
+            "Vua Xi-hôn",
+            "Vua Og Ba-san",
+            "Vua Adoni-bezek"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-hút đã giấu vũ khí ám sát là thanh đoản kiếm hai lưỡi ở vị trí nào?",
+          "options": [
+            "Dưới vạt áo bên đùi phải đùi phải (thuận tay trái rút nhanh)",
+            "Trong giỏ đựng sính lễ dâng vua",
+            "Cất dưới đế giày da của mình",
+            "Giấu trong tay áo bên trái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ê-hút đã thực hiện vụ ám sát vua Mô-áp tại căn phòng nào riêng tư?",
+          "options": [
+            "Tại phòng mát trên sân thượng sân thượng của vua mát mẻ",
+            "Tại ngai vàng quảng trường chính vương đô",
+            "Trong vườn cây ô-liu sau hoàng cung",
+            "Tại phòng bếp hoàng gia dâng thức ăn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đất nước được bình an bao nhiêu năm sau khi Ê-hút đánh bại quân Mô-áp?",
+          "options": [
+            "Tám mươi năm (80 năm thanh bình dài nhất)",
+            "Bốn mươi năm",
+            "Mười năm",
+            "Năm mươi năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thủ Lãnh thứ ba Sam-ga đã dùng vũ khí thô sơ nào đánh chết 600 quân Phi-li-tinh?",
+          "options": [
+            "Cây đót (gậy) thúc bò thúc bò thúc kéo súc vật",
+            "Một chiếc xương hàm lừa tươi",
+            "Một cây cung gỗ sồi hoang dã",
+            "Một hòn đá ném trúng đầu tướng địch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vương quốc áp bức dân Do Thái 18 năm bị Ê-hút đánh bại là quốc gia nào?",
+          "options": [
+            "Vương quốc Mô-áp (Moabites)",
+            "Vương quốc Ê-đôm",
+            "Vương quốc Am-môn",
+            "Vương quốc Ai Cập cổ đại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi Ê-hút ám sát vua xong khóa cửa phòng lại, lính hầu cận vua đã nghĩ gì trì hoãn?",
+          "options": [
+            "Họ nghĩ vua đang đi đại tiện (giải trút bầu tâm sự) phòng mát mát mẻ cấm làm phiền",
+            "Họ nghĩ vua đang ngủ say giấc trưa",
+            "Họ nghĩ vua đang tế thần Ba-al riêng",
+            "Họ nghĩ vua đang đếm vàng bạc cướp được"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Nữ ngôn sứ (tiên tri) làm Thủ Lãnh phán xử dân Do Thái dưới cây chà là tên là gì?",
+          "options": [
+            "Bà Đê-bô-ra (Deborah vợ ông Láp-pi-đốt)",
+            "Bà Gia-ên vợ người Kê-nê",
+            "Bà Ra-háp kỹ nữ cứu thám tử",
+            "Bà Ru-tơ người Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng chỉ huy quân đội Ca-na-an áp bức dân với 900 chiến xa sắt tên là gì?",
+          "options": [
+            "Tướng Xí-xơ-ra (Sisera đóng quân Kha-rô-sét Hét-gô-im)",
+            "Vua Gia-vin nước Kha-xo",
+            "Vua Éc-lôn Mô-áp",
+            "Vua Adoni-bezek"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng quân Ít-ra-en được Đê-bô-ra triệu tập dẫn 10.000 quân lên núi Ta-bo chiến đấu là ai?",
+          "options": [
+            "Tướng Ba-rác (Barak) con ông A-vi-nô-am ở Ca-đét",
+            "Ông Ốt-ni-ên cháu Ca-lếp",
+            "Gideon chiến sĩ dũng cảm",
+            "Ốt-ni-ên phán quan Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba-rác ra điều kiện gì bắt buộc Đê-bô-ra phải làm mới chịu ra quân chiến đấu?",
+          "options": [
+            "Nếu bà đi cùng tôi thì tôi đi; nếu bà không đi cùng tôi thì tôi cấm đi đi",
+            "Bà phải dâng lễ tế mười con chiên đực",
+            "Bà phải ban cho tôi một nửa chiến lợi phẩm vàng",
+            "Bà phải phong tôi làm vua cai trị Ít-ra-en"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đê-bô-ra đồng ý đi cùng Ba-rác nhưng tiên báo vinh quang giết Xí-xơ-ra thuộc về ai?",
+          "options": [
+            "Thuộc về tay một người phụ nữ phụ nữ (không thuộc về tướng Ba-rác)",
+            "Chính tướng Ba-rác sẽ tự chém đầu hắn",
+            "Do Chúa dùng mưa đá dội chết hắn",
+            "Thuộc về người hầu cận tư tế Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngọn núi nơi quân Ba-rác tập hợp đóng trại chuẩn bị tấn công là ngọn núi nào?",
+          "options": [
+            "Núi Ta-bo (Mount Tabor vùng Ga-li-lê)",
+            "Núi Xi-nai",
+            "Núi Ê-van",
+            "Núi Nê-bô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người phụ nữ Kê-nê dũng cảm ám sát tướng Xí-xơ-ra khi ông chạy trốn trọ lều là ai?",
+          "options": [
+            "Bà Gia-ên (Jael vợ người Kê-nê Khê-ve)",
+            "Bà Đê-bô-ra nữ tiên tri",
+            "Bà Ra-háp Giê-ri-khô",
+            "Bà Rê-bê-ca"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món đồ uống và hành động Gia-ên tiếp đãi khiến Xí-xơ-ra tin cậy ngủ say là gì?",
+          "options": [
+            "Cho ông uống sữa tươi tươi ấm nhạt, đắp chăn ấm che kín người dưỡng sức",
+            "Cho uống rượu nho ngon say xỉn",
+            "Cho uống nước suối đắng thanh lọc",
+            "Dọn thịt cừu nướng béo ngậy ăn no"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vũ khí thô sơ Gia-ên dùng để kết liễu cuộc đời tướng Xí-xơ-ra đang ngủ say là gì?",
+          "options": [
+            "Một chiếc cọc lều (tent peg) đóng xuyên màng tang bằng chiếc búa sắt xuống đất",
+            "Dùng gươm tuốt trần chém đầu ông",
+            "Dùng dao găm đâm thẳng vào ngực",
+            "Thắt cổ ông bằng sợi dây chỉ đỏ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mối quan hệ gia tộc của chồng Gia-ên đối với dân Do Thái là gì?",
+          "options": [
+            "Dòng dõi người Kê-nê, họ hàng nhạc phụ nhạc mẫu ông Mô-sê tôi trung của Chúa",
+            "Họ hàng thân thuộc của tướng Ba-rác",
+            "Người ngoại bang Ca-na-an chính gốc",
+            "Đồng minh quân sự nước Mô-áp ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Bài ca Đê-bô-ra và Ba-rác ca ngợi Chúa ngự đến từ miền núi nào làm động đất mưa sa?",
+          "options": [
+            "Núi Sê-i-rơ (Seir / cánh đồng Ê-đôm)",
+            "Núi Xi-nai bốc khói",
+            "Núi Nê-bô hoang dã",
+            "Núi Ê-van bàn thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dòng sông lịch sử dâng nước lũ cuốn trôi quân binh xe chiến Xí-xơ-ra là sông nào?",
+          "options": [
+            "Sông Ki-sôn (Kishon River dâng nước cuốn trôi)",
+            "Sông Gio-đan",
+            "Sông Nin Ai Cập",
+            "Sông Giáp-bốc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc nào bị bài ca trách móc vì do dự chần chừ nằm chăn cừu nghe sáo thổi?",
+          "options": [
+            "Chi tộc Ru-bên (Reuben do dự bên kia sông)",
+            "Chi tộc Giu-đa đi tiên phong",
+            "Chi tộc Ép-ra-im vùng núi",
+            "Chi tộc Lê-vi tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc Đan bị bài ca trách mắng vì lý do lười biếng gì?",
+          "options": [
+            "Vì chi tộc Đan lẩn trốn trú ngụ trên các chiếc tàu buôn tàu buôn bờ biển",
+            "Vì Đan sợ hãi trốn vào hang núi đá",
+            "Vì Đan bận thờ bò vàng đúc tượng",
+            "Vì Đan không đóng góp thuế thập phân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ca tụng bà Gia-ên trong bài ca vinh danh bà thế nào giữa nữ giới?",
+          "options": [
+            "Được chúc phúc nhiều nhất trong số các phụ nữ lều trại lều trại",
+            "Được phong làm hoàng hậu xứ Do Thái",
+            "Được dâng hiến vàng bạc đền tạm nhiều nhất",
+            "Được phong chức nữ tư tế dòng Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết tả mẹ Xí-xơ-ra tựa cửa sổ chờ đợi con mang chiến lợi phẩm gì về?",
+          "options": [
+            "Vải nhuộm thêu hoa sắc sỡ sắc sỡ và phụ nữ làm nô lệ cho chiến sĩ",
+            "Chiến xa bằng vàng ròng Ai Cập",
+            "Súc vật đầu lòng béo mập cừu dê",
+            "Bình dầu rượu nho thơm Ca-na-an"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ngôi sao thiên văn được bài ca mô tả tham gia chiến đấu chống Xí-xơ-ra thế nào?",
+          "options": [
+            "Từ trời cao, các ngôi sao đi dọc quỹ đạo chiến đấu chiến đấu chống Xí-xơ-ra",
+            "Một ngôi sao đổi ngôi rơi trúng đầu tướng địch",
+            "Mặt trời dừng lại không lặn dài ngày",
+            "Cột mây cột lửa hiện che khuất quân thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thành phố bị thiên sứ Chúa nguyền rủa vì cự từ không đi cứu giúp Chúa đánh địch?",
+          "options": [
+            "Thành Mê-rô-da (Meroz)",
+            "Thành Si-khem",
+            "Thành Ghi-vơ-on",
+            "Thành Ghinh-gát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa văn học lớn nhất của Bài ca Đê-bô-ra chép ở chương 5 là gì?",
+          "options": [
+            "Một trong những ан ản phẩm thơ ca cổ nhất Kinh Thánh ca ngợi vinh quang Chúa chiến thắng thù",
+            "Bản báo cáo tài chính chiến lợi phẩm quân sự",
+            "Sách hướng dẫn chiến thuật quân sự Ca-na-an",
+            "Di chúc để lại của nữ tiên tri Đê-bô-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đất nước được bình an bao nhiêu năm sau chiến thắng vĩ đại tướng Xí-xơ-ra?",
+          "options": [
+            "Bốn mươi năm (40 năm thanh bình)",
+            "Tám mươi năm",
+            "Hai mươi năm",
+            "Mười năm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Bộ tộc du mục độc ác nào áp bức Ít-ra-en 7 năm phá hoại sạch hoa màu như cào cào sa mạc?",
+          "options": [
+            "Dân Ma-đi-an (Midianites tàn phá ruộng vườn)",
+            "Dân Philistine",
+            "Dân Ê-đôm",
+            "Vương quốc Mô-áp béo phì"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa dấy lên Thủ Lãnh Ghê-đê-ôn (Gideon) khi ông đang làm công việc gì và ở đâu?",
+          "options": [
+            "Đập lúa mì trong bồn ép nho bồn ép nho để giấu dân Ma-đi-an",
+            "Chăn bầy cừu nhạc phụ hoang địa",
+            "Dâng tế lễ bò tơ bàn thờ đền tạm",
+            "Chỉ huy quân đội tuần tra biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời gọi chào oai nghiêm của Sứ thần Chúa dành cho Ghê-đê-ôn ở câu 12 là gì?",
+          "options": [
+            "ĐỨC CHÚA ở cùng ngươi, hỡi chiến sĩ dũng cảm! (Mighty warrior)",
+            "Hãy lên làm vua Do Thái lập tức",
+            "Ngươi hãy đi tiêu diệt sạch Ma-đi-an một mình",
+            "Hãy cởi giày ra đất ngươi đứng là thánh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ghê-đê-ôn nghi ngờ Chúa ở cùng dân vì thắc mắc lịch sử nào?",
+          "options": [
+            "Nếu Chúa ở cùng, tại sao tai họa nầy lại giáng xuống? Các phép lạ oai hùng Ai Cập xưa đâu rồi?",
+            "Chúa có thích vàng bạc đền tạm chúng tôi dâng không?",
+            "Tại sao tư tế Lê-vi không đi chiến đấu giải cứu?",
+            "Quân Ma-đi-an mạnh hơn Chúa chúng tôi sao?"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ đầu tiên xác nhận sứ mạng Ghê-đê-ôn dâng lễ chay cho sứ thần là gì?",
+          "options": [
+            "Lửa từ đá bốc lên thiêu hủy hoàn toàn thịt dê bánh không men chạm bởi đầu trượng sứ thần",
+            "Mưa đá từ trời dội xuống thiêu hủy bàn thờ Ba-al",
+            "Cây gậy ông tự nở hoa hạnh nhân ngọt",
+            "Dòng nước suối chảy ngược lên đồi núi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động phá hủy tôn giáo Ghê-đê-ôn làm ban đêm tại nhà cha mình là gì?",
+          "options": [
+            "Phá sập bàn thờ thần Ba-al của cha, chặt cột gỗ thần A-sê-ra xây bàn thờ dâng bò tế lễ",
+            "Đập vỡ tượng bò vàng đúc tượng",
+            "Đốt sạch lều trại họ hàng ngoại bang",
+            "Bắt cha ruột nộp bạc đền tội thờ tà thần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên biệt danh Giơ-ru-ba-al (Jerubbaal) cha ông đặt cho Ghê-đê-ôn mang ý nghĩa gì?",
+          "options": [
+            "Hãy để thần Ba-al tự bào chữa (đấu tranh) chống lại kẻ phá bàn thờ của nó",
+            "Người chiến sĩ dũng cảm của Chúa",
+            "Kẻ cướp vàng của đền thờ thần Ba-al",
+            "Người chăn chiên ngoan ngoãn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép thử thứ nhất với bộ lông cừu Ghê-đê-ôn xin Chúa xác nhận sứ mạng là gì?",
+          "options": [
+            "Đêm nay chỉ bộ lông cừu đẫm sương sương rơi, còn đất xung quanh khô ráo",
+            "Bộ lông cừu tự bốc cháy không cần lửa",
+            "Bộ lông cừu biến thành màu vàng óng",
+            "Con chiên tự nói tiếng người mách bảo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép thử thứ hai với bộ lông cừu đêm hôm sau quy định thế nào?",
+          "options": [
+            "Chỉ bộ lông cừu khô ráo khô ráo, còn đất xung quanh đẫm sương sa",
+            "Bộ lông cừu hóa thành đá cẩm thạch cứng",
+            "Chiên con tự đứng dậy đi lại bình thường",
+            "Mưa đá dội sập lều Ghê-đê-ôn trú ẩn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tộc của Ghê-đê-ôn là chi tộc nào và gia đình ông thế nào trong tộc?",
+          "options": [
+            "Chi tộc Man-na-se (Manasseh); gia đình nghèo nhất tộc và ông nhỏ nhất nhà",
+            "Chi tộc Giu-đa hoàng gia giàu sang",
+            "Chi tộc Lê-vi tư tế thánh hiến",
+            "Chi tộc Ép-ra-im đông thế mạnh"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Chúa giải thích lý do bắt Ghê-đê-ôn giảm bớt quân số 32.000 chiến binh đi đánh địch là gì?",
+          "options": [
+            "Quân đông quá; Ít-ra-en sẽ kiêu ngạo tự đắc: Sức riêng tôi cứu thoát tôi cứu thoát tôi chứ không nhờ Chúa",
+            "Vì không đủ lương thực bánh mì cung cấp hoang địa",
+            "Vì quân địch Ma-đi-an quá ít lính",
+            "Để chiến sĩ không bị thương tích chiến đấu nhiều"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiêu chuẩn thanh lọc quân số thứ nhất loại bỏ những ai lo sợ?",
+          "options": [
+            "Ai sợ hãi hoảng sợ được phép quay về (22.000 người về còn 10.000)",
+            "Ai mới lấy vợ cưới gả được về nhà",
+            "Ai chưa chịu phép cắt bì thanh tẩy loại ngũ",
+            "Ai không mang theo vũ khí kiếm sắt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiêu chuẩn thanh lọc lần hai tại suối nước chọn những chiến sĩ uống nước thế nào?",
+          "options": [
+            "Những người khum tay vục nước đưa lên miệng liếm như chó liếm liếm (chỉ còn 300 chiến sĩ)",
+            "Những người quỳ sụp gối úp mặt xuống suối uống trực tiếp",
+            "Những người dùng bình da múc nước uống thong thả",
+            "Những người từ chối uống nước ăn chay chiến đấu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giấc mơ cái bánh mì lúa mạch Ghê-đê-ôn nghe trộm l lính địch kể biểu thị ý nghĩa gì?",
+          "options": [
+            "Chiếc bánh mì lúa mạch lăn vào trại làm sập lều biểu thị gươm Ghê-đê-ôn hủy diệt Ma-đi-an",
+            "Dân Do Thái sắp bị đói khát cạn lương thực",
+            "Dân ngoại bang sẽ dâng hiến bánh chuộc lỗi",
+            "Chiến tranh sẽ kết thúc hòa bình không đổ máu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến thuật tấn công ban đêm độc đáo của 300 chiến sĩ Ghê-đê-ôn sử dụng vũ khí gì?",
+          "options": [
+            "Mỗi người cầm một chiếc kèn tù và và bình đất giấu đuốc cháy giấu đuốc cháy bên trong",
+            "Dùng cung tên bắn tẩm chất độc đầu tên",
+            "Chiến xa bằng sắt lao thẳng trại địch",
+            "Hóa trang thành lính Ma-đi-an trà trộn ám sát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiệu lệnh tấn công đồng loạt reo hò reo vang 300 chiến sĩ thực hiện là gì?",
+          "options": [
+            "Thổi kèn tù và, đập vỡ bình đất phơi đuốc cháy sáng và hô to: Gươm của Chúa và Ghê-đê-ôn!",
+            "Bắn tên lửa rực trời ban đêm vào trại",
+            "Đồng thanh hát bài ca Đê-bô-ra chiến thắng",
+            "Dậm chân đất tạo tiếng động giả chiến xa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tượng hỗn loạn xảy ra bên trong quân trại Ma-đi-an khi nghe hiệu lệnh kèn đập bình là gì?",
+          "options": [
+            "Chúa làm họ hoảng loạn, tự dùng gươm tàn sát giết lẫn nhau lẫn nhau chạy trốn",
+            "Họ tự châm lửa đốt trại bỏ chạy trốn",
+            "Họ quỳ sụp xin đầu hàng nộp hết vàng bạc",
+            "Họ bị động đất nuốt chửng toàn bộ lính gác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai thủ lĩnh chỉ huy quân Ma-đi-an bị bắt giết tại tảng đá và bồn ép nho tên là gì?",
+          "options": [
+            "O-rép (Oreb) và Dơ-ép (Zeeb)",
+            "Dơ-vác và Xan-mun-na",
+            "Xi-hôn và Og khổng lồ",
+            "Ba-la-am và Ba-lác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh suối nước nơi thực hiện thanh lọc 300 chiến sĩ liếm nước là suối nào?",
+          "options": [
+            "Suối Kha-rốt (Well of Harod)",
+            "Suối nước ngọt Ca-đê",
+            "Suối nước đắng Ma-ra",
+            "Dòng sông Gio-đan biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học lớn nhất của chiến tích 300 người thắng vạn quân địch là gì?",
+          "options": [
+            "Chiến thắng thuộc về quyền năng tối cao của Thiên Chúa cứu độ; cấm cậy dựa sức loài người",
+            "Chứng tỏ Ghê-đê-ôn là nhà binh pháp tài ba nhất",
+            "Vì quân du mục Ma-đi-an quá hèn nhát lỏng lẻo",
+            "Do vũ khí kèn đuốc có sức sát thương lớn thần kỳ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Chi tộc Ép-ra-im nổi giận trách móc Ghê-đê-ôn về vấn đề gì quân sự?",
+          "options": [
+            "Tại sao không rủ chúng tôi đi chiến đấu chống Ma-đi-an ngay từ đầu?",
+            "Tại sao chia chiến lợi phẩm vàng bạc thiếu phần Ép-ra-im?",
+            "Tại sao ông đúc chiếc áo ê-phốt thánh gây ô uế?",
+            "Tại sao ông từ chối lên làm vua cai trị dân Do Thái?"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ghê-đê-ôn đã dùng lời lẽ khôn khéo ôn hòa xoa dịu cơn giận Ép-ra-im thế nào?",
+          "options": [
+            "Mót nho Ép-ra-im không tốt hơn gặt nho A-vi-ê-ze sao? Chúa đã trao thủ lĩnh địch cho các anh!",
+            "Các anh là chi tộc mạnh nhất tôi đâu dám coi thường",
+            "Hãy lấy một nửa số khuyên tai vàng cướp được nguôi giận",
+            "Nếu các anh muốn đánh tôi xin nhường quyền chỉ huy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai thành phố phía đông Gio-đan từ chối tiếp tế bánh cho quân Ghê-đê-ôn mỏi mệt là những thành nào?",
+          "options": [
+            "Thành Xu-cốt (Succoth) và thành Bơ-nu-ên (Penuel)",
+            "Thành Si-khem và thành Si-lô",
+            "Thành Ghinh-gát và thành Giê-ri-khô",
+            "Thành Hép-rôn và thành Đê-bi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ghê-đê-ôn trừng phạt bô lão thành Xu-cốt thất hứa thế nào khi thắng trận trở về?",
+          "options": [
+            "Dùng gai sa mạc hoang dã và bụi tầm gai quất phạt trừng trị xác thịt bô lão",
+            "Chém đầu toàn bộ bảy mươi bảy bô lão",
+            "Thiêu hủy thành phố thành đống hoang tàn",
+            "Bắt phạt nộp một ngàn si-clơ vàng chuộc lỗi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ghê-đê-ôn trừng phạt thành Bơ-nu-ên tàn nhẫn thế nào?",
+          "options": [
+            "Phá sập tháp canh phòng Bơ-nu-ên và giết sạch nam giới trong thành",
+            "Tịch thu toàn bộ bầy súc vật gia súc",
+            "Bắt phụ nữ làm nô lệ phục vụ lính chiến",
+            "Đuổi toàn bộ dân cư ra sa mạc cát nóng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai vua tối cao Ma-đi-an bị Ghê-đê-ôn truy đuổi bắt giữ giết chết là ai?",
+          "options": [
+            "Vua Dơ-vác (Zebah) và vua Xan-mun-na (Zalmunna)",
+            "Thủ lĩnh O-rép và Dơ-ép",
+            "Vua Xi-hôn và Ốc khổng lồ",
+            "Vua Gia-vin Kha-xo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời đề nghị chính trị dân chúng dâng cho Ghê-đê-ôn sau chiến thắng Ma-đi-an là gì?",
+          "options": [
+            "Xin ông, con trai ông và cháu ông hãy làm vua cai trị (rule over us) chúng tôi",
+            "Xin ông dâng tế lễ bò tơ tạ ơn Chúa đền tạm Si-lô",
+            "Xin ông chia đều đất đai chiếm được phía đông",
+            "Xin ông viết sách sự ký ghi chép chiến công"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu trả lời từ chối oai nghiêm đức tin của Ghê-đê-ôn đối với đề nghị làm vua là gì?",
+          "options": [
+            "Tôi cấm làm vua, con tôi cũng cấm làm vua; chính ĐỨC CHÚA sẽ cai trị các ngươi cai trị các ngươi",
+            "Tôi sẽ làm vua nếu các người xây cung điện vàng",
+            "Tôi chỉ làm tư tế thượng tế không làm vua",
+            "Hãy hỏi ý kiến bô lão phán quan Si-lô trước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ghê-đê-ôn xin khuyên tai vàng chiến lợi phẩm đúc vật dụng tôn giáo nào gây tội lỗi ô uế lều gia đình?",
+          "options": [
+            "Một chiếc áo ê-phốt (ephod) đặt tại quê hương Ốp-ra gây ô uế thờ cúng",
+            "Tượng con bò vàng lớn bọc ngọc quý",
+            "Một lư hương bằng vàng ròng dâng hương",
+            "Đúc tượng rắn đồng treo cột cao"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng con trai Ghê-đê-ôn có được từ nhiều người vợ chính thức của ông là bao nhiêu?",
+          "options": [
+            "Bảy mươi con trai (70 con trai chính thức)",
+            "Mười hai con trai",
+            "Ba mươi con trai cưỡi lừa",
+            "Chỉ một con trai duy nhất kế vị"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Con trai vợ lẽ Ghê-đê-ôn nổi loạn giết hại các anh em mình cướp ngôi vua tên là gì?",
+          "options": [
+            "A-vi-me-léc (Abimelech con gái Si-khem vợ lẽ)",
+            "Giô-tham con út trốn thoát",
+            "Ốt-ni-ên phán quan Bên-gia-min",
+            "Thô-la phán quan Y-xa-kha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "A-vi-me-léc dùng bao nhiêu si-clơ bạc đền thờ thần Ba-al thuê côn đồ giết sạch bao nhiêu anh em?",
+          "options": [
+            "Dùng bảy mươi si-clơ bạc giết sạch 70 anh em trên cùng một tảng đá",
+            "Dùng một trăm si-clơ bạc giết mười anh em",
+            "Dùng mười si-clơ vàng giết con cả",
+            "Không giết ai chỉ trục xuất họ ra ngoại quốc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con trai út của Ghê-đê-ôn trốn thoát cuộc thảm sát tảng đá tên là gì?",
+          "options": [
+            "Giô-tham (Jotham)",
+            "Ốt-ni-ên",
+            "Sam-ga",
+            "Tola"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giô-tham lên đỉnh núi Gơ-ri-dim đọc dụ ngôn các loài cây xin phong vương, loài cây nào đồng ý?",
+          "options": [
+            "Bụi gai (bramble bụi cây ô-rô gai góc nghèo nàn dọa thiêu rụi tuyết tùng)",
+            "Cây ô-liu giàu dầu thơm ngon",
+            "Cây vả ngọt trái ngon sum suê",
+            "Cây nho rượu nho làm vui lòng thần người"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "A-vi-me-léc cai trị Si-khem làm vua trong khoảng thời gian bao lâu trước khi nội loạn?",
+          "options": [
+            "Ba năm (3 years cai trị tàn bạo)",
+            "Bảy năm",
+            "Mười năm",
+            "Bốn mươi năm trọn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "A-vi-me-léc trừng phạt sự phản bội của dân thành Si-khem thế nào khi chiếm lại thành?",
+          "options": [
+            "Tàn phá thành trì, giết hết dân cư và gieo muối (sow salt) lên đất thành thành vĩnh viễn",
+            "Chỉ tịch thu vàng bạc phạt đóng thuế nặng",
+            "Bắt phụ nữ làm nô lệ đốn củi đền thờ",
+            "Bỏ qua tha thứ ký hòa ước liên minh lại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "A-vi-me-léc đã châm lửa thiêu cháy bao nhiêu người trốn tránh trong tháp kiên cố Si-khem?",
+          "options": [
+            "Khoảng một ngàn người nam nữ (1.000 người chết cháy trong tháp)",
+            "Năm trăm người",
+            "Hai mươi ngàn người",
+            "Không có ai chết chạy thoát hết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khi bao vây tháp Tê-vết, tai họa chết người nào giáng xuống đầu vua bạo chúa A-vi-me-léc?",
+          "options": [
+            "Một phụ nữ từ trên tháp ném một thỏi đá cối xay trúng đầu ông làm vỡ sọ sọ đầu",
+            "Bị mũi tên độc bắn trúng cổ từ tường thành",
+            "Bị ngã ngựa chiến gãy cổ tự tử",
+            "Bị động đất làm sập tường tháp đè chết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời trăn trối cuối cùng của A-vi-me-léc bảo người hầu cận rút gươm đâm chết mình là vì lý do gì?",
+          "options": [
+            "Để người ta khỏi nói về tôi: Hắn bị một người đàn bà giết hại nhục nhã nhục nhã",
+            "Vì ông quá đau đớn không thể chịu đựng vết thương",
+            "Để giữ danh dự chiến sĩ anh hùng chiến đấu",
+            "Vì ông sợ bị bắt sống làm tù binh sỉ nhục"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa dụ ngôn bụi gai của Giô-tham là cảnh báo điều gì?",
+          "options": [
+            "Việc lập một kẻ bất tài, độc ác làm vua sẽ đem lại thảm họa thiêu hủy cho cả hai bên",
+            "Bụi gai có giá trị kinh tế cao hơn cây ô-liu",
+            "Cây tuyết tùng Li-băng là loài cây kiêu ngạo",
+            "Mọi loài cây đều muốn làm vua thống trị"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Thủ Lãnh Thô-la (Tola) thuộc chi tộc nào cai trị phán xử dân Do Thái 23 năm?",
+          "options": [
+            "Chi tộc Y-xa-kha (Issachar đóng ở Sa-mia núi Ép-ra-im)",
+            "Chi tộc Giu-đa",
+            "Chi tộc Lê-vi tư tế",
+            "Chi tộc Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thủ Lãnh Gia-ia (Jair) người Ga-la-át cai trị 22 năm có bao nhiêu con trai cưỡi lừa cai trị 30 thành?",
+          "options": [
+            "Ba mươi con trai cưỡi ba mươi lừa con cai trị 30 thành thành Havoth-jair",
+            "Mười hai con trai chi tộc",
+            "Bảy mươi con trai chính thức",
+            "Chỉ một con trai duy nhất kế vị"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng tà thần ngoại bang dân Do Thái đi thờ cúng phản đạo chép ở chương 10 bao gồm những thần nào?",
+          "options": [
+            "Thần Ba-al, Át-ta-rê, thần xứ A-ram, Xi-đôn, Mô-áp, Am-môn và Phi-li-tinh",
+            "Tượng bò vàng Ai Cập cổ đại",
+            "Hình khắc rắn đồng Mô-sê đúc cũ",
+            "Chỉ thờ thần Ba-al-Phê-o địa phương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quốc gia nào áp bức tàn bạo dân Do Thái 18 năm ở phía đông sông Gio-đan thời kỳ nầy?",
+          "options": [
+            "Con cái Am-môn (Ammonites) và dân Phi-li-tinh",
+            "Vương quốc Mô-áp béo phì",
+            "Vua Gia-vin thành Kha-xo Ca-na-an",
+            "Hoàng cung vương triều Ai Cập cổ đại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu trả lời trách phạt ban đầu của Chúa khi dân kêu cầu khẩn xin giải cứu ở câu 14 là gì?",
+          "options": [
+            "Hãy đi mà kêu cầu các thần các ngươi đã chọn! Hãy để chúng cứu các ngươi thời khốn khó!",
+            "Ta sẽ cử thiên sứ xuống diệt quân Am-môn ngay",
+            "Hãy dâng hiến tế bò tơ chuộc tội đền tạm Si-lô",
+            "Hãy lập Giô-suê mới làm vua cai trị chiến đấu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ thống hối thực tế dân Do Thái thực hiện sau khi nghe lời quở trách của Chúa là gì?",
+          "options": [
+            "Họ dẹp bỏ các thần ngoại ngoại bang khỏi họ và phụng thờ ĐỨC CHÚA hết lòng",
+            "Họ khóc lóc bỏ trốn sang nước láng giềng lánh nạn",
+            "Họ nộp phạt toàn bộ vàng bạc cướp đền thờ Ba-al",
+            "Họ tự cạo trọc đầu chịu tội tang chế tập thể"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng thương xót của Chúa trước thái độ ăn năn dẹp thần ngoại của dân là gì?",
+          "options": [
+            "Lòng Chúa đau xót (không đành lòng) trước nỗi cực khổ gian lao của dân Người",
+            "Chúa vẫn giữ nguyên hình phạt cấm giải cứu",
+            "Chúa đòi hỏi họ phải nộp súc vật tế lễ gấp đôi",
+            "Chúa bắt tư tế Lê-vi phải đi chiến đấu thay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh vùng đất phía đông sông Gio-đan nơi quân Am-môn tập hợp chuẩn bị chiến đấu là gì?",
+          "options": [
+            "Vùng đất Ga-la-át (Gilead đóng trại Mít-pa)",
+            "Thảo nguyên Mô-áp",
+            "Hoang địa Xin Ca-đê",
+            "Thung lũng Gít-rơ-ên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu hỏi của các thủ lĩnh Ga-la-át về người lãnh đạo đi tiên phong chiến đấu chống Am-môn là gì?",
+          "options": [
+            "Ai là người đi tiên phong giao chiến chống Am-môn? Người đó sẽ làm đầu cai trị toàn Ga-la-át!",
+            "Chúng ta có nên xin hòa nộp thuế cho Am-môn không?",
+            "Tư tế Phi-nê-ha có mang dụng cụ thánh đi cùng không?",
+            "Có nên mời tướng Giô-suê cũ hiện hồn chỉ huy không?"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa chu kỳ lịch sử Phán quan lặp đi lặp lại chép ở chương 10 chứng minh tính chất gì của dân?",
+          "options": [
+            "Tính chất cứng đầu cứng cổ phản đạo dễ sa ngã; lòng thương xót vô biên của Chúa khi dân thống hối",
+            "Sức mạnh quân sự quân thù quá mạnh mẽ",
+            "Quyền lực tối cao của các bô lão kỳ mục",
+            "Sự lỗi thời của lề luật Mô-sê hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Ai là con trai của một kỹ nữ được bô lão Ga-la-át mời về làm đầu chỉ huy đánh quân Am-môn?",
+          "options": [
+            "Ông Giép-thê (Jephthah chiến sĩ dũng cảm Ga-la-át)",
+            "Ông A-vi-me-léc bạo chúa",
+            "Tướng Ba-rác quân đội",
+            "Thủ Lãnh Gia-ia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lịch sử ngoại giao Giép-thê viết thư gửi vua Am-môn chứng minh Ít-ra-en đã định cư hợp pháp bao nhiêu năm?",
+          "options": [
+            "Ba trăm năm (300 năm định cư hòa bình)",
+            "Bốn mươi năm hoang địa",
+            "Bốn trăm năm chẵn",
+            "Một trăm năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khấn hứa vội vã dại dột của Giép-thê trước khi giao chiến với quân Am-môn là gì?",
+          "options": [
+            "Nếu thắng trận trở về, ai ra khỏi cửa nhà đón tôi đầu tiên sẽ dâng làm lễ toàn thiêu hiến tế Chúa",
+            "Tôi sẽ hiến dâng mười ngàn si-clơ vàng dâng đền tạm",
+            "Tôi sẽ cạo đầu đi tu làm người Nazarite suốt đời",
+            "Tôi sẽ tiêu diệt sạch bầy gia súc của người Ga-la-át"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật tội nghiệp đón mừng Giép-thê đầu tiên bằng tiếng trống múa hát mừng chiến thắng là ai?",
+          "options": [
+            "Con gái duy nhất duy nhất của ông trống múa chào đón cha",
+            "Người vợ lẽ trung thành của ông",
+            "Cụ già bô lão thành Ga-la-át",
+            "Người hầu cận trung tín giữ gươm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng đau đớn xé áo của Giép-thê khi nhìn thấy con gái mình đón mừng là gì?",
+          "options": [
+            "Hỡi con ơi, con làm cha sụp đổ tan nát lòng! Cha đã lỡ mở miệng khấn hứa với Chúa cấm rút lại",
+            "Con hãy trốn sang Ai Cập ngay lánh nạn",
+            "Cha sẽ dâng tiền vàng thay thế mạng sống con",
+            "Con hãy cạo đầu chịu tang thay cho cha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con gái Giép-thê xin cha hoãn thực hiện khấn hứa hai tháng để đi làm việc gì trên núi cùng bạn hữu?",
+          "options": [
+            "Khóc thương cuộc đời đồng trinh đồng trinh của mình trên miền đồi núi",
+            "Dâng tế lễ bò tơ chuộc tội đền tạm Si-lô",
+            "Đi tìm vàng bạc chiến lợi phẩm cất giấu",
+            "Học hỏi luật pháp Mô-sê cùng các bô lão"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tập tục kỷ niệm con gái Giép-thê được phụ nữ Ít-ra-en thực hiện hàng năm kéo dài bao nhiêu ngày?",
+          "options": [
+            "Bốn ngày mỗi năm (4 ngày đi ca hát khóc thương)",
+            "Bảy ngày liên tục",
+            "Mười ngày chẵn",
+            "Một tháng trọn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sứ mạng Giép-thê giải cứu dân Do Thái đánh bại quân Am-môn chiếm được bao nhiêu thành phố?",
+          "options": [
+            "Hai mươi thành phố (20 thành phố bại trận)",
+            "Mười thành",
+            "Ba mươi thành",
+            "Năm thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trước khi làm đầu Ga-la-át, Giép-thê đã trốn tránh và tập hợp chiêu mộ những ai ở xứ Tóp?",
+          "options": [
+            "Chiêu tập những kẻ vô nghề nghiệp vô nghề nghiệp (côn đồ) đi cướp bóc cùng ông",
+            "Những tư tế dòng Lê-vi bị sa thải",
+            "Những chiến sĩ dũng cảm chi tộc Giu-đa",
+            "Những bô lão kỳ mục giàu có"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học nghiêm khắc của câu chuyện khấn hứa Giép-thê là cảnh báo điều gì?",
+          "options": [
+            "Sự nguy hiểm của việc khấn hứa bừa bãi thiếu suy nghĩ; đức tin phải đi kèm sự khôn ngoan lề luật",
+            "Mọi lời khấn hứa tế người đều được Chúa vui lòng chấp nhận",
+            "Con gái phải tuyệt đối vâng lời cha dẫu sai trái",
+            "Lời khấn hứa dâng tiền vàng quan trọng hơn mạng người"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Chi tộc nào tiếp tục oán trách Giép-thê vì không gọi họ đi chiến đấu đánh Am-môn?",
+          "options": [
+            "Chi tộc Ép-ra-im (Ephraim đe dọa đốt nhà ông)",
+            "Chi tộc Giu-đa hoàng gia",
+            "Chi tộc Bên-gia-min",
+            "Chi tộc Si-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép thử ngôn ngữ phát âm nào được Giép-thê dùng ở bến vượt sông Gio-đan để nhận diện quân Ép-ra-im?",
+          "options": [
+            "Phát âm từ 'Síp-bô-lét' (Shibboleth - người Ép-ra-im nói ngọng thành Sibboleth)",
+            "Phát âm từ 'Giê-ru-sa-lem'",
+            "Phát âm từ 'A-hác-rôn'",
+            "Phát âm từ 'Mô-sê'"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng quân Ép-ra-im bị giết chết tại các bến vượt sông Gio-đan do phát âm sai là bao nhiêu?",
+          "options": [
+            "Bốn mươi hai ngàn người (42.000 người Ép-ra-im bị giết)",
+            "Mười ngàn người",
+            "Hai mươi ngàn người",
+            "Năm ngàn người chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thủ Lãnh Íp-xan (Ibzan) cai trị 7 năm có gia đình con cái đông đúc thế nào?",
+          "options": [
+            "Ba mươi con trai và ba mươi con gái gả chồng cưới vợ ngoại tộc ngoại tộc",
+            "Bảy mươi con trai chính thức một vợ",
+            "Chỉ một con gái độc nhất giống Giép-thê",
+            "Không có con cái hiếm muộn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thủ Lãnh Áp-đôn (Abdon) cai trị 8 năm có con cháu oai vệ thế nào?",
+          "options": [
+            "Bốn mươi con trai và ba mươi cháu trai cưỡi trên bảy mươi lừa con lừa con",
+            "Trang bị chiến xa sắt riêng biệt chiến đấu",
+            "Đều được phong làm tư tế đền tạm Si-lô",
+            "Đều bị quân Phi-li-tinh bắt làm tù binh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giép-thê phán xét phán xử Ít-ra-en làm Thủ Lãnh trong bao nhiêu năm trước khi qua đời chôn cất?",
+          "options": [
+            "Sáu năm (6 năm làm Thủ Lãnh)",
+            "Bốn mươi năm",
+            "Hai mươi năm",
+            "Mười năm chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thủ Lãnh Ê-lôn (Elon) thuộc chi tộc nào cai trị phán xử dân Do Thái 10 năm?",
+          "options": [
+            "Chi tộc Dơ-vu-lun (Zebulun)",
+            "Chi tộc Náp-ta-li",
+            "Chi tộc A-sê",
+            "Chi tộc Y-xa-kha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao người Ép-ra-im bị coi là nói ngọng từ 'Síp-bô-lét' (nghĩa là bông lúa hoặc dòng nước)?",
+          "options": [
+            "Vì họ không phát âm được âm 'Sh' (họ phát âm thành âm 'S' thường)",
+            "Vì ngôn ngữ Ép-ra-im giống tiếng Ai Cập cổ",
+            "Vì họ cố ý nói dối trốn tránh tư cách chi tộc",
+            "Do tập tục kiêng kỵ tôn giáo địa phương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trận chiến nội bộ giữa Ga-la-át và Ép-ra-im chép ở chương 12 chứng minh thực trạng gì?",
+          "options": [
+            "Sự chia rẽ sâu sắc nguy hại nội bộ các chi tộc; chiến tranh huynh đệ tương tàn tàn khốc",
+            "Sức mạnh vô địch của quân đội Ép-ra-im",
+            "Sự lỗi thời của tòa án phán quyết Giô-suê",
+            "Sự giàu sang súc vật đồng cỏ bờ đông Gio-đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi chôn cất Thủ Lãnh Ê-lôn người Dơ-vu-lun là thành phố nào?",
+          "options": [
+            "Thành Ai-gia-lôn (Aijalon) đất Dơ-vu-lun",
+            "Thành Si-khem",
+            "Thành Bê-lem Giu-đa",
+            "Thành Ốp-ra"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Quốc gia ngoại bang nào áp bức dân Do Thái 40 năm do dân tiếp tục phạm tội?",
+          "options": [
+            "Dân Phi-li-tinh (Philistines áp bức 40 năm)",
+            "Dân Ma-đi-an cào cào",
+            "Vương quốc Am-môn",
+            "Hoàng đế Ai Cập cổ đại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người cha của Thủ Lãnh Samson thuộc chi tộc Đan tên là gì?",
+          "options": [
+            "Ông Ma-nô-ác (Manoah)",
+            "Ông Các-mi",
+            "Ông Cơ-nát",
+            "Ông A-vi-nô-am"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quy định kiêng khem nghiêm khắc của Sứ thần dành cho mẹ Samson khi mang thai là gì?",
+          "options": [
+            "Kiêng rượu, kiêng thức uống có cồn cồn và cấm ăn mọi thứ ô uế",
+            "Cấm ăn thịt cừu dê đền tạm",
+            "Chỉ được ăn bánh không men nướng mật ong",
+            "Phải ăn chay hoàn toàn suốt chín tháng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời dặn dâng hiến Samson làm người Nazarite (người thuộc trọn về Chúa) quy định gì về mái tóc?",
+          "options": [
+            "Dao cạo cấm đụng đến đầu tóc đầu tóc của đứa trẻ từ lòng mẹ cho đến chết",
+            "Phải cạo trọc đầu mỗi năm một lần dâng Chúa",
+            "Phải nhuộm tóc màu đỏ thắm dấu hiệu giao ước",
+            "Phải tết tóc thành mười hai bím chi tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sứ thần Chúa đã biến mất thăng thiên bằng cách nào trước mắt vợ chồng Ma-nô-ác?",
+          "options": [
+            "Bay lên trời giữa ngọn lửa ngọn lửa bốc lên từ bàn thờ dâng lễ tế dê",
+            "Biến mất lập tức trong cột mây trắng che phủ",
+            "Hóa thành một con bồ câu trắng bay đi",
+            "Đi bộ khuất bóng vào rừng cây ô-liu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mối lo sợ của Ma-nô-ác sau khi nhìn thấy Sứ thần bay lên là gì?",
+          "options": [
+            "Chúng ta chắc chắn chết chết vì đã nhìn thấy Thiên Chúa diện đối diện",
+            "Đứa trẻ sinh ra sẽ bị câm điếc phong cùi",
+            "Quân Phi-li-tinh sẽ phát hiện bắt giam cả nhà",
+            "Chúng ta sẽ bị mất sạch bầy dê chăn nuôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vợ Ma-nô-ác đã trấn an chồng bằng lý lẽ khôn ngoan nào câu 23?",
+          "options": [
+            "Nếu Chúa muốn giết chúng ta, Người đâu nhận lễ tế toàn thiêu và báo tin vui sinh con!",
+            "Tôi tin Chúa sẽ bảo vệ chúng ta khỏi chết",
+            "Hãy dâng thêm vàng bạc xin chuộc mạng",
+            "Sứ thần chỉ dọa dẫm chơi không đáng lo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên đứa trẻ sinh ra được chúc lành ban sức mạnh mang ý nghĩa Mặt trời nhỏ là gì?",
+          "options": [
+            "Sam-sôn (Samson)",
+            "Gideon",
+            "Samuel",
+            "Othniel"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thần khí của Chúa bắt đầu tác động thúc đẩy Samson hành động lần đầu tại địa danh nào?",
+          "options": [
+            "Doanh trại chi tộc Đan Đan (giữa Xo-ra và E-tha-ol)",
+            "Thung lũng sông Gio-đan bến vượt",
+            "Hoàng cung vua Phi-li-tinh Ga-sa",
+            "Đỉnh núi Ê-van bàn thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa giao ước Nazarite đối với Samson là gì?",
+          "options": [
+            "Sự biệt riêng thánh hiến hoàn toàn cho Chúa; mái tóc dài là dấu chứng hữu hình quyền năng giao ước",
+            "Để ông có vẻ ngoài oai phong khác biệt dân thường",
+            "Theo tập tục văn hóa truyền thống chăn nuôi Đan",
+            "Để tránh dịch bệnh chấy rận hoang dã sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Samson muốn kết hôn với một phụ nữ thuộc dân tộc ngoại bang nào ở thành Thim-nah?",
+          "options": [
+            "Một cô gái người Phi-li-tinh (Philistine)",
+            "Một cô gái người Mô-áp",
+            "Một cô gái người Ca-na-an Khi-vi",
+            "Một phụ nữ Ai Cập cổ đại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con thú hung dữ nào bị Samson xé xác bằng tay không dễ dàng như xé dê con trên đường đi?",
+          "options": [
+            "Một con sư tử trẻ (young lion) gầm rú chặn đường",
+            "Một con gấu hoang dã đồi núi",
+            "Một con sói xám sa mạc",
+            "Một con bò tót Ca-na-an khổng lồ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hiện tượng kỳ lạ Samson nhìn thấy trong xác con sư tử chết ít lâu sau đó là gì?",
+          "options": [
+            "Một đàn ong mật và mật ong mật ngọt bên trong xác sư tử",
+            "Một tổ chim bồ câu đẻ trứng vàng",
+            "Đoản kiếm sắt cướp được từ lính ngoại",
+            "Xác sư tử hóa thành đá thạch anh trắng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu đố thách thức Samson đưa ra cho 30 phù rể Phi-li-tinh tiệc cưới là gì?",
+          "options": [
+            "Từ kẻ ăn phát ra thức ăn, từ kẻ mạnh phát ra vị ngọt vị ngọt (ong mật xác sư tử)",
+            "Mặt trời dừng lại mặt trăng đứng im thung lũng nào?",
+            "Cái gì đi bằng bốn chân buổi sáng hai chân buổi chiều?",
+            "Lông cừu đẫm sương đất khô ráo là phép gì?"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phần thưởng cá cược của câu đố Samson cam kết trao nhận là gì?",
+          "options": [
+            "Ba mươi bộ áo lót lót và ba mươi bộ áo choàng quý",
+            "Mười si-clơ vàng mỗi người phù rể",
+            "Ba mươi con lừa con bọc yên da tốt",
+            "Một nửa đất đai sản nghiệp chi tộc Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quân Phi-li-tinh đe dọa cô dâu thế nào để ép nàng dụ dỗ Samson khai đáp án?",
+          "options": [
+            "Chúng tao sẽ phóng hỏa thiêu sống mày sống mày và cả nhà cha mày",
+            "Chúng tao sẽ tịch thu toàn bộ sính lễ vàng cưới",
+            "Chúng tao sẽ trục xuất mày làm nô lệ Ga-sa",
+            "Chúng tao sẽ đầu độc giết chết Samson chồng mày"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vợ Samson dùng mưu kế tâm lý nào bắt ông khai đáp án vào ngày thứ bảy tiệc cưới?",
+          "options": [
+            "Khóc lóc khóc lóc tỉ tê suốt bảy ngày tiệc cáo buộc: Anh chỉ ghét em chứ không yêu em!",
+            "Đút rượu nho say xỉn lấy bí mật",
+            "Dọa tự tử bỏ về nhà cha ruột ngay",
+            "Nhờ mẹ ruột Samson nói khuyên bảo con trai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đáp án 30 phù rể trả lời Samson vào chiều ngày thứ bảy trước khi mặt trời lặn là gì?",
+          "options": [
+            "Có gì ngọt hơn mật ong? Có gì mạnh hơn sư tử? sư tử?",
+            "Không có gì ngọt hơn tình yêu vợ chồng",
+            "Đáp án là đàn ong làm tổ xác sư tử",
+            "Chính Chúa là nguồn ngọt ngào dũng mãnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời đáp trả ví von tức giận nổi tiếng của Samson đối với phù rể Phi-li-tinh là gì?",
+          "options": [
+            "Nếu các anh không dùng bò tơ của tôi cày cày, các anh đâu giải được câu đố của tôi!",
+            "Các anh là lũ hèn nhát dùng phụ nữ cướp vàng",
+            "Tôi sẽ giết sạch các anh Át-cơ-lôn trả nợ",
+            "Chúa sẽ phạt các anh chịu lửa thiêu sống"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Samson lấy đâu ra 30 bộ áo choàng trả cược sau khi thua cuộc đố?",
+          "options": [
+            "Xuống thành Át-cơ-lôn, giết chết 30 người cướp áo choàng của họ trả nợ",
+            "Về lều mẹ xin khuyên tai vàng mua áo mới",
+            "Tự dệt vải may áo tiệc suốt đêm",
+            "Cướp bóc đoàn buôn Ai Cập qua biên giới"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "Samson nổi giận trả thù quân Phi-li-tinh phá hoại mùa màng ruộng vườn bằng cách nào?",
+          "options": [
+            "Bắt ba trăm con cáo cáo buộc đuôi gắn đuốc cháy thả vào ruộng lúa mì ô-liu của địch",
+            "Dùng chiến xa sắt lao thẳng thiêu hủy kho thóc",
+            "Dùng phép mưa đá dội sập vườn cây trái ngoại",
+            "Cầm xương hàm lừa phá hủy cổng kho lương thực"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quân Phi-li-tinh trả thù vụ đốt ruộng lúa mì bằng cách tàn bạo nào?",
+          "options": [
+            "Phóng hỏa thiêu sống vợ Samson vợ Samson và cha nàng trong nhà họ",
+            "Đánh chiếm doanh trại chi tộc Đan cướp súc vật",
+            "Bắt giam cha mẹ Samson tra tấn đòi mạng",
+            "Phạt nộp phạt một ngàn si-clơ bạc chuộc lỗi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Samson trốn lánh ẩn náu ở địa danh hang đá nào thuộc đất Giu-đa?",
+          "options": [
+            "Hang đá ở khe núi Ê-tam (Rock of Etam)",
+            "Hang đá A-đu-lam kiên cố",
+            "Hang đá núi Xi-nai hoang vu",
+            "Hang đá thung lũng A-khô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bao nhiêu người chi tộc Giu-đa đến trói Samson nộp cho Phi-li-tinh vì sợ bị liên lụy chiến tranh?",
+          "options": [
+            "Ba ngàn người Giu-đa (3.000 người đến trói Samson)",
+            "Mười ngàn người chiến sĩ",
+            "Năm trăm bô lão kỳ mục",
+            "Chỉ có cha ruột Ma-nô-ác đi trói con"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Samson ra điều kiện gì bắt người Giu-đa thề hứa trước khi cho phép trói mình?",
+          "options": [
+            "Chính các anh cấm tự tay giết tôi giết tôi (chỉ giao nộp cho Phi-li-tinh)",
+            "Các anh phải dùng dây thừng gai mới trói tôi",
+            "Phải cho tôi ăn no bánh mì lúa mạch trước",
+            "Hãy chăm sóc cha mẹ già của tôi ở Xo-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai sợi dây trói Samson lập tức đứt tung như sợi chỉ cháy khi quân Phi-li-tinh hò reo đón nhận là vì sao?",
+          "options": [
+            "Thần khí Chúa Chúa ngự xuống mạnh mẽ trên ông làm đứt tung dây xích trói",
+            "Người Giu-đa giả vờ trói lỏng lẻo dễ tuột",
+            "Samson dùng dao nhỏ giấu tay áo cắt dây",
+            "Dây thừng bị mục nát do thấm sương núi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vũ khí dã chiến Samson nhặt được đánh chết 1.000 quân Phi-li-tinh chiến thắng oai hùng là gì?",
+          "options": [
+            "Một chiếc xương hàm lừa tươi (fresh jawbone of a donkey)",
+            "Một cây đót thúc bò chăn súc",
+            "Đoản kiếm sắt cướp được từ lính canh",
+            "Một hòn đá lớn ném trúng đầu tướng địch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phép lạ nguồn nước Chúa làm nứt đá phun nước cứu Samson khát nước kiệt sức sau trận chiến tên là gì?",
+          "options": [
+            "Nguồn suối En-hác-cô-rê (En-hakkore nghĩa là Nguồn suối kẻ kêu cầu)",
+            "Nước ngọt Mê-ri-va hoang địa",
+            "Suối nước ngọt Ca-đê hoang vu",
+            "Giếng nước Bê-e"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Samson làm Thủ Lãnh phán xét Ít-ra-en trong bao nhiêu năm thời kỳ Phi-li-tinh áp bức?",
+          "options": [
+            "Hai mươi năm (20 năm phán quyết)",
+            "Bốn mươi năm",
+            "Mười năm",
+            "Sáu năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên địa danh đống xương hàm lừa Samson đặt cho bãi chiến trường là gì?",
+          "options": [
+            "Ra-mát Lê-khi (Ramath-lehi nghĩa là Đồi xương hàm)",
+            "Thung lũng A-khô",
+            "Đồi Ghi-vơ-át",
+            "Si-khem"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "questions": [
+        {
+          "text": "Samson trốn thoát vòng vây quân thù thành Ga-sa ban đêm bằng chiến tích sức mạnh nào?",
+          "options": [
+            "Nhấc bổng hai cánh cửa cổng thành cổng thành cùng cột dọc thanh then vác lên đỉnh núi Hép-rôn",
+            "Dùng xương hàm lừa giết chết toàn bộ lính gác cổng thành",
+            "Hóa trang thành kỹ nữ trốn thoát ban ngày",
+            "Châm lửa thiêu rụi hoàng cung vua Ga-sa chạy trốn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người phụ nữ Phi-li-tinh Samson yêu say đắm thung lũng Sô-réc phản bội ông tên là gì?",
+          "options": [
+            "Bà Đa-li-la (Delilah)",
+            "Bà Gia-ên vợ người Kê-nê",
+            "Bà Ạc-sa con Ca-lếp",
+            "Kỹ nữ Ra-háp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số tiền các thủ lĩnh Phi-li-tinh hứa trao tặng Đa-li-la mỗi người để tìm bí mật Samson là gì?",
+          "options": [
+            "Một ngàn một trăm si-clơ bạc si-clơ bạc (1.100 bạc từ mỗi thủ lĩnh)",
+            "Mười ngàn si-clơ vàng ròng",
+            "Năm trăm đồng tiền vàng Ai Cập",
+            "Không giới hạn vàng bạc kho tàng hoàng gia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bí mật thực sự về nguồn gốc sức mạnh vô song của Samson Nazarite là gì?",
+          "options": [
+            "Mái tóc chưa bao giờ cạo cạo vì hiến dâng làm Nazarite; nếu cạo tóc sức mạnh biến mất",
+            "Sức mạnh nằm ở chiếc đai lưng da thú ông mang",
+            "Nằm ở chiếc xương hàm lừa tươi ông luôn giữ bên mình",
+            "Sức mạnh nằm ở dòng máu khổng lồ dòng dõi Anak"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đa-li-la đã dùng mưu kế gì để cạo trọc bảy bím tóc của Samson?",
+          "options": [
+            "Bắt ông ngủ say trên đùi bà đùi bà rồi gọi thợ vào cạo sạch tóc",
+            "Chuốc rượu nho say xỉn trói ông lại cạo tóc",
+            "Thuê côn đồ bắt giữ trói ông ban ngày cạo tóc",
+            "Nhờ mẹ Samson lén cắt tóc khi ông ngủ ở nhà"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt tàn nhẫn quân Phi-li-tinh giáng xuống Samson sau khi mất sức mạnh bị bắt là gì?",
+          "options": [
+            "Khoét mắt ông ông, xiềng bằng xích đồng bắt kéo cối xay trong tù ngục Ga-sa",
+            "Chém đầu bêu cổng thành lập tức",
+            "Thiêu sống ông trên giàn hỏa thiêu tế thần Đa-gôn",
+            "Trục xuất ông làm nô lệ sa mạc Xi-nai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dấu hiệu phục hồi sức mạnh thể chất của Samson chép ở câu 22 trong tù ngục là gì?",
+          "options": [
+            "Tóc trên đầu ông bắt đầu mọc lại mọc lại sau khi bị cạo trọc",
+            "Ông được Chúa hiện xuống xức dầu thánh lại",
+            "Ông được ăn thịt dê béo mập lính canh cho",
+            "Ông tự nối lại được xương chân gãy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đại hội liên hoan ăn mừng chiến thắng Phi-li-tinh tế thần ngoại nào trong đền thờ?",
+          "options": [
+            "Thần Đa-gôn (Dagon thần cá của Phi-li-tinh)",
+            "Thần Ba-al",
+            "Thần nữ Át-ta-rê",
+            "Thần Mô-lê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu xin thống thiết lần cuối của Samson dâng lên Chúa trước hai cột đền thờ là gì?",
+          "options": [
+            "Xin ban sức mạnh cho con một lần nầy nầy nữa thôi để trả thù Phi-li-tinh khoét mắt con!",
+            "Xin tha tội cho con vì đã yêu Đa-li-la phản giao ước",
+            "Xin cho con được sống sót trở về nhà cha Ma-nô-ác",
+            "Xin dội mưa đá sập đền thờ cứu con thoát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng người Phi-li-tinh chết cùng Samson khi ông xô đổ hai cột trụ chính sập đền thờ là bao nhiêu?",
+          "options": [
+            "Khoảng ba ngàn người nam nữ nam nữ cùng các thủ lĩnh tối cao (nhiều hơn cả đời ông giết)",
+            "Mười ngàn người chiến sĩ",
+            "Năm trăm người chẵn",
+            "Chỉ có các thủ lĩnh Phi-li-tinh chết"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "questions": [
+        {
+          "text": "Sự kiện tội ác trộm cắp gia đình Mi-kha ở núi Ép-ra-im liên quan số tiền bao nhiêu?",
+          "options": [
+            "Một ngàn một trăm si-clơ bạc si-clơ bạc trộm của mẹ mình rồi trả lại",
+            "Mười ngàn si-clơ vàng ròng đền tạm",
+            "Hai trăm si-clơ bạc thuế chi tộc",
+            "Năm mươi đồng tiền vàng Ai Cập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mẹ Mi-kha đã dùng bao nhiêu bạc hoàn trả để thuê thợ đúc tượng thần ngoại thờ tại nhà?",
+          "options": [
+            "Hai trăm si-clơ bạc (200 silver coins đúc tượng thờ ngoại)",
+            "Một ngàn một trăm bạc",
+            "Năm mươi si-clơ vàng",
+            "Mười si-clơ bạc chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mi-kha đã thiết lập cơ sở thờ tự tư gia bất hợp pháp gồm những vật dụng nào?",
+          "options": [
+            "Một đền thờ riêng, tượng đúc bọc bạc, áo ê-phốt ê-phốt và thần tượng nhỏ gia đình",
+            "Bàn thờ đồng lớn tế bò tơ",
+            "Một Hòm Bia Giao Ước giả bọc gỗ keo",
+            "Đúc tượng bò vàng lớn bọc ngọc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật tư tế riêng Mi-kha thuê mướn cai quản đền thờ tư gia của mình từ đâu đến?",
+          "options": [
+            "Một người Lê-vi trẻ tuổi trẻ tuổi quê quán Bê-lem Giu-đa di cư kiếm sống",
+            "Một tư tế dòng chính dòng A-hác-rôn Si-lô",
+            "Pháp sư ngoại bang xứ Mô-áp",
+            "Con trai cả của chính Mi-kha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiền công bao cấp hàng năm Mi-kha trả cho người Lê-vi trẻ tuổi làm tư tế tư gia là gì?",
+          "options": [
+            "Mười si-clơ bạc mỗi năm, một bộ quần áo quần áo ăn uống đầy đủ tư trang",
+            "Một trăm si-clơ vàng đền tạm",
+            "Một bầy cừu mười con chăn nuôi",
+            "Miễn thuế đất đai sản nghiệp vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời tuyên bố tự đắc mù quáng tâm linh của Mi-kha ở câu 13 là gì?",
+          "options": [
+            "Nay tôi biết Chúa sẽ làm ơn cho tôi vì tôi có người Lê-vi làm tư tế tư tế tư gia!",
+            "Tôi đã giàu có ngang hàng vua Do Thái",
+            "Thần tượng đúc bạc nầy sẽ ban phúc lộc cho tôi",
+            "Tôi cấm dâng thuế thập phân cho Si-lô nữa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sự kiện Mi-kha đúc tượng tư gia chứng minh tình trạng tôn giáo thế nào thời kỳ đó?",
+          "options": [
+            "Sự hỗn loạn suy thoái tôn giáo trầm trọng tự chế lập đạo riêng thờ tà thần ngoại",
+            "Đức tin Do Thái đang phát triển mạnh mẽ",
+            "Tòa án phán quyết Giô-suê hoạt động hiệu quả",
+            "Sự giàu sang vàng bạc dư dả vùng Ép-ra-im"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người Lê-vi trẻ tuổi ban đầu được Mi-kha lập làm gì trước khi phong tư tế?",
+          "options": [
+            "Được coi như một người con trai con trai trong gia đình Mi-kha kính trọng",
+            "Làm người chăn bầy súc vật gia súc",
+            "Làm thợ đúc bạc đúc tượng thần ngoại",
+            "Làm lính gác cổng đền thờ tư gia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao việc người Lê-vi làm tư tế riêng cho gia đình Mi-kha lại phạm luật Mô-sê?",
+          "options": [
+            "Vì luật Mô-sê quy định tư tế chỉ phụng sự tại đền thờ trung tâm (Lều Hội Ngộ Si-lô) cấm lập đền tư",
+            "Vì người Lê-vi đó chưa đủ 30 tuổi",
+            "Vì ông dùng tượng đúc bạc ngoại giáo thờ cúng",
+            "Cả hai lý do lập đền tư và dùng tượng thần ngoại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vùng núi địa bàn xảy ra sự việc Mi-kha lập đền thờ riêng là gì?",
+          "options": [
+            "Vùng núi Ép-ra-im (Hill country of Ephraim)",
+            "Vùng núi Giu-đa",
+            "Vùng núi Ê-van",
+            "Núi Khe-môn biên giới bắc"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "questions": [
+        {
+          "text": "Chi tộc nào cử 5 thám tử đi tìm đất sản nghiệp định cư vì chưa có đất an toàn?",
+          "options": [
+            "Chi tộc Đan (tribe of Dan hành quân tìm đất)",
+            "Chi tộc Si-môn",
+            "Chi tộc Bên-gia-min",
+            "Chi tộc Náp-ta-li"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Năm thám tử chi tộc Đan dọc đường ghé qua nhà Mi-kha đã phát hiện được gì?",
+          "options": [
+            "Nhận ra giọng nói người Lê-vi trẻ tuổi trẻ tuổi, phát hiện tượng thần đúc bạc áo ê-phốt",
+            "Phát hiện kho vàng cất giấu của Mi-kha",
+            "Phát hiện quân Phi-li-tinh đang bao vây nhà",
+            "Nhìn thấy Hòm Bia Giao Ước giả đúc tượng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố yên bình không phòng bị thám tử Đan nhắm đánh chiếm thuộc phương bắc tên là gì?",
+          "options": [
+            "Thành Lê-sêm (La-is / Leshem cư dân sống yên ổn bình an)",
+            "Thành Kha-xo miền bắc",
+            "Thành Ghe-ze biên giới",
+            "Thành Đê-bi núi đá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bao nhiêu chiến binh chi tộc Đan trang bị vũ khí hành quân đi cướp bóc đánh thành?",
+          "options": [
+            "Sáu trăm chiến binh (600 chiến binh chi tộc Đan)",
+            "Ba ngàn chiến sĩ tinh nhuệ",
+            "Mười ngàn quân chiến đấu",
+            "Năm trăm người chăn súc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến binh Đan đã cướp những gì tại nhà Mi-kha dọc đường hành quân?",
+          "options": [
+            "Cướp tượng đúc bọc bạc, áo ê-phốt, thần tượng nhỏ thần tượng nhỏ và lôi kéo người tư tế đi theo",
+            "Cướp bầy gia súc dê cừu của Mi-kha",
+            "Đốt sạch nhà cửa lều trại của Mi-kha trả thù",
+            "Tịch thu một ngàn si-clơ bạc mẹ Mi-kha hoàn trả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời dụ dỗ thuyết phục của thám tử Đan dành cho tư tế Lê-vi phản bội Mi-kha là gì?",
+          "options": [
+            "Làm tư tế cho cả một chi tộc chi tộc thiết lập đạo giáo tốt hơn làm tư tế cho một gia đình nhỏ!",
+            "Chúng tôi sẽ trả tiền công gấp mười lần Mi-kha",
+            "Chúng tôi sẽ phong anh làm vua chi tộc Đan",
+            "Hãy trốn đi nếu không chiến binh sẽ giết anh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của người tư tế Lê-vi trẻ tuổi trước lời dụ dỗ của chi tộc Đan là gì?",
+          "options": [
+            "Lòng ông vui mừng vui vẻ, cầm lấy áo ê-phốt tượng thần đi giữa quân binh Đan",
+            "Ông trung thành từ chối cự tuyệt đòi ở lại Mi-kha",
+            "Ông khóc lóc van xin tha mạng chạy trốn",
+            "Ông báo cho Mi-kha biết để phòng thủ chống cướp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận thành La-is và dân cư hiền lành sau cuộc tấn công của chi tộc Đan là gì?",
+          "options": [
+            "Giết sạch dân bằng gươm, phóng hỏa thiêu rụi thành hoàn toàn đổi tên thành Đan",
+            "Bắt đóng thuế làm nô dịch tha mạng người",
+            "Hòa hợp định cư chung sống bình yên",
+            "Hủy bỏ không đánh chiếm quay về đất cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tượng thần đúc cướp của Mi-kha được chi tộc Đan thiết lập thờ cúng tại đâu suốt lịch sử?",
+          "options": [
+            "Tại thành Đan mới lập suốt thời gian đền thờ Chúa ở Si-lô tồn tại",
+            "Dâng nộp làm vật hiến tế đền tạm Si-lô",
+            "Đốt lấy tro rải xuống biển Chết tẩy uế",
+            "Tướng Giô-suê tịch thu tiêu hủy hoàn toàn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người tư tế Lê-vi trẻ tuổi được tiết lộ ở câu 30 là dòng dõi của ai?",
+          "options": [
+            "Giô-na-than con Ghẹt-sôm dòng dõi ông Mô-sê Mô-sê tôi trung",
+            "Dòng dõi thượng tế A-hác-rôn chính tông",
+            "Dòng dõi tư tế Ê-la-da Ê-la-da con A-hác-rôn",
+            "Con trai thứ của tư tế Phi-nê-ha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "questions": [
+        {
+          "text": "Tội ác tột cùng xảy ra tại thành phố Ghi-vơ-ah thuộc quyền cai quản chi tộc nào?",
+          "options": [
+            "Chi tộc Bên-gia-min (tribe of Benjamin)",
+            "Chi tộc Giu-đa hoàng gia",
+            "Chi tộc Ép-ra-im đồi núi",
+            "Chi tộc Si-môn biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật tốt bụng đón tiếp vợ chồng người Lê-vi trọ lại ban đêm quảng trường là ai?",
+          "options": [
+            "Một cụ già làm ruộng ruộng từ đồng về quê quán Ép-ra-im trọ Ghi-vơ-ah",
+            "Vua thành Ghi-vơ-ah mở tiệc đón tiếp",
+            "Tư tế Lê-vi địa phương phụ trách đền thờ",
+            "Không một ai đón tiếp họ ngủ ngoài đường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động đồi bại côn đồ Ghi-vơ-ah làm bao quanh nhà cụ già đòi cưỡng hiếp ai?",
+          "options": [
+            "Đòi cưỡng hiếp người Lê-vi Lê-vi khách trọ vào nhà cụ già",
+            "Đòi cướp bầy lừa súc vật người Lê-vi mang theo",
+            "Đòi cưỡng hiếp con gái đồng trinh cụ già chủ nhà",
+            "Đòi tịch thu vàng bạc sính lễ cưới gả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người Lê-vi đã đẩy ai ra ngoài cửa cho chúng hãm hiếp bạo hành suốt đêm lánh nạn?",
+          "options": [
+            "Người vợ lẽ (concubine) của ông ra ngoài chịu trận",
+            "Con gái đồng trinh của cụ già chủ nhà",
+            "Bản thân cụ già tốt bụng chủ nhà thế mạng",
+            "Tự mình đi ra chiến đấu đơn độc chống côn đồ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận thương tâm người vợ lẽ của người Lê-vi sáng hôm sau gục chết ở đâu?",
+          "options": [
+            "Gục chết trước ngưỡng cửa nhà nhà cụ già tay bám vào thềm cửa",
+            "Bị dìm chết dưới giếng nước đầu thành",
+            "Bị bắt cóc mang đi biệt tích sang Phi-li-tinh",
+            "Sống sót bị chấn thương nặng tâm thần"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động căm phẫn phân thây gửi đi khắp 12 chi tộc Do Thái người Lê-vi thực hiện là gì?",
+          "options": [
+            "Dùng dao phân thây xác vợ lẽ làm 12 khúc gửi đi 12 chi tộc kêu gọi trừng phạt tội ác",
+            "Đốt xác vợ lấy tro hòa nước gửi đi",
+            "Đưa xác vợ lên đền tạm Si-lô kiện cáo",
+            "Chôn cất vợ tại th nghĩa trang bô lão Bê-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng dư luận toàn dân Do Thái khi nhận được khúc xác phân thây là gì?",
+          "options": [
+            "Chưa từng thấy việc nào như thế từ ngày ra khỏi Ai Cập! Hãy bàn bạc quyết định hành động!",
+            "Họ phớt lờ coi như chuyện gia đình riêng tư",
+            "Họ nguyền rủa người Lê-vi phân thây tội nghiệp",
+            "Họ cử tư tế đi thanh tẩy đất đai Ghi-vơ-ah"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quê hương của người vợ lẽ xấu số người Lê-vi đi đón về là thành phố nào?",
+          "options": [
+            "Bê-lem (Bethlehem) thuộc đất chi tộc Giu-đa",
+            "Si-khem núi Ép-ra-im",
+            "Giê-ri-khô thành chà là",
+            "Si-lô đền tạm tôn giáo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao người Lê-vi từ chối ngủ đêm tại Giê-vu-si (Giê-ru-sa-lem) dọc đường về?",
+          "options": [
+            "Vì Giê-vu-si là thành phố ngoại bang ngoại bang cấm vào ngủ đêm trọ lánh",
+            "Vì Giê-vu-si đòi phí trọ quá đắt đỏ",
+            "Vì ông sợ bị cướp bầy lừa hành lý",
+            "Do vợ ông thích ngủ thành Ghi-vơ-ah Do Thái hơn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chép câu chuyện tội ác Ghi-vơ-ah ở chương 19 chứng tỏ điều gì?",
+          "options": [
+            "Sự suy đồi đạo đức nghiêm trọng xã hội thời kỳ vô chính phủ tự coi mình làm đúng",
+            "Đạo đức xã hội Do Thái cao hơn dân ngoại bang",
+            "Tính chất dã man của luật pháp tư pháp cổ đại",
+            "Quyền uy của người chồng Lê-vi đối với vợ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "questions": [
+        {
+          "text": "Toàn thể cộng đoàn Ít-ra-en tụ họp lập giao ước trừng trị thành Ghi-vơ-ah tại địa danh nào?",
+          "options": [
+            "Tại thành Mít-pa (Mizpah đại hội toàn dân Do Thái Do Thái)",
+            "Tại thành Si-lô đền tạm",
+            "Tại Ghinh-gát đóng trại",
+            "Dưới chân núi Ê-van"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng quân bộ binh trang bị vũ khí Ít-ra-en tập hợp tại Mít-pa là bao nhiêu?",
+          "options": [
+            "Bốn trăm ngàn người (400.000 lính bộ binh rút gươm)",
+            "Một trăm ngàn người chiến sĩ",
+            "Năm mươi ngàn người",
+            "Hai mươi sáu ngàn bảy trăm người"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Yêu cầu tư pháp Ít-ra-en gửi đến chi tộc Bên-gia-min đòi giao nộp tội phạm là gì?",
+          "options": [
+            "Giao nộp những kẻ côn đồ đồi bại Ghi-vơ-ah để xử tử hình trừ khử điều ác",
+            "Nộp phạt mười ngàn si-clơ vàng chuộc lỗi",
+            "Trục xuất toàn bộ dân thành Ghi-vơ-ah ra sa mạc",
+            "Cắt ngón tay ngón chân cái vua Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng cự tuyệt bảo vệ tội phạm của chi tộc Bên-gia-min huy động bao nhiêu binh lính?",
+          "options": [
+            "Huy động hai mươi sáu ngàn bảy trăm (26.700) chiến binh Bên-gia-min Bên-gia-min",
+            "Mười ngàn người chiến sĩ",
+            "Bốn trăm ngàn quân Do Thái",
+            "Không huy động quân chịu thua ngay"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng chiến binh Bên-gia-min thuận tay trái bắn đá bách phát bách trúng không lệch sợi tóc là?",
+          "options": [
+            "Bảy trăm chiến binh tinh nhuệ thuận tay trái bắn đá bắn đá bách phát bách trúng",
+            "Năm trăm người chăn súc",
+            "Một ngàn người chém gươm giỏi",
+            "Không có chiến sĩ thuận tay trái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai trận chiến đầu tiên Bên-gia-min thắng trận giết chết bao nhiêu quân Ít-ra-en huynh đệ?",
+          "options": [
+            "Trận một chết 22.000 người, trận hai chết 18.000 người (tổng cộng 40.000 người chết)",
+            "Trận một chết 10.000 người, trận hai chết 5.000 người",
+            "Không có ai chết Bên-gia-min thua ngay trận đầu",
+            "Chết toàn bộ bốn trăm ngàn quân Ít-ra-en"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến thuật trận thứ ba Ít-ra-en dùng đánh bại Bên-gia-min thành công là gì?",
+          "options": [
+            "Chiến thuật phục binh mai phục xung quanh thành Ghi-vơ-ah dụ quân địch ra ngoài",
+            "Đi vòng quanh thành giống Giê-ri-khô bảy ngày",
+            "Châm lửa thiêu hủy đền thờ Bên-gia-min ban đêm",
+            "Ký hòa ước giả rồi đầu độc nguồn nước ngọt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng chiến binh Bên-gia-min bị tiêu diệt sạch trong trận thứ ba bại trận thê thảm là?",
+          "options": [
+            "Hai mươi lăm ngàn người (25.000 chiến binh Bên-gia-min bị giết)",
+            "Mười ngàn người chẵn",
+            "Toàn bộ hai mươi sáu ngàn bảy trăm người",
+            "Chỉ chết năm trăm người"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bao nhiêu chiến binh Bên-gia-min sống sót chạy trốn lên núi đá Rim-môn ẩn náu bốn tháng?",
+          "options": [
+            "Sáu trăm chiến binh sống sót chạy trốn Rim-môn (600 người Rim-môn)",
+            "Năm ngàn người chiến sĩ",
+            "Một trăm người chẵn",
+            "Không có ai sống sót chết sạch tộc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị tư tế thượng tế dâng lễ tế cầu hỏi Chúa trước Hòm Bia Si-lô trận chiến nầy là ai?",
+          "options": [
+            "Tư tế Phi-nê-ha (Phinehas) con Ê-la-da con A-hác-rôn",
+            "Tư tế I-tha-ma con A-hác-rôn",
+            "Bản thân tiên tri Sa-mu-ên lãnh đạo",
+            "Tư tế Eli đền tạm"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "questions": [
+        {
+          "text": "Lời thề nghiêm khắc dân Do Thái thề tại đại hội Mít-pa gây khó khăn cứu tộc Bên-gia-min là?",
+          "options": [
+            "Không một ai trong chúng ta được gả con gái mình cho người Bên-gia-min làm vợ",
+            "Cấm không cho người Bên-gia-min vào đền tạm Si-lô",
+            "Bắt phạt Bên-gia-min nộp thuế thập phân gấp đôi",
+            "Trục xuất toàn bộ dòng tộc Bên-gia-min biệt xứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động hối hận khóc lóc của dân Do Thái tại đền tạm Si-lô ngày hôm sau là gì?",
+          "options": [
+            "Tại sao một chi tộc lại bị xóa sổ khỏi Ít-ra-en? Hôm nay thiếu mất một chi tộc chi tộc!",
+            "Họ khóc lóc vì mất quá nhiều vàng bạc chiến tranh",
+            "Họ khóc vì Hòm Bia Giao Ước bị hư hại",
+            "Họ ăn mừng chiến thắng nhảy múa suốt đêm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dân thành phố nào bị Ít-ra-en diệt tộc vì cự tuyệt tham gia đại hội thề Mít-pa?",
+          "options": [
+            "Cư dân thành Gia-vết Ga-la-át (Jabesh-gilead bị trừng trị hình phạt)",
+            "Cư dân thành Ghi-vơ-on ngoại bang",
+            "Cư dân thành Si-khem phản bội",
+            "Cư dân thành Hép-rôn núi đá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bao nhiêu cô gái đồng trinh thành Gia-vết Ga-la-át được tha mạng đem gả cho Bên-gia-min?",
+          "options": [
+            "Bốn trăm cô gái đồng trinh (400 cô gái gả vợ)",
+            "Năm trăm cô gái",
+            "Hai trăm cô gái chẵn",
+            "Không tha mạng ai giết sạch thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mưu kế bắt cóc vợ bổ sung 200 người Bên-gia-min còn thiếu được vạch ra tại Si-lô là gì?",
+          "options": [
+            "Phục kích bắt cóc các cô gái Si-lô ra múa hát mừng Lễ hội Chúa tại vườn nho vườn nho hàng năm",
+            "Đột nhập cướp phụ nữ thành Giê-ri-khô ngoại bang",
+            "Mua phụ nữ Mô-áp ngoại quốc mang về cưới gả",
+            "Bắt phụ nữ người Ghi-vơ-on làm vợ thay thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa cam kết xoa dịu cha mẹ các cô gái Si-lô bị bắt cóc của các thủ lĩnh là gì?",
+          "options": [
+            "Xin thương xót gả cho họ vì chúng tôi không đủ vợ Gia-vết, các anh gả đâu phạm thề phạm thề!",
+            "Chúng tôi sẽ bồi thường mười si-clơ vàng mỗi cô gái",
+            "Chúng tôi sẽ phong con rể họ làm đầu cai trị chi tộc",
+            "Đòi bắt các cô gái Si-lô quay về nếu muốn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi diễn ra lễ hội múa hát của các cô gái Si-lô hàng năm ngoài vườn nho là gì?",
+          "options": [
+            "Thành phố Si-lô (Shiloh phía bắc Bê-then)",
+            "Thành thung lũng Si-khem",
+            "Thảo nguyên Mô-áp bờ sông",
+            "Cổng thành Giê-ri-khô đổ nát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sách Thủ Lãnh kết thúc bằng câu kết luận miêu tả thực trạng xã hội thế nào ở câu 25?",
+          "options": [
+            "Thời ấy, trong Ít-ra-en không có vua; ai nấy cứ làm điều mình coi là phải làm điều mình coi là phải (Right in his own eyes)",
+            "Đất nước được bình an vô sự vĩnh viễn vững bền",
+            "Dân Do Thái thiết lập vương triều vua Sa-mu-ên",
+            "Tư tế dòng Lê-vi cai trị toàn bộ đời sống Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bao nhiêu chiến binh Bên-gia-min Rim-môn nhận được vợ và xây dựng lại thành trì định cư?",
+          "options": [
+            "Toàn bộ sáu trăm (600) chiến binh sống sót nhận vợ định cư",
+            "Chỉ bốn trăm người có vợ còn hai trăm ở góa",
+            "Năm trăm người chẵn",
+            "Không có ai nhận vợ bỏ đi biệt xứ hết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự tồn tại của chi tộc Bên-gia-min sau thảm họa diệt tộc là gì?",
+          "options": [
+            "Chứng minh tình nghĩa anh em giao ước ràng buộc; Chúa bảo vệ đầy đủ 12 chi tộc Do Thái Do Thái",
+            "Chứng tỏ Bên-gia-min là chi tộc dũng cảm nhất",
+            "Vì Bên-gia-min đóng góp nhiều thuế đền tạm",
+            "Để chuẩn bị lập vua Sa-un dòng Bên-gia-min sau nầy"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

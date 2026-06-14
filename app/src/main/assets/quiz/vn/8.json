@@ -1,0 +1,426 @@
+{
+  "bookId": 8,
+  "bookName": "Rút",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Lý do gia đình ông Ê-li-mê-lếch rời quê hương Bê-lem Giu-đa sang định cư ở Mô-áp là gì?",
+          "options": [
+            "Trong xứ xảy ra nạn đói nạn đói kém nghiêm trọng phải đi lánh nạn",
+            "Họ đi buôn bán vàng bạc với người Mô-áp",
+            "Họ trốn tránh cuộc áp bức của quân Phi-li-tinh",
+            "Họ bị bô lão trục xuất vì phạm luật Mô-sê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người vợ hiền của Ê-li-mê-lếch gánh chịu nỗi đau mất chồng và hai con trai là ai?",
+          "options": [
+            "Bà Na-o-mi (Naomi)",
+            "Bà Ru-tơ",
+            "Bà Ọt-pa",
+            "Bà Đê-bô-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên hai nàng dâu Mô-áp cưới hai con trai Mác-lôn và Ki-lê-on của bà Na-o-mi là gì?",
+          "options": [
+            "Ọt-pa (Orpah) và Ru-tơ (Ruth)",
+            "Ra-háp và Gia-ên",
+            "Ạc-sa và Xíp-pô-ra",
+            "Rê-bê-ca và Ra-khen"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khoảng thời gian gia đình Na-o-mi sinh sống tại thảo nguyên Mô-áp trước khi trở về quê hương là?",
+          "options": [
+            "Khoảng mười năm (10 năm định cư)",
+            "Bốn mươi năm hoang địa",
+            "Năm năm chẵn",
+            "Hai mươi năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của nàng dâu Ọt-pa trước lời khuyên quay về gia đình cha mẹ của Na-o-mi là gì?",
+          "options": [
+            "Ọt-pa khóc lóc, hôn từ biệt mẹ chồng quay về với dân tộc và các thần của nàng thần của nàng",
+            "Nàng kiên quyết đi theo mẹ chồng về Bê-lem",
+            "Nàng nổi giận chửi mắng mẹ chồng nghèo khổ",
+            "Nàng đòi chia một nửa số vàng bạc mang theo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời tuyên xưng trung thủy nổi tiếng của Ru-tơ dành cho mẹ chồng Na-o-mi ở câu 16 là gì?",
+          "options": [
+            "Mẹ đi đâu con đi đó, dân của mẹ là dân của con, Thiên Chúa của mẹ là Thiên Chúa của con",
+            "Con sẽ gửi tiền vàng từ Mô-áp sang nuôi mẹ",
+            "Xin mẹ cho con đi theo để tìm chồng giàu Bê-lem",
+            "Con sẽ thờ thần Mô-áp của con tại đất Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bà Na-o-mi yêu cầu phụ nữ Bê-lem gọi bà bằng tên gì mang ý nghĩa Đắng cay buồn tủi?",
+          "options": [
+            "Ma-ra (Mara nghĩa là Đắng cay thay vì Naomi ngọt ngào)",
+            "Mê-ri-va",
+            "Ạc-sa",
+            "Đa-li-la"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai bà Na-o-mi và Ru-tơ trở về đến thành Bê-lem vào thời điểm nông nghiệp nào?",
+          "options": [
+            "Đầu mùa gặt lúa mạch (beginning of barley harvest)",
+            "Cuối mùa thu hoạch quả nho chín",
+            "Mùa gieo hạt lúa mì hoang dã",
+            "Mùa đông lạnh giá khô cạn suối nước"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người cha chồng quá cố của Ru-tơ là gì?",
+          "options": [
+            "Ê-li-mê-lếch (Elimelech)",
+            "Bô-át",
+            "Gie-sê",
+            "Ô-vết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa quyết định đi theo mẹ chồng của Ru-tơ dưới góc độ đức tin tôn giáo là gì?",
+          "options": [
+            "Sự từ bỏ các thần ngoại bang Mô-áp để gia nhập giao ước thờ phượng Thiên Chúa thật",
+            "Sự lựa chọn kinh tế khôn ngoan vì Bê-lem giàu có",
+            "Nghĩa vụ pháp lý bắt buộc con dâu phải tuân theo",
+            "Sự bốc đồng tâm lý của người góa phụ trẻ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Người họ hàng giàu có, quyền thế bên nhà chồng quá cố của Ru-tơ tên là gì?",
+          "options": [
+            "Ông Bô-át (Boaz)",
+            "Ông Ô-vết",
+            "Ông Gie-sê",
+            "Ông Xan-mon"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Công việc thô sơ Ru-tơ xin mẹ chồng cho phép đi làm để kiếm sống hằng ngày là gì?",
+          "options": [
+            "Đi mót lúa mạch lúa mạch (glean grain) sau lưng các thợ gặt ruộng Bô-át",
+            "Làm thuê đốn củi gánh nước hoàng cung",
+            "Chăn dắt bầy cừu non ngoài đồng cỏ",
+            "Dệt vải may quần áo bán ngoài chợ Bê-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bô-át đã tỏ lòng hiếu khách khen ngợi đức hạnh nào của Ru-tơ khi gặp nàng?",
+          "options": [
+            "Lòng trung thủy, hiếu thảo chăm sóc mẹ chồng và việc nàng từ bỏ quê hương theo Chúa",
+            "Vẻ đẹp ngoại hình lộng lẫy quyến rũ của nàng",
+            "Tài năng gặt lúa nhanh chóng của nàng",
+            "Số lượng vàng bạc nàng mang từ Mô-áp sang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bô-át dặn thợ gặt đối xử ưu ái đặc biệt thế nào với Ru-tơ để giúp đỡ nàng?",
+          "options": [
+            "Cố ý rút bớt các bông lúa bông lúa từ bó lúa thả xuống cho nàng dễ mót",
+            "Cho phép nàng làm chỉ huy đội thợ gặt nữ",
+            "Bắt nàng nộp một phần mười số lúa mót được",
+            "Cấm không cho nàng uống nước bình chung thợ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng lúa mạch Ru-tơ mót được sau một ngày lao động vất vả mang về là bao nhiêu?",
+          "options": [
+            "Khoảng một thùng lúa mạch lúa mạch (one ephah khoảng 22 lít)",
+            "Mười thùng lúa mạch lớn",
+            "Chỉ một bó lúa nhỏ châm kim",
+            "Năm bao tải thóc lớn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Na-o-mi giải thích vị thế pháp lý của Bô-át đối với gia đình bà là gì?",
+          "options": [
+            "Ông là người có quyền chuộc sản nghiệp (kinsman-redeemer) bảo vệ dòng tộc chúng ta",
+            "Ông là thẩm phán tối cao của tòa án Bê-lem",
+            "Ông là chủ nợ cũ của ông Ê-li-mê-lếch",
+            "Ông là người ngoại bang nhập cư giàu có"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bô-át khuyên Ru-tơ đi mót lúa ở ruộng của ai suốt mùa gặt lúa mạch và lúa mì?",
+          "options": [
+            "Chỉ được mót ở ruộng của ông ông, đi sát các thợ gặt trẻ tuổi của ông bảo vệ",
+            "Nên sang ruộng các nhà giàu khác để mót thêm",
+            "Về ruộng cũ của cha chồng Ê-li-mê-lếch",
+            "Mót lúa ở bờ cỏ công cộng đầu thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ ứng xử của Ru-tơ khi nhận được sự ưu ái từ chủ ruộng Bô-át là gì?",
+          "options": [
+            "Sụp mặt xuống đất lạy, ngạc nhiên vì được thương xót dẫu là người ngoại kiều ngoại kiều",
+            "Đòi hỏi quyền lợi công nhân chính thức ruộng ông",
+            "Tự mãn kiêu ngạo khoe khoang với mẹ chồng",
+            "Từ chối không nhận thức ăn Bô-át dọn cho"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món ăn Bô-át tiếp đãi Ru-tơ tại bữa ăn trưa thợ gặt gồm những gì?",
+          "options": [
+            "Bánh mì chấm vào nước giấm nước giấm chua và thóc rang ăn no nê dâng mẹ",
+            "Thịt cừu nướng béo ngậy rượu vang",
+            "Bánh ngọt mật ong và sữa dê ấm",
+            "Trái vả chín ngọt và nho khô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa luật pháp xã hội của việc mót lúa mạch cho người nghèo theo luật Mô-sê là gì?",
+          "options": [
+            "Bảo vệ người nghèo, góa phụ, ngoại kiều có lương thực sống sót nhờ lòng nhân ái chủ ruộng",
+            "Bắt buộc chủ ruộng phải thuê người nghèo làm việc",
+            "Để thu thuế nông nghiệp cho đền tạm dễ dàng",
+            "Để dọn sạch cỏ hoang ruộng sau mùa gặt"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Kế hoạch tìm kiếm bến đỗ bình an hạnh phúc Na-o-mi bày vẽ cho Ru-tơ thực hiện là gì?",
+          "options": [
+            "Tắm rửa, xức dầu thơm, mặc quần áo đẹp xuống sân đập lúa gặp Bô-át ban đêm ban đêm",
+            "Sang Mô-áp tìm người chồng mới giàu có",
+            "Đi kiện đòi ruộng đất trước mười bô lão cổng thành",
+            "Nhờ tư tế dòng Lê-vi làm chứng mai mối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động tế nhị Ru-tơ làm dưới chân Bô-át khi ông ngủ say bên đống lúa đêm khuya là?",
+          "options": [
+            "Giở chăn đắp dưới chân ông và nằm xuống nằm xuống đợi ông tỉnh giấc",
+            "Lén lấy chiếc khuyên tai vàng của ông làm tin",
+            "Đắp thêm áo choàng ấm cho ông khỏi lạnh",
+            "Cạo trọc bảy bím tóc của ông giống Đa-li-la"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bô-át giật mình tỉnh giấc nửa đêm phát hiện điều gì bất ngờ dưới chân mình?",
+          "options": [
+            "Có một người phụ nữ phụ nữ đang nằm dưới chân mình",
+            "Một con sư tử trẻ đang rình mò trại",
+            "Tài sản vàng bạc thóc lúa bị trộm cướp sạch",
+            "Người hầu cận đang quạt mát cho ông ngủ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ru-tơ tự xưng và xin Bô-át thực hiện hành động tượng trưng gì để bảo bọc cuộc đời nàng?",
+          "options": [
+            "Hãy đắp vạt áo choàng của ông trên tôi vì ông là người chuộc sản nghiệp chuộc sản nghiệp",
+            "Xin ông nhận tôi làm nữ tỳ đốn củi ruộng ông",
+            "Xin ông trao cho tôi năm mươi si-clơ bạc cưới",
+            "Xin ông đuổi người họ hàng gần kia đi biệt xứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bô-át khen ngợi Ru-tơ về tiết hạnh ứng xử hôn nhân đức hạnh nào ở câu 10?",
+          "options": [
+            "Nàng không chạy theo các chàng trai trẻ, dẫu nghèo hay giàu có giàu có thích hợp",
+            "Nàng dệt vải may áo giỏi nhất Bê-lem",
+            "Nàng chịu cắt bì theo luật Do Thái hoàn toàn",
+            "Nàng mang nhiều chiến lợi phẩm Mô-áp dâng ông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khó khăn pháp lý Bô-át nêu ra cản trở việc ông chuộc sản nghiệp ngay lập tức là gì?",
+          "options": [
+            "Còn một người họ hàng khác gần gũi gần gũi với Ê-li-mê-lếch hơn tôi có quyền ưu tiên",
+            "Bản thân ông đang nợ nần đền tạm Si-lô",
+            "Ru-tơ là người Mô-áp cấm kết hôn theo luật",
+            "Mẹ chồng Na-o-mi không đồng ý gả con dâu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món quà nông sản Bô-át tặng Ru-tơ mang về dâng mẹ chồng trước khi trời sáng là gì?",
+          "options": [
+            "Sáu đấu lúa mạch lúa mạch (six measures of barley) đựng vào áo choàng nàng",
+            "Một hòm nho khô ngọt và vả chín",
+            "Hai con chiên con chăn nuôi béo mập",
+            "Mười si-clơ bạc thánh điện cưới gả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Yêu cầu bảo mật thông tin Bô-át dặn thợ gặt sân đập lúa ban đêm là gì?",
+          "options": [
+            "Đừng cho ai biết có người đàn bà đàn bà đã vào sân đập lúa ban đêm",
+            "Cấm nói với Na-o-mi về việc tặng lúa mạch",
+            "Hãy rình bắt kẻ trộm lúa mạch báo bô lão",
+            "Đồng thanh hát ca mừng đám cưới sắp tới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhận định khôn ngoan của Na-o-mi khi thấy con dâu mang lúa về là gì?",
+          "options": [
+            "Hôm nay ông ấy sẽ không để yên đâu; ông ấy sẽ giải quyết quyết xong việc nầy hôm nay",
+            "Bô-át đang lừa gạt con đó đừng tin ông ta",
+            "Hãy đem bán số lúa mạch lấy tiền chuộc ruộng",
+            "Hãy chuẩn bị lễ phục cưới gả ngay lập tức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vị trí địa lý nơi diễn ra sự việc Ru-tơ đến bên chân Bô-át ngủ đêm là gì?",
+          "options": [
+            "Tại sân đập lúa (threshing floor ruộng gặt lúa mạch)",
+            "Trong hoàng cung vua Bê-lem",
+            "Tại đền tạm Si-lô đền thờ Chúa",
+            "Trong hang đá khe núi Ê-tam hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Nơi Bô-át đến giải quyết thủ tục pháp lý chuộc sản nghiệp trước công chúng là?",
+          "options": [
+            "Tại cổng thành (city gate nơi diễn ra các giao dịch tư pháp Do Thái)",
+            "Tại sân đập lúa ruộng của ông",
+            "Tại đền tạm Si-lô trước tư tế",
+            "Trong hoàng cung vua Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng bô lão kỳ mục Bô-át mời ngồi lại làm chứng nhân giao ước là bao nhiêu?",
+          "options": [
+            "Mười người bô lão bô lão của thành phố (10 elders làm chứng)",
+            "Bảy mươi bô lão hội đồng",
+            "Mười hai thủ lĩnh chi tộc Do Thái",
+            "Hai người làm chứng thám tử cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao người họ hàng gần nhất từ chối chuộc sản nghiệp Ru-tơ người Mô-áp?",
+          "options": [
+            "Sợ làm hư hại sản nghiệp riêng sản nghiệp riêng của mình (phải chia gia tài con Ru-tơ)",
+            "Vì ông không đủ tiền mua ruộng Na-o-mi",
+            "Vì ông ghét người ngoại bang Mô-áp cự tuyệt",
+            "Vì ông đã kết hôn có bốn người vợ chính thức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi thức cổ xưa trao đổi xác nhận chuyển nhượng quyền chuộc sản nghiệp ở Ít-ra-en là?",
+          "options": [
+            "Cởi dép (sandal) của mình trao cho người kia làm chứng giao dịch",
+            "Ký tên đóng dấu văn bản da dê lưu trữ",
+            "Cắt máu ăn thề trước bàn thờ đồng",
+            "Thổi kèn tù và vang dội ba tiếng cổng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bô-át tuyên bố chuộc thửa ruộng của ai và cưới ai làm vợ nối dõi?",
+          "options": [
+            "Chuộc ruộng nhà Ê-li-mê-lếch, cưới Ru-tơ người Mô-áp người Mô-áp làm vợ chính thức",
+            "Mua ruộng Na-o-mi cưới con gái đồng trinh Si-lô",
+            "Chuộc ruộng ông Ca-lếp cưới bà Ạc-sa",
+            "Mua đất đai của Bên-gia-min cưới phụ nữ Đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chúc lành tốt đẹp bô lão cổng thành chúc cho Ru-tơ giống các tổ mẫu nào?",
+          "options": [
+            "Chúc nàng giống bà Ra-khen (Rachel) và bà Lê-a (Leah) xây dựng nhà Ít-ra-en",
+            "Chúc nàng thọ một trăm tuổi sinh con trưởng",
+            "Chúc nàng giống bà Gia-ên giết tướng địch",
+            "Chúc nàng giàu có vàng bạc Ai Cập cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên con trai đầu lòng Ru-tơ sinh cho Bô-át mang ý nghĩa Người phụng sự thờ phượng là gì?",
+          "options": [
+            "Ô-vết (Obed)",
+            "Gie-sê",
+            "Đa-vít",
+            "Ê-li-mê-lếch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời ca tụng của phụ nữ Bê-lem dành cho tình yêu hiếu thảo của Ru-tơ đối với Na-o-mi là gì?",
+          "options": [
+            "Con dâu hiếu thảo yêu thương mẹ, quý hơn bảy con trai con trai cộng lại!",
+            "Nàng là người Mô-áp dũng cảm nhất Do Thái",
+            "Nàng đem lại phúc lộc ruộng đất giàu có cho mẹ",
+            "Nàng là nữ tư tế hiền đức đền thờ Chúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mối quan hệ gia phả huyết thống từ Ô-vết con Ru-tơ đến vị vua vĩ đại nhất Do Thái là gì?",
+          "options": [
+            "Ô-vết sinh Gie-sê, Gie-sê sinh Vua Đa-vít (David tổ phụ dòng Đấng Cứu Thế)",
+            "Ô-vết sinh Vua Sa-un dòng Bên-gia-min",
+            "Ô-vết sinh tiên tri Samuel lãnh đạo dân",
+            "Ô-vết chính là Vua Đa-vít thời trẻ tuổi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa cứu độ học lớn nhất của sách Ru-tơ trong Kinh Thánh là gì?",
+          "options": [
+            "Chứng minh tình yêu cứu độ của Chúa vượt biên giới Do Thái, đón nhận dân ngoại (Ruth) vào gia phả cứu thế",
+            "Báo cáo lịch sử chia ruộng đất thành Bê-lem",
+            "Hướng dẫn nghi thức cởi dép cổng thành giao dịch",
+            "Kể chuyện tình lãng mạn ruộng lúa mạch"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

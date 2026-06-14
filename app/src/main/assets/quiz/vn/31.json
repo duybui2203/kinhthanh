@@ -1,0 +1,531 @@
+{
+  "bookId": 31,
+  "bookName": "Ai ca",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Thành Giê-ru-sa-lem bị tàn phá được ví như hình ảnh nào trong chương 1 câu 1?",
+          "options": [
+            "Như một bà góa đơn độc lẻ loi, thành vốn đông dân nay trơ trọi",
+            "Như một cô dâu kiêu sa bọc đầy vàng ròng oai hùng",
+            "Như một thành trì kiên cố bất khả xâm phạm",
+            "Không ví von gì chỉ chép thành phố sầm uất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nỗi đau buồn của Giê-ru-sa-lem vào ban đêm được mô tả thế nào câu 2?",
+          "options": [
+            "Nàng khóc nức nở đêm thâu, nước mắt tuôn đầy má, bạn bè cấm ai ủi an",
+            "Nàng tiệc tùng ca hát nhảy múa vui vẻ quên sầu",
+            "Nàng có kỵ binh Ba-tư hộ tống đi tuần đêm an",
+            "Không khóc lóc nàng bình thản đi vào giấc ngủ say"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ thù nghịch của Giê-ru-sa-lem chiếm ưu thế thế nào câu 5 chép?",
+          "options": [
+            "Kẻ thù trở thành chủ tể, địch nhân được an nhàn vì Chúa phạt nàng tội lỗi",
+            "Kẻ thù bị sấm sét thiêu rụi cấm còn manh giáp nào",
+            "Kẻ thù phải cống nạp một vạn si-clơ vàng xin tha",
+            "Không chiếm ưu thế họ bị đánh đuổi chạy trốn hoang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình cảnh của các tư tế và thiếu nữ Giê-ru-sa-lem câu 4 chép?",
+          "options": [
+            "Đường lên Si-on tang tóc, các tư tế thở dài, các thiếu nữ sầu não",
+            "Họ ca hát vang lừng đền thờ dâng lễ toàn thiêu",
+            "Họ đắp tượng bò vàng thờ cúng đặt ngã ba đường",
+            "Không nhắc gì chỉ ghi chép họ đi di tản hết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đâu là lý do chính khiến Chúa bắt Giê-ru-sa-lem đau khổ câu 5?",
+          "options": [
+            "Vì tội lỗi quá nhiều của nàng, Chúa bắt nàng phải đau đớn phạt",
+            "Vì nàng cấm có mười ta-lăng bạc dâng đền thờ Do",
+            "Vì kỵ binh Ba-tư quá dũng mãnh tấn công bất ngờ",
+            "Không có lý do Chúa thích phạt thì phạt ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vẻ lộng lẫy của con gái Si-on biến đổi thế nào câu 6 chép?",
+          "options": [
+            "Vẻ lộng lẫy của con gái Si-on biến mất sạch, thủ lĩnh như nai cấm cỏ",
+            "Nàng khoác áo hoa bọc vàng rực rỡ oai phong vương",
+            "Nàng được kiệu rước đi khắp các ngõ hẻm thủ đô",
+            "Không biến đổi vẫn giữ nguyên vẻ kiều diễm xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giê-ru-sa-lem nhớ lại điều gì trong ngày khốn khổ câu 7?",
+          "options": [
+            "Nhớ lại mọi của báu thuở xưa khi dân nàng rơi tay địch cấm ai cứu",
+            "Nhớ lại cách đúc bò vàng thờ cúng đặt Bê-then Đan",
+            "Nhớ lại kỵ binh xe chiến Ba-tư oai hùng hộ tống",
+            "Không nhớ gì đầu óc trống rỗng u sầu hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ đi qua đường nhìn vào Giê-ru-sa-lem có thái độ nào câu 8?",
+          "options": [
+            "Họ khinh dể nàng vì thấy nàng lõa thể trần truồng nhơ nhuốc",
+            "Họ kính cẩn cúi đầu sụp lạy tôn vinh oai phong",
+            "Họ đem bạc vàng đến cứu trợ lương thực thực phẩm",
+            "Không quan tâm lờ đi như cấm nhìn thấy thành phố"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời van xin của Giê-ru-sa-lem hướng về Chúa ở câu 11 là?",
+          "options": [
+            "Lạy Đức Chúa xin nhìn xem con khốn khổ hạ nhục dường bao!",
+            "Xin ban cho con xe chiến kỵ binh Ba-tư đi phục hận",
+            "Xin ban cho con một vạn si-clơ vàng phục thiết đền",
+            "Không van xin gì chỉ oán trách Chúa bất công ác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học chương 1 sách Ai ca đúc kết là gì?",
+          "options": [
+            "Thừa nhận tội lỗi là nguyên nhân dẫn đến sự sụp đổ hoang tàn; khóc thương tình cảnh điêu tàn của Giê-ru-sa-lem",
+            "Do Thái có số lượng góa phụ nhiều nhất thế giới",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa",
+            "Sự bất lực của kỵ binh Do Thái trước quân thù"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Cơn thịnh nộ của Chúa đối với con gái Si-on được mô tả thế nào câu 1?",
+          "options": [
+            "Chúa bao phủ con gái Si-on bằng đám mây giận dữ, ném vinh quang đất",
+            "Chúa ban cho nàng vương miện bọc vàng ròng lộng lẫy",
+            "Chúa sai kỵ binh Ba-tư đến bảo vệ tường thành",
+            "Không có giận dữ Chúa luôn yêu thương nàng hết mực"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa hành động như thế nào đối với các đồn lũy Giêu-đa câu 2?",
+          "options": [
+            "Chúa triệt hạ cấm thương xót các đồn lũy, san bằng vương quốc đất",
+            "Chúa gia cố các đồn lũy bằng đá tảng kiên cố lớn",
+            "Chúa ban mười ta-lăng bạc để tu sửa đồn lũy hỏng",
+            "Không tác động gì đồn lũy tự sụp đổ do cũ kỹ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh Chúa dùng gươm bắn cung trút giận câu 4 chép?",
+          "options": [
+            "Chúa giương cung như kẻ thù, tay hữu giương sẵn giết sạch kẻ đẹp mắt",
+            "Chúa dùng khiên vàng Sa-lô-môn đỡ đạn cho dân lành",
+            "Chúa bẻ gãy gươm giáo kẻ thù cứu nguy Giê-ru-sa",
+            "Không dùng cung tên chỉ phán một lời trừng phạt ác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đền thánh và hòm bia bị Chúa xử trí thế nào câu 6-7?",
+          "options": [
+            "Chúa phá hủy lều ngự như vườn nho, ruồng bỏ bàn thờ đền thánh mình",
+            "Chúa bọc vàng ròng rực rỡ đền thờ tránh khói bụi",
+            "Chúa ban lệnh cấm ai được đụng chạm đền thờ tôn",
+            "Không phá hủy đền thánh vẫn uy nghiêm lộng lẫy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tình cảnh của các trưởng lão con gái Giê-ru-sa-lem câu 10?",
+          "options": [
+            "Các trưởng lão ngồi đất im lặng, rắc tro lên đầu, mặc áo sô thô",
+            "Các trưởng lão ca hát nhảy múa dâng rượu thơm mừng",
+            "Các trưởng lão lãnh đạo kỵ binh Ba-tư phản công giặc",
+            "Không có trưởng lão nào mọi người chạy trốn hết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nỗi đau đớn của tiên tri khi nhìn thấy trẻ thơ kiệt sức câu 11-12?",
+          "options": [
+            "Mắt tôi hao mòn vì lệ, ruột gan bồn chồn khi trẻ thơ lả đi vì đói",
+            "Tôi vui mừng cười hả hê vì dân bị phạt đáng kiếp",
+            "Tôi lãnh đạo bầy chiên cứu trợ thức ăn cho trẻ nhỏ",
+            "Không đau đớn tôi đi lánh nạn sang hoang mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kẻ thù qua đường chế giễu Giê-ru-sa-lem thế nào câu 15?",
+          "options": [
+            "Vỗ tay cười nhạo, lắc đầu hỏi: Đây có phải là thành tuyệt mỹ?",
+            "Họ kính cẩn cúi đầu dâng mười ta-lăng bạc chia buồn",
+            "Họ khóc lóc thảm thiết tiếc thương thành phố đẹp",
+            "Không chế giễu họ im lặng đi qua cấm nói năng gì"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm của các tiên tri giả bị vạch trần thế nào câu 14?",
+          "options": [
+            "Họ tuyên sấm những điều hão huyền giả dối, cấm vạch tội lỗi ngươi",
+            "Họ tuyên sấm đúng sự thật giúp dân sám hối thành công",
+            "Họ kêu gọi dân đắp tượng bò vàng tạ tội Chúa phạt",
+            "Không có tiên tri giả nào toàn tiên tri thật khuyên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiếng kêu gào của tường thành Giê-ru-sa-lem câu 18 chép?",
+          "options": [
+            "Hãy để nước mắt tuôn chảy như dòng sông ngày đêm cấm ngừng nghỉ",
+            "Hãy dựng lại khiên vàng Sa-lô-môn bảo vệ bờ cõi Do",
+            "Hãy tự sát đi trốn đau khổ tủi nhục sa mạc hoang",
+            "Không kêu gào tường thành đổ nát im lìm hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sự tàn phá của Chúa trong chương 2?",
+          "options": [
+            "Đức Chúa thực thi lời phán quyết từ xưa; sự phá hủy đền thánh và thành trì là do cơn giận thánh của Chúa",
+            "Do Thái có số lượng đồn lũy nhiều nhất vùng",
+            "Sự nhút nhát hèn hạ của quân lính Giê-ru-sa-lem",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Ai ca chương 3 thảo luận là gì?",
+          "options": [
+            "Lòng thương xót của Chúa đổi mới mỗi sáng",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu ai ca hoặc lời khẩn cầu tiêu biểu chép trong Ai ca chương 3 là?",
+          "options": [
+            "\"Lòng thương xót của Đức Chúa cấm bao giờ dứt, thương xót Ngài đổi mới mỗi sáng.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai ca chương 3 khóc thương và răn đe tội lỗi dựa trên chi tiết thực tế 'Tôi là người nếm chịu đau đau khổ khổ dưới cây gậy gậy lôi đình Chúa?'",
+          "options": [
+            "Chi tiết mô tả thảm cảnh: Tôi là người nếm chịu đau đau khổ khổ dưới cây gậy gậy lôi đình Chúa nhằm khắc họa nỗi đau khổ tột cùng",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời dạy hoặc lời kêu than về 'Chúa xây tường ngăn ngăn lối đi bịt đường tôi bằng đá đẽo tảng' trong Ai ca chương 3 chép là gì?",
+          "options": [
+            "Mô tả nỗi thống khổ: Chúa xây tường ngăn ngăn lối đi bịt đường tôi bằng đá đẽo tảng phản ánh thực tế bi thảm của thành phố",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Nhớ lại đau khổ khổ ngải đắng đắng tâm hồn tôi sụp sụp sụp đổ sầu' trong Ai ca chương 3 diễn tả trạng thái suy sụp nào?",
+          "options": [
+            "Sự suy sụp hoặc lòng thống hối: Nhớ lại đau khổ khổ ngải đắng đắng tâm hồn tôi sụp sụp sụp đổ sầu trước sự trừng phạt công thẳng",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Ai ca chương 3, cụm từ 'Lòng thương xót xót Chúa cấm bao giờ dứt dứt đổi mới mỗi sáng sáng' đem lại tia hy vọng hay phán quyết nào?",
+          "options": [
+            "Tia hy vọng hoặc cam kết: Lòng thương xót xót Chúa cấm bao giờ dứt dứt đổi mới mỗi sáng sáng để dân Chúa tin tưởng kêu cầu cứu",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khẩn cầu hoặc hành động liên quan đến 'Tốt đẹp thay người kiên kiên nhẫn nhẫn im lặng đợi chờ ơn cứu cứu' ở Ai ca chương 3 hướng đến mong ước gì?",
+          "options": [
+            "Mong ước khôi phục: Tốt đẹp thay người kiên kiên nhẫn nhẫn im lặng đợi chờ ơn cứu cứu để được giao hòa lại với Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người cất tiếng kêu van hoặc đại diện chính trong Ai ca chương 3 phát biểu là ai?",
+          "options": [
+            "Tiên tri Giê-rê-mi-a (hoặc cộng đoàn dân Chúa đang chịu lưu đày)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nỗi khổ nhục trong Ai ca chương 3 được cam kết xoa dịu khi nào?",
+          "options": [
+            "Khi dân thành tâm nhìn nhận tội khiên và Chúa dủ lòng thương xót khôi phục lại",
+            "Khi nhiều khiên vàng Sa-lô-môn được đúc lấp lánh ngai vàng lớn",
+            "Khi phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không được xoa dịu bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Ai ca chương 3 đúc kết là gì?",
+          "options": [
+            "Tôn vinh lòng thương xót vô biên của Chúa dẫu trong hoạn nạn khổ đau vẫn đầy hy vọng qua: Tôi là người nếm chịu đau đau khổ khổ dưới cây gậy gậy lôi đình Chúa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Ai ca chương 4 thảo luận là gì?",
+          "options": [
+            "Vàng ròng mất màu và người mẹ nấu con mình",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu ai ca hoặc lời khẩn cầu tiêu biểu chép trong Ai ca chương 4 là?",
+          "options": [
+            "\"Than ôi, vàng ròng đã mất màu, vàng tinh ròng đã biến chất biến đổi!\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai ca chương 4 khóc thương và răn đe tội lỗi dựa trên chi tiết thực tế 'Vàng ròng ròng đã mất màu màu ngọc đền thánh rải rác ngã đường?'",
+          "options": [
+            "Chi tiết mô tả thảm cảnh: Vàng ròng ròng đã mất màu màu ngọc đền thánh rải rác ngã đường nhằm khắc họa nỗi đau khổ tột cùng",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời dạy hoặc lời kêu than về 'Trẻ thơ khát khát xin bánh ăn ăn cấm ai bẻ cho một mẩu bánh' trong Ai ca chương 4 chép là gì?",
+          "options": [
+            "Mô tả nỗi thống khổ: Trẻ thơ khát khát xin bánh ăn ăn cấm ai bẻ cho một mẩu bánh phản ánh thực tế bi thảm của thành phố",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Mẹ nhân hiền hiền tay nấu nấu nấu chính con con mình làm thức ăn đói' trong Ai ca chương 4 diễn tả trạng thái suy sụp nào?",
+          "options": [
+            "Sự suy sụp hoặc lòng thống hối: Mẹ nhân hiền hiền tay nấu nấu nấu chính con con mình làm thức ăn đói trước sự trừng phạt công thẳng",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Ai ca chương 4, cụm từ 'Tội lỗi Si-on Si-on lớn hơn cả tội tội lỗi Sô-đôm xưa bị phạt phạt' đem lại tia hy vọng hay phán quyết nào?",
+          "options": [
+            "Tia hy vọng hoặc cam kết: Tội lỗi Si-on Si-on lớn hơn cả tội tội lỗi Sô-đôm xưa bị phạt phạt để dân Chúa tin tưởng kêu cầu cứu",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khẩn cầu hoặc hành động liên quan đến 'Chúa trút hết giận giận dữ phóng hỏa thiêu rụi nền móng đền thành' ở Ai ca chương 4 hướng đến mong ước gì?",
+          "options": [
+            "Mong ước khôi phục: Chúa trút hết giận giận dữ phóng hỏa thiêu rụi nền móng đền thành để được giao hòa lại với Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người cất tiếng kêu van hoặc đại diện chính trong Ai ca chương 4 phát biểu là ai?",
+          "options": [
+            "Tiên tri Giê-rê-mi-a (hoặc cộng đoàn dân Chúa đang chịu lưu đày)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nỗi khổ nhục trong Ai ca chương 4 được cam kết xoa dịu khi nào?",
+          "options": [
+            "Khi dân thành tâm nhìn nhận tội khiên và Chúa dủ lòng thương xót khôi phục lại",
+            "Khi nhiều khiên vàng Sa-lô-môn được đúc lấp lánh ngai vàng lớn",
+            "Khi phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không được xoa dịu bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Ai ca chương 4 đúc kết là gì?",
+          "options": [
+            "Tôn vinh lòng thương xót vô biên của Chúa dẫu trong hoạn nạn khổ đau vẫn đầy hy vọng qua: Vàng ròng ròng đã mất màu màu ngọc đền thánh rải rác ngã đường",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Ai ca chương 5 thảo luận là gì?",
+          "options": [
+            "Lời khẩn cầu xin Chúa đổi mới ngày xưa cũ",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu ai ca hoặc lời khẩn cầu tiêu biểu chép trong Ai ca chương 5 là?",
+          "options": [
+            "\"Lạy Đức Chúa, xin đưa chúng con trở về với Ngài, xin đổi mới những ngày xưa.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai ca chương 5 khóc thương và răn đe tội lỗi dựa trên chi tiết thực tế 'Xin nhớ đến đến tai họa họa đổ xuống chúng con con chịu sỉ nhục nhục?'",
+          "options": [
+            "Chi tiết mô tả thảm cảnh: Xin nhớ đến đến tai họa họa đổ xuống chúng con con chịu sỉ nhục nhục nhằm khắc họa nỗi đau khổ tột cùng",
+            "Lời khuyên nên nộp một vạn si-clơ vàng xin làm quan",
+            "Lời bảo hãy trốn chạy sang hoang mạc hoang dã lánh",
+            "Không khuyên răn gì chỉ kể chuyện các sinh vật xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực tiễn của lời dạy hoặc lời kêu than về 'Sản nghiệp nghiệp lọt tay ngoại bang bang nhà cửa lọt tay người người' trong Ai ca chương 5 chép là gì?",
+          "options": [
+            "Mô tả nỗi thống khổ: Sản nghiệp nghiệp lọt tay ngoại bang bang nhà cửa lọt tay người người phản ánh thực tế bi thảm của thành phố",
+            "Chỉ cách chế tạo xe chiến kỵ binh oai hùng ra trận",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều",
+            "Không có ý nghĩa giáo huấn chỉ chép lại tục ngữ xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh biểu trưng 'Cha ông chúng chúng con phạm tội nay đã chết chết chúng con gánh gánh' trong Ai ca chương 5 diễn tả trạng thái suy sụp nào?",
+          "options": [
+            "Sự suy sụp hoặc lòng thống hối: Cha ông chúng chúng con phạm tội nay đã chết chết chúng con gánh gánh trước sự trừng phạt công thẳng",
+            "Cảnh báo giặc ngoại xâm Syria cướp bóc khiên vàng đền",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang",
+            "Không biểu trưng điều gì chỉ miêu tả đời sống bình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Ai ca chương 5, cụm từ 'Niềm vui lòng lòng biến mất vũ điệu điệu hóa thành tiếng khóc khóc than' đem lại tia hy vọng hay phán quyết nào?",
+          "options": [
+            "Tia hy vọng hoặc cam kết: Niềm vui lòng lòng biến mất vũ điệu điệu hóa thành tiếng khóc khóc than để dân Chúa tin tưởng kêu cầu cứu",
+            "Sức mạnh quân sự oai hùng của chiến sĩ dũng mãnh Do",
+            "Sự khéo léo đắp tượng bò vàng đặt đền thờ tà thần",
+            "Không nói đức tính nào chỉ chép từ ngữ ngẫu nhiên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời khẩn cầu hoặc hành động liên quan đến 'Xin đưa chúng chúng con trở về về đổi mới những ngày ngày xưa cũ' ở Ai ca chương 5 hướng đến mong ước gì?",
+          "options": [
+            "Mong ước khôi phục: Xin đưa chúng chúng con trở về về đổi mới những ngày ngày xưa cũ để được giao hòa lại với Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu",
+            "Khuyên trốn chạy sang sa mạc hoang dã lánh cùi cách",
+            "Không khuyên ứng xử để mặc người ta tự do hành động"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người cất tiếng kêu van hoặc đại diện chính trong Ai ca chương 5 phát biểu là ai?",
+          "options": [
+            "Tiên tri Giê-rê-mi-a (hoặc cộng đoàn dân Chúa đang chịu lưu đày)",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong vương",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa kia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nỗi khổ nhục trong Ai ca chương 5 được cam kết xoa dịu khi nào?",
+          "options": [
+            "Khi dân thành tâm nhìn nhận tội khiên và Chúa dủ lòng thương xót khôi phục lại",
+            "Khi nhiều khiên vàng Sa-lô-môn được đúc lấp lánh ngai vàng lớn",
+            "Khi phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc",
+            "Không được xoa dịu bắt chịu khổ đau gian truân sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học sâu sắc của Ai ca chương 5 đúc kết là gì?",
+          "options": [
+            "Tôn vinh lòng thương xót vô biên của Chúa dẫu trong hoạn nạn khổ đau vẫn đầy hy vọng qua: Xin nhớ đến đến tai họa họa đổ xuống chúng con con chịu sỉ nhục nhục",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của cha"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

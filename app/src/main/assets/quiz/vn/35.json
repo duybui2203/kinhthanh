@@ -1,0 +1,1476 @@
+{
+  "bookId": 35,
+  "bookName": "Hô-sê",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Chúa bảo tiên tri Hô-sê cưới người vợ thế nào để làm dấu chỉ cho dân câu 2?",
+          "options": [
+            "Cưới một người đàn bà ngoại tình (đĩ điếm) và có những đứa con ngoại tình",
+            "Cưới một thiếu nữ thuộc hoàng gia vương triều Ba-tư",
+            "Cưới một nữ tư tế Lê-vi đoan trang hiền thục Do",
+            "Cấm cưới vợ suốt đời sống độc thân hoang mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người vợ của Hô-sê tên là gì câu 3?",
+          "options": [
+            "Cô-me, con gái của Đíp-la-im",
+            "Su-san-na, vợ ông Giô-a-kim",
+            "Gơ-me, em gái của tổ phụ Áp-ra-ham",
+            "Nữ hoàng Ê-tơ vương quốc Ba-tư cổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa tên đứa con trai đầu lòng của Hô-sê tên là Dít-rê-en câu 4?",
+          "options": [
+            "Báo trước Chúa sẽ phạt nợ máu nhà Giê-hu tại thung lũng Dít-rê-en",
+            "Báo trước Chúa sẽ ban khiên vàng oai hùng bảo vệ",
+            "Báo trước Chúa sẽ chữa lành phong cùi cho dân",
+            "Không có ý nghĩa chỉ là tên đặt ngẫu nhiên thôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên đứa con gái thứ hai của Hô-sê là Lo-Ru-kha-ma nghĩa là gì câu 6?",
+          "options": [
+            "Cấm-được-thương-xót, vì Ta cấm còn xót thương nhà Ít-ra-en nữa",
+            "Được-yêu-thương, vì Ta sẽ ôm ắp ôm ấp dân Ta",
+            "Con-đường-thánh, dẫn dân qua hoang mạc khô cằn",
+            "Không có ý nghĩa chỉ đặt cho có tên gọi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên đứa con trai thứ ba của Hô-sê là Lo-Am-mi nghĩa là gì câu 9?",
+          "options": [
+            "Cấm-phải-dân-Ta, và Ta sẽ cấm là Thiên Chúa của các ngươi nữa",
+            "Dân-Ta-đây, những kẻ trung hiếu kính sợ ĐỨC CHÚA",
+            "Chiến-xa-oai, bảo vệ hoàng cung vương triều Do Thái",
+            "Không rõ ý nghĩa chỉ biết tên mang điềm báo xấu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa khôi phục số lượng con cái Ít-ra-en câu 10 chép?",
+          "options": [
+            "Số con cái Ít-ra-en sẽ nhiều như cát biển cấm thể đong đếm",
+            "Sẽ bị tiêu vong sạch cấm còn một mống nào sống",
+            "Sẽ được ban mười ta-lăng bạc mỗi gia đình Do",
+            "Không hứa hẹn gì bắt họ chịu khổ đau hoang mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa sẽ gọi dân thay vì Lo-Am-mi (Cấm phải dân Ta) bằng tên gì câu 10?",
+          "options": [
+            "Con của Thiên Chúa hằng sống",
+            "Dân tộc Do Thái kiêu hùng",
+            "Bầy chiên bị lạc của Chúa",
+            "Kẻ cùi cách ly phòng biệt lập"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thời gian tiên tri Hô-sê thi hành sứ vụ dưới triều đại các vua nào câu 1?",
+          "options": [
+            "Vua U-dị-a, Giô-tham, A-khát, Ê-dê-ki-a (Giu-da) và Giơ-rô-bô-am II (Ít-ra-en)",
+            "Vua Sa-lô-môn và vua Rô-bô-am vương quốc chia đôi",
+            "Vua Na-bu-cô-đô-nô-so và vua Đa-ri-út Ba-by-lon",
+            "Vua Jehoiakim và vua Zedekiah thời thành sụp đổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đứa con thứ hai Lo-Ru-kha-ma được nuôi cai sữa trước khi sinh đứa nào câu 8?",
+          "options": [
+            "Cai sữa xong thì sinh đứa con trai tên Lo-Am-mi",
+            "Sinh đứa con đầu lòng tên Dít-rê-en oai phong",
+            "Mẹ nàng bỏ trốn cấm sinh thêm đứa nào nữa cả",
+            "Không nhắc việc cai sữa chỉ chép sinh con liên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học biểu trưng của cuộc hôn nhân Hô-sê trong chương 1?",
+          "options": [
+            "Cuộc hôn nhân phản ánh tình trạng phản bội giao ước của Ít-ra-en đối với Thiên Chúa, Ngài phán xét nhưng vẫn hứa khôi phục",
+            "Hôn nhân Do Thái có số lượng nghi lễ nhiều nhất thế giới",
+            "Sự khôn ngoan của tiên tri khi chọn người vợ giàu",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Chúa ví hành vi thờ ngẫu tượng Baal của Ít-ra-en như điều gì câu 5?",
+          "options": [
+            "Hành vi ngoại tình đĩ điếm, bỏ rơi Đấng cung cấp thức ăn nước uống",
+            "Hành vi chiến đấu oai hùng của kỵ sĩ Ba-tư cổ",
+            "Hành vi trốn tránh đóng thuế thập phân đền thánh Do",
+            "Không ví von gì chỉ trách họ lười biếng cầu nguyện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Để lôi cuốn người vợ phản bội trở lại, Chúa hứa làm gì câu 14?",
+          "options": [
+            "Ta sẽ quyến rũ nàng, dẫn nàng vào hoang mạc, và nói lời tâm tình với nàng",
+            "Ta sẽ sai kỵ binh Ba-tư đến bắt trói giải về phạt",
+            "Ta sẽ phạt nàng bị phong cùi cách ly phòng biệt lập",
+            "Ta sẽ thu hồi hết của cải vàng bạc bỏ mặc đói khát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thung lũng A-khô (đau khổ) sẽ biến thành cửa ngõ gì câu 15?",
+          "options": [
+            "Cửa ngõ hy vọng (door of hope)",
+            "Cửa ngõ dẫn sang Ai Cập lánh nạn",
+            "Cửa ngõ cùi trắng trán sa mạc hoang",
+            "Không biến đổi gì vẫn u sầu như xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong ngày đó nàng sẽ gọi Chúa bằng danh xưng nào thay vì Baal (Chủ tể) câu 16?",
+          "options": [
+            "Gọi là: Mình ơi (Chồng tôi), cấm gọi là Baal của tôi nữa",
+            "Gọi là: Vua tối cao vương triều Ba-tư oai phong",
+            "Gọi là: Đấng Lão Thành ngự trên ngai lửa thiêu",
+            "Không gọi danh xưng gì chỉ im lặng cúi đầu sụp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đức Chúa hứa đính hôn với nàng vĩnh viễn bằng những đức tính nào câu 19-20?",
+          "options": [
+            "Bằng sự công chính, chính trực, tình thương, lòng thương xót và lòng thành tín",
+            "Bằng mười ta-lăng bạc ký gửi đền thờ Do Thái xưa",
+            "Bằng khiên vàng Sa-lô-môn đúc lấp lánh oai hùng vương",
+            "Không đính hôn chỉ ban ơn huệ tha thứ tạm thời thôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đức Chúa hứa dẹp bỏ những vũ khí nào khỏi xứ sở câu 18?",
+          "options": [
+            "Bẻ gãy cung gươm chiến trận khỏi xứ, cho họ nằm nghỉ yên an",
+            "Dẹp bỏ khiên vàng đền thờ Do Thái tránh bị cướp bóc",
+            "Dẹp bỏ xe chiến kỵ binh Ba-tư oai hùng hộ tống đi",
+            "Không dẹp bỏ vũ khí tăng cường sức mạnh quân sự Do"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nàng nghĩ ai đã ban bánh nước lanh len dầu cho nàng câu 5?",
+          "options": [
+            "Các nhân tình (ngẫu tượng Baal) của nàng ban cho",
+            "Chính Thiên Chúa ĐỨC CHÚA ban cho từ hoang mạc",
+            "Hoàng cung vương triều Syria gửi viện trợ lương",
+            "Tự tay nàng làm ra cấm cần ai ban phát cả"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa sẽ chặn đường nàng đi tìm nhân tình bằng gì câu 6?",
+          "options": [
+            "Bằng hàng rào gai góc, xây tường ngăn cấm cho tìm lối đi",
+            "Bằng kỵ binh xe chiến Ba-tư cản đường bắt giữ phạt",
+            "Bằng bệnh dịch cùi cách ly phòng biệt lập hoang vu",
+            "Không chặn đường để nàng tự do đi lại thoải mái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa sẽ lấy lại những vật gì khi mùa thu hoạch đến câu 9?",
+          "options": [
+            "Lấy lại lúa mì, rượu mới đúng mùa, giật lại len lanh che thân",
+            "Lấy lại mười ta-lăng bạc nàng ký gửi đền thờ ngoại",
+            "Lấy lại tượng bò vàng nàng thờ cúng đặt Bê-then",
+            "Không lấy gì chỉ khiển trách bằng lời nói tiên tri"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự hoán cải của người vợ trong chương 2 sách Hô-sê?",
+          "options": [
+            "Mô tả hành trình thanh tẩy đức tin của Ít-ra-en: từ phản bội, chịu phạt khổ đau trong hoang mạc, đến khôi phục mối tình giao ước ngọt ngào",
+            "Do Thái có số lượng thung lũng nhiều nhất thế giới",
+            "Sự nhút nhát của người vợ trước mặt người chồng giận",
+            "Sự lỗi thời của giao ước cũ hoang địa xưa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 3 thảo luận là gì?",
+          "options": [
+            "Hô-sê chuộc lại vợ và dấu chỉ phục hồi dân",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 3 là?",
+          "options": [
+            "\"Hô-sê chuộc lại vợ bằng mười lăm miếng bạc và một hộc rưỡi lúa mạch.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 3 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Yêu thương đàn bà bà ngoại tình tình yêu như Chúa yêu dân?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Yêu thương đàn bà bà ngoại tình tình yêu như Chúa yêu dân nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Chuộc nàng nàng bằng mười lăm miếng bạc bạc hộc rưỡi lúa' trong Hô-sê chương 3 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Chuộc nàng nàng bằng mười lăm miếng bạc bạc hộc rưỡi lúa giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Nàng phải ở ở chờ chồng nhiều ngày ngày cấm ngoại tình' trong Hô-sê chương 3 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Nàng phải ở ở chờ chồng nhiều ngày ngày cấm ngoại tình từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 3, cụm từ 'Con cái Ít-ra-en cũng sẽ sống sống nhiều ngày ngày cấm vua chúa' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Con cái Ít-ra-en cũng sẽ sống sống nhiều ngày ngày cấm vua chúa phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Sau đó sẽ tìm tìm kiếm Đức Chúa và Đa-vít vua vua mình' ở Hô-sê chương 3 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Sau đó sẽ tìm tìm kiếm Đức Chúa và Đa-vít vua vua mình của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 3 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 3?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 3 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Yêu thương đàn bà bà ngoại tình tình yêu như Chúa yêu dân",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 4 thảo luận là gì?",
+          "options": [
+            "Dân tiêu vong vì thiếu hiểu biết và tội tư tư tế",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 4 là?",
+          "options": [
+            "\"Dân Ta tiêu vong vì thiếu hiểu biết, vì ngươi đã từ chối tri thức.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 4 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Chúa hạch hạch tội tội dân xứ cấm thành tín cấm tình thương?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Chúa hạch hạch tội tội dân xứ cấm thành tín cấm tình thương nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Dân tiêu tiêu vong vong vì thiếu hiểu biết biết từ chối tri' trong Hô-sê chương 4 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Dân tiêu tiêu vong vong vì thiếu hiểu biết biết từ chối tri giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Tư tế tư tế tế ham nuốt của tội lỗi dân lỗi dân Ta thích' trong Hô-sê chương 4 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Tư tế tư tế tế ham nuốt của tội lỗi dân lỗi dân Ta thích từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 4, cụm từ 'Thờ thần thần gỗ gỗ hỏi ý kiến cây gậy gậy dâm dục lừa' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Thờ thần thần gỗ gỗ hỏi ý kiến cây gậy gậy dâm dục lừa phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Áph-ra-im đã kết kết bạn bạn với ngẫu tượng hãy để mặc mặc' ở Hô-sê chương 4 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Áph-ra-im đã kết kết bạn bạn với ngẫu tượng hãy để mặc mặc của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 4 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 4?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 4 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Chúa hạch hạch tội tội dân xứ cấm thành tín cấm tình thương",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 5 thảo luận là gì?",
+          "options": [
+            "Phán xử tội lỗi thủ lĩnh Giu-da và Ép-ra-im",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 5 là?",
+          "options": [
+            "\"Ta sẽ như con sư tử đối với Ép-ra-im, sư tử tơ đối với Giu-da.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 5 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Hãy lắng tai nghe nghe hỡi các tư tế nhà vua sa bẫy?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Hãy lắng tai nghe nghe hỡi các tư tế nhà vua sa bẫy nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Giu-da và Ép-ra-im ra-im lầm lỗi kiêu ngạo trước Chúa' trong Hô-sê chương 5 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Giu-da và Ép-ra-im ra-im lầm lỗi kiêu ngạo trước Chúa giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Họ mang chiên chiên bò bò đi tìm Chúa nhưng cấm gặp Ngài' trong Hô-sê chương 5 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Họ mang chiên chiên bò bò đi tìm Chúa nhưng cấm gặp Ngài từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 5, cụm từ 'Các thủ lĩnh Giu-da như kẻ dời dời cột cột mốc giới hạn' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Các thủ lĩnh Giu-da như kẻ dời dời cột cột mốc giới hạn phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Ta như sư sư tử tử xé xác Ép-ra-im cấm ai cứu thoát' ở Hô-sê chương 5 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Ta như sư sư tử tử xé xác Ép-ra-im cấm ai cứu thoát của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 5 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 5?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 5 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Hãy lắng tai nghe nghe hỡi các tư tế nhà vua sa bẫy",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 6 thảo luận là gì?",
+          "options": [
+            "Ta muốn lòng nhân từ chứ cấm phải hy lễ",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 6 là?",
+          "options": [
+            "\"Vì Ta muốn lòng nhân từ chứ cấm phải hy lễ, muốn sự biết Chúa hơn lễ thiêu.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 6 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Hãy trở trở lại lại với Chúa Ngài xé xé xác rồi chữa lành?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Hãy trở trở lại lại với Chúa Ngài xé xé xác rồi chữa lành nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Sau hai hai ngày ngày ngày Ngài hồi sinh ngày thứ ba trỗi dậy' trong Hô-sê chương 6 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Sau hai hai ngày ngày ngày Ngài hồi sinh ngày thứ ba trỗi dậy giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Tình thương các các ngươi ngươi như mây sáng sương mau tan tan' trong Hô-sê chương 6 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Tình thương các các ngươi ngươi như mây sáng sương mau tan tan từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 6, cụm từ 'Ta muốn muốn lòng lòng nhân nhân từ từ chứ cấm phải hy lễ tế' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Ta muốn muốn lòng lòng nhân nhân từ từ chứ cấm phải hy lễ tế phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Họ vi phạm phạm giao ước ước như A-đam dối trá lừa gạt' ở Hô-sê chương 6 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Họ vi phạm phạm giao ước ước như A-đam dối trá lừa gạt của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 6 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 6?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 6 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Hãy trở trở lại lại với Chúa Ngài xé xé xác rồi chữa lành",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 7 thảo luận là gì?",
+          "options": [
+            "Ép-ra-im như lò bánh nóng bồ câu khờ khạo",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 7 là?",
+          "options": [
+            "\"Ép-ra-im như chim bồ câu khờ khạo cấm có trí khôn.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 7 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Ta muốn chữa chữa lành lành dân lộ ra tội lỗi Ép-ra-im?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Ta muốn chữa chữa lành lành dân lộ ra tội lỗi Ép-ra-im nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Chúng đều là lũ lũ ngoại ngoại tình tình nóng như lò bánh nướng' trong Hô-sê chương 7 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Chúng đều là lũ lũ ngoại ngoại tình tình nóng như lò bánh nướng giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Ép-ra-im pha trộn trộn với chư dân như bánh nướng cấm lật' trong Hô-sê chương 7 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Ép-ra-im pha trộn trộn với chư dân như bánh nướng cấm lật từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 7, cụm từ 'Ép-ra-im như bồ bồ câu câu khờ khạo bay sang Ai Cập cầu' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Ép-ra-im như bồ bồ câu câu khờ khạo bay sang Ai Cập cầu phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Chúng cấm cấm kêu kêu cầu Ta thật lòng kêu la trên giường' ở Hô-sê chương 7 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Chúng cấm cấm kêu kêu cầu Ta thật lòng kêu la trên giường của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 7 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 7?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 7 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Ta muốn chữa chữa lành lành dân lộ ra tội lỗi Ép-ra-im",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 8 thảo luận là gì?",
+          "options": [
+            "Gieo gió gặt bão và con bò con Sa-ma-ri",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 8 là?",
+          "options": [
+            "\"Vì chúng gieo gió thì sẽ gặt bão; con bò con Sa-ma-ri sẽ tan tành.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 8 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Đặt kèn kèn lên lên môi giặc đến như đại bàng phá nhà Chúa?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Đặt kèn kèn lên lên môi giặc đến như đại bàng phá nhà Chúa nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Chúng gieo gieo gió gió thì sẽ gặt gặt bão bão lốc tàn phá' trong Hô-sê chương 8 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Chúng gieo gieo gió gió thì sẽ gặt gặt bão bão lốc tàn phá giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Con bò bò con con Sa-ma-ri sẽ bị đập tan tành tành mảnh' trong Hô-sê chương 8 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Con bò bò con con Sa-ma-ri sẽ bị đập tan tành tành mảnh từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 8, cụm từ 'Ít-ra-en quên quên Đấng Đấng Tạo Hóa xây đền đài ngẫu tượng' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Ít-ra-en quên quên Đấng Đấng Tạo Hóa xây đền đài ngẫu tượng phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Ta phóng lửa lửa thiêu thiêu rụi các thành kiên cố Giu-da' ở Hô-sê chương 8 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Ta phóng lửa lửa thiêu thiêu rụi các thành kiên cố Giu-da của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 8 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 8?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 8 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Đặt kèn kèn lên lên môi giặc đến như đại bàng phá nhà Chúa",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 9 thảo luận là gì?",
+          "options": [
+            "Hình phạt lưu đày sang Ai Cập và A-sy-ri",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 9 là?",
+          "options": [
+            "\"Chúng cấm được ở trên đất của Đức Chúa; Ép-ra-im phải về Ai Cập.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 9 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Đừng mừng mừng rỡ rỡ hớn hở hỡi Ít-ra-en như chư dân ngoại?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Đừng mừng mừng rỡ rỡ hớn hở hỡi Ít-ra-en như chư dân ngoại nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Chúng cấm cấm được được ở trên đất Chúa phải về Ai Cập ăn' trong Hô-sê chương 9 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Chúng cấm cấm được được ở trên đất Chúa phải về Ai Cập ăn giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Lễ hội hội ngày ngày của Chúa sẽ ra sao khi bị phạt đày' trong Hô-sê chương 9 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Lễ hội hội ngày ngày của Chúa sẽ ra sao khi bị phạt đày từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 9, cụm từ 'Tội lỗi tại tại Ghíp-ga ga làm Ta ghét bỏ đuổi khỏi nhà Ta' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Tội lỗi tại tại Ghíp-ga ga làm Ta ghét bỏ đuổi khỏi nhà Ta phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Ép-ra-im bị bị đánh đánh vào rễ cây cấm sinh trái nữa' ở Hô-sê chương 9 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Ép-ra-im bị bị đánh đánh vào rễ cây cấm sinh trái nữa của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 9 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 9?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 9 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Đừng mừng mừng rỡ rỡ hớn hở hỡi Ít-ra-en như chư dân ngoại",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 10 thảo luận là gì?",
+          "options": [
+            "Cây nho sum sê altars nhiều tội tội ác tăng",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 10 là?",
+          "options": [
+            "\"Ít-ra-en là cây nho sum sê, trái càng nhiều tế đàn càng tăng.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 10 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Cây nho nho sum sum sê sê trái nhiều lập thêm tế đàn ngẫu?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Cây nho nho sum sum sê sê trái nhiều lập thêm tế đàn ngẫu nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Lòng chúng chúng phân phân phân rẽ nay phải mang tội đập nát' trong Hô-sê chương 10 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Lòng chúng chúng phân phân phân rẽ nay phải mang tội đập nát giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Nơi cao cao A-ven ven bị phá hủy gai góc phủ bàn thờ' trong Hô-sê chương 10 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Nơi cao cao A-ven ven bị phá hủy gai góc phủ bàn thờ từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 10, cụm từ 'Chúng bảo núi núi hãy che che đồi hãy đổ xuống đè chúng' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Chúng bảo núi núi hãy che che đồi hãy đổ xuống đè chúng phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Hãy gieo gieo công công chính chính gặt nhân từ cày vỡ đất mới' ở Hô-sê chương 10 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Hãy gieo gieo công công chính chính gặt nhân từ cày vỡ đất mới của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 10 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 10?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 10 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Cây nho nho sum sum sê sê trái nhiều lập thêm tế đàn ngẫu",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 11 thảo luận là gì?",
+          "options": [
+            "Chúa yêu Ít-ra-en từ thuở trẻ gọi con ra",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 11 là?",
+          "options": [
+            "\"Khi Ít-ra-en còn trẻ, Ta đã yêu thương nó, gọi con Ta ra khỏi Ai Cập.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 11 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Khi Ít-ra-en còn còn trẻ trẻ Ta đã yêu thương gọi con ra?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Khi Ít-ra-en còn còn trẻ trẻ Ta đã yêu thương gọi con ra nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Ta dạy dạy Ép-ra-im đi đi nâng niu bồng bế trên tay Ta' trong Hô-sê chương 11 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Ta dạy dạy Ép-ra-im đi đi nâng niu bồng bế trên tay Ta giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Ta dùng dây dây nhân nhân nghĩa nghĩa dây tình yêu kéo chúng đi' trong Hô-sê chương 11 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Ta dùng dây dây nhân nhân nghĩa nghĩa dây tình yêu kéo chúng đi từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 11, cụm từ 'Lòng Ta Ta thổ thổ thức thức thương xót cấm trút giận tiêu diệt' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Lòng Ta Ta thổ thổ thức thức thương xót cấm trút giận tiêu diệt phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Chúng sẽ đi đi theo theo Chúa Ngài gầm rú như sư tử gọi' ở Hô-sê chương 11 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Chúng sẽ đi đi theo theo Chúa Ngài gầm rú như sư tử gọi của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 11 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 11?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 11 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Khi Ít-ra-en còn còn trẻ trẻ Ta đã yêu thương gọi con ra",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 12 thảo luận là gì?",
+          "options": [
+            "Jacob lừa dối trong bụng mẹ và tiên tri dẫn",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 12 là?",
+          "options": [
+            "\"Trong bụng mẹ, Jacob nắm gót anh; lớn lên chiến đấu với Thiên Chúa.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 12 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Ép-ra-im vây vây quanh quanh Ta bằng dối trá lừa lọc gian?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Ép-ra-im vây vây quanh quanh Ta bằng dối trá lừa lọc gian nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Jacob trong trong bụng bụng mẹ mẹ nắm gót anh lớn đấu với thần' trong Hô-sê chương 12 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Jacob trong trong bụng bụng mẹ mẹ nắm gót anh lớn đấu với thần giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Thương gia gia dùng dùng cân cân giả dối thích áp bức làm giàu' trong Hô-sê chương 12 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Thương gia gia dùng dùng cân cân giả dối thích áp bức làm giàu từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 12, cụm từ 'Chúa dùng dùng tiên tiên tri tri dẫn Ít-ra-en ra khỏi Ai Cập' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Chúa dùng dùng tiên tiên tri tri dẫn Ít-ra-en ra khỏi Ai Cập phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Ép-ra-im chọc chọc giận giận Chúa bằng cay đắng máu đổ đầu y' ở Hô-sê chương 12 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Ép-ra-im chọc chọc giận giận Chúa bằng cay đắng máu đổ đầu y của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 12 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 12?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 12 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Ép-ra-im vây vây quanh quanh Ta bằng dối trá lừa lọc gian",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 13 thảo luận là gì?",
+          "options": [
+            "Tử thần tai ương đâu Chúa cứu độ độc nhất",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 13 là?",
+          "options": [
+            "\"Ngoài Ta cấm có Chúa cứu độ nào khác; Ta biết ngươi ở hoang mạc.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 13 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Thờ tượng đúc đúc bằng bằng bạc bạc theo trí khôn tan biến sương?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Thờ tượng đúc đúc bằng bằng bạc bạc theo trí khôn tan biến sương nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Ta là Đức Đức Chúa Chúa Chúa cứu độ ngươi từ Ai Cập độc' trong Hô-sê chương 13 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Ta là Đức Đức Chúa Chúa Chúa cứu độ ngươi từ Ai Cập độc giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Ta như sư sư tử tử gấu gấu báo rình rập xé xác kẻ phản' trong Hô-sê chương 13 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Ta như sư sư tử tử gấu gấu báo rình rập xé xác kẻ phản từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 13, cụm từ 'Hỡi Tử thần thần tai tai ương ương ngươi đâu âm phủ tiêu diệt' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Hỡi Tử thần thần tai tai ương ương ngươi đâu âm phủ tiêu diệt phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Gió đông đông từ từ sa mạc thổi đến làm cạn kiệt suối nguồn' ở Hô-sê chương 13 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Gió đông đông từ từ sa mạc thổi đến làm cạn kiệt suối nguồn của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 13 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 13?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 13 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Thờ tượng đúc đúc bằng bằng bạc bạc theo trí khôn tan biến sương",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Nội dung trọng tâm hoặc chủ đề chính của Hô-sê chương 14 thảo luận là gì?",
+          "options": [
+            "Kêu gọi sám hối và hoa huệ nở hương thơm",
+            "Kế hoạch đóng thuế thập phân cho đền thờ Giê-ru",
+            "Kỹ thuật chiến đấu oai hùng của kỵ binh Ba-tư cổ",
+            "Chúc kẻ thù bị phong cùi trắng trán cách ly sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sấm ngôn hoặc câu châm ngôn tiêu biểu chép trong Hô-sê chương 14 là?",
+          "options": [
+            "\"Hãy trở về, hỡi Ít-ra-en, Ta sẽ chữa lành sự bất trung của chúng.\"",
+            "\"Tôi có kỵ binh xe chiến oai hùng bảo vệ mạng sống tôi\"",
+            "\"Hãy đắp tượng con bò vàng thờ cúng đặt Bê-then Đan\"",
+            "\"Hãy tự sát đi lánh nạn chịu chết đống tro tàn hoang\""
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hô-sê chương 14 kêu gọi sám hối hay răn đe tội lỗi dựa trên chi tiết nào qua cụm từ 'Hãy trở trở về về dâng lời cầu xin Chúa tha thứ tội lỗi?'",
+          "options": [
+            "Bài học giáo dục nhân cách: Hãy trở trở về về dâng lời cầu xin Chúa tha thứ tội lỗi nhằm phản ánh mối quan hệ giữa Chúa và dân",
+            "Khuyên dâng hiến một vạn si-clơ vàng ròng xin làm quan lớn triều",
+            "Khuyên bỏ trốn sang hoang mạc hoang dã cùi cách ly lánh nạn",
+            "Không có ý răn dạy chỉ chép chuyện các tổ tiên thời xưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thực hành đạo đức của lời dạy liên quan đến 'Chúng con cấm cấm cậy cậy A-sy-ri cấm cưỡi ngựa ngoại bang' trong Hô-sê chương 14 chép?",
+          "options": [
+            "Uốn nắn hành vi thái độ: Chúng con cấm cấm cậy cậy A-sy-ri cấm cưỡi ngựa ngoại bang giúp thanh tẩy đức tin tìm kiếm ơn tha thứ",
+            "Dạy cách cưỡi ngựa chiến kỵ binh Ba-tư ra trận mạc nguy hiểm",
+            "Dạy cách trốn tránh đóng thuế đền thờ vương triều Syria cổ",
+            "Không mang ý nghĩa thực hành chỉ ghi lại luật lệ lịch sử"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chi tiết biểu trưng 'Ta sẽ chữa chữa lành lành sự phản bội yêu thương họ tự nguyện' trong Hô-sê chương 14 cảnh báo hậu quả nào?",
+          "options": [
+            "Cảnh báo tội lỗi phản nghịch hoặc hậu quả: Ta sẽ chữa chữa lành lành sự phản bội yêu thương họ tự nguyện từ sự lì lợm cứng đầu",
+            "Cảnh báo giặc Syria cướp bóc khiên vàng đền thánh Giê-ru-sa-lem",
+            "Cảnh báo bị bệnh phong cùi cách ly phòng biệt lập hoang dã",
+            "Không cảnh báo điều gì chỉ chép lại các sự kiện sinh hoạt hằng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trong Hô-sê chương 14, cụm từ 'Ít-ra-en nở hoa hoa như hoa huệ bén rễ như bá hương' nói lên lời hứa hay phán quyết nào của Chúa?",
+          "options": [
+            "Lời hứa ban ơn hoặc phán quyết công minh: Ít-ra-en nở hoa hoa như hoa huệ bén rễ như bá hương phản ánh tình thương tha thứ",
+            "Sức mạnh oai hùng của chiến sĩ dũng mãnh bảo vệ thành thánh Giêu",
+            "Sự khéo léo đắp tượng con bò vàng đặt đền thờ tà thần ngoại",
+            "Không nói đức tính nào chỉ là cụm từ chép lại trong sách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời loan báo hoặc khuyên bảo liên quan đến 'Ai khôn khôn ngoan ngoan ngoan hãy hiểu biết đường lối Chúa ngay' ở Hô-sê chương 14 hướng dân Chúa trông cậy gì?",
+          "options": [
+            "Cậy trông vào ơn cứu độ và lòng thương xót: Ai khôn khôn ngoan ngoan ngoan hãy hiểu biết đường lối Chúa ngay của Thiên Chúa",
+            "Khuyên dâng hiến mười ta-lăng bạc ký gửi nhà bạn hữu phương xa",
+            "Khuyên trốn chạy sang sa mạc lánh cùi cách ly phòng biệt lập",
+            "Không hướng đến cậy trông nào chỉ dạy việc mưu sinh trần thế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đối tượng cảnh báo răn đe hoặc hứa ban ơn chính trong Hô-sê chương 14 là ai?",
+          "options": [
+            "Dân Ép-ra-im (Ít-ra-en) bất trung, các tư tế ngu dại và Giêu-đa tội lỗi",
+            "Hoàng thân quốc thích vương triều Ba-tư oai phong lẫm liệt",
+            "Bọn quân lính Ai Cập đóng quân dọc sông Nile thù địch Do Thái",
+            "Quân cướp bóc lạc đà đầy tớ của gia tộc Job xưa hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "ĐỨC CHÚA cam kết ban phước lành nào cho người nghe lời tiên tri chương 14?",
+          "options": [
+            "Sự chữa lành sự bất trung, yêu thương tự nguyện, khôi phục nở hoa tươi tốt",
+            "Nhiều khiên vàng Sa-lô-môn đúc lấp lánh ngai vàng lớn triều đình",
+            "Phong cùi trắng trán kẻ thù nghịch dòng dõi sa mạc hoang địa",
+            "Không cam kết gì bắt chịu khổ đau gian truân sa mạc hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học và giao ước sâu sắc của Hô-sê chương 14 đúc kết là gì?",
+          "options": [
+            "Khẳng định Thiên Chúa luôn yêu thương dân dẫu bị phản bội và tìm cách hòa giải qua: Hãy trở trở về về dâng lời cầu xin Chúa tha thứ tội lỗi",
+            "Dạy cách săn bắn thú dữ hoang dã sa mạc hoang vu cổ xưa",
+            "Dạy cách buôn bán của cải vàng bạc làm giàu nhanh chóng trần",
+            "Kêu gọi tự sát tránh né sửa phạt giáo huấn của vương triều"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}

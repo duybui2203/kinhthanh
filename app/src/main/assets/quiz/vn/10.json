@@ -1,0 +1,2526 @@
+{
+  "bookId": 10,
+  "bookName": "2 Sa-mu-en",
+  "chapters": [
+    {
+      "chapter": 1,
+      "questions": [
+        {
+          "text": "Lời nói dối dâng vương miện của người A-ma-lếch báo tin chết của Sa-un nhằm mục đích gì?",
+          "options": [
+            "Mong được Đa-vít ban thưởng ban thưởng hậu hĩnh chiến tích chém vua",
+            "Để xin gia nhập làm chiến sĩ phục vụ Đa-vít",
+            "Để dọa dẫm quân Đa-vít đầu hàng Phi-li-tinh",
+            "Để xin làm tư tế phụ trách đền tạm mới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt nghiêm khắc Đa-vít giáng xuống người A-ma-lếch báo tin chết Sa-un là gì?",
+          "options": [
+            "Truyền lệnh giết chết giết chết hắn lập tức vì dám vung tay hại Đấng được Chúa xức dầu",
+            "Bắt phạt nộp một ngàn si-clơ vàng chuộc lỗi",
+            "Trục xuất hắn sang nước Mô-áp biệt xứ",
+            "Tha mạng phong làm cai quản bầy la hoàng gia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên bài ca khóc thương oai hùng Đa-vít sáng tác viếng Sa-un và Giô-na-than là gì?",
+          "options": [
+            "Bài ca Cung Tên (Song of the Bow)",
+            "Bài ca chúc tụng Magnificat",
+            "Bài ca vượt biển Mô-sê",
+            "Bài ca chiến thắng Đê-bô-ra"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu nói nổi tiếng ca ngợi tình bạn của Giô-na-than Đa-vít viết trong bài điếu ca là?",
+          "options": [
+            "Tình anh đối với tôi quý hơn tình phụ nữ tình phụ nữ sâu đậm nghĩa tình",
+            "Anh là chiến sĩ bắn tên dũng mãnh nhất Do Thái",
+            "Chúng ta đã lập giao ước chia đôi vương quốc",
+            "Sa-un giết hàng ngàn Đa-vít giết hàng vạn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vật phẩm hoàng gia người A-ma-lếch đem về dâng nộp cho Đa-vít làm chứng cớ là gì?",
+          "options": [
+            "Vương miện trên đầu đầu và chiếc vòng đeo tay của Sa-un",
+            "Thanh gươm sắt và ngọn giáo đồng của vua",
+            "Chiếc áo choàng bị xé rách và sừng dầu vương",
+            "Tấm khiên đồng cướp đền thờ Dagon"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đa-vít đang đóng quân định cư tại thành phố nào khi nghe tin chiến bại Ghil-bô-a?",
+          "options": [
+            "Thành Xích-lác (Ziklag)",
+            "Thành Hép-rôn",
+            "Thành Giê-ru-sa-lem",
+            "Thành Nóp đổ nát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng đau đớn đầu tiên của Đa-vít và các thuộc hạ khi nghe tin Sa-un tử nạn là?",
+          "options": [
+            "Xé quần áo mình xé quần áo, khóc lóc ăn chay đến chiều tối chịu tang",
+            "Vui mừng nhảy múa vì kẻ thù đã chết",
+            "Lập tức mang quân đánh chiếm cung điện Ghi-vơ-ah",
+            "Dâng tế lễ toàn thiêu tạ ơn Chúa tại chỗ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh ngọn núi nơi Sa-un tự sát được nhắc đến trong điếu ca là?",
+          "options": [
+            "Núi Ghil-bô-a (Mount Gilboa)",
+            "Núi Ta-bo",
+            "Núi Xi-nai",
+            "Núi Nê-bô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu thơ điếu khúc lặp đi lặp lại tiếc thương các anh hùng Do Thái bại trận là gì?",
+          "options": [
+            "Hỡi ôi, các anh hùng anh hùng đã ngã xuống giữa trận chiến!",
+            "Sức mạnh chiến xa sắt Phi-li-tinh quá vô địch!",
+            "Dân Gia-vết Ga-la-át hãy khóc lóc thương tiếc!",
+            "Chúa đã bỏ rơi vương quyền Bên-gia-min rồi!"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học việc Đa-vít trừng trị tên A-ma-lếch chứng minh nguyên tắc gì?",
+          "options": [
+            "Tôn trọng tuyệt đối tính thánh thiêng của chức vị Đấng được Chúa xức dầu xức dầu dẫu họ phạm tội",
+            "Sự căm ghét người ngoại bang A-ma-lếch diệt tộc",
+            "Đa-vít chứng tỏ mình nghiêm minh hơn lề luật cũ",
+            "Để xoa dịu hoàng tộc Bên-gia-min trung thành"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "questions": [
+        {
+          "text": "Thành phố nơi Đa-vít được người chi tộc Giu-đa đến xức dầu phong vương cai trị lần đầu là?",
+          "options": [
+            "Thành Hép-rôn (Hebron vương đô Giu-đa)",
+            "Thành Bê-lem quê hương ông",
+            "Thành Giê-ru-sa-lem vương đô mới",
+            "Thành Xích-lác cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người con trai Sa-un được tướng Áp-ner lập làm vua cai trị các chi tộc còn lại là?",
+          "options": [
+            "Ít-bô-sết (Ish-bosheth cai trị tại Ma-kha-na-im)",
+            "Giô-na-than chiến sĩ",
+            "Mê-phi-vô-sết què chân",
+            "Pan-ti con La-ít"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cuộc đọ sức huynh đệ tương tàn tàn khốc giữa võ sĩ hai bên hồ nước Ga-va-on gồm bao nhiêu người?",
+          "options": [
+            "Mười hai võ sĩ Giu-đa Giu-đa và mười hai võ sĩ Bên-gia-min (tử trận sạch)",
+            "Năm mươi người mỗi bên chiến đấu",
+            "Chỉ hai tướng Giô-áp và Áp-ner đấu tay đôi",
+            "Bốn trăm chiến binh mỗi bên bắn tên"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên em trai chạy nhanh như hoẵng của Giô-áp bị Áp-ner đâm chết dọc đường truy đuổi là?",
+          "options": [
+            "A-xa-hên (Asahel bị đâm xuyên bụng bằng ngọn giáo)",
+            "A-vi-sai chiến sĩ",
+            "Mê-phi-vô-sết",
+            "U-ri-ah người Khết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bức thư ngoại giao đầu tiên Đa-vít viết gửi cho dân thành nào để cảm ơn nghĩa cử mai táng Sa-un?",
+          "options": [
+            "Dân thành Gia-vết Ga-la-át (Jabesh-gilead được chúc phúc)",
+            "Dân thành Kơ-i-la giải thoát",
+            "Dân thành Nóp đổ nát tư tế",
+            "Dân thành Giê-ri-khô cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khoảng thời gian Đa-vít làm vua cai trị riêng chi tộc Giu-đa tại Hép-rôn là bao lâu?",
+          "options": [
+            "Bảy năm sáu tháng sáu tháng (7 years 6 months)",
+            "Mười năm chẵn",
+            "Mốn mươi năm trọn",
+            "Ba năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vị tướng quân chỉ huy tối cao quân đội phò tá Đa-vít suốt sự nghiệp là ai?",
+          "options": [
+            "Tướng Giô-áp (Joab con bà Xơ-ru-gia)",
+            "Tướng Áp-ner quân Sa-un",
+            "Chiến sĩ A-vi-sai em Giô-áp",
+            "Tướng Bê-na-gia vệ binh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng Áp-ner di chuyển triều đình Ít-bô-sết sang bờ đông sông Gio-đan tại địa danh nào?",
+          "options": [
+            "Ma-kha-na-im (Mahanaim)",
+            "Gia-vết Ga-la-át",
+            "Sít-tim sa mạc",
+            "Ki-ri-át Giê-a-rim"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên địa danh bãi chiến trường đọ sức 12 võ sĩ Ga-va-on đâm gươm hông nhau đặt nghĩa là gì?",
+          "options": [
+            "Khét-cát Ha-xu-rim (Helkath-hazzurim nghĩa là Rừng gươm sắc dũng)",
+            "Ra-mát Lê-khi đống xương hàm",
+            "Ê-ven-ê-zer đá cứu giúp",
+            "Đá Phân Chia biên giới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chép cuộc nội chiến huynh đệ tương tàn Ga-va-on chứng tỏ thực trạng gì Do Thái?",
+          "options": [
+            "Sự chia rẽ sâu sắc nguy hiểm sau cái chết Sa-un; quá trình chuyển giao quyền lực đau đớn đau đớn",
+            "Sức mạnh vô địch quân đội Giu-đa",
+            "Sự lỗi thời của luật pháp Mô-sê cấm nội chiến",
+            "Quyền uy cai trị của tướng Áp-ner trên cả nước"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "questions": [
+        {
+          "text": "Tội lỗi mâu thuẫn chính trị khiến tướng Áp-ner phản bội vua Ít-bô-sết là gì?",
+          "options": [
+            "Nằm với hầu thiếp Rít-pa Rít-pa (cựu phi tần của vua quá cố Sa-un)",
+            "Ăn trộm vàng bạc cung điện Ma-kha-na-im",
+            "Đầu hàng vô điều kiện nộp vương miện cho Phi-li-tinh",
+            "Phóng giáo định giết vua Ít-bô-sết tiệc trưa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Điều kiện tiên quyết Đa-vít đòi hỏi Áp-ner thực hiện trước khi đàm phán liên minh là?",
+          "options": [
+            "Phải mang Mi-khan (Michal) vợ cũ trả lại cho Đa-vít trước mặt bô lão",
+            "Phải nộp đầu vua Ít-bô-sết về làm chứng",
+            "Phải nộp mười ngàn si-clơ vàng thuế chiến",
+            "Phải chịu phép cắt bì theo luật Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động ám sát đê hèn Giô-áp làm giết chết Áp-ner để trả thù cho em trai A-xa-hên là?",
+          "options": [
+            "Lừa Áp-ner quay lại cổng thành Hép-rôn Hép-rôn rồi đâm xuyên bụng ông lén lút",
+            "Phóng giáo đâm chết ông khi đang gảy đàn hạc",
+            "Đầu độc rượu nho tiệc chiêu đãi hoàng cung",
+            "Thuê lính Phi-li-tinh bắn tên ám sát chiến trường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng căm ghét nguyền rủa của Đa-vít đối với hành vi ám sát của Giô-áp là gì?",
+          "options": [
+            "Tôi vô tội tội máu Áp-ner; nguyện máu đổ đầu Giô-áp và dòng họ ông bị bệnh tật gậy chống chống",
+            "Bắt giam xử tử hình Giô-áp lập tức đền tội",
+            "Phong Giô-áp làm phó vương Do Thái tạ ơn",
+            "Tịch thu toàn bộ ruộng đất nhà Giô-áp dâng Chúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động tang lễ tôn kính Đa-vít làm khóc thương Áp-ner khiến lòng dân cảm kích là?",
+          "options": [
+            "Ăn chay khóc lóc sau xe tang, viết điếu ca thương tiếc chôn cất chôn cất long trọng Hép-rôn",
+            "Đốt xác Áp-ner lấy tro rải sông Gio-đan",
+            "Phong phong phong phong thánh cho Áp-ner vương vương",
+            "Bắt phạt Giô-áp đi bộ cởi trần chịu tang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người chồng mới của Mi-khan khóc lóc đi theo sau khi nàng bị cướp trả về Đa-vít là?",
+          "options": [
+            "Pan-ti (Paltiel) con La-ít ở Ga-lim",
+            "Át-ri-ên người Mơ-khô-la",
+            "Do-éc người Ê-đôm",
+            "Tướng Áp-ner chỉ huy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng sáu đứa con trai Đa-vít sinh hạ trong thời gian cai trị tại Hép-rôn gồm những ai?",
+          "options": [
+            "Am-nôn (trưởng), Ki-lê-ab, Áp-sa-lôm Áp-sa-lôm, A-đô-ni-gia, Sơ-phát-gia và Git-rơ-am",
+            "Sa-lô-môn và ba anh cả Bê-lem",
+            "Giô-na-than, Sa-un và ba em Bên-gia-min",
+            "Không sinh con nào thời kỳ chiến tranh nầy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi Áp-ner đuổi chồng mới Mi-khan quay về nhà cấm đi theo nữa là thành nào?",
+          "options": [
+            "Thành Ba-khu-rim (Bahurim)",
+            "Thành Bê-lem Giu-đa",
+            "Thành Hép-rôn vương đô",
+            "Thành Giê-ri-khô cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời điếu ca tiếc thương Áp-ner Đa-vít khóc than ở câu 33 ví ông chết thế nào?",
+          "options": [
+            "Áp-ner phải chết như một kẻ ngu muội ngu muội sao? Tay anh cấm bị xiềng xích!",
+            "Chiến sĩ dũng mãnh nhất Do Thái bị hèn hạ giết",
+            "Vua Bên-gia-min mất đầu cổng thành Hép-rôn",
+            "Chúa đã phạt anh tội phạm phi tần Sa-un"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Đa-vít ăn chay khóc Áp-ner đối với lòng dân Do Thái lúc bấy giờ là?",
+          "options": [
+            "Chứng minh vua vô tội vô tội đối với cái chết Áp-ner; thống nhất lòng dân tin cậy công lý Đa-vít",
+            "Để dọa dẫm Giô-áp phải sửa đổi đạo đức",
+            "Để xin Chúa dẹp dịch bệnh ung độc trĩ",
+            "Quy định tang lễ chính thức hoàng gia Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "questions": [
+        {
+          "text": "Tội ác tàn bạo ám sát vua Ít-bô-sết trên giường ngủ lúc trưa nóng do ai làm?",
+          "options": [
+            "Ba-a-nah và Rê-kháp (hai thủ lĩnh đội tiễu trừ Bên-gia-min)",
+            "Tướng Giô-áp lén lút đâm chết",
+            "Do-éc người Ê-đôm tàn sát",
+            "Bà hầu thiếp Rít-pa đầu độc rượu nho"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai kẻ phản chủ chặt đầu vua Ít-bô-sết mang về Hép-rôn dâng nộp Đa-vít mong nhận điều gì?",
+          "options": [
+            "Mong được Đa-vít ban thưởng ban thưởng ban chức tước loại trừ dòng dõi thù Sa-un",
+            "Để xin chuộc tội sát hại tư tế Nóp xưa",
+            "Để xin làm tể tướng quốc gia Do Thái",
+            "Mong được Đa-vít gả con gái lớn cưới vợ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt nghiêm minh Đa-vít trừng trị hai kẻ sát hại vua vô tội trên giường ngủ là?",
+          "options": [
+            "Chém chết chém chết chúng, chặt tay chân bêu bên hồ nước Hép-rôn trừ ác",
+            "Bắt phạt nộp mười ngàn si-clơ vàng đền tội",
+            "Trục xuất chúng sang hoang địa sa mạc hoang dã",
+            "Tha mạng phong làm chiến sĩ dũng cảm vệ binh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi chôn cất chiếc đầu của vua Ít-bô-sết tội nghiệp được Đa-vít chỉ định là?",
+          "options": [
+            "Chôn cất trong lăng mộ mộ của Áp-ner tại Hép-rôn tôn kính",
+            "Bêu ngoài cổng vương đô Giê-ru-sa-lem làm gương",
+            "Chôn cất nghĩa trang hoàng gia Bê-lem Giu-đa",
+            "Ném xuống hồ nước Hép-rôn tẩy uế dịch bệnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người con trai Giô-na-than bị què hai chân từ nhỏ khi nghe tin dữ Ghil-bô-a là ai?",
+          "options": [
+            "Mê-phi-vô-sết (Mephibosheth lên năm tuổi khi vú nuôi đánh rơi)",
+            "Ít-bô-sết vua",
+            "Pan-ti con La-ít",
+            "A-xa-hên chạy nhanh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Mê-phi-vô-sết bị què hai chân tàn tật từ nhỏ chép ở câu 4 là gì?",
+          "options": [
+            "Vú nuôi ẵm chạy trốn vội vã khi tin dữ Sa-un tử trận đến làm rơi làm rơi cậu bé xuống đất",
+            "Bị trúng tên độc quân thù Phi-li-tinh bắn chân",
+            "Bị phong cùi bẩm sinh tàn phá khớp chân",
+            "Do tướng Áp-ner đánh gãy chân trừng phạt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh quê hương gia tộc của hai kẻ ám sát Ít-ra-en (Rê-kháp Ba-a-nah) là ở đâu?",
+          "options": [
+            "Thành Bê-ê-rốt (Beeroth thuộc Bên-gia-min)",
+            "Thành Gia-vết Ga-la-át",
+            "Thành Nóp tư tế cũ",
+            "Thành Ca-mê-lô ruộng cừu Na-val"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời tuyên bố công lý oai nghiêm của Đa-vít trước khi xử tử hai kẻ ám sát vua là gì?",
+          "options": [
+            "Ta đã giết kẻ báo tin chết Sa-un mong thưởng, huống chi kẻ ác giết người công chính giường ngủ!",
+            "Chính Chúa sẽ tự tay trừng trị các ngươi ngục tối",
+            "Ta cấm dung thứ kẻ phản bội Bên-gia-min vương",
+            "Hãy lấy máu các ngươi đền mạng cho vua Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng võ sĩ Bên-gia-min bị thanh trừng cùng vua Ít-bô-sết bại trận là bao nhiêu?",
+          "options": [
+            "Không ghi nhận số lượng cụ thể chỉ chép cái chết vua",
+            "Toàn bộ hai mươi sáu ngàn bảy trăm người",
+            "Sáu trăm chiến binh Rim-môn trốn thoát",
+            "Chỉ có hai kẻ phản chủ bị Đa-vít chém chết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Đa-vít trừng trị thích đáng hai kẻ giết Ít-bô-sết chứng minh điều gì?",
+          "options": [
+            "Sự nghiêm minh bảo vệ người vô tội; cự tuyệt thủ đoạn chính trị đê hèn đê hèn cướp ngôi vương",
+            "Tình bạn kết nghĩa Giô-na-than bị ông phản bội",
+            "Sự nhút nhát sợ hãi trả thù Bên-gia-min",
+            "Sự kết thúc hoàn toàn giao ước cũ hoang địa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "questions": [
+        {
+          "text": "Độ tuổi Đa-vít khi bắt đầu làm vua Giu-đa và tổng số năm ông trị vì Do Thái là?",
+          "options": [
+            "Ba mươi tuổi tuổi (30 years old), trị vì bốn mươi năm (40 years)",
+            "Bốn mươi tuổi, trị vì ba mươi năm",
+            "Hai mươi tuổi, trị vì năm mươi năm",
+            "Bốn mươi lăm tuổi, trị vì hai mươi năm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành trì kiên cố Đa-vít đánh chiếm của người Giê-vu-si đặt tên là Thành Đa-vít là?",
+          "options": [
+            "Đồn lũy Xi-ôn (Sion / Giê-ru-sa-lem vương đô vương đô mới Do Thái)",
+            "Thành Bê-lem Giu-đa",
+            "Thành Kơ-i-la giải cứu",
+            "Thành Xích-lác Phi-li-tinh cấp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời chế giễu ngạo mạn người Giê-vu-si nói thách thức Đa-vít khi ông vây thành là gì?",
+          "options": [
+            "Kẻ mù kẻ què què cũng dư sức đuổi ngươi! Ngươi cấm vào được đây!",
+            "Chiến xa sắt của chúng ta sẽ đè bẹp quân chăn cừu",
+            "Chúng ta đã lập liên minh với vua thành Gát Phi-li-tinh",
+            "Hòm Bia Chúa Do Thái cấm thắng nổi tượng thần ta"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhà vua ngoại bang gửi gỗ thông, thợ mộc xây cung điện cho Đa-vít lập quốc là ai?",
+          "options": [
+            "Vua Khi-ram (Hiram) thành Ty-rơ cảng biển",
+            "Vua A-khis thành Gát Phi-li-tinh",
+            "Vua Na-khát nước Am-môn",
+            "Vua A-gác nước A-ma-lếch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trận chiến thung lũng Rê-pha-im thắng lợi Đa-vít đặt nghĩa là Chúa phá vỡ thù là?",
+          "options": [
+            "Ba-al Pơ-ra-xim (Baal-perazim nghĩa là Chúa đột phá thù địch như nước vỡ bờ)",
+            "Ê-ven-ê-zer đá cứu giúp",
+            "Ra-mát Lê-khi đống xương hàm lừa",
+            "Đá Phân Chia biên giới quân sự"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chỉ dẫn chiến thuật độc đáo Chúa dặn Đa-vít trận đánh thung lũng Rê-pha-im lần hai là?",
+          "options": [
+            "Vòng sau lưng địch, nghe tiếng bước chân hành quân trên ngọn cây dâu cây dâu thì tấn công",
+            "Đi vòng quanh thành phố bảy lần thổi kèn tù và",
+            "Chiến thuật phục binh mai phục thung lũng đá cuội",
+            "Đúc tượng vàng dâng đền thờ thần cá Dagon tạ tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số năm Đa-vít cai trị riêng tại Hép-rôn và tại Giê-ru-sa-lem lần lượt là?",
+          "options": [
+            "Bảy năm sáu tháng tại Hép-rôn, ba mươi ba năm ba mươi ba năm tại Giê-ru-sa-lem",
+            "Mười năm tại Hép-rôn, ba mươi năm tại Giê-ru-sa-lem",
+            "Năm năm tại Hép-rôn, hai mươi năm tại Giê-ru-sa-lem",
+            "Bốn mươi năm trọn tại Giê-ru-sa-lem vương đô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành đạo quân sự Phi-li-tinh làm khi nghe tin Đa-vít được xức dầu làm vua toàn Do Thái?",
+          "options": [
+            "Kéo đại quân lên tìm bắt bắt Đa-vít (dàn trận thung lũng Rê-pha-im)",
+            "Gửi sứ giả mang vàng bạc sang cống nộp cầu hòa",
+            "Ký hòa ước nhường thành Xích-lác vĩnh viễn",
+            "Đầu độc nguồn nước ngọt thành Giê-ru-sa-lem mới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lối thoát nước ngầm (aqueduct) Đa-vít dặn chiến sĩ dùng để đột nhập thành Giê-vu-si là gì?",
+          "options": [
+            "Đường hầm dẫn nước dẫn nước (water shaft) để leo lên chiếm thành",
+            "Đập vỡ tường thành bằng chiến xa sắt",
+            "Đào hầm ngầm sâu dưới chân móng thành",
+            "Nhờ gián điệp mở cổng phụ ban đêm trốn vào"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chọn Giê-ru-sa-lem làm thủ đô vương quốc Do Thái của Đa-vít là?",
+          "options": [
+            "Vị trí trung tâm địa lý chính trị trung lập; thống nhất các chi tộc nam bắc dưới một vương triều vương triều",
+            "Vì đền thờ đá cũ Mô-sê đặt sẵn ở đó",
+            "Vì thành phố có nhiều mỏ vàng bạc nhất xứ Do Thái",
+            "Do người Giê-vu-si tự nguyện dâng thành tặng vua"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "questions": [
+        {
+          "text": "Tai họa chết chóc xảy ra với U-da (Uzzah) khi giơ tay giữ Hòm Bia Thiên Chúa vấp váp bò là?",
+          "options": [
+            "Chúa nổi giận phạt U-da chết ngay bên Hòm Bia Hòm Bia vì thiếu tôn kính thánh vật",
+            "U-da bị phong cùi trắng tay chân run rẩy lập tức",
+            "Xe bò lật đè chết U-da ruộng lúa mạch",
+            "Sét đánh trúng U-da thiêu rụi áo choàng vải gai"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đa-vít tạm gửi Hòm Bia vào nhà ai ba tháng sau tai họa U-da gánh chịu phúc lộc Chúa ban?",
+          "options": [
+            "Nhà ông Ô-vết Ê-đôm (Obed-edom) người Gát",
+            "Nhà ông A-vi-na-đáp thành Ki-ri-át Giê-a-rim",
+            "Nhà tiên tri Samuel quê hương Ra-ma",
+            "Cung điện vua Sa-un Ghi-vơ-ah Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động phấn khích nhảy múa Đa-vít làm khi rước Hòm Bia về Giê-ru-sa-lem là gì?",
+          "options": [
+            "Đa-vít mặc áo ê-phốt vải gai nhảy múa hết mình hết mình trước nhan Chúa",
+            "Đội mũ miện vàng cưỡi chiến xa sắt đi tiên phong",
+            "Bắt phạt Giô-áp đi cởi trần chịu tang chịu tội",
+            "Đúc tượng vàng ăn mừng nhảy múa cùng dân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ khinh bỉ mỉa mai của bà Mi-khan dành cho hành vi nhảy múa của Đa-vít là gì?",
+          "options": [
+            "Coi khinh trong lòng nhìn qua cửa sổ; mỉa mai vua Do Thái phơi bày hở hang hở hang trước tớ gái",
+            "Bỏ trốn sang nhà chồng cũ Pan-ti Ga-lim lánh mặt",
+            "Đốt sạch lều vải chứa Hòm Bia Giao Ước tạ tội",
+            "Khóc lóc van xin cha Sa-un sống lại trừng phạt chồng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt nghiêm khắc dành cho thái độ khinh bỉ sự thờ phượng của Mi-khan là gì?",
+          "options": [
+            "Bà cấm có con có con cho đến ngày chết (tuyệt tự dòng dõi Sa-un)",
+            "Bà bị trục xuất sang vương quốc Mô-áp biệt xứ",
+            "Bà bị phong cùi trắng tay chân run rẩy lập tức",
+            "Bị Đa-vít giam vào ngục tối cung điện vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phán ngôn đức tin oai nghiêm Đa-vít đáp trả lời mỉa mai của Mi-khan ở câu 21 là?",
+          "options": [
+            "Tôi nhảy múa trước nhan ĐỨC CHÚA ĐỨC CHÚA, Đấng chọn tôi thay thế cha bà cai trị Do Thái",
+            "Tôi là vua Do Thái muốn làm gì quyền tôi cấm ai hỏi",
+            "Hãy đem bán số vàng đền tạm Dagon lấy tiền chuộc ruộng",
+            "Bà chỉ là con gái của vị vua bất tuân bị Chúa bỏ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Khoảng cách bước chân rước Hòm Bia Đa-vít làm lễ tế tạ ơn Chúa súc vật béo tơ là?",
+          "options": [
+            "Khi người khiêng Hòm Bia đi được sáu bước sáu bước dâng tế một bò tơ chiên béo",
+            "Đi được một dặm đường dâng tế một vạn con cừu",
+            "Đi từ Ba-a-lah Giu-đa đến thẳng thủ đô Giê-ru-sa-lem",
+            "Không làm lễ tế dọc đường chỉ dâng khi xe dừng hẳn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật A-khi-ô đi ở vị trí nào hộ tống xe bò mới chở Hòm Bia Chúa?",
+          "options": [
+            "Đi phía trước phía trước Hòm Bia dẫn đường xe bò kéo",
+            "Đi bọc hậu bảo vệ Hòm Bia khỏi trộm cướp",
+            "Cưỡi kỵ binh ngựa chiến đi bên hữu xe bò",
+            "Cầm roi da đánh bò vấp váp dọc đường đi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên địa danh đập lúa xảy ra sự việc U-da chạm tay chết bị Chúa phạt phạt là gì?",
+          "options": [
+            "Sân đập lúa Na-khôn (Nakhon threshing floor)",
+            "Sân đập lúa ruộng ông Bô-át Bê-lem",
+            "Đồi Ghi-vơ-át Ha-a-ra-lốt",
+            "Núi Ê-van bàn thờ đá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học cái chết U-da và sự nhảy múa Đa-vít chứng tỏ điều gì?",
+          "options": [
+            "Sự thánh khiết đáng kinh sợ của Chúa cấm tùy tiện chạm hại; thái độ thờ phượng tự hạ khiêm nhường khiêm nhường Chúa yêu",
+            "Bò kéo xe là phương tiện cấm hợp pháp luật Mô-sê",
+            "Mi-khan là người bảo vệ uy nghiêm nghi lễ hoàng gia",
+            "Đa-vít nhảy múa hở hang là tội lỗi đáng phạt"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "questions": [
+        {
+          "text": "Trăn trở tôn giáo của Đa-vít nói với ngôn sứ Na-than khi sống cung điện gỗ hương nam là gì?",
+          "options": [
+            "Tôi ở nhà gỗ hương nam hương nam, còn Hòm Bia Chúa ở dưới lều vải thô sơ",
+            "Tôi muốn xây dựng một chiến xa sắt bọc vàng ròng dâng Chúa",
+            "Làm sao tìm được bầy cừu non tốt tế lễ đền tạm",
+            "Tôi lo sợ bị dòng dõi Sa-un ám sát chiếm ngôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa vĩ đại (Giao ước Đa-vít) Chúa mặc khải qua tiên tri Na-than ban đêm là gì?",
+          "options": [
+            "Chúa sẽ xây nhà lập vương triều vương triều bền vững vĩnh viễn cho Đa-vít dòng dõi ông mãi mãi",
+            "Chúa cho Đa-vít sống thọ một trăm năm mươi tuổi",
+            "Chúa dội mưa đá tiêu diệt sạch quân Phi-li-tinh biên giới",
+            "Chúa bắt dòng tộc Bên-gia-min làm nô dịch vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mặc khải về nhân vật dòng dõi kế vị Đa-vít sẽ xây nhà (đền thờ) cho Chúa Do Thái là ai?",
+          "options": [
+            "Một người con trai từ lòng ông sinh ra (Sa-lô-môn kế ngôi xây đền thờ)",
+            "Bản thân ngôn sứ Na-than đứng ra chỉ huy xây",
+            "Cậu con út què hai chân Mê-phi-vô-sết",
+            "Một tư tế thượng tế dòng A-hác-rôn chính tông"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời hứa cam kết yêu thương vô điều kiện của Chúa dành cho con kế vị Đa-vít là gì?",
+          "options": [
+            "Nếu nó phạm tội, Ta phạt bằng lằn roi phàm, nhưng tình thương cấm rút khỏi rút khỏi nó như Sa-un",
+            "Ta sẽ tiêu diệt nó lập tức lập vương triều khác",
+            "Ta cấm phạt nó dẫu nó phạm tội ác tột cùng",
+            "Nó sẽ được miễn thuế sản nghiệp ruộng đất vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng đức tin cầu nguyện tạ ơn sâu sắc Đa-vít dâng lên Chúa ở cuối chương 7 là gì?",
+          "options": [
+            "Tôi là ai, gia đình tôi là gì mà Chúa đưa tôi đến đây tôn vinh giao ước vững bền vững bền?",
+            "Tôi sẵn sàng dâng hiến mười vạn si-clơ vàng xây đền",
+            "Xin cho tôi chém đầu tướng Giô-áp phạm tội giết người lén",
+            "Hãy bắt dòng dõi Sa-un thề phụng sự tôi mãi mãi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên vị ngôn sứ tiên tri truyền đạt toàn bộ lời mặc khải giao ước hoàng gia nầy cho Đa-vít là?",
+          "options": [
+            "Ngôn sứ Na-than (Nathan)",
+            "Tiên tri Samuel Ra-ma",
+            "Ngôn sứ Gát",
+            "Tư tế A-vi-a-tha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa vương quyền vĩnh viễn Chúa hứa cho dòng dõi Đa-vít hướng đến thực tại nào?",
+          "options": [
+            "Vương triều Đấng Cứu Thế Giêsu Kitô Giêsu Kitô (Mê-si-a dòng dõi Đa-vít cai trị vĩnh viễn)",
+            "Sự giàu sang vàng bạc vô tận của Sa-lô-môn",
+            "Đế quốc Do Thái bá chủ toàn cầu quân sự",
+            "Sự tồn tại của thành trì Giê-ru-sa-lem gạch đá"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chúa nhắc lại việc gọi Đa-vít từ công việc nông nghiệp thô sơ nào để lập làm vua Do Thái?",
+          "options": [
+            "Gọi ngươi từ bờ cỏ theo sau sau bầy chiên để làm lãnh tụ dân Do Thái",
+            "Gọi từ ruộng cày bò thành Bê-lem",
+            "Gọi từ hang đá A-đul-lam lén lút trốn chạy",
+            "Từ việc gảy đàn hạc hoàng cung vua Sa-un"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu chúc tụng ca ngợi tính độc nhất của Chúa Do Thái Đa-vít tuyên xưng ở câu 22 là?",
+          "options": [
+            "Không ai bằng ĐỨC CHÚA, cấm có Thiên Chúa nào khác nào khác ngoài Ngài theo tai nghe",
+            "Chúa Do Thái mạnh hơn tà thần cá Dagon ngoại",
+            "Chúa thích lễ tế bò tơ hơn xây cung điện bọc vàng",
+            "Chúa bảo vệ 12 chi tộc Do Thái vững vàng chiến xa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mục đích tối cao của việc Chúa thiết lập vương triều Đa-vít tồn tại vững bền vững vĩnh cửu là gì?",
+          "options": [
+            "Để Danh Chúa được tôn vinh tôn vinh tôn kính vĩnh viễn: ĐỨC CHÚA đạo binh Thiên Chúa Do Thái!",
+            "Để Do Thái có tiền vàng đánh chiếm Ai Cập",
+            "Để tư tế Lê-vi có đền thờ nguy nga dâng tế",
+            "Để xoa dịu lòng ghen tị hận thù ngoại bang biên giới"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "questions": [
+        {
+          "text": "Biện pháp trừng phạt quân sự Đa-vít áp dụng khuất phục quân Mô-áp bại trận là gì?",
+          "options": [
+            "Đo dây bắt nằm đất: giết chết hai phần ba giết chết hai phần ba, tha mạng một phần ba nộp thuế",
+            "Bắt phạt nộp mười ngàn si-clơ vàng đền tội",
+            "Trục xuất toàn bộ dân Mô-áp sang sa mạc hoang vu",
+            "Bắt chịu phép cắt bì gia nhập Do Thái tập thể"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành đạo quân sự Đa-vít làm với bầy ngựa chiến xa bắt được của vua Xô-va là gì?",
+          "options": [
+            "Cắt nhượng gân gân tất cả ngựa chiến, chỉ giữ lại một trăm con kéo xe",
+            "Dùng bầy ngựa thiết lập đội chiến xa sắt chủ lực Do Thái",
+            "Bán bầy ngựa sang nước Ai Cập lấy vàng ròng",
+            "Dâng tế toàn thiêu toàn bộ ngựa chiến trước nhan Chúa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động tôn kính Đa-vít làm với toàn bộ vàng bạc đồng cướp được từ ngoại bang bại trận là?",
+          "options": [
+            "Thánh hiến dâng hiến dâng hiến tất cả vàng bạc cho ĐỨC CHÚA chuẩn bị xây đền thờ",
+            "Chia đều cho 600 thuộc hạ dũng cảm hoang dã",
+            "Cất giấu cung điện gỗ hương nam bảo quản riêng",
+            "Đúc tượng vàng ăn mừng thắng trận cổng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bộ máy triều đình công chính Đa-vít thiết lập: Ai làm tổng tư lệnh quân đội Do Thái?",
+          "options": [
+            "Tướng Giô-áp (Joab) con bà Xơ-ru-gia",
+            "Tướng Áp-ner cũ quân Sa-un",
+            "Tướng Bê-na-gia chỉ huy vệ binh",
+            "Tư tế Xa-đốc phụ trách quân sự"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng Bê-na-gia con Giê-hô-gia-đa được phong chức vụ quân sự đặc biệt gì hoàng gia?",
+          "options": [
+            "Chỉ huy đội ngự lâm quân ngự lâm quân Kê-rê-thi và Pê-lê-thi bảo vệ vua",
+            "Tổng tư lệnh quân bộ binh Do Thái biên giới",
+            "Người giữ vũ khí riêng cho vua Đa-vít chiến",
+            "Thầy dạy võ thuật cho các con trai vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quốc gia ngoại bang đóng thuế vàng bạc cống nộp Đa-vít sau thất bại biên giới phía bắc là?",
+          "options": [
+            "Dân A-ram Damas Damas (Syria đóng thuế đóng đồn trú)",
+            "Vương quốc Am-môn thù địch",
+            "Vương quốc Ê-đôm du mục",
+            "Vương quốc Phi-li-tinh bờ biển"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chức danh lưu ký biên chép lịch sử (chancellor) triều đình Đa-vít trao cho ai?",
+          "options": [
+            "Gia-hốt-sa-phát (Jehoshaphat) con A-khi-lút",
+            "Xơ-ra-gia làm kinh thư ký",
+            "Xa-đốc dòng Ê-la-da tư tế",
+            "A-khi-mê-lếch dòng I-tha-ma"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu tổng kết oai hùng miêu tả sự bảo vệ của Chúa dành cho Đa-vít đi chinh chiến chiến là?",
+          "options": [
+            "ĐỨC CHÚA ban chiến thắng chiến thắng cho Đa-vít trong mọi nơi ông đi chinh chiến",
+            "Đa-vít tự tay diệt sạch chiến xa sắt thù địch",
+            "Chúa cho thiên sứ cầm gươm lửa bảo vệ cung điện",
+            "Vàng bạc cướp được đem lại hòa bình vĩnh cửu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phẩm chất cai trị trị nước của Đa-vít chép tôn vinh ở câu 15 chương 8 là gì?",
+          "options": [
+            "Đa-vít cai trị công chính công chính và chính trực cho toàn dân Do Thái",
+            "Đa-vít thu thuế nông nghiệp nghiêm khắc nhất xứ",
+            "Đa-vít xây dựng nhiều đồn lũy kiên cố nhất",
+            "Đa-vít nhường ngôi vị tư tế cho dòng Ê-la-da"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Các con trai Đa-vít giữ chức vụ đặc biệt gì triều đình hoàng gia đầu tiên?",
+          "options": [
+            "Được phong làm tư tế danh dự tư tế danh dự (hoặc cận thần tối cao bên vua)",
+            "Làm tướng chỉ huy ba nghìn bộ binh tinh nhuệ",
+            "Làm phán quan tuần du phán xử đất Giu-đa",
+            "Làm sứ giả ngoại giao đi các nước biên giới"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "questions": [
+        {
+          "text": "Động cơ Đa-vít tìm kiếm dòng dõi Sa-un để tỏ lòng nhân nghĩa cứu giúp là vì?",
+          "options": [
+            "Vì tình bạn nghĩa nặng nghĩa nặng với Giô-na-than giao ước xưa",
+            "Để tịch thu nốt số vàng bạc dòng tộc Sa-un giấu",
+            "Để trừng trị diệt tộc kẻ thù xưa Bên-gia-min",
+            "Để phong họ làm tư tế đền tạm Si-lô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật què hai chân dòng dõi Sa-un duy nhất còn sống sót Đa-vít tìm được là?",
+          "options": [
+            "Mê-phi-vô-sết (Mephibosheth) con trai Giô-na-than",
+            "Ít-bô-sết vua cũ bại trận",
+            "Pan-ti con La-ít chồng cũ Mi-khan",
+            "Ông Kít cha Sa-un"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đặc ân hoàng gia cao quý Đa-vít ban cho Mê-phi-vô-sết khi gặp mặt là?",
+          "options": [
+            "Được ăn chung bàn vua bàn vua hằng ngày như con trai ruột của đức vua",
+            "Phong làm phó vương cai trị nhà Bên-gia-min",
+            "Xóa tội phản quốc dòng tộc Sa-un vĩnh viễn",
+            "Gả con gái lớn cưới gả chính thức vợ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tài sản ruộng đất Đa-vít xử lý trả lại cho Mê-phi-vô-sết gồm những gì?",
+          "options": [
+            "Trả lại toàn bộ ruộng đất ruộng đất của ông nội Sa-un trước đây cho ông",
+            "Ban cho một nửa đất đai thủ đô Giê-ru-sa-lem",
+            "Tặng thửa ruộng lúa mạch của nhà Ê-li-mê-lếch Bê-lem",
+            "Không trả ruộng đất chỉ nuôi ăn cơm cung điện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người đầy tớ cũ nhà Sa-un được Đa-vít giao cày cấy ruộng phục vụ Mê-phi-vô-sết?",
+          "options": [
+            "Xíp-va (Ziba có 15 con trai 20 đầy tớ)",
+            "Do-éc người Ê-đôm",
+            "Pan-ti con La-ít",
+            "A-khi-mê-lếch tư tế Nob"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng tự hạ khiêm tốn của Mê-phi-vô-sết sụp lạy Đa-vít tự ví mình là gì?",
+          "options": [
+            "Tôi tớ ngài là gì mà vua đoái hoài đến một con chó chết con chó chết như tôi?",
+            "Tôi sẵn sàng nhận vương miện Bên-gia-min làm vua",
+            "Tôi xin nộp thuế thập phân ruộng đất vua ban",
+            "Tôi bị tàn tật cấm ích lợi gì cho hoàng cung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi cư ngụ sinh sống chính của Mê-phi-vô-sết được Đa-vít chỉ định để ăn bàn vua là?",
+          "options": [
+            "Tại thủ đô Giê-ru-sa-lem (Jerusalem ăn bàn vua)",
+            "Tại thành Hép-rôn vương đô cũ",
+            "Tại quê hương Ghi-vơ-ah nhà Sa-un",
+            "Tại thành Gia-vết Ga-la-át"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người con trai nhỏ tuổi của Mê-phi-vô-sết chép ở cuối chương 9 là ai?",
+          "options": [
+            "Mi-kha (Mica)",
+            "Giô-na-than con",
+            "Sa-un cháu",
+            "Samuel"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng con trai và đầy tớ của Xíp-va được huy động cày cấy ruộng súc vật là?",
+          "options": [
+            "Mười lăm con trai và hai mươi đầy tớ đầy tớ (15 con 20 đầy tớ)",
+            "Năm con trai mười tớ",
+            "Chỉ một con trai duy nhất",
+            "Không huy động đầy tớ bắt tự cày ruộng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự kiện Đa-vít đối đãi tử tế với Mê-phi-vô-sết chứng minh phẩm chất gì?",
+          "options": [
+            "Lòng nhân nghĩa trung tín giữ lời thề hứa giao ước tình bạn; vương quyền từ tâm tha thứ tha thứ",
+            "Sự lo sợ Bên-gia-min nổi loạn vũ trang",
+            "Sự dư dả lương thực hoàng cung Giê-ru-sa-lem",
+            "Đa-vít thương hại người tàn tật tàn tật Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "questions": [
+        {
+          "text": "Vụ làm nhục sứ giả ngoại giao Đa-vít do vua Am-môn mới lên ngôi làm thế nào?",
+          "options": [
+            "Cạo một nửa râu râu, cắt ngắn quần áo sát mông thả về làm nhục Do Thái",
+            "Bắt giam xử tử hình toàn bộ sứ giả cổng thành",
+            "Nổi giận tịch thu toàn bộ quà tặng sính lễ Do Thái",
+            "Đầu độc rượu nho tiệc phân ưu tiếp khách"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đa-vít dặn các sứ giả bị làm nhục lánh nạn tạm thời ở thành nào chờ râu mọc lại?",
+          "options": [
+            "Thành Giê-ri-khô (Jericho chờ mọc râu lại)",
+            "Thành Bê-lem quê hương",
+            "Thành Hép-rôn vương đô cũ",
+            "Thành Si-lô đền tạm cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quân đồng minh lính đánh thuê ngoại quốc Am-môn thuê đánh Do Thái là dân tộc nào?",
+          "options": [
+            "Quân A-ram (Syrians thuê 20.000 bộ binh bộ binh)",
+            "Quân Phi-li-tinh chiến xa sắt",
+            "Dân A-ma-lếch hoang dã",
+            "Dân Mô-áp bờ sông Gio-đan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng Giô-áp chia quân hai mũi tấn công: Mũi thứ hai giao cho ai chỉ huy đánh Am-môn?",
+          "options": [
+            "Giao cho em trai A-vi-sai (Abishai) chỉ huy đối diện Am-môn",
+            "Đích thân đức vua Đa-vít dẫn đầu chỉ huy",
+            "Giao cho chiến sĩ trung thành U-ri-ah người Khết",
+            "Giao cho vệ binh Bê-na-gia chỉ huy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến thuật liên minh cứu trợ cứu ứng Giô-áp vạch ra với em trai A-vi-sai chiến trường là?",
+          "options": [
+            "Nếu A-ram mạnh hơn anh cứu em, nếu Am-môn mạnh hơn em cứu anh cứu anh trợ chiến",
+            "Cứ thấy nguy hiểm tự động rút lui bỏ mặc lính",
+            "Dùng chiến xa sắt lao thẳng chia cắt đội hình thù",
+            "Dâng tế lễ bò tơ trước khi ra quân đánh thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Kết quả trận giao tranh oai hùng của hai anh em Giô-áp đối diện liên minh thù là?",
+          "options": [
+            "Quân A-ram tháo chạy tháo chạy trước Giô-áp, Am-môn hoảng sợ chạy trốn trước A-vi-sai vào thành",
+            "Quân Do Thái bị bại thảm hại chạy về Giê-ru-sa-lem",
+            "Hai bên hòa ước nhường biên giới đất đai",
+            "Tướng Giô-áp bị thương nặng chiến trường tử trận"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên đức vua Am-môn qua đời và con trai kế vị làm nhục sứ giả Do Thái là?",
+          "options": [
+            "Vua cha Na-khát qua đời, con trai Ha-nun (Hanun) kế vị làm nhục",
+            "Vua cha A-gác qua đời con A-gác con kế vị",
+            "Vua cha Khi-ram thành Ty-rơ qua đời con kế",
+            "Không ghi nhận tên cha con vua Am-môn chương nầy"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tổng số lượng lính đánh thuê A-ram đóng trại hỗ trợ Am-môn ở chương 10 là?",
+          "options": [
+            "Ba mươi ba ngàn quân đánh thuê (33.000 lính đánh thuê A-ram)",
+            "Mười ngàn người",
+            "Một trăm ngàn quân",
+            "Năm nghìn kỵ binh chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng quân chỉ huy đại quân A-ram bị Đa-vít tiêu diệt trận sau phục thù tại Khe-lam là?",
+          "options": [
+            "Tướng Sô-vác (Shobach tổng tư lệnh quân A-ram)",
+            "Tướng Xí-xơ-ra chiến xa sắt",
+            "Tướng Áp-ner quân Sa-un cũ",
+            "Tướng Goliath khổng lồ Gát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa chiến thắng liên minh Am-môn - A-ram đối với Do Thái là gì?",
+          "options": [
+            "Khẳng định thế lực bá chủ quân sự quân sự Do Thái vùng Trung Đông; tiêu diệt mối đe dọa biên giới",
+            "Để chuẩn bị đập vỡ Hòm Bia Giao Ước tạ tội",
+            "Sa-un được minh oan chiến bại Ghil-bô-a cũ",
+            "Do Thái cướp được nhiều ngựa chiến xa sắt nhất"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "questions": [
+        {
+          "text": "Tội ác tà dâm Đa-vít phạm phải liên quan người phụ nữ tắm sân thượng vợ ai?",
+          "options": [
+            "Bà Bát-sê-va (Bathsheba) vợ của chiến sĩ U-ri-ah người Khết người Khết",
+            "Bà A-vi-ghai vợ góa Na-val Ca-mê-lô",
+            "Bà Mi-khan con gái vua Sa-un vợ cũ",
+            "Bà hầu thiếp Rít-pa của vua Sa-un"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mưu đồ đen tối Đa-vít làm khi lừa gọi U-ri-ah từ chiến trường về cung điện là gì?",
+          "options": [
+            "Bảo ông về ngủ với vợ để hợp thức hóa thai nhi hợp thức hóa thai nhi tà dâm có bầu",
+            "Để phong ông làm tướng quân đội thay Giô-áp",
+            "Để hỏi tin chiến sự biên giới Am-môn",
+            "Để bắt ông nộp vàng chuộc mạng sống vợ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do U-ri-ah kiên quyết cự tuyệt ngủ nhà ôm vợ dẫu vua chuốc rượu say ngủ cổng là?",
+          "options": [
+            "Hòm Bia, đồng đội Giô-áp đang đóng trại chiến trường hoang dã hoang dã cấm cho phép tôi ngủ êm ấm!",
+            "Vì ông biết vợ đã ngoại tình phản bội mình",
+            "Vì ông đang thực hiện luật kiêng Nazarite cấm vợ",
+            "Do ông e ngại Sa-un ám sát ban đêm cung điện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bức thư tay độc địa gửi tướng Giô-áp mượn tay địch giết hại U-ri-ah do ai tự mang đi?",
+          "options": [
+            "Do chính U-ri-ah tự mang thư tử thần tử thần của mình trao cho tướng Giô-áp",
+            "Do đầy tớ Xíp-va mang đi đưa chiến trường",
+            "Do bà Bát-sê-va mang đi chiến lũy nộp",
+            "Do ngôn sứ Na-than mang đi răn đe Giô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nội dung bức thư tử thần Đa-vít viết lệnh cho Giô-áp hại chết U-ri-ah là gì?",
+          "options": [
+            "Đặt U-ri-ah chỗ chiến trận ác liệt nhất rồi rút lui bỏ mặc bỏ mặc cho hắn chết",
+            "Hãy đầu độc rượu nho U-ri-ah tiệc mừng công chiến",
+            "Hãy chém đầu U-ri-ah tội trốn ngủ cổng cung điện",
+            "Bắt phạt U-ri-ah làm nô dịch đốn củi vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hậu quả trận chiến vây thành Ráp-ba theo mưu thư Đa-vít viết là gì?",
+          "options": [
+            "U-ri-ah tử trận chiến trường chiến trường cùng một số chiến sĩ Do Thái",
+            "Tướng Giô-áp bị thương nặng tử trận thảm",
+            "Quân Do Thái chiếm được thành Ráp-ba lập tức",
+            "Đa-vít bị quân Am-môn bắt làm con tin"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động Đa-vít làm sau khi mãn tang U-ri-ah đối với Bát-sê-va là?",
+          "options": [
+            "Đón nàng về làm vợ cưới gả, nàng sinh con trai con trai đầu lòng",
+            "Trục xuất nàng sang Mô-áp lánh nạn dư luận",
+            "Bắt nàng nộp phạt một vạn si-clơ bạc đền tội",
+            "Phong nàng làm tư tế nữ đền tạm Giê-ru-sa-lem"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả thái độ của Chúa đối với hành vi cướp vợ giết chồng của Đa-vít câu cuối là?",
+          "options": [
+            "Việc Đa-vít làm không đẹp lòng không đẹp lòng ĐỨC CHÚA (Chúa ghê tởm tội ác nầy)",
+            "Chúa chúc phúc cho thai nhi sinh ra vĩ đại",
+            "Chúa tha thứ lập tức vì Đa-vít là vua công chính",
+            "Chúa đòi dâng tế lễ toàn thiêu bò tơ chuộc tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa bàn diễn ra trận chiến vây thành cướp bóc nơi U-ri-ah tử trận là thành nào?",
+          "options": [
+            "Thành Ráp-ba (Rabbah thủ đô dân Am-môn)",
+            "Thành Gia-vết Ga-la-át",
+            "Thành Kơ-i-la Giu-đa",
+            "Thành Sun-nem ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chép trung thực tội ác của Đa-vít trong Kinh Thánh chứng tỏ điều gì?",
+          "options": [
+            "Tính chân thực lịch sử, không che giấu lỗi lầm lãnh tụ; cảnh báo tội lỗi cá nhân tàn phá cá nhân vương vương",
+            "Chứng minh Giô-áp là đồng phạm đắc lực nhất",
+            "U-ri-ah là người lính cứng đầu cự tuyệt lệnh vua",
+            "Quyền uy tối cao của nhà vua trên mạng sống dân"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "questions": [
+        {
+          "text": "Dụ ngôn ngôn sứ Na-than kể răn đe tội lỗi Đa-vít nói về việc cướp vật gì?",
+          "options": [
+            "Kẻ giàu nhiều chiên bò cướp con chiên cái duy nhất con chiên cái duy nhất yêu quý của người nghèo làm thịt",
+            "Kẻ cướp Hòm Bia Giao Ước giả bọc vàng đền",
+            "Kẻ cướp đất ruộng mùa gặt lúa mạch nhà góa phụ",
+            "Kẻ đầu độc bầy gia súc của bô lão cổng thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phán quyết nổi giận đòi xử tử kẻ giàu cướp chiên Đa-vít đưa ra khi nghe dụ ngôn là?",
+          "options": [
+            "Kẻ làm việc nầy đáng chết! Phải đền chiên gấp bốn lần bốn lần!",
+            "Hãy trục xuất kẻ giàu ra sa mạc hoang dã vĩnh viễn",
+            "Bắt phạt kẻ giàu nộp mười ngàn si-clơ vàng đền",
+            "Tôi vô tội cấm liên quan phán quyết nầy của bô lão"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời tuyên bố nổ sấm sét lật tẩy tội ác Đa-vít ngôn sứ Na-than tuyên bố câu 7 là?",
+          "options": [
+            "Kẻ đó chính là vua! (You are the man!)",
+            "U-ri-ah là kẻ phản loạn đáng chết chiến trường",
+            "Bát-sê-va chính là con chiên cái béo mập",
+            "Chúa đã bỏ vương triều Đa-vít lập vương khác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bản án hình phạt Chúa tuyên phạt vương gia Đa-vít do tội giết cướp vợ là gì?",
+          "options": [
+            "Gươm cấm rời khỏi nhà vương; các vợ vua bị kẻ khác ngủ giữa thanh thiên bạch nhật bạch nhật",
+            "Đền thờ Giê-ru-sa-lem bị sập sụp tiêu hủy ngay",
+            "Đa-vít bị phong cùi trắng tay chân run rẩy lập tức",
+            "Vương quốc Do Thái bị chia đôi cho Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời sám hối chân thành ngắn gọn Đa-vít thốt lên nhận tội ở câu 13 là?",
+          "options": [
+            "Tôi đã phạm tội phản ĐỨC CHÚA (I have sinned against the LORD)",
+            "Xin tha tội cho tôi nộp phạt vàng bạc đền tạm",
+            "Chính Giô-áp là kẻ bày kế giết U-ri-ah tôi cấm biết",
+            "Tôi là vua Do Thái được phép làm điều mình coi là phải"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt lập tức Chúa giáng xuống thai nhi đầu lòng Bát-sê-va sinh hạ là gì?",
+          "options": [
+            "Đứa trẻ mắc bệnh qua đời qua đời dẫu Đa-vít ăn chay nằm đất khẩn nguyện",
+            "Đứa trẻ bị phong cùi bẩm sinh cách ly hoang dã",
+            "Bị quân thù Phi-li-tinh bắt làm con tin Ga-sa",
+            "Được tha mạng phong làm tư tế dòng Lê-vi mới"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động ngạc nhiên của Đa-vít làm sau khi đứa trẻ chết khiến tớ kinh ngạc là?",
+          "options": [
+            "Tắm rửa, xức dầu, mặc quần áo đẹp, ăn uống ăn uống (khi sống khóc cầu lòng thương, chết rồi khóc ích gì?)",
+            "Khóc lóc dữ dội hơn xé áo chịu tang bảy ngày nữa",
+            "Nổi giận ra lệnh chém đầu toàn bộ thầy thuốc cung",
+            "Bỏ cung điện đi lang thang hoang địa sám hối"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người con trai thứ hai Đa-vít sinh hạ cùng Bát-sê-va được Chúa yêu mến đặt tên là?",
+          "options": [
+            "Sa-lô-môn (Solomon / Giê-đi-đơ-ah nghĩa là Được Chúa yêu mến)",
+            "Áp-sa-lôm",
+            "Am-nôn",
+            "A-đô-ni-gia"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Vương miện vàng nặng một ta-lăng cướp từ vua Am-môn được đặt lên đâu?",
+          "options": [
+            "Đặt lên đầu đầu của đức vua Đa-vít chiến thắng Ráp-ba",
+            "Dâng nộp làm vật hiến tế đền tạm Si-lô cũ",
+            "Cất giấu kho báu đền thờ Giê-ru-sa-lem mới",
+            "Trao tặng cho tướng Giô-áp lập chiến công"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa thần học lớn nhất của chương 12 trong đời sống đức tin Đa-vít là gì?",
+          "options": [
+            "Mẫu mực sám hối tội lỗi; lòng thương xót tha thứ của Chúa đi kèm hậu quả công lý nghiêm minh nghiêm minh",
+            "Sự thông minh kể chuyện dụ ngôn của ngôn sứ Na-than",
+            "Khẳng định Sa-lô-môn là vua kế vị hợp pháp Chúa chọn",
+            "Phê phán luật đa thê hôn nhân hoàng gia Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "questions": [
+        {
+          "text": "Tội ác Am-nôn con cả Đa-vít phạm phải đối với em gái cùng cha khác mẹ Ta-ma là gì?",
+          "options": [
+            "Cưỡng hiếp cưỡng hiếp Ta-ma rồi lập tức chán ghét xua đuổi nàng dã man",
+            "Ăn trộm vàng bạc sính lễ cưới gả của nàng",
+            "Đầu độc nàng bằng bánh tẩm độc lập kế",
+            "Gửi nàng sang Mô-áp làm nô dịch lánh nạn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người bạn xảo quyệt bày kế giả bệnh cho Am-nôn để dụ Ta-ma vào phòng làm bánh là ai?",
+          "options": [
+            "Giô-na-đáp (Jonadab con trai em Đa-vít)",
+            "Đầy tớ Xíp-va nhà Sa-un",
+            "Tướng chỉ huy quân đội Giô-áp",
+            "Vua A-khis thành Gát ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động đau đớn chịu nhục của Ta-ma sau khi bị Am-nôn xua đuổi là gì?",
+          "options": [
+            "Xé áo choàng nhiều màu, rắc tro lên đầu lên đầu gào khóc tìm đến anh Áp-sa-lôm",
+            "Tự tử bằng gươm đâm cổ ngay cổng phòng ngủ",
+            "Đến đền thờ rước Hòm Bia cầu cứu tư tế",
+            "Chạy trốn biệt tích sang Ai Cập lánh nạn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động báo thù Áp-sa-lôm thực hiện hai năm sau tiệc xén lông cừu là gì?",
+          "options": [
+            "Lệnh thuộc hạ giết chết Am-nôn Am-nôn khi ông đang say rượu nho vui vẻ tiệc",
+            "Đầu độc nguồn nước giếng phòng ngủ Am-nôn",
+            "Đột nhập ám sát đức vua cha Đa-vít phục thù",
+            "Giam cầm Am-nôn vào ngục tối thành Xích-lác"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Áp-sa-lôm trốn tránh đi tị nạn chính trị ở vương quốc ngoại bang nào ba năm sau khi giết Am-nôn?",
+          "options": [
+            "Trốn sang xứ Ghê-su (Geshur nhà ông ngoại làm vua)",
+            "Trốn sang vương quốc Mô-áp biên giới",
+            "Trốn sang thành Gát xứ Phi-li-tinh",
+            "Ẩn nấp hang đá A-đul-lam hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Phản ứng của đức vua Đa-vít khi nghe tin Am-nôn cưỡng hiếp Ta-ma chép ở câu 21 là gì?",
+          "options": [
+            "Vua nổi giận đùng đùng nổi giận đùng đùng dẫu cấm trừng phạt con cả yêu quý",
+            "Lập tức truất quyền thừa kế lập Áp-sa-lôm thay",
+            "Bắt phạt Am-nôn nộp một vạn si-clơ vàng chuộc lỗi",
+            "Giam Am-nôn vào ngục tối cung điện vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Món ăn Ta-ma tự tay làm dâng cho Am-nôn giả bệnh ăn trong phòng ngủ là gì?",
+          "options": [
+            "Bánh bột lọc tẩm (heart-shaped cakes) dâng nước ngọt",
+            "Thịt cừu nướng béo ngậy rượu nho ngon",
+            "Cháo lúa mạch ấm trộn mật ong rừng",
+            "Trái vả chín ngọt và nho khô sa mạc"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Áp-sa-lôm dặn Ta-ma giữ im lặng cấm làm lớn chuyện khi nàng bị hại?",
+          "options": [
+            "Vì Am-nôn là anh cả anh cả cùng cha; Áp-sa-lôm tự lên kế hoạch phục thù riêng",
+            "Vì sợ Đa-vít sẽ chém đầu cả hai anh em",
+            "Vì luật Mô-sê cấm phụ nữ tố cáo hoàng tử",
+            "Do e ngại làm nhục hoàng gia trước bô lão"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi Áp-sa-lôm tổ chức tiệc xén lông cừu dụ các hoàng tử đến giết Am-nôn là?",
+          "options": [
+            "Ba-al Kha-xo (Baal-hazor)",
+            "Hép-rôn vương đô cũ",
+            "Thung lũng Ga-va-on hồ nước",
+            "Bê-lem Giu-đa ruộng cừu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chép bi kịch Am-nôn Ta-ma chứng minh lời tiên báo nào của Na-than?",
+          "options": [
+            "Sự ứng nghiệm hình phạt: Tai họa bạo lực huynh đệ phát khởi từ chính nội bộ nhà Đa-vít nhà Đa-vít",
+            "Sức mạnh bùa phép của người bạn xảo quyệt Giô-na-đáp",
+            "Sự lỗi thời của tòa án phán quyết Samuel cũ",
+            "Đa-vít là người cha nghiêm khắc quản giáo con"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "questions": [
+        {
+          "text": "Mưu kế Giô-áp thuê phụ nữ khôn ngoan ở Tơ-cô-a cải trang mặc đồ tang nhằm mục đích gì?",
+          "options": [
+            "Dùng dụ ngôn thuyết phục Đa-vít cho phép Áp-sa-lôm trở về trở về Giê-ru-sa-lem",
+            "Để xin vua ban ruộng đất nhà Ê-li-mê-lếch Bê-lem",
+            "Để tố cáo tội ác tàn sát tư tế Nóp của Do-éc",
+            "Để gả con gái lớn cưới vợ cho Giô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dụ ngôn phụ nữ Tơ-cô-a kể kêu oan trước vua Đa-vít nói về việc gì?",
+          "options": [
+            "Hai con trai đánh nhau chết một, dân làng đòi giết đứa còn lại còn lại tuyệt tự dòng",
+            "Kẻ giàu cướp con chiên cái duy nhất nhà nghèo thịt",
+            "Cướp thửa ruộng lúa mạch góa phụ mùa gặt",
+            "Bầy dê cừu bị dịch bệnh chết sạch hoang dã"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình phạt hạn chế đầu tiên Đa-vít áp dụng cho Áp-sa-lôm khi cho về Giê-ru-sa-lem là?",
+          "options": [
+            "Cho về nhà riêng cấm diện kiến diện kiến mặt vua (cách ly hai năm liền)",
+            "Bắt phạt nộp một ngàn si-clơ vàng chuộc mạng",
+            "Giam lỏng vào phòng ngục tối cung điện",
+            "Bắt chịu nghi thức cắt tóc cạo trọc đầu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả vẻ đẹp ngoại hình nổi bật của Áp-sa-lôm làm toàn dân trầm trồ ca ngợi là gì?",
+          "options": [
+            "Đẹp trai tuyệt vời tuyệt vời, tóc dày cắt hàng năm nặng hai trăm si-clơ thánh",
+            "To cao vạm vỡ đứng cao hơn dân từ vai trở lên",
+            "Mắt sáng hồng hào diện mạo thanh tú giống Đa-vít",
+            "Mái tóc dài tết thành bảy bím giống Nazarite Samson"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động phá hoại cưỡng bách Áp-sa-lôm làm đối với Giô-áp đòi được gặp vua cha là?",
+          "options": [
+            "Lệnh đầy tớ phóng hỏa đốt ruộng lúa mạch ruộng lúa mạch của Giô-áp bên cạnh",
+            "Đột nhập bắt cóc con trai lớn của Giô-áp làm con tin",
+            "Đầu độc bầy gia súc dê cừu nhà Giô-áp",
+            "Nổi giận phóng giáo định giết Giô-áp cung điện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nghi thức hòa giải cảm động Đa-vít làm đón nhận lại Áp-sa-lôm cuối chương 14 là gì?",
+          "options": [
+            "Vua ôm hôn ôm hôn Áp-sa-lôm sụp lạy chào đón trở lại cung điện",
+            "Dâng tế lễ bò tơ tạ ơn Chúa đền tạm mới",
+            "Phong Áp-sa-lôm làm phó vương cai trị ngay",
+            "Bắt Áp-sa-lôm nộp một vạn si-clơ bạc đền tội"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng ba con trai và một con gái Áp-sa-lôm có đặt tên em gái mình là?",
+          "options": [
+            "Ta-ma (Tamar đặt tên theo em gái bị cưỡng hiếp cưỡng hiếp)",
+            "Mi-khan vợ Đa-vít",
+            "Ạc-sa con Ca-lếp",
+            "Ruth Mô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Độ tuổi hoặc vị thế cân nặng mái tóc Áp-sa-lôm cân được tính theo đơn vị thánh điện là?",
+          "options": [
+            "Hai trăm si-clơ (200 shekels khoảng 2.3 kg tóc cắt)",
+            "Mười si-clơ vàng ròng",
+            "Năm mươi si-clơ bạc thánh",
+            "Một ta-lăng vàng nặng nề"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Giô-áp ban đầu cự tuyệt cấm chịu đến gặp Áp-sa-lôm khi ông gọi hai lần?",
+          "options": [
+            "Vì Giô-áp sợ liên lụy chính trị chính trị khi đức vua đang cấm cửa Áp-sa-lôm gặp mặt",
+            "Vì Giô-áp ghét Áp-sa-lôm tội giết Am-nôn",
+            "Do Giô-áp đi đánh trận vắng thành Giê-ru-sa-lem",
+            "Vì ruộng lúa mạch chưa chín thu hoạch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Đa-vít ôm hôn tha thứ cho Áp-sa-lôm chứng tỏ điều gì về lòng vua?",
+          "options": [
+            "Tình cha con sâu nặng dẫu có phần nhu nhược nhu nhược; chuẩn bị cho bi kịch phản loạn cướp ngôi sau nầy",
+            "Đa-vít đã quên hoàn toàn cái chết của con cả Am-nôn",
+            "Sự nghiêm minh của pháp luật Do Thái đối với hoàng tử",
+            "Quyền uy cai trị của tướng Giô-áp mai mối thành công"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "questions": [
+        {
+          "text": "Mưu đồ cướp ngôi Áp-sa-lôm thực hiện cổng thành lôi kéo lòng dân Do Thái là gì?",
+          "options": [
+            "Đón dân đi kiện, xử kiện ôn hòa mỉa mai triều đình triều đình (thu phục lòng dân)",
+            "Đúc tượng vàng dâng đền thờ thần cá Dagon ngoại",
+            "Phong chiến sĩ Bên-gia-min làm tướng bảo vệ",
+            "Nộp bạc thập phân cứu tế dân nghèo khổ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh biểu tượng vương quyền cũ nơi Áp-sa-lôm đến tự phong làm vua bạo loạn là?",
+          "options": [
+            "Thành Hép-rôn (Hebron xức dầu phong vương nổi loạn)",
+            "Thành Giê-ru-sa-lem vương đô",
+            "Thành Gia-vết Ga-la-át",
+            "Thành Si-lô đền tạm cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhà cố vấn mưu lược tối cao của Đa-vít phản bội gia nhập phe Áp-sa-lôm là ai?",
+          "options": [
+            "Ông A-khi-thô-phê (Ahithophel mưu lược vĩ đại)",
+            "Ngôn sứ Na-than tiên tri",
+            "Đầy tớ Xíp-va nhà Sa-un",
+            "Tướng chỉ huy quân đội Giô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quyết định lánh nạn đau đớn Đa-vít đưa ra khi nghe tin bạo loạn Hép-rôn là?",
+          "options": [
+            "Bỏ Giê-ru-sa-lem chạy trốn chạy trốn cùng thuộc hạ tránh đổ máu vô ích thành thánh",
+            "Dẫn quân bộ binh tử thủ đồn lũy Xi-ôn vương đô",
+            "Gửi vàng bạc cầu hòa xin nhường ngôi vị vua",
+            "Xin liên minh quân Phi-li-tinh chiến xa sắt"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật người ngoại bang Gát dẫn 600 chiến sĩ tình nguyện đi trốn bảo vệ Đa-vít là?",
+          "options": [
+            "Tướng Ít-tai (Ittai) người Gát phi-li-tinh",
+            "Vua A-khis thành Gát",
+            "Do-éc người Ê-đôm",
+            "Tướng Áp-ner quân Sa-un cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mệnh lệnh Đa-vít truyền cho tư tế Xa-đốc và A-vi-a-tha mang Hòm Bia quay lại là?",
+          "options": [
+            "Mang Hòm Bia về Giê-ru-sa-lem làm tai mắt tình báo báo tin mật cho vua hoang địa",
+            "Chôn giấu Hòm Bia sâu dưới cát thung lũng đá cuội",
+            "Đem Hòm Bia sang Mô-áp dâng vua tị nạn",
+            "Đốt cháy lều lều chứa Hòm Bia tránh lọt tay thù"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi đau đớn Đa-vít lên núi Cây Dầu khóc lóc cầu nguyện chép ở câu 30 là?",
+          "options": [
+            "Đi bộ, đầu trùm kín, đi chân đất khóc lóc khóc lóc cùng toàn dân chạy trốn",
+            "Xức dầu phong vương cho tướng Giô-áp thay thế",
+            "Dâng tế lễ bò tơ tạ tội Chúa dọc đường",
+            "Bắt phạt thuộc hạ ném đá nguyền rủa Sa-un"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời cầu nguyện khẩn thiết Đa-vít xin Chúa phá hoại mưu kế phản bội là gì?",
+          "options": [
+            "Xin Chúa làm cho mưu kế của A-khi-thô-phê hóa ra ngu muội ngu muội đần độn",
+            "Xin dội sấm sét tiêu diệt sạch quân Áp-sa-lôm",
+            "Xin cho con trai Áp-sa-lôm sám hối quay về",
+            "Xin cho con được sống sót trở về vương đô"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật Bạn của Đa-vít được vua cử quay lại Giê-ru-sa-lem làm nội gián phá mưu phản là?",
+          "options": [
+            "Khu-sai (Hushai người Bạn Đa-vít giả hàng hàng Áp-sa-lôm)",
+            "Tư tế A-vi-a-tha mang ê-phốt",
+            "Chiến sĩ A-vi-sai em Giô-áp",
+            "Ngôn sứ Gát tiên tri"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng cận vệ chuẩn bị chiến xa ngựa chạy trước xe Áp-sa-lôm thị uy quyền lực là?",
+          "options": [
+            "Năm mươi cận vệ chạy trước xe (50 runners)",
+            "Mười ngàn bộ binh tuyển chọn",
+            "Năm trăm kỵ binh chiến",
+            "Chỉ có hai người giữ vũ khí riêng"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "questions": [
+        {
+          "text": "Mưu kế lừa gạt lấy lòng vua của đầy tớ Xíp-va tố cáo oan Mê-phi-vô-sết là?",
+          "options": [
+            "Đón đường dâng lương thực nói dối chủ Mê-phi-vô-sết muốn cướp lại ngôi vua Sa-un",
+            "Nói Mê-phi-vô-sết đang liên minh quân Phi-li-tinh cướp",
+            "Tố chủ ăn trộm vàng bạc đền tạm Giê-ru-sa-lem",
+            "Độc độc giếng nước ngọt trại quân Đa-vít chạy trốn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Quyết định vội vã sai lầm Đa-vít làm trao toàn bộ tài sản nhà Sa-un cho ai?",
+          "options": [
+            "Trao toàn bộ sản nghiệp cho đầy tớ Xíp-va xảo quyệt",
+            "Tịch thu dâng đền thờ Chúa làm lễ vật thánh",
+            "Chia đều cho 600 chiến sĩ Ít-tai người Gát",
+            "Giao cho tư tế Xa-đốc làm quỹ tình báo"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nhân vật đi song song sườn núi ném đá nguyền rủa Đa-vít khát máu côn đồ là?",
+          "options": [
+            "Si-mê-i (Shimei) con Ghê-ra dòng họ Sa-un ở Ba-khu-rim",
+            "Do-éc người Ê-đôm tàn sát tư tế Nob",
+            "Vua Am-môn Ha-nun làm nhục sứ giả",
+            "Tướng Áp-ner quân Sa-un cũ đầu đầu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Đa-vít ngăn cản A-vi-sai đòi sang chặt đầu Si-mê-i ném đá là gì?",
+          "options": [
+            "Để hắn nguyền rủa; biết đâu Chúa truyền cho hắn nguyền rủa để Chúa thương xót thương xót tôi",
+            "Vì Si-mê-i có ba ngàn quân bảo vệ sườn núi",
+            "Vì Đa-vít lo sợ phạm luật Mô-sê cấm giết người",
+            "Do Si-mê-i đang mang Hòm Bia bảo vệ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mưu kế đồi bại A-khi-thô-phê hiến kế cho Áp-sa-lôm thực hiện trên mái cung điện là?",
+          "options": [
+            "Ngủ với các hầu thiếp hầu thiếp của cha trước mắt toàn dân cắt đứt đường hòa giải",
+            "Đúc tượng vàng thần Dagon đặt đền thờ mới",
+            "Chém đầu toàn bộ sứ giả Đa-vít gửi đến",
+            "Bắt phạt bô lão Do Thái nộp thuế gấp đôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi Khu-sai giả vờ đầu hàng tung hô chúc mừng hoàng đế mới Áp-sa-lôm là gì?",
+          "options": [
+            "Vạn tuế hoàng đế! Vạn tuế hoàng đế! (Long live the king!)",
+            "Tôi sẵn sàng đem gươm đâm chết Đa-vít dâng vua",
+            "Tôi xin nộp một vạn si-clơ vàng tạ ơn hoàng thượng",
+            "Chúa đã chọn Áp-sa-lôm làm ngôn sứ tối cao Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lương thực Xíp-va chuẩn bị tiếp tế Đa-vít vượt đồi trốn lánh gồm những gì?",
+          "options": [
+            "Hai trăm ổ bánh, một trăm bánh nho, một trăm quả vả vả và bầu da rượu nho",
+            "Mười con chiên non béo mập nướng chín",
+            "Bột mì không men và bình nước ngọt Giê-ri-khô",
+            "Tượng đúc bạc cướp nhà Mi-kha"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả Si-mê-i đi nguyền rủa Đa-vít ném đá dọc sườn núi là gì?",
+          "options": [
+            "Vừa đi vừa nguyền rủa, ném đá ném đá và tung bụi đất đất vào vua",
+            "Chỉ đứng xa bắn cung đe dọa quân trốn chạy",
+            "Hát các bài ca chúc dữ Mô-sê núi Ê-van",
+            "Đội mũ tang rắc tro lên đầu giả oan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Đa-vít chấp nhận lời nguyền rủa của Si-mê-i ôn hòa dẫu thuộc hạ đòi giết?",
+          "options": [
+            "Vì con ruột Áp-sa-lôm còn đòi giết cha, huống chi người Bên-gia-min nầy nguyền rủa!",
+            "Vì Si-mê-i là thẩm phán tối cao của tòa án Nob",
+            "Do ông e ngại sấm sét đánh trúng lều trại chạy",
+            "Vì ông muốn Si-mê-i nộp tiền chuộc mạng sau"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Áp-sa-lôm ngủ hầu thiếp cha trên mái cung điện ứng nghiệm mặc khải nào?",
+          "options": [
+            "Lời phạt của ngôn sứ Na-than: Các vợ vua bị ngủ giữa thanh thiên bạch nhật bạch nhật tội tà dâm",
+            "Lời hứa giao ước hoàng gia vương quyền vĩnh viễn",
+            "Tập tục cưới gả phi tần của vua chúa ngoại quốc",
+            "Mưu mẹo thông minh nhất của Khu-sai nội gián"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "questions": [
+        {
+          "text": "Mưu kế truy kích khẩn cấp A-khi-thô-phê đề xuất tiêu diệt Đa-vít ngay là gì?",
+          "options": [
+            "Dẫn mười hai ngàn quân truy kích đánh úp Đa-vít ngay ban đêm ban đêm khi ông mệt mỏi",
+            "Đập vỡ nguồn nước ngọt thành Ma-kha-na-im vây thành",
+            "Dâng tế lễ bò tơ cầu Chúa giáng dịch bệnh thù",
+            "Chiêu mộ chiến sĩ Phi-li-tinh khổng lồ bắn cung"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mưu kế phản gián Khu-sai đề xuất bác bỏ A-khi-thô-phê giúp Đa-vít kéo dài thời gian?",
+          "options": [
+            "Tập hợp toàn bộ Do Thái đông như cát biển cát biển, đích thân Áp-sa-lôm dẫn đầu tiến đánh",
+            "Thổi kèn đầu hàng dâng Hòm Bia xin tha mạng",
+            "Đầu độc rượu nho tiệc chiêu đãi bô lão nổi loạn",
+            "Trốn sang Ai Cập lánh nạn quân sự vĩnh viễn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Áp-sa-lôm và bô lão quyết định chọn nghe theo mưu kế của Khu-sai phản gián?",
+          "options": [
+            "Vì Chúa đã định phá vỡ kế hoạch tốt tốt của A-khi-thô-phê để giáng họa lên Áp-sa-lôm",
+            "Vì Khu-sai dâng nhiều vàng bạc sính lễ bộc",
+            "Vì họ sợ oai dũng dũng mãnh chiến đấu của Đa-vít",
+            "Vì kế hoạch A-khi-thô-phê quá hèn nhát ban đêm"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận kết liễu của nhà cố vấn phản bội A-khi-thô-phê khi thấy mưu mình cấm dùng là?",
+          "options": [
+            "Cưỡi lừa về nhà sắp xếp việc gia đình rồi thắt cổ thắt cổ tự tử chết",
+            "Bị Áp-sa-lôm chém đầu tội hiến kế ngu muội",
+            "Bỏ trốn sang xứ Phi-li-tinh thành Gát định cư",
+            "Bị tướng Giô-áp lén đâm chết cổng thành Nob"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hai con trai tư tế làm liên lạc viên đưa tin mật chạy trốn cho Đa-vít vượt sông Gio-đan là?",
+          "options": [
+            "Giô-na-than (con A-vi-a-tha) và A-khi-ma-át A-khi-ma-át (con Xa-đốc) trốn giếng",
+            "Khóp-ni và Phi-nê-ha con tư tế Eli cũ",
+            "Giô-en và A-vi-gia con ngôn sứ Samuel",
+            "Mác-lôn và Ki-lê-on con Na-o-mi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người phụ nữ tốt bụng tại Ba-khu-rim đã cứu hai liên lạc viên trốn giếng bằng cách nào?",
+          "options": [
+            "Che miệng giếng bằng tấm vải phủ đắp chăn rải thóc lúa rang rải thóc hạt thóc lên trên giả phơi",
+            "Hóa trang họ thành phụ nữ múa hát vườn nho",
+            "Đút rượu nho say lính Áp-sa-lôm đi tìm bắt",
+            "Báo bô lão cổng thành đến làm chứng oan"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh thành lũy an toàn bờ đông Gio-đan nơi Đa-vít đóng quân nhận tiếp tế là?",
+          "options": [
+            "Ma-kha-na-im (Mahanaim)",
+            "Gia-vết Ga-la-át",
+            "Si-khem núi Ép-ra-im",
+            "Ghinh-gát đóng trại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba vị bô lão trung thành mang giường chiếu chăn màn lương thực tiếp tế Đa-vít là ai?",
+          "options": [
+            "Sô-vi (Am-môn), Ma-khir (Lo-đê-var) và Bác-xi-lai Bác-xi-lai (Ga-la-át giàu có)",
+            "Xíp-va, Do-éc và Pan-ti con La-ít",
+            "Ê-li-áp, A-vi-na-đáp và Sa-ma anh Đa-vít",
+            "Các tư tế dòng Lê-vi Si-lô đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên người tướng mới Áp-sa-lôm phong làm tổng tư lệnh quân đội thay thế Giô-áp là?",
+          "options": [
+            "Tướng A-ma-sa (Amasa con bà Ét-ra họ hàng Đa-vít)",
+            "Tướng Áp-ner quân Sa-un cũ",
+            "Vệ binh Bê-na-gia chỉ huy",
+            "Tướng Ít-tai người Gát Phi-li-tinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc A-khi-thô-phê thắt cổ tự tử chứng minh trạng thái tâm lý gì?",
+          "options": [
+            "Biết chắc Áp-sa-lôm sẽ bại trận bại trận khi cấm dùng mưu ông; tuyệt vọng sợ hình phạt Đa-vít",
+            "Sự tức giận tự ái cá nhân của nhà trí giả",
+            "Ông bị ma quỷ nhập ám hại gia đình tự tử",
+            "Sự kết thúc nhục nhã của kẻ phản bội giao ước"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "questions": [
+        {
+          "text": "Lời dặn thiết tha đau đớn Đa-vít dặn ba tướng quân chỉ huy trước trận chiến là gì?",
+          "options": [
+            "Vì ta, hãy nhẹ tay nhẹ tay với chàng trai trẻ Áp-sa-lôm!",
+            "Hãy chém chết Áp-sa-lôm mang đầu về nộp ta",
+            "Cấm tuyệt đối cấm tuyệt đối giết lính Bên-gia-min",
+            "Hãy đem Hòm Bia ra chiến trường bảo vệ quân"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bi kịch cái chết Áp-sa-lôm xảy ra khi mái tóc dày vướng cành cây sồi lớn lơ lửng là?",
+          "options": [
+            "Đầu vướng cành sồi treo lơ lửng sồi treo lơ lửng giữa trời, con la kéo đi chạy mất",
+            "Bị lính Phi-li-tinh bắn tên trúng tim cổ họng",
+            "Ngã ngựa gãy cổ tự tử dưới gốc sồi lớn",
+            "Bị tướng Giô-áp chém đầu cổng thành vương"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi tàn ác bất chấp lệnh vua của tướng Giô-áp đối với Áp-sa-lôm mắc cây sồi là gì?",
+          "options": [
+            "Lấy ba cây phóng giáo đâm vào tim đâm vào tim Áp-sa-lôm đang thoi thóp cành cây",
+            "Tha mạng đưa về giam ngục tối cung điện",
+            "Tịch thu vương miện vàng trên đầu hoàng tử dâng vua",
+            "Bắt phạt thuộc hạ ném đá Áp-sa-lôm tội nổi loạn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số phận xác Áp-sa-lôm sau khi bị giết chất đống đá khổng lồ là ở đâu?",
+          "options": [
+            "Ném xuống hố lớn rừng Ép-ra-im rừng Ép-ra-im, chất đống đá khổng lồ lên trên xác",
+            "Chôn cất nghĩa trang hoàng gia Hép-rôn mộ tổ",
+            "Mang về vương đô Giê-ru-sa-lem chôn cất mộ vua",
+            "Hỏa táng xương cốt chôn cất dưới cây sồi Gia-vết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi Đa-vít ngồi chờ tin tức chiến trường hai sứ giả chạy về báo tin là ở đâu?",
+          "options": [
+            "Ngồi giữa hai cổng thành thành (city gate đợi tin chiến)",
+            "Trong lều vải tạm hoang địa Gio-đan",
+            "Trên mái cung điện vương đô Giê-ru-sa-lem cũ",
+            "Trong đền tạm Si-lô cầu nguyện tư tế"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tiếng khóc la thảm thiết thấu tận trời xanh của Đa-vít khi nghe tin con chết là gì?",
+          "options": [
+            "Ôi con trai Áp-sa-lôm! Con trai cha! Thà cha chết thay con chết thay con con ơi!",
+            "Chúa đã phạt con tội phạm phi tần ngủ mái cung",
+            "Hủy bỏ chiến thắng quân đội Do Thái thắng thù",
+            "Nguyền rủa tướng Giô-áp sát hại hoàng tử yêu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tên địa danh khu rừng diễn ra trận giao tranh thảm khốc thảm sát nuốt chửng lính là?",
+          "options": [
+            "Rừng Ép-ra-im (Forest of Ephraim nuốt chửng nhiều lính)",
+            "Rừng cây ô-liu núi Cây Dầu hoang dã",
+            "Thung lũng A-khô rừng sồi chứng nhân",
+            "Hoang địa sa mạc Xi-nai hoang vu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Sứ giả chạy nhanh vượt đường đồng bằng báo tin đầu tiên cho Đa-vít là ai?",
+          "options": [
+            "A-khi-ma-át (Ahimaaz) con trai tư tế Xa-đốc",
+            "Người Cút (Cushite) đầy tớ chiến trường",
+            "Đầy tớ Xíp-va nhà Sa-un cũ",
+            "Tướng quân Giô-áp tự thân chạy về"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đài kỷ niệm Áp-sa-lôm tự xây dựng thung lũng Nhà Vua thời sống đặt tên là gì?",
+          "options": [
+            "Bàn tay Áp-sa-lôm (Absalom's Monument vì cấm có con trai nối danh)",
+            "Ghinh-gát đá kỷ niệm chiến tích vương",
+            "Tảng đá Ê-ven-ê-zer đá cứu giúp",
+            "Đá Phân Chia biên giới Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa cái chết thương tâm của Áp-sa-lôm đối với Đa-vít chứng minh quy luật gì?",
+          "options": [
+            "Sự trừng phạt tội lỗi nổi loạn phản nghịch cha mẹ; bi kịch chia rẽ chia rẽ nội bộ hoàng gia oán thù",
+            "Sức mạnh mái tóc dày gây họa tàn tạ thể xác",
+            "Sự nhút nhát hèn nhát chiến đấu của hoàng tử đẹp trai",
+            "Giô-áp là vị tướng quân kiên định trung nghĩa nhất Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "questions": [
+        {
+          "text": "Lời trách mắng nghiêm khắc sấm sét Giô-áp mắng vua khóc lóc làm nhục sĩ khí là?",
+          "options": [
+            "Vua yêu kẻ ghét vua, ghét kẻ yêu vua! Hãy ra cổng nói khích lệ dân khích lệ dân ngay kẻo quân lính bỏ trốn!",
+            "Vua hãy chém đầu tôi đền tội sát hại Áp-sa-lôm đi",
+            "Bắt phạt vua nộp mười ngàn si-clơ vàng tạ tội lính",
+            "Vua hãy từ chức vương nhường ngôi cho dòng Lê-vi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thái độ sám hối cầu xin tha mạng của Si-mê-i (kẻ ném đá) bên sông Gio-đan là gì?",
+          "options": [
+            "Sụp lạy tạ tội xin tha mạng ngày mừng vua trở về; Đa-vít thề cấm giết ông ngày hôm đó",
+            "Bỏ trốn biệt tích sang thành Gát Phi-li-tinh lánh nạn",
+            "Tiếp tục ném đá tung bụi đất chửi mắng vua Do Thái",
+            "Nộp phạt năm trăm si-clơ vàng chuộc mạng Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đa-vít xử lý thế nào với tranh chấp sản nghiệp ruộng đất giữa Mê-phi-vô-sết và Xíp-va?",
+          "options": [
+            "Quyết định chia đôi đất đai đất đai cho cả hai người quản lý cày cấy",
+            "Thu hồi toàn bộ ruộng đất dâng đền thờ Chúa làm của thánh",
+            "Trả lại toàn bộ ruộng cho Mê-phi-vô-sết trừng phạt Xíp-va",
+            "Giao toàn bộ ruộng đất cho đầy tớ Xíp-va trung thành"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Cụ già 80 tuổi tiếp tế vua hoang địa từ chối về cung vì già yếu xin cử con trai đi thay tên là gì?",
+          "options": [
+            "Cụ Bác-xi-lai (Barzillai) cử con trai Kim-ham (Chimham) đi thay",
+            "Ông Ma-khir thành Lo-đê-var",
+            "Ông Sô-vi nước Am-môn cầu hòa",
+            "Đầy tớ Xíp-va nhà Sa-un cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tranh giành công lao cãi vã đón vua trở về bùng nổ gay gắt giữa hai khối Do Thái nào?",
+          "options": [
+            "Mười chi tộc phía bắc phía bắc và chi tộc Giu-đa phía nam (khơi mào chia rẽ quốc gia)",
+            "Hàng ngũ tư tế dòng Lê-vi và các thủ lĩnh chiến",
+            "Lực lượng chiến sĩ Do Thái và 600 người phi-li-tinh Gát",
+            "Hoàng tộc Bên-gia-min và chi tộc Đan tìm đất"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Mê-phi-vô-sết cự cự tuyệt không cạo râu cắt móng chân chịu tang Đa-vít trốn chạy là?",
+          "options": [
+            "Để tỏ lòng trung thành thương tiếc vua trốn chạy trốn chạy lánh nạn oan ức",
+            "Vì ông bị ốm nặng liệt giường cấm tự vệ sinh",
+            "Vì đầy tớ Xíp-va cướp sạch nông cụ kéo đi",
+            "Do ông e ngại Sa-un sống lại trừng phạt dòng dõi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời nói thanh minh đức độ của Mê-phi-vô-sết dâng vua về ruộng đất chia đôi là?",
+          "options": [
+            "Cứ để ông ấy lấy hết hết đi, khi đức vua đã trở về bình an vô sự!",
+            "Tôi xin nộp thuế thập phân ruộng đất cho vua",
+            "Xíp-va là kẻ phản bội lừa đảo đáng chém đầu ngay",
+            "Xin vua hãy giam tôi ngục tối Nob thay Xíp-va"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tại sao Đa-vít tha mạng cấm giết Si-mê-i ném đá dẫu A-vi-sai đòi giết lập tức?",
+          "options": [
+            "Vì hôm nay là ngày vui mừng thắng trận Do Thái; cấm muốn có đổ máu đổ máu trừng phạt huynh đệ",
+            "Vì Si-mê-i có thế lực quá lớn chi tộc Bên-gia-min",
+            "Vì Si-mê-i đã quy đạo chịu phép cắt bì Do Thái",
+            "Do ông nhận được khuyên tai vàng tạ tội Si-mê-i"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mười chi tộc phía bắc đòi quyền đón vua lớn hơn Giu-đa với lý lẽ gì câu 43?",
+          "options": [
+            "Chúng tôi có mười phần phần vương quyền nơi đức vua; chúng tôi đi tiên phong đón vua!",
+            "Chúng tôi giàu có vàng bạc súc vật biên giới hơn",
+            "Tướng chỉ huy Giô-áp thuộc chi tộc Ép-ra-im chúng tôi",
+            "Chúng tôi đã đánh bại quân Áp-sa-lôm giải cứu vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Giô-áp chấn chỉnh Đa-vít ở chương 19 chứng tỏ điều gì?",
+          "options": [
+            "Tầm quan trọng của lý trí chính trị trên tình cảm cá nhân; sự nguy hại sĩ khí quân lính sĩ khí nếu vua ủy mị",
+            "Giô-áp là kẻ lạm quyền coi thường đức vua Đa-vít",
+            "Sự kết thúc hoàn toàn vương quyền thần trị Chúa chọn",
+            "Dân Do Thái cự tuyệt tình cảm yếu đuối của vua chúa"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "questions": [
+        {
+          "text": "Tên tên côn đồ Bên-gia-min thổi kèn nổi loạn chia rẽ mười chi tộc phía bắc bỏ vua là?",
+          "options": [
+            "Sê-va (Sheba) con trai Bích-ri chi tộc Bên-gia-min",
+            "Si-mê-i con Ghê-ra ném đá",
+            "Do-éc người Ê-đôm tàn sát tư tế Nob",
+            "Tướng A-ma-sa chỉ huy quân Áp-sa-lôm cũ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi tàn ác ám sát A-ma-sa do Giô-áp làm giả vờ hôn chào tại Ga-va-on là?",
+          "options": [
+            "Nắm râu hôn, tay trái dùng gươm đâm lòi ruột lòi ruột A-ma-sa dã man chết đường",
+            "Phóng giáo đâm chết ông khi đang gảy đàn hạc hạc",
+            "Đầu độc rượu nho tiệc chiêu đãi hoàng cung mới",
+            "Thuê lính Phi-li-tinh bắn tên ám sát chiến trường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Thành phố nơi Sê-va ẩn náu bị Giô-áp bao vây đắp đất đắp thành lũy san bằng là thành nào?",
+          "options": [
+            "Thành A-vên Bết Ma-a-kha (Abel Beth-maacah)",
+            "Thành Gia-vết Ga-la-át",
+            "Thành Giê-ri-khô cũ đổ nát",
+            "Thành Kơ-i-la Giu-đa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mưu kế khôn ngoan của phụ nữ cứu thành A-vên khỏi sập sụp bao vây Giô-áp là gì?",
+          "options": [
+            "Thuyết phục dân thành chặt đầu Sê-va chặt đầu Sê-va ném qua tường thành cho Giô-áp",
+            "Dẫn phụ nữ trẻ con ra múa hát vườn nho cầu hòa",
+            "Nộp một vạn si-clơ bạc chuộc thành yên bình",
+            "Mở cổng thành đầu hàng dâng Hòm Bia Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do A-ma-sa bị Đa-vít cử đi huy động quân Giu-đa thay thế tướng Giô-áp là?",
+          "options": [
+            "Vua muốn cách chức Giô-áp tội giết Áp-sa-lôm; phong A-ma-sa làm tổng tư lệnh tổng tư lệnh quân đội",
+            "Vì A-ma-sa là dũng sĩ giỏi võ nghệ nhất Giu-đa",
+            "Vì Giô-áp đã xin nghỉ hưu tuổi già lực kiệt",
+            "Do A-ma-sa nộp nhiều vàng cống hiến triều đình"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi xử lý mười hầu thiếp bị Áp-sa-lôm ngủ trên mái cung điện Đa-vít làm khi về cung là?",
+          "options": [
+            "Giam vào nhà kín kín, chu cấp đầy đủ cấm quan hệ giống như góa phụ đến chết",
+            "Phóng hỏa thiêu sống tội ngoại tình phản vương",
+            "Trục xuất sang vương quốc Mô-áp làm nô dịch lánh",
+            "Phong làm tư tế nữ phụ trách đền tạm mới xây"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ai là người chỉ huy ngự lâm quân Kê-rê-thi và Pê-lê-thi trung thành của Đa-vít?",
+          "options": [
+            "Tướng Bê-na-gia (Benaiah) con Giê-hô-gia-đa",
+            "Tướng Giô-áp quân đội",
+            "Tướng A-ma-sa bị đâm chết",
+            "Chiến sĩ A-vi-sai em Giô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời thốt nổi tiếng của Sê-va khi thổi kèn nổi loạn chống Đa-vít câu 1 là gì?",
+          "options": [
+            "Chúng ta cấm có phần nơi Đa-vít! Ai về lều nấy nấy, hỡi Ít-ra-en!",
+            "Hãy suy tôn dòng dõi Sa-un Bên-gia-min làm vua",
+            "Chúng ta cấm dâng thuế thập phân cho Giê-ru-sa-lem nữa",
+            "Gươm của Sê-va và Bên-gia-min thắng thế!"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Xác chết đẫm máu của A-ma-sa nằm giữa đường gây phản ứng gì cho quân lính truy đuổi?",
+          "options": [
+            "Ai đi qua cũng dừng lại nhìn nhìn đứng yên kinh ngạc; lính phải khiêng xác rải cỏ che",
+            "Họ nổi giận chém chết tướng Giô-áp trả thù ngay",
+            "Họ vui mừng hát ca vì loại được tướng Áp-sa-lôm cũ",
+            "Họ bỏ chạy trốn biệt xứ hoang dã trốn chiến"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc chặt đầu Sê-va cứu thành A-vên chứng minh điều gì về xã hội?",
+          "options": [
+            "Sự khôn ngoan tập thể hy sinh kẻ đầu sỏ làm loạn để bảo toàn mạng sống cộng đồng cộng đồng bình an",
+            "Quyền uy bạo lực của tướng quân Giô-áp dã man",
+            "Sự hèn nhát của dân thành A-vên Bết Ma-a-kha",
+            "Sự kết thúc nhục nhã của dòng họ Sa-un Bên-gia-min"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "questions": [
+        {
+          "text": "Lý do xảy ra nạn đói kéo dài ba năm liên tiếp thời kỳ Đa-vít trị vì là gì?",
+          "options": [
+            "Vì Sa-un và nhà đẫm máu của ông đã sát hại sát hại người Ghi-vơ-on phạm giao ước Giô-suê",
+            "Vì dân Do Thái đúc tượng tà thần Ba-al thờ lạy",
+            "Vì Đa-vít tà dâm cướp vợ U-ri-ah người Khết Khết",
+            "Do Hòm Bia Chúa bị Phi-li-tinh giam giữ lâu"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Điều kiện đền tội người Ghi-vơ-on đòi hỏi Đa-vít giao nộp để giải trừ nạn đói là?",
+          "options": [
+            "Giao nộp bảy (7) người con cháu trai Sa-un để treo cổ trước nhan Chúa Ghi-vơ-ah",
+            "Bồi thường mười ngàn si-clơ vàng ròng đền tạm",
+            "Nhường thửa ruộng của nhà Ê-li-mê-lếch Bê-lem",
+            "Trục xuất toàn bộ dòng tộc Bên-gia-min biệt xứ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Người mẹ vĩ đại thương con túc trực bên xác bảy con treo cổ canh chim thú hoang là ai?",
+          "options": [
+            "Bà Rít-pa (Rizpah hầu thiếp Sa-un canh xác suốt mùa gặt đến mùa mưa)",
+            "Bà Mi-khan vợ Đa-vít khóc than",
+            "Bà Bát-sê-va mẹ Sa-lô-môn",
+            "Bà A-vi-ghai vợ góa Na-val"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành động cảm động Đa-vít làm sau khi thấy nghĩa cử bảo vệ xác của Rít-pa là?",
+          "options": [
+            "Mang xương cốt Sa-un và Giô-na-than từ Gia-vết về chôn cất mộ tổ mộ tổ Bên-gia-min kính",
+            "Bắt phạt người Ghi-vơ-on nộp vàng bạc chuộc lỗi",
+            "Phong Rít-pa làm tư tế nữ đền thờ Chúa mới",
+            "Cho chém đầu Do-éc người Ê-đôm trả thù tư tế Nob"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Con trai Giô-na-than què chân được Đa-vít tha mạng cấm giao treo cổ đền tội là ai?",
+          "options": [
+            "Mê-phi-vô-sết (Mephibosheth tha mạng vì giao ước tình bạn)",
+            "Ít-bô-sết vua cũ bại trận",
+            "Pan-ti con La-ít",
+            "A-xa-hên chạy nhanh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng năm con trai Sa-un bị giao nộp treo cổ là con của con gái nào vua?",
+          "options": [
+            "Con của bà Mê-ráp (Merab con gái lớn vua thất hứa Đa-vít)",
+            "Con của bà Mi-khan vợ Đa-vít",
+            "Con của bà Ta-ma em Áp-sa-lôm",
+            "Con của bà hầu thiếp Rít-pa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Địa danh nơi cư dân dũng cảm cất giấu xương cốt Sa-un Giô-na-than Đa-vít đến xin lại là?",
+          "options": [
+            "Thành Gia-vết Ga-la-át (Jabesh-gilead giữ xương cốt)",
+            "Thành Bê-lem Giu-đa ruộng cừu",
+            "Thành Hép-rôn vương đô cũ",
+            "Thành Nob tư tế cũ đổ nát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Trận chiến khổng lồ Phi-li-tinh: Dũng sĩ nào cứu mạng Đa-vít khi vua kiệt sức suýt chết?",
+          "options": [
+            "A-vi-sai (Abishai đâm chết khổng lồ Y-sơ-bi Bê-nóp cứu vua)",
+            "Tướng chỉ huy Giô-áp dũng mãnh",
+            "Vệ binh Bê-na-gia chỉ huy ngự lâm quân",
+            "Đa-vít tự cứu bắn đá cuội trúng trán"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lời thề nghiêm nghiêm lính Do Thái dặn Đa-vít sau trận kiệt sức suýt chết chiến là?",
+          "options": [
+            "Vua cấm đi ra trận chiến với chúng tôi nữa, kẻo dập tắt ngọn đèn ngọn đèn của Ít-ra-en!",
+            "Vua hãy ở lại cung điện gỗ hương nam gảy đàn hạc",
+            "Hãy lập Sa-lô-môn làm vua chỉ huy quân đội thay",
+            "Nộp một vạn si-clơ vàng thuê lính đánh thuê ngoại"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Chúa nhậm lời cầu khẩn tha tội đất nước cuối chương 21 chứng minh?",
+          "options": [
+            "Sự đền bù bất công lịch sử; Chúa bảo vệ công lý cho người nghèo bị áp bức (Ghi-vơ-on) cam kết thề thề",
+            "Quân khổng lồ Phi-li-tinh có sức mạnh vô địch",
+            "Đa-vít là vị vua dã man tàn sát hoàng tộc Sa-un",
+            "Sự lỗi thời của nghi lễ dâng bò tơ chuộc tội"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "questions": [
+        {
+          "text": "Hình ảnh ẩn dụ nổi tiếng mở đầu bài ca tạ ơn Đa-vít ca tụng Chúa giải thoát là?",
+          "options": [
+            "ĐỨC CHÚA là núi đá, thành lũy, Đấng giải thoát giải thoát cứu giúp tôi",
+            "Chúa là mục tử chăn dắt tôi cấm thiếu thốn gì",
+            "Chúa là chiến xa sắt mạnh mẽ diệt sạch quân thù",
+            "Chúa là đền thờ gỗ thông bọc vàng ròng rực rỡ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả oai nghiêm Chúa ngự xuống đáp cứu Đa-vít khỏi thù địch ở câu 10 là gì?",
+          "options": [
+            "Người nghiêng trời đáp xuống đáp xuống, có mây đen mù mịt dưới chân Người",
+            "Chúa hiện xuống trong cột mây trắng che phủ bàn thờ",
+            "Hóa thành một con chim bồ câu trắng bay trên mây",
+            "Dội lửa diêm sinh tiêu diệt sạch thành Phi-li-tinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu hát Đa-vít tôn vinh Chúa làm sáng đêm tối cuộc đời đau thương của ông câu 29?",
+          "options": [
+            "Lạy ĐỨC CHÚA, Ngài là ngọn đèn ngọn đèn của tôi; Chúa chiếu sáng đêm tối của tôi",
+            "Chúa ban vàng bạc rực rỡ cung điện vương vương",
+            "Gươm giáo tôi sáng ngời chiến trường thắng địch",
+            "Áo ê-phốt vải gai bọc vàng ròng chiếu sáng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hành vi Chúa làm bàn chân Đa-vít vững vàng núi đá vượt qua thù hiểm nghèo câu 34?",
+          "options": [
+            "Người làm chân tôi nhanh như chân nai chân nai, cho tôi đứng vững trên ngọn đồi cao",
+            "Chân tôi cứng cáp đè bẹp chiến xa sắt thù",
+            "Chúa xức dầu thánh chân tôi thơm ngát đền thờ",
+            "Bắt phạt Si-mê-i quỳ sụp liếm bụi chân tôi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa bài ca tạ ơn vĩ đại chương 22 tương đồng hoàn toàn Thánh vịnh nào?",
+          "options": [
+            "Thánh vịnh mười tám (Psalm 18 ca ngợi Chúa cứu thoát vương)",
+            "Thánh vịnh hai mươi ba Chúa chăn nuôi tôi",
+            "Thánh vịnh năm mươi mốt sám hối tà dâm",
+            "Thánh vịnh một trăm ba mươi bảy khóc Ba-by-lon"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Mô tả vũ khí thiên nhiên Chúa dùng đánh bại quân thù Phi-li-tinh câu 15 bài ca là?",
+          "options": [
+            "Bắn mũi tên làm chúng tan lạc lạc, phát chớp sét làm chúng hỗn loạn hoảng sợ",
+            "Dội mưa đá khổng lồ đập vỡ khiên đồng thù",
+            "Mặt trời dừng lại mặt trăng đứng im thung lũng",
+            "Đất nứt nuốt chửng ngựa chiến xe sắt ngoại bang"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Đa-vít tuyên xưng lý do Chúa giải thoát ông khỏi thù địch oai hùng ở câu 21 là vì?",
+          "options": [
+            "Vì tôi sống công chính công chính trước nhan Chúa; giữ tay tôi thanh sạch vô tội",
+            "Vì tôi là vua Do Thái được xức dầu sừng dầu",
+            "Vì tôi mang Hòm Bia về cung điện thờ phượng Chúa",
+            "Vì tôi đã dâng tế nhiều bò tơ béo ngậy đền thờ"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Hình ảnh Chúa làm chiếc khiên bảo vệ những ai tin cậy Người câu 31 ca ngợi là gì?",
+          "options": [
+            "Chúa là chiếc khiên khiên che chở cho mọi kẻ ẩn náu bên Người",
+            "Chúa ban khiên đồng nặng nề chiến thắng Goliath",
+            "Vạt áo choàng bị cắt góc làm khiên chắn tên",
+            "Hòm Bia Giao Ước bảo vệ như khiên vàng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Câu hát Đa-vít ca ngợi đường lối của Thiên Chúa Do Thái câu 31 là?",
+          "options": [
+            "Đường lối của Thiên Chúa là trọn vẹn trọn vẹn; lời Chúa được luyện trong lửa thanh sạch",
+            "Đường lối Chúa đầy rẫy phép lạ sấm sét mưa sa",
+            "Luật Mô-sê khắc bản đá là chân lý vĩnh cửu Do Thái",
+            "Chúa thích lính bộ binh đông hơn kỵ binh chiến xa"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa tổng quát bài ca tạ ơn Đa-vít chương 22 chứng minh điều gì về cuộc đời ông?",
+          "options": [
+            "Khẳng định ơn ban giải cứu kỳ diệu của Chúa suốt đời chạy trốn hiểm nghèo; oai nghiêm vương quyền vương quyền Chúa lập",
+            "Võ nghệ xuất chúng thắng khổng lồ Goliath",
+            "Sự giàu sang phú quý hoàng cung vương đô mới",
+            "Sự lỗi thời của các ngôn sứ tiên tri cũ"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "questions": [
+        {
+          "text": "Lời tuyên xưng cuối cùng Đa-vít nói về giao ước Chúa lập với nhà ông ở câu 5 là?",
+          "options": [
+            "Thiên Chúa lập với tôi giao ước vĩnh cửu vĩnh cửu, được xếp đặt mọi mặt bảo đảm",
+            "Tôi đã xây đền thờ nguy nga dâng Chúa tạ ơn",
+            "Dòng dõi tôi sẽ thống trị toàn bộ kỵ binh Ai Cập",
+            "Các con trai tôi sẽ làm tư tế thượng tế mãi mãi"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến tích dũng sĩ hàng đầu Giô-sếp Bát-sê-vét giết bao nhiêu người một trận đấu?",
+          "options": [
+            "Giết tám trăm (800) người người bằng ngọn giáo trong một trận giao chiến oai hùng",
+            "Năm trăm người chiến sĩ",
+            "Mười hai người chẵn",
+            "Toàn bộ quân Phi-li-tinh thành Gát"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dũng sĩ Ê-lê-a-zar chiến đấu kiên cường Phi-li-tinh đến mức xảy ra hiện tượng gì tay?",
+          "options": [
+            "Tay mỏi mệt, nhưng tay cứng chặt cứng chặt vào thanh gươm chiến đấu đến cùng",
+            "Bị chặt gãy tay phải vẫn dùng tay trái chém gươm",
+            "Lấy cắp ngọn giáo đồng Goliath đâm găm đất",
+            "Cạo trọc đầu chịu tang sâm sâm chiến trường"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dũng sĩ Sa-ma bảo vệ ruộng nông sản nào đánh bại hoàn toàn Phi-li-tinh cướp bóc?",
+          "options": [
+            "Ruộng đậu xanh đậu xanh (field of lentils bảo vệ lương thực dân)",
+            "Ruộng lúa mạch gặt ruộng Bô-át Bê-lem",
+            "Vườn nho chín thung lũng Sô-réc Đa-li-la",
+            "Rừng cây ô-liu núi Cây Dầu chạy trốn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Chiến tích dũng cảm ba dũng sĩ đột kích trại thù cướp nước giếng ở đâu dâng Đa-vít là?",
+          "options": [
+            "Cướp nước giếng cổng thành Bê-lem Bê-lem (Đa-vít đổ đất tế Chúa cấm uống vì là máu chiến sĩ)",
+            "Múc suối nước En-hác-cô-rê xương hàm lừa",
+            "Lấy nước sông Gio-đan rửa chân vua tạ ơn",
+            "Đầu độc nguồn nước ngọt trại quân Phi-li-tinh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dũng sĩ Bê-na-gia con Giê-hô-gia-đa lập chiến công oai hùng nào hoang dã ngày tuyết?",
+          "options": [
+            "Xuống hố giết một con sư tử sư tử vào ngày có tuyết rơi lạnh giá",
+            "Bắn đá cuội trúng trán khổng lồ Goliath gục ngã",
+            "Chém chết Do-éc người Ê-đôm trả thù tư tế",
+            "Cứu mạng Đa-vít khỏi khổng lồ Y-sơ-bi kiệt sức"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Bê-na-gia đã dùng vũ khí gì để giết chết một chiến sĩ Ai Cập khổng lồ oai hùng?",
+          "options": [
+            "Giật cây thương thương khỏi tay tên Ai Cập, dùng chính thương đó giết hắn",
+            "Bắn ná đá cuội trúng trán hắn sụp đổ đất",
+            "Dùng thanh gươm Goliath chém làm hai khúc",
+            "Dùng xích đồng trói hắn kéo về cung vua"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Dũng sĩ người Khết bị Đa-vít hại chết chiến trường chép danh sách dũng sĩ câu cuối là?",
+          "options": [
+            "U-ri-ah người Khết (Uriah the Hittite dũng sĩ trung liệt)",
+            "Do-éc người Ê-đôm",
+            "Pan-ti con La-ít",
+            "Xíp-va đầy tớ Mê-phi-vô-sết"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng tổng cộng các dũng sĩ (The Mighty Men) được chép danh sách tôn vinh là?",
+          "options": [
+            "Ba mươi bảy người người (37 dũng sĩ oai dũng)",
+            "Bảy mươi người hội đồng",
+            "Mười hai người thủ lĩnh",
+            "Một trăm người chẵn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa việc Đa-vít đổ nước giếng Bê-lem xuống đất tế Chúa chứng tỏ điều gì?",
+          "options": [
+            "Sự trân trọng mạng sống chiến sĩ; coi máu xương anh em quý hơn thú vui cá nhân cá nhân; tâm hồn vương giả",
+            "Đa-vít ghét nước giếng Bê-lem chê bẩn cấm uống",
+            "Nước giếng bị quân Phi-li-tinh bỏ thuốc độc tẩm",
+            "Luật Mô-sê cấm uống nước giếng cổng thành thù"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "questions": [
+        {
+          "text": "Sai lầm bất tuân nghiêm trọng Đa-vít phạm phải do kiêu ngạo muốn thử thực lực là?",
+          "options": [
+            "Đi thống kê dân số dân số (census) kiểm tra quân số lính tráng Do Thái Giu-đa",
+            "Tà dâm cướp vợ U-ri-ah người Khết Khết",
+            "Tha mạng vua A-gác cướp súc vật tốt chiến",
+            "Gọi hồn ngôn sứ Samuel hiện lên Ên-đo bóng"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tướng Giô-áp khuyên can can ngăn vua cấm thống kê dân số thế nào câu 3?",
+          "options": [
+            "Xin Chúa tăng dân gấp trăm lần, nhưng vua cự cự tuyệt cự tuyệt làm việc nầy làm gì?",
+            "Dân Do Thái quá nghèo cấm cần kiểm tra số lính",
+            "Thống kê sẽ bị dịch bệnh ung độc trĩ tàn phá",
+            "Đa-vít hãy lập Sa-lô-môn làm vua thống kê"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng lính bộ binh rút gươm Giô-áp báo cáo sau 9 tháng 20 ngày đi thống kê là?",
+          "options": [
+            "Tám trăm ngàn lính Do Thái, năm trăm ngàn lính Giu-đa Giu-đa (tổng cộng 1.3 triệu lính)",
+            "Mười ngàn người chiến sĩ tuyển chọn",
+            "Bốn trăm ngàn quân Bên-gia-min",
+            "Sáu trăm người sống sót Rim-môn"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ba hình phạt tiên tri Gát đưa ra cho Đa-vít lựa chọn chuộc lỗi thống kê là gì?",
+          "options": [
+            "Bảy năm đói, ba tháng chạy trốn thù, hoặc ba ngày dịch bệnh dịch bệnh trong xứ",
+            "Mất Hòm Bia, đền sập sụp, hoặc bị phong cùi trắng",
+            "Nộp một vạn si-clơ vàng, nhường ngôi, hoặc bị mù",
+            "Không phạt súc vật chỉ phạt chém đầu Giô-áp"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Lý do Đa-vít chọn hình phạt ba ngày dịch bệnh rơi vào tay Chúa là?",
+          "options": [
+            "Lòng thương xót của Chúa Chúa bao la; thà rơi tay Chúa hơn rơi tay loài người",
+            "Vì dịch bệnh chỉ phạt dân nghèo cấm chạm đến vua",
+            "Vì ông có thuốc thảo dược phòng dịch hiệu quả",
+            "Do tiên tri Gát khuyên ông nên chọn dịch bệnh"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Số lượng người Do Thái chết thảm hại trong ba ngày dịch bệnh phạt thống kê là?",
+          "options": [
+            "Bảy mươi ngàn người chết (70.000 người chết từ Đan đến Bê-e-se-va)",
+            "Mười ngàn người chẵn",
+            "Năm mươi ngàn người",
+            "Một triệu quân tử trận"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Nơi Thiên sứ dừng tay tiêu diệt Giê-ru-sa-lem Đa-vít mua xây bàn thờ dâng lễ tế là?",
+          "options": [
+            "Sân đập lúa của A-rau-nah (Araunah) người Giê-vu-si trên núi Mô-ri-ah",
+            "Sân đập lúa ruộng ông Bô-át Bê-lem",
+            "Đền tạm Si-lô cũ đổ nát Nob tư tế",
+            "Núi Ê-van bàn thờ bôi vôi viết luật"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Giá tiền Đa-vít mua sân đập lúa và cặp bò dâng lễ tế toàn thiêu chuộc lỗi là bao nhiêu?",
+          "options": [
+            "Năm mươi si-clơ bạc si-clơ bạc (50 silver shekels mua bò và sân)",
+            "Mười si-clơ vàng ròng thánh điện",
+            "Sáu trăm si-clơ vàng đúc tượng",
+            "Một ta-lăng vàng ròng cung điện"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Tuyên bố đức độ từ chối nhận quà tặng miễn phí sân đập lúa của Đa-vít nói là gì?",
+          "options": [
+            "Tôi cấm dâng tế lễ toàn thiêu miễn phí miễn phí không tốn kém gì lên ĐỨC CHÚA của tôi",
+            "Tôi là vua Do Thái có nhiều vàng bạc tự mua",
+            "A-rau-nah là người ngoại bang cấm được dâng lễ hộ",
+            "Chúa đòi mua bằng tiền bạc mới nguôi cơn dịch"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "text": "Ý nghĩa sự kiện kết thúc sách 2 Samuel tại sân đập lúa A-rau-nah hướng đến tương lai?",
+          "options": [
+            "Xác định vị trí linh thiêng xây dựng Đền Thờ Sa-lô-môn Đền Thờ Sa-lô-môn sau nầy; ơn tha thứ phục hồi",
+            "Đa-vít thống kê dân số để đánh bại Phi-li-tinh",
+            "Sự kết thúc hoàn toàn vương triều Đa-vít vương vương",
+            "Quy định thuế nông nghiệp sân đập lúa Do Thái"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    }
+  ]
+}
