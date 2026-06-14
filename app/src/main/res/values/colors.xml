@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Serene Meditative Emerald & Sage Palette (Calming & Peaceful) -->
+    <color name="primary_blue">#0D3B2E</color>       <!-- Deep Emerald Green (Solemn & Peaceful) -->
+    <color name="primary_light">#1B4D3E</color>      <!-- Medium Emerald -->
+    <color name="primary_accent">#355E4E</color>     <!-- Forest Sage -->
+    <color name="gold_gold">#C9A054</color>          <!-- Warm Sand/Muted Gold -->
+    <color name="gold_light">#E8D8B8</color>         <!-- Soft Champagne -->
+    
+    <!-- Peaceful Clean Backgrounds -->
+    <color name="background_light">#F2F5F3</color>   <!-- Soft Pale Sage-White -->
+    <color name="background_card">#FFFFFF</color>    <!-- Crisp White -->
+    
+    <!-- Peaceful Typography -->
+    <color name="text_dark">#162E24</color>          <!-- Deep Forest Charcoal (Very soft on eyes) -->
+    <color name="text_muted">#526E60</color>         <!-- Cool Sage Gray -->
+    <color name="divider">#E1E6E2</color>            <!-- Light Sage-White border -->
+    
+    <!-- Accent Feedbacks -->
+    <color name="correct_green">#1B5E20</color>
+    <color name="wrong_red">#B71C1C</color>
+</resources>

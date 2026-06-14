@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BiblePlay</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_bible">Kinh Thánh</string>
+    <string name="tab_quiz">Chơi &amp; Học</string>
+    <string name="tab_rank">Xếp Hạng</string>
+    <string name="tab_profile">Cá Nhân</string>
+    
+    <!-- Onboarding / Intro -->
+    <string name="intro_title_1">Đọc Kinh Thánh</string>
+    <string name="intro_desc_1">Đọc trọn bộ 73 sách Kinh Thánh Công giáo ngoại tuyến mọi lúc mọi nơi bằng tiếng Anh và tiếng Việt.</string>
+    <string name="intro_title_2">Vừa Chơi Vừa Học</string>
+    <string name="intro_desc_2">Thử thách bản thân với câu hỏi hàng ngày, tích lũy XP, thăng cấp và giữ thói quen đọc Lời Chúa.</string>
+    <string name="intro_title_3">Bảng Xếp Hạng</string>
+    <string name="intro_desc_3">Tham gia cộng đồng, thăng tiến thứ hạng và mở khóa các huy hiệu Công giáo ý nghĩa.</string>
+    <string name="intro_btn_next">Tiếp Tục</string>
+    <string name="intro_btn_start">Bắt Đầu</string>
+    
+    <!-- Bible Screen -->
+    <string name="testament_ot">Cựu Ước</string>
+    <string name="testament_nt">Tân Ước</string>
+    <string name="search_hint">Search verses...</string>
+    <string name="empty_verses">No verses found.</string>
+    
+    <!-- Quiz Screen -->
+    <string name="daily_challenge">Daily Challenge</string>
+    <string name="play_now">Play Now</string>
+    <string name="streak_format">🔥 %1$d Days</string>
+    <string name="xp_format">%1$d / %2$d XP</string>
+    <string name="level_format">Level %1$d</string>
+    <string name="quiz_modes">Game Modes</string>
+    <string name="mode_quick">Quick Play (10 Questions)</string>
+    <string name="mode_themed">Themed Quiz (OT / NT / Saints)</string>
+    
+    <!-- General -->
+    <string name="lang_select">Language</string>
+    <string name="bookmarked">Bookmarked</string>
+</resources>

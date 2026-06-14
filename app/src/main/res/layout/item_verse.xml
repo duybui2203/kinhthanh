@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="20dp"
+    android:paddingVertical="14dp"
+    android:background="@color/background_card">
+
+    <!-- Verse Number (Elegant superscript styling) -->
+    <TextView
+        android:id="@+id/tv_verse_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:textColor="@color/gold_gold"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Verse Texts stacked elegantly -->
+    <LinearLayout
+        android:id="@+id/layout_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="16dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toStartOf="@id/btn_bookmark"
+        app:layout_constraintStart_toEndOf="@id/tv_verse_number"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <!-- Vietnamese (Main Text) -->
+        <TextView
+            android:id="@+id/tv_text_vi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lúc khởi đầu, Thiên Chúa sáng tạo trời đất."
+            android:textColor="@color/text_dark"
+            android:textSize="18sp"
+            android:lineSpacingExtra="4dp" />
+
+        <!-- English (Secondary Sub-Text) -->
+        <TextView
+            android:id="@+id/tv_text_en"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="In the beginning, God created the heavens and the earth."
+            android:textColor="@color/text_muted"
+            android:textSize="15sp"
+            android:textStyle="italic"
+            android:lineSpacingExtra="3dp" />
+
+    </LinearLayout>
+
+    <!-- Golden Bookmark Icon -->
+    <ImageButton
+        android:id="@+id/btn_bookmark"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="?android:attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/ic_bookmark_border"
+        app:tint="@color/gold_gold"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:contentDescription="Bookmark" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
